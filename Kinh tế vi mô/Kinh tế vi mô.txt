@@ -484,3 +484,273 @@ Pe = 50 và Qe = 45<br>
 Pe = 55 và Qe = 40<br>
 Pe = 45 và Qe = 55<br>
 A<br>
+
+Những hàng hóa có nhiều hàng hóa thay thế gần gũi thường có cầu co giãn hơn vì:<br>
+Người mua có nhu cầu lớn đối với các hàng hóa dễ lựa chọn<br>
+Hàng hóa thay thế đáp ứng được phần lớn nhu cầu cơ bản của người tiêu dùng<br>
+Người dùng dễ dàng chuyển tiêu dùng từ hàng hóa này sang hàng hóa khác<br>
+Việc sản xuất hàng hóa thay thế khá đơn giản, do đó, chi phí sản xuất thấp<br>
+C<br>
+Loại hàng hóa nào sau đây có cầu ít co giãn<br>
+Hàng hóa thiết yếu<br>
+Hàng hóa xa xỉ<br>
+Hàng hóa cấp thấp<br>
+Hàng hóa bổ sung<br>
+A<br>
+Trong giả thiết centeris paribus, tỷ lệ thu nhập chi tiêu cho hàng hóa càng cao thì<br>
+Cầu hàng hóa đó ít co giãn<br>
+Cung hàng hóa đó càng co giãn<br>
+Cung hàng hóa đó không co giãn<br>
+Cầu hàng hóa đó càng co giãn<br>
+D<br>
+Nếu một hàng hóa nằm trong một phạm vi thị trường hẹp:<br>
+Độ co giãn của cầu theo giá ít<br>
+Cầu theo giá của hàng hóa đó co giãn hoàn toàn<br>
+Cầu theo giá của hàng hóa đó lớn<br>
+Độ co giãn của cầu theo giá biến động<br>
+C<br>
+Những hàng hóa có độ co giãn của cầu theo thu nhập dương là<br>
+Hàng hóa xa xỉ<br>
+Hàng hóa thiết yếu<br>
+A và B<br>
+Không có đáp án nào đúng<br>
+C<br>
+Những hàng hóa có cầu theo thu nhập âm là<br>
+Hàng hóa thiết yếu<br>
+Hàng hóa xa xỉ<br>
+Hàng hóa bổ sung<br>
+Hàng hóa thứ cấp<br>
+D<br>
+Hàng hóa nào sau đây thỏa mãn : Lượng cầu tăng khi thu nhập tăng cho đến một mức nhất định, sau mức này, dù thu nhập tiếp tục tăng nhưng lượng cầu lại giảm<br>
+Đá quý<br>
+Xăng<br>
+Gạo<br>
+Thuốc men<br>
+C<br>
+Độ co giãn của cung phụ thuộc vào yếu tố chính là:<br>
+Khả năng thay thế các yếu tố sản xuất<br>
+Khoảng thời gian khi giá thay đổi<br>
+Lượng cầu tại thời điểm nhất định<br>
+A và B<br>
+D<br>
+Bức họa nàng Mona Lisa của danh họa Leonardo De Vinci có đường cung:<br>
+Co giãn<br>
+Ít co giãn<br>
+Hoàn toàn không co giãn<br>
+Hoàn toàn co giãn<br>
+C<br>
+Loại hàng hóa nào mà cung ngắn hạn lại co dãn hơn trong dài hạn?<br>
+Hàng hóa lâu bền và có thể tái chế trở thành của lượng cung nếu giá tăng<br>
+Hàng hóa dễ sử dụng, có tính tái chế trở thành lượng cầu thứ cấp nếu giá tăng<br>
+Hàng hóa thỏa mãn nhu cầu tại một thời điểm xác định và nằm trong khả năng sản xuất<br>
+Hàng hóa thỏa mnã nhu cầu tại một thời điểm, có thể trở thành của lượng cung nếu giá tăng<br>
+A<br>
+Độ co giãn của cầu theo giá KHÔNG phụ thuộc vào yếu tố nào sau đây<br>
+Sự sẵn có của hàng hóa thay thế<br>
+Tỷ lệ thu thập dùng để chi tiêu cho hàng hóa<br>
+Định nghĩa phạm vi thị trường<br>
+Khoảng thời gian khi cầu thay đổi<br>
+D<br>
+Hàng hoa nào sau đây có thể có độ co giãn của cầu theo giá trị nhỏ nhất<br>
+Kim cương<br>
+Thuốc insuin cho người bệnh tiểu đường<br>
+Máy nghe nhạc<br>
+Máy tính sách tay<br>
+B<br>
+Nếu gía tăng làm tổng doanh thu giảm thì co giãn của cầu theo giá có giá trị tuyệt đối<br>
+Bằng 0<br>
+Giữa 0 và 1<br> 
+Bằng 1<br>
+Lớn hơn 1<br>
+D<br>
+Hàng hóa nào sau đây có độ co giãn của cầu theo giá ít nhất<br>
+Xe máy mới<br>
+Ô tô toyota mới<br>
+Đầu DVD<br>
+Bàn chải đánh răng<br>
+D<br>
+Giảm giá vé xem phim buổi ban ngày dẫn đến tổng doanh thu bán vé giảm xuống, ta kết luận cầu theo giá đối với phim ban ngày:<br>
+Co giãn<br>
+Ít co giãn<br>
+Co giãn đơn vị<br>
+Co giãn hoàn toàn<br>
+B<br>
+Khi giá tăng 5% dẫn đễn doanh thu giảm 5% ta có thể kết luận<br>
+Cầu co giãn<br>
+Cầu không co giãn<br>
+Cầu co giãn đơn vị<br>
+Cầu hoàn toàn co giãn<br>
+A<br>
+Hàng hóa nào sau đây có độ co giãn của cầu theo giá nhỏ nhất<br>
+Sữa<br>
+Sữa vinamilk<br>
+Sữa cô gái hà lan<br>
+Sữa dozi<br>
+A<br>
+Nếu co giãn của cầu théo giá bằng 0, khi giá giảm thì<br>
+Tổng doanh thu không đôi<br>
+Lượng cầu không đổi<br>
+Lượng cầu giảm bằng 0<br>
+Tổng doanh thu tăng lên<br>
+B<br>
+Nếu dầu thực vật có nhiều hàng hóa thay thế thì<br>
+Cung dầu thực vật co giãn<br>
+Cung dầu thực vật ít co giãn<br>
+Cầu dầu thực vật co giãn<br>
+Cầu dầu thưc vật ít co giãn<br>
+C<br>
+Nếu cầu là không co giãn theo thu nhập câu nào sau đây là đúng<br>
+Phần trăm thay dổi lớn trong thu nhập sẽ dẫn đến phần trăm thay đổi nhỏ trong lượng cầu<br>
+Phần trăm thay đổi nhỏ trong thu nhập sẽ dẫn đến phần trăm thay đổi lớn trong lượng cầu<br>
+Một sự tăng lên trong thu nhập sẽ dẫn đễn một sự giảm xuống trong lượng cầu<br>
+Hàng hóa phải là cấp thấp<br>
+A<br>
+Nếu cung hàng hóa A tăng làm cho cầu về hàng hóa B giảm thì:<br>
+Co giãn chéo giữa A và B bằng 0<br>
+Co giãn của cung theo giá về A lớn hơn 1<br>
+Co giãn chéo giữa A và B là dương <br>
+Co giãn chéo giữa A và B là âm<br>
+C<br>
+Nếu A và B là hai hàng hóa độc lập thì độ co giãn chéo là:<br>
+Nhỏ hơn 0<br> 
+Vô cùng<br>
+Nằm giữa 0 và vô cùng<br>
+Bằng 0<br>
+D<br>
+Nếu A là hàng hóa thay thế hoàn hảo cho b, độ co giãn chéo giữa 2 hàng hóa này là:<br>
+Bằng 1<br>
+Bằng -0.5<br>
+Bằng 0<br>
+Vô cùng<br>
+D<br>
+Hàm cầu sản phẩm A được cho bởi phương trình sau: P = 100 - Q. Độ co giãn của cầu theo giá (Ep) trong khoảng P = 40 đến P = 80 là:<br>
+-1.5<br>
+-2.5<br> 
+-3.5<br>
+-0.5<br>
+A<br>
+Nếu giá là $10 thì lượng mua là 5400kg/ngày và nếu giá là $15 thì lượng mua là 4600kg/ngày, khi đó độ co giãn của cầu theo giá (Ep) xấp xỉ bằng:<br>
+-0.1<br>
+-0.4<br>
+-2.7<br>
+-0.7<br>
+B<br>
+Nếu thu nhập tăng lên 10% dẫn đến sự gia tăng 5% của lượng cầu, co giãn của cầu theo thu nhập (Ei) bằng:<br>
++0.5<br>
+-0.5<Br>
++2.0<br>
+-2.0<br>
+A<br>
+Co giãn của cung trong dài hạn lớn hơn co giãn của cung trong ngắn hạn vì:<br>
+Trong dài hạn người tiêu dùng có thể tìm ra các hàng hóa thay thế<br> 
+Tỷ lệ thu nhập cho việc chi tiêu hàng hóa nhiều hơn<br>
+Trong dài hạn số lượng máy móc thiết bị và nhà xưởng có thể thay đổi<br>
+Một số hàng hóa có thể được sản xuất từ các nguồn đầu vào khan hiếm<br>
+C<br>
+ Hàm cầu sản phẩm A được cho bởi phương trình sau: P = 100 - Q. Tại mức giá P = 40 muốn tăng tổng doanh doanh nghiệp nên:<br>
+Tăng giá<br>
+Giảm giá<br>
+Không thay đổi giá<br>
+Cả A, B, C<br>
+A<br>
+Hàm tổng cầu hàng hóa A theo thu nhập được biểu diễn như sau: Q = 10I + 100. Độ co giãn của cầu theo thu nhập (Ei) tại mức thu nhập bằng 10 là:<br>
+0.5<br>
+3.5<br>
+2.5<br>
+1.5<br>
+A<br>
+ Hàm cầu sản phẩm A được cho bởi phương trình sau: P = 100 - Q. Độ co giãn Ep = -3 xảy ra tại điểm có mức giá P là:<br>
+75<br>
+25<br>
+65<br>
+85<br>
+A<br>
+Hàm cầu sản phẩm A được cho bởi phương trình sau: P = 100 - Q. Độ co giãn của cầu theo giá (Ep) tại mức giá P = 80 là:<br>
+-1<br>
+-2<br>
+-3<br>
+-4<br>
+D<br>
+ Vào cuối mùa hè, thời tiết nóng đột ngột làm tăng cầu về máy điều hòa nhiệt độ và các nhà cung cấp không đủ hàng dự trữ. Cung tạm thời về máy điều hòa là:<br>
+Co giãn hoàn toàn<br>
+Hoàn toàn không co giãn<br>
+Co giãn<br>
+Đường cung dốc lên<br>
+B<br>
+ Hàm cầu sản phẩm A được cho bởi phương trình sau: P = 100 - Q. Tại mức giá P = 80 muốn tăng tổng thu doanh nghiệp nên:<br>
+Tăng giá<br>
+Giảm giá<br>
+Không thay đổi giá<br>
+Biến động tùy tình hình<br>
+B<br>
+Khi giá nho tăng lên 5% thì lượng cầu đối với táo tăng lên 10%. Độ co giãn chéo (Exy) bằng:<br>
+2<br>
+4<br>
+0.5<br>
+0.25<br>
+A<br>
+ Hàm tổng cầu hàng hóa A theo thu nhập được biểu diễn như sau: Q = 10I + 100. Độ co giãn của cầu theo thu nhập (Ei) tại mức thu nhập bằng 15 là:<br>
+0.7<br>
+1.5<br>
+2.5<br>
+0.6<br>
+D<br>
+Hàm tổng cầu hàng hóa A theo thu nhập được biểu diễn như sau: Q = 10I + 100. Hàng hóa A có thể được coi là:<br>
+Hàng hóa bình thường<br>
+Hàng hóa cấp thấp<br>
+Hàng hóa miễn phí<br>
+Tất cả đều đúng<br>
+A<br>
+Một công ty ước lượng được hàm cầu đối với sản phẩm của mình như sau: Qx = 100 - 0.5Py trong đó Qx là lượng cầu hàng hóa X do công ty đó kinh doanh, Py là giá hàng hóa Y liên quan đến hàng hóa X. Hệ số co giãn chéo của cầu hàng hóa X theo giá hàng hóa Y (Exy) tại Py = 80 là:<br>
+-0.25<br>
+-0.77<br>
+-0.67<br>
+-0.55<br>
+C<br>
+Phương trình cung về hàng hóa A là P = 100 + 10Qs. Co giãn của cung theo giá trong khoảng giá từ 190 đến 210 là:<br>
+Es = 0<br>
+Es = 0.1<br>
+Es = 2.0<br>
+Es = 10<br>
+C<br>
+Phương trình cung về hàng hóa A là P = 100 + 10Qs. Độ co giãn của cung tại mức giá 200 là:<br>
+Es = 0.5<br>
+Es = 0.7<br>
+Es = 1.0<br>
+Es = 2.0<br>
+D<br>
+ Hàm tổng cầu hàng hóa A theo thu nhập được biểu diễn như sau: Q = 10I + 100. Độ co giãn của cầu theo thu nhập (Ei) tăng từ 10 lên 15 là:<br>
+0.76<br>
+0.56<br>
+2.56<br>
+1,56<br>
+B<br>
+Một công ty ước lượng được hàm cầu đối với sản phẩm của mình như sau: Qx = 100 - 0.5Py trong đó Qx là lượng cầu hàng hóa X do công ty đó kinh doanh, Py là giá hàng hóa Y liên quan đến hàng hóa X. Hệ số co giãn chéo của cẩu hàng hóa X theo giá của hàng hóa Y (Exy) khi Py nằm trong khoảng (40;60) là:<br>
+-0.25<br>
+-0.77<br>
+-0.82<br>
+-0.33<br>
+D<br>
+ Giả sử co giãn của cung theo giá là 1.5; nếu giá tăng 20% thì lượng cung sẽ:<br>
+Tăng 7.5%<br>
+Tăng 30%<br>
+Giảm 30%<br>
+Tăng 3%<br>
+B<br>
+Một công ty ước lượng được hàm cầu đối với sản phẩm của mình như sau: Qx = 100 - 0.5Py trong đó Qx là lượng cầu hàng hóa X do công ty đó kinh doanh, Py là giá hàng hóa Y liên quan đến hàng hóa X. Hệ số co giãn chéo của cầu hàng hóa X theo giá của hàng hóa Y (Exy) khi Py nằm trong khoảng (80;100) là:<br>
+-0.25<br>
+-0.77<br>
+-0.82<br>
+-0.55<br>
+C<br>
+Một công ty ước lượng được hàm cầu đối với sản phẩm của mình như sau: Qx = 100 - 0.5Py trong đó Qx là lượng cầu hàng hóa X do công ty đó kinh doanh, Py là giá hàng hóa Y liên quan đến hàng hóa X. X và Y là hai hàng hóa:<br>
+Thay thế<br>
+Bổ sung<br>
+Độc lập<br>
+Cả A, B, C<br>
+Một công ty ước lượng được hàm cầu đối với sản phẩm của mình như sau: Qx = 100 - 0.5Py trong đó Qx là lượng cầu hàng hóa X do công ty đó kinh doanh, Py là giá hàng hóa Y liên quan đến hàng hóa X. Hệ số co giãn chéo của cầu hàng hóa X theo giá của hàng hóa Y (Exy) tại Py = 40 là:<br>
+-0.25<br>
+-0.35<br>
+-0.45<br>
+-0.55<br>
+A<br>
