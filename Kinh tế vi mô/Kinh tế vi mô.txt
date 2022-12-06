@@ -637,7 +637,7 @@ Nếu giá là $10 thì lượng mua là 5400kg/ngày và nếu giá là $15 th�
 B<br>
 Nếu thu nhập tăng lên 10% dẫn đến sự gia tăng 5% của lượng cầu, co giãn của cầu theo thu nhập (Ei) bằng:<br>
 +0.5<br>
--0.5<Br>
+-0.5<br>
 +2.0<br>
 -2.0<br>
 A<br>
