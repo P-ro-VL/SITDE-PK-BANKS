@@ -748,6 +748,7 @@ Thay thế<br>
 Bổ sung<br>
 Độc lập<br>
 Cả A, B, C<br>
+B<br>
 Một công ty ước lượng được hàm cầu đối với sản phẩm của mình như sau: Qx = 100 - 0.5Py trong đó Qx là lượng cầu hàng hóa X do công ty đó kinh doanh, Py là giá hàng hóa Y liên quan đến hàng hóa X. Hệ số co giãn chéo của cầu hàng hóa X theo giá của hàng hóa Y (Exy) tại Py = 40 là:<br>
 -0.25<br>
 -0.35<br>
