@@ -11,7 +11,7 @@ Nền kinh tế<br>
 Thị trường, cung và cầu<br>
 C<br>
 Nền kinh tế là gì?<br>
-Là nơi tồn tại thị trường, người bán và người bán. Ở đó, người bán và người bán trao đổi hàng hóa<br>
+Là nơi tồn tại thị trường, người mua và người bán. Ở đó, người bán và người mua trao đổi hàng hóa<br>
 Là toàn bộ những lĩnh vực liên quan đến kinh tế như thị trường, cung, cầu, ...<br>
 Là nguồn động lực phát triển chính của mọi quốc gia<br>
 Là cơ chế phân bổ các nguồn lực khan hiếm cho mục tiêu cạnh tranh<br>
@@ -31,7 +31,7 @@ C<br>
 Người ra quyết định là:<br>
 Là bất cứ ai hoặc tổ chức nào ra các quyết định lựa chọn<br>
 Là bất cứ ai hoặc tổ chức nào có ảnh hưởng nhất định đến nền kinh tế<br>
-Là bất cứ ai hoặc tổ chức nào có khả năng bán hoặc bán<br>
+Là bất cứ ai hoặc tổ chức nào có khả năng mua hoặc bán<br>
 Là bất cứ ai hoặc tổ chức nào không có nhu cầu<br>
 A<br>
 Trong thị trường sản phẩm, hộ gia đình là<br>
@@ -265,27 +265,27 @@ B<br>
 
 
 
-Cầu là:<br>
-Lượng hàng hóa, dịch vụ mà người sản xuất muốn bán và có khả năng bán ở các mức giá khác nhau trong khoảng thời gian nhất định, centeris paribus<br>
-Lượng hàng hóa, dịch vụ mà người sản xuất muốn bán và có khả năng bán ở mức giá nhất định trong khoảng thời gian nhất định, centeris paribus<br>
-Lượng hàng hóa, dịch vụ mà người sản xuất muốn bán và có khả năng bán ở các mức giá khác nhau trong khoảng thời gian nhất định<br>
-Lượng hàng hóa, dịch vụ mà người sản xuất muốn bán và có khả năng bán ở mức giá nhất định trong khoảng thời gian nhất định<br>
+Cung là:<br>
+Lượng hàng hóa, dịch vụ mà người tiêu dùng muốn mua và có khả năng mua ở các mức giá khác nhau trong khoảng thời gian nhất định, centeris paribus<br>
+Lượng hàng hóa, dịch vụ mà người tiêu dùng muốn mua và có khả năng mua ở mức giá nhất định trong khoảng thời gian nhất định, centeris paribus<br>
+Lượng hàng hóa, dịch vụ mà người tiêu dùng muốn mua và có khả năng mua ở các mức giá khác nhau trong khoảng thời gian nhất định<br>
+Lượng hàng hóa, dịch vụ mà người tiêu dùng muốn mua và có khả năng mua ở mức giá nhất định trong khoảng thời gian nhất định<br>
 A<br>
 Cầu với hàng hóa hoặc dịch vụ chỉ tồn tại khi<br>
-Người sản xuất muốn bán hàng hóa đó<br>
-Người sản xuất sẵn sàng trả cho hàng hóa<br>
+Người tiêu dùng muốn mua hàng hóa đó<br>
+Người tiêu dùng sẵn sàng trả cho hàng hóa<br>
 Cả A và B<br>
 Không có đáp án nào đúng<br>
 C<br>
 Lượng cầu là<br>
-Lượng hàng hóa dịch vụ mà người dùng muốn bán và có thể bán tại một mức giá nhất định<br>
-Lượng hàng hóa dịch vụ mà người dùng muốn bán và sẵn sàng bán tại một mức giá nhất định, các yếu tố khác không đổi<br>
-Lượng hàng hóa dịch vụ mà người dùng có thể bán và hợp với nhu cầu tại một mức giá nhất định, centeris paribus<br>
+Lượng hàng hóa dịch vụ mà người dùng muốn mua và có thể mua tại một mức giá nhất định<br>
+Lượng hàng hóa dịch vụ mà người dùng muốn mua và sẵn sàng mua tại một mức giá nhất định, các yếu tố khác không đổi<br>
+Lượng hàng hóa dịch vụ mà người dùng có thể mua và hợp với nhu cầu tại một mức giá nhất định, centeris paribus<br>
 Lượng hàng hóa dịch vụ mà người dùng đang có nhu cầu và phù hợp với tài chính tại một mức giá nhất định, centeris paribus<br>
 B<br>
-Hoàng là một fan cứng của BLACKPINK. Do cửa hàng đĩa nhạc đang bán giá ưu đãi, Hoàng lại vừa lĩnh lương, do đó Hoàng quyết định bán hết toàn bộ đĩa nhạc BLACKPINK mà 
-cửa hàng bán ngày hôm đó. Hoàng muốn bán 30 chiếc đĩa để cho bố mẹ, anh em, bạn bè, thầy cô, đồng nghiệp ... cùng nghe BLACKPINK. Tuy nhiên, do Hoàng "bất ngờ chưa pà zà"
- cửa hàng, nên cửa hàng không kịp chuẩn bị, chỉ có 20 chiếc đĩa. Hoàng đành ngậm ngùi bán 20 chiếc. Trong trường hợp này, lượng cầu là:<br>
+Hoàng là một fan cứng của BLACKPINK. Do cửa hàng đĩa nhạc đang bán giá ưu đãi, Hoàng lại vừa lĩnh lương, do đó Hoàng quyết định mua hết toàn bộ đĩa nhạc BLACKPINK mà 
+cửa hàng bán ngày hôm đó. Hoàng muốn mua 30 chiếc đĩa để cho bố mẹ, anh em, bạn bè, thầy cô, đồng nghiệp ... cùng nghe BLACKPINK. Tuy nhiên, do Hoàng "bất ngờ chưa pà zà"
+ cửa hàng, nên cửa hàng không kịp chuẩn bị, chỉ có 20 chiếc đĩa. Hoàng đành ngậm ngùi mua 20 chiếc. Trong trường hợp này, lượng cầu là:<br>
  Qd = 20<br>
  Qd = 30<br>
  Qd = 25<br>
