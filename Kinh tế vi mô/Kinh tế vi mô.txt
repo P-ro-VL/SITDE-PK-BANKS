@@ -315,7 +315,7 @@ Hàng hóa thay thế<br>
 Hàng hóa bình thường<br>
 Hàng hóa xa xỉ<br>
 C<br>
-Hàng hóa mà cầu nhiều hơn khi thu nhập tăng lên nhưng sự tăng lên của cầu là tương đối nhỏ hoặc xấp xỉ như sự tăng lên của thu nhập là:
+Hàng hóa mà cầu nhiều hơn khi thu nhập tăng lên nhưng sự tăng lên của cầu là tương đối nhỏ hoặc xấp xỉ như sự tăng lên của thu nhập là:<br>
 Hàng hóa cấp thấp<br>
 Hàng hóa thiết yếu<br>
 Hàng hóa xa xỉ<br>
