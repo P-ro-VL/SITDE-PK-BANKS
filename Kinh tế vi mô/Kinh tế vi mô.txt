@@ -543,7 +543,7 @@ Loại hàng hóa nào mà cung ngắn hạn lại co dãn hơn trong dài hạn
 Hàng hóa lâu bền và có thể tái chế trở thành của lượng cung nếu giá tăng<br>
 Hàng hóa dễ sử dụng, có tính tái chế trở thành lượng cầu thứ cấp nếu giá tăng<br>
 Hàng hóa thỏa mãn nhu cầu tại một thời điểm xác định và nằm trong khả năng sản xuất<br>
-Hàng hóa thỏa mnã nhu cầu tại một thời điểm, có thể trở thành của lượng cung nếu giá tăng<br>
+Hàng hóa thỏa mãn nhu cầu tại một thời điểm, có thể trở thành của lượng cung nếu giá tăng<br>
 A<br>
 Độ co giãn của cầu theo giá KHÔNG phụ thuộc vào yếu tố nào sau đây<br>
 Sự sẵn có của hàng hóa thay thế<br>
@@ -754,4 +754,282 @@ Một công ty ước lượng được hàm cầu đối với sản phẩm c�
 -0.35<br>
 -0.45<br>
 -0.55<br>
+A<br>
+
+
+Đâu là khái niệm của tiêu dùng?<br>
+Là hành động thỏa mãn những nhu cầu về vật chất và tinh thần của một cá nhân hoặc hộ gia đình nào đó thông qua việc mua sắm và sử dụng các sản phẩm<br>
+Là hành động thỏa mãn những nhu cầu về vật chất và tinh thần của một cá nhân hoặc hộ gia đình nào đó thông qua việc mua bán và trao đổi hàng hóa<br>
+Là hành động thỏa mãn những nhu cầu về vật chất và tinh thần của nhà sản xuất thông qua việc mua sắm và sử dụng các sản phẩm<br>
+Là hành động thỏa mãn những nhu cầu về vật chất và tinh thần của xã hội thông qua việc mua sắm và sử dụng các sản phẩm<br>
+A<br>
+Lý thuyết lợi ích giả định rằng mục tiêu của người dùng là:<br>
+Tối đa hóa lợi ích cận biên<br>
+Tối đa hóa lợi ích đo được, centeris paribus<br>
+Tối đa hóa lợi ích đo được với ràng buộc ngân sách<br>
+Tối đa hóa lợi ích cận biên so với chi phí bỏ ra<br>
+C<br>
+Lợi ích là<br>
+Toàn bộ sự thỏa mãn và hài lòng từ việc tiêu dùng một số lượng nhất định hàng hóa<br>
+Sự thỏa mãn và hài lòng do tiêu dùng hàng hóa mang lại<br>
+Là những gì mà người tiêu dùng đạt được, thỏa mãn nhu cầu của họ sau khi bỏ ra một lượng chi phí nhất định<br>
+Toàn bộ sự thỏa mãn và hài lòng người tiêu dùng nhận được sau khi bỏ ra một lượng chi phí nhất định<br>
+B<br>
+Quy luật lợi ích cận biên giảm dần được phát biểu là<br>
+Là lợi ích cận biên của một hàng hóa có xu hướng giảm xuống khi hàng hóa đó được tiêu dùng nhiều hơn trong một thời gian nhất định với điều kiện giữ nguyên mức tiêu dùng các hàng hóa khác.<br>
+Là lợi ích cận biên của một hàng hóa có xu hướng giảm xuống khi hàng hóa đó được tiêu dùng ít hơn trong một thời gian nhất định với điều kiện giữ nguyên mức tiêu dùng các hàng hóa khác<br>
+Là lợi ích cận biên của một hàng hóa có xu hướng giảm xuống khi hàng hóa đó được tiêu dùng nhiều hơn tại các khoảng thời gian khác nhau với điều kiện giữ nguyên mức tiêu dùng các hàng hóa khác.<br>
+Là lợi ích cận biên của một hàng hóa có xu hướng tăng lên khi hàng hóa đó được tiêu dùng ít hơn trong một thời gian nhất định với điều kiện giữ nguyên mức tiêu dùng các hàng hóa khác<br>
+A<br>
+Đường cầu thị trường là<br>
+Tổng hợp các đường cầu theo chiều dọc<br>
+Tổng hợp các đường cầu theo chiều ngang<br>
+Tổng hợp các đường cầu gần về gốc tọa độ<br>
+Tổng hợp các đường cầu ra xa gốc tọa độ<br>
+B<br>
+Thặng dư tiêu dùng là<br>
+Là chênh lệch giữa giá và số tiền bỏ ra để có được lợi ích từ hàng hóa<br>
+Là chênh lệch giữa giá và lượng mua để có được lợi ích tối đa<br>
+Là chênh lệch giữa giá người tiêu dùng sẵn sàng trả và giá thực tế đã trả<br>
+Là chênh lệch giữa giá và lượng sản phẩm người tiêu dùng sẵn sàng mua<br>
+C<br>
+Người tiêu dùng đạt trạng thái cân bằng bằng cách gia tăng mua một hàng hóa cho đến khi<br>
+MU = P<br>
+MU < P<br>
+MU > P<br>
+MU/P = vô cùng<br>
+A<br>
+Để tối đa hóa lợi ích đo được cần tuân theo nguyên tắc nào sau đây<br>
+Nguyên tắc cân bằng thị trường<br>
+Nguyên tắc chi phí cơ hội tăng dần<br>
+Nguyên tắc lợi ích cận biên giảm dần<br>
+Nguyên tắc cân bằng tiêu dùng cận biên<br>
+D<br>
+Đâu là nội dung của nguyên tắc cân bằng tiêu dùng cận biên ?<br>
+Lợi ích cận biên phát sinh do mỗi đơn vị tiền tệ chi ra phải là như nhau đối với mỗi loại hàng hóa<br>
+Lợi ích cận biên phát sinh phải thấp hơn chi phí cận biên theo nguyên tắc chi phí cơ hội tăng dần<br>
+Chi phí cận biên phải là nhỏ nhất so với tổng lợi ích thu được<br>
+Chi phí cận biên phải là lớn nhất so với tổng lợi ích thu được<br>
+A<br>
+Đường bàng quan là<br>
+Tập hợp các kết hợp hàng hóa hay các giỏ hàng hóa mang lại cùng một mức lợi ích cho người tiêu dùng<br>
+Tập hợp các kết hợp hàng hóa hay các giỏ hàng hóa mang lại lợi ích tối đa cho người tiêu dùng<br>
+Tập hợp các kết hợp hàng hóa hay các giỏ hàng hóa với tổng chi phí là thấp nhất<br>
+Tập hợp các kết hợp hàng hóa hay các giỏ hàng hóa với tổng lợi ích là lớn nhất trong khi chi phí bỏ ra là nhỏ nhất<br>
+A<br>
+Đường bàng quan còn có tên gọi khác là:<br>
+Đường đồng mức lợi ích<br>
+Đường đồng mức thỏa mãn<br>
+A và B<br>
+Không có đáp án thỏa mãn<br>
+C<br>
+Đường ngân sách biểu thị<br>
+Tất cả các kết hợp hàng hóa mà người tiêu dùng có thể mua được khi sử dụng một phần thu nhập của mình, với điều kiện giá hàng hóa và thu nhập bằng tiền cho trước.<br>
+Tất cả các kết hợp hàng hóa mà người tiêu dùng có thể mua được khi sử dụng toàn bộ thu nhập của mình, với điều kiện giá hàng hóa và thu nhập bằng tiền cho trước.<br>
+Tất cả các kết hợp hàng hóa mà người tiêu dùng có thể mua được khi sử dụng một phần thu nhập của mình, với điều kiện giá hàng hóa và thu nhập nhỏ hơn tiền cho trước.<br>
+Tất cả các kết hợp hàng hóa mà người tiêu dùng có thể mua được khi sử dụng toàn bộ thu nhập của mình, với điều kiện giá hàng hóa và thu nhập nhỏ hơn tiền cho trước.<br>
+B<br>
+Trạng thái cân bằng tiêu dùng là:<br>
+Tiếp điểm của đường ngân sách và đường bàng quan xa nhất có thể<br>
+Tiếp điểm ở giữa của đường ngân sách và đường bàn quan<br>
+Tiếp điểm gần gốc tọa độ nhất của đường ngân sách và đường bàng quan<br>
+Tiếp điểm của pháp tuyến của đường ngân sách với đường bàng quan<br>
+A<br>
+Theo giả thuyết Slutsky, một sự thay đổi trong giá của àng hóa sẽ có hai tác động, đó là :<br>
+Ảnh hưởng thay thế và ảnh hưởng thu nhập<br>
+Ảnh hưởng thay thế và ảnh hưởng bổ sung<br>
+Ảnh hưởng giá và ảnh hưởng thu nhập<br>
+Ảnh hưởng giá và ảnh hưởng nhu cầu<br>
+A<br>
+Tổng ảnh hưởng của sự thay đổi giá bằng ảnh hưởng thay thế cộng với<br>
+Ảnh hưởng giá<br>
+Ảnh hưởng nhu cầu<br>
+Ảnh hưởng thu nhập<br>
+Ảnh hưởng sản xuất<br>
+C<br>
+Có một thực tế rằng cốc nước cam thứ ba không mang lại sự thỏa mãn nhiều như cốc nước cam thứ hai, đây là một ví dụ về<br>
+Nghịch lý về giá trị<br>
+Lợi ích cận biên giảm dần<br> 
+Tổng lợi ích giảm dần<br>
+Thặng dư tiêu dùng<br>
+B<br>
+Giả sử Hà có thể ăn táo, cam và đào. Nếu Hà tăng lượng cam tiêu dùng, ceteris paribus, theo lý thuyết lợi ích thì lợi ích cận biên của:<br>
+Táo giảm<br>
+Cam không đổi<br>
+Cam giảm<br>
+Đào giảm<br>
+C<br>
+Cung của một hàng hóa tăng lên, các yêu tố khác không thay đổi thì<br>
+Thặng dư tiêu dùng giảm xuống<br>
+Có ảnh hưởng đến thặng dư tiêu dùng nhưng không xác định được<br>
+Thặng dư tiêu dùng không đổi<br>
+Thặng dư tiêu dùng tăng lên<br>
+D<br>
+Đường ngân sách biểu diễn dưới dạng toán học được gọi là<br>
+Phương trình thu nhập<br>
+Phương trình ngân sách<br>
+Đường giới hạn khả năng sản xuất<br>
+Đồng ngân sách<br>
+B<br>
+ Giá của một hàng hóa này chia cho giá của một hàng hóa khác được gọi là<br>
+Giá tuyệt đối<br>
+Giá cận biên<br>
+Giá tương đối<br>
+Giá của cầu<br>
+C<br>
+Giang và Yến đang kêu thằng dâu với số lượng như nhau nhưng câu của Giang về dâu co giãn nhiều hơn cầu của Yến. Câu nào sau đây là đúng?<br>
+Thặng dư tiêu dùng của Giang bằng của Yến<br>
+Thặng dư tiêu dùng của Giang lớn hơn của Yến<br>
+Không thể so sánh thặng dư tiêu dùng của những người tiêu dùng với nhau<br>
+Thặng dư tiêu dùng của Yến lớn hơn của Giang<br>
+D<br>
+Tổng lợi ích cận biên bằng:<br>
+Độ dốc của đường tổng lợi ích<br>
+Nghịch đảo của tổng lợi ích<br>
+Tổng lợi ích chia cho số lượng hàng hóa tiêu dùng<br>
+Tổng lợi ích chia cho giá<br>
+A<br>
+ Giả sử thu nhập là I, số lượng hàng hóa X là Qx, hàng hóa Y là Qy, giá hàng hóa X là Px, giá hàng hóa Y là Py. Phương trình đường ngân sách là<br>
+I = Px/Qx + Py/Qy<br>
+I = Qx + Py.Qy/Px<br>
+Qx = I + (Px /Py).Qy<br>
+I = Px.Qx + Py.Qy<br>
+D<br>
+Mối quan hệ giữa đường ngân sách và đường bàng quan tại điểm tiêu dùng tối ưu<br>
+Độ dốc của đường ngân sách bằng độ dốc của đường bàng quan<br>
+Tất cả đều đúng<br>
+Độ dốc của đường ngân sách lớn hơn độ dốc của đường bàng quan<br>
+Độ dốc của đường ngân sách nhỏ hơn độ dốc của đường bàng quan<br>
+A<br>
+Khi giá của hàng hóa được biểu hiện trên trục hoành thay đổi sẽ làm thay đổi đường ngân sách như thế nào?<br>
+Độ dốc và điểm cắt của đường ngân sách với trục tung<br>
+Độ dốc và điểm cắt của đường ngân sách với trục hoành<br>
+Chỉ làm thay đổi độ dốc<br>
+Điểm cắt của đường ngân sách với trục tung và trục hoành nhưng không thay đổi độ dốc<br>
+B<br>
+Giả sử giá của các hàng hóa tăng gấp đôi và thu nhập cũng tăng gấp đôi. Câu nào sau đây là đúng<br>
+Điểm kết hợp tiêu dùng tối ưu vẫn giữ nguyên<br>
+Độ dốc của đường ngân sách tăng lên<br>
+Đường ngân sách di chuyển thành một đường ngân sách mới<br>
+Độ dốc của đường ngân sách giảm xuống<br>
+A<br>
+Nếu giá của hàng hóa được biểu diễn ở trục tung tăng thì đường ngân sách sẽ<br>
+Dịch chuyển sang trái và song song với đường ngân sách ban đầu<br>
+Thoải hơn<br>
+Dốc hơn<br>
+Dịch chuyển sang trái và dốc hơn<br>
+B<br>
+Tỷ số giá giữa 2 hàng hoá X và Y là 2:1. Nếu Nga đang tiêu dùng số lượng hàng hoá X và Y ở mức MUx/MUy = 1:2. Vậy để tối đa hoá tổng ích lợi, Nga phải<br>
+tăng X và giảm Y<br>
+không thay đổi quyết định tiêu dùng hiện tại<br>
+tăng Y và giảm X<br>
+tăng giá của X<br>
+C<br>
+Giả sử MU(A) và MU(B) là lợi ích cận biên của hai hàng hoá A và B; P(A) và P(B) là giá của hai hàng hoá đó. Công thức nào sau đây minh hoạ ở điểm cân bằng?<br>
+MU(A) = MU(B)<br>
+MU(A) = MU(B) VÀ P(A) = P(B)<br>
+MU(A)/MU(B) = P(A)/P(B)<br>
+MU(A)/MU(B) = P(B)/P(A)<br>
+C<br>
+Nếu khoai tây được cho không, mọi người nên tiêu dùng:<br>
+Khoai tây với số lượng vô hạn<br>
+Số lượng khoai tây cho đến khi tổng lợi ích từ việc tiêu dùng khoai tây giảm xuống bằng 0<br>
+Số lượng khoai tây cho đến khi lợi ích cận biên từ mỗi đơn vị khoai tây giảm xuống bằng 0<br>
+Không tiêu dùng đơn vị khoai tây nào vì theo nguyên tắc lợi ích cận biên bằng giá<br>
+C<br>
+Thu đang tối đa hoá tổng lợi ích khi tiêu dùng hàng hoá X và Y. Nếu giá của X tăng gấp đôi, ceteris paribus. Để tối đa hoá ích lợi, số lượng hàng hoá X mà Thu tiêu dùng phải:<br>
+Tăng cho đến khi lợi ích cận biên của X tăng gấp đôi<br>
+Giảm một nửa so với mức tiêu dùng trước đây<br>
+Giảm cho đến khi lợi ích cận biên của X tăng gấp đôi<br>
+Giảm cho đến khi lợi ích cận biên của X giảm bằng một nửa so với trước<br>
+C<br>
+Giả sử giá khoai lang giảm dẫn đến lượng tiêu thụ khoai lang cũng giảm, chúng ta sẽ kết luận?<br>
+Ảnh hướng thu nhập là âm, lấn át ảnh hưởng thay thế<br>
+Ảnh hưởng thu nhập là dương, lấn án ảnh hưởng thay thế<br>
+Ảnh hưởng thu nhập bằng 0 và ảnh hưởng thay thế là dương<br>
+Tất cả đều đúng<br>
+A<br>
+Mai có thu nhập (I) là $50 để mua CD (R) với giá $10/đĩa và VCD (C) với giá $20/đĩa. Phương trình nào sau đây minh hoạ đúng nhất đường ngân sách của Mai.<br>
+I = 10R + 20C<br>
+50 = R + C<br>
+I = 50 + R + C<br>
+50 = 10R + 20C<br>
+D<br>
+Minh có $30 dành để mua vé xem phim và vé xe buýt. Nếu giá vé xem phim là $6/chiếc và vé xe buýt là $2/chiếc. Với thu nhập đố, Minh có thể mua:<br>
+6 vé xem phim và 2 vé xe buýt<br>
+5 vé xem phim và 15 vé xe buýt<br>
+4 vé xem phim và 3 vé xe buýt<br>
+3 vé xem phim và 7 vé xe buýt<br>
+C<br>
+Nếu giá của một hàng hoá giảm, ảnh hưởng thay thế được minh hoạ bởi:<br>
+Vận động tới một đường bàng quan cao hơn<br>
+Vận động tới một đường bàng quan thấp hơn<br>
+Vận động tới phần thoải hơn của đường bàng quan ban đầu<br>
+Vận động tới phần dốc hơn của đường bàng quan ban đầu<br>
+C<br>
+Khi ngô được coi là hàng hoá cấp thấp, điều nào là đúng?<br>
+Ảnh hướng thay thế là dương, giá tăng thì tiêu dùng tăng<br>
+Ảnh hưởng thu nhập ngược chiều với ảnh hưởng thay thế<br>
+Không có ảnh hưởng thu nhập, khi thu nhập tăng tiêu dùng không đổi<br>
+Tất cả đều sai<br>
+B<br>
+Minh tiêu dùng cả cam và táo. Khi thu nhập của Minh tăng lên, anh ta tiêu dùng nhiều hơn cả hai. Tuy nhiên, lượng táo dùng thêm được mua nhiều hơn cam. Điều nào dưới đây đúng?<br>
+Táo là hàng hoá bình thường và căm là hàng hoá cấp thấp<br>
+Táo là hàng hoá cấp thấp còn cam là hàng hoá xa xỉ<br>
+Cả cam và táo đều là hàng hoá bình thường<br>
+Cả táo và cam đều là hàng hoá cấp thấp<br>
+C<br>
+ Cho hàm cầu và cung một hàng hoá như sau: P = 100 - 2Q và P = 10 + Q. Nếu chính phủ ấn định giá 30 thặng dư tiêu dùng là:<br>
+800<br>
+900<br>
+1000<br>
+1100<br>
+C<br>
+Một người tiêu dùng có thu nhập là I = 1,5 triệu đồng/tháng để mua 2 hàng hoá X và Y. Giá của hàng hoá X là 15.000 đồng/kg và hàng hoá Y là 5.000 đồng/kg. Hàm tổng ích lợi được cho bởi TU = 2XY. Số lượng hàng hoá X và Y được người tiêu dùng lựa chọn để tối đa hoá lợi ích là:<br>
+X = 50, Y = 100<br>
+X = 50, Y = 150<br>
+X = 100, Y = 100<br>
+X = 75, Y = 150<br>
+B<br>
+ Cho hàm cầu và cung một hàng hoá như sau: P = 100 - 2Q và P = 10 + Q. Nếu chính phủ đánh thuế t = 15/ đơn vị sản phẩm thì thặng dư tiêu dùng là:<br>
+75<br>
+125<br>
+355<br>
+625<br>
+D<br>
+Một người tiêu dùng có thu nhập là I = 1,5 triệu đồng/tháng để mua 2 hàng hoá X và Y. Giá của hàng hoá X là 15.000 đồng/kg và hàng hoá Y là 5.000 đồng/kg. Hàm tổng ích lợi được cho bởi TU = 2XY. Tổng lợi ích lớn nhất mà người này thu được với thu nhấp và giá của hàng hoá như trên là:<br>
+1510<br>
+1000<br>
+1500<br>
+Không kết quả nào ở trên<br>
+C<br>
+Một người tiêu dùng có thu nhập là I = 1,5 triệu đồng/tháng để mua 2 hàng hoá X và Y. Giá của hàng hoá X là 15.000 đồng/kg và hàng hoá Y là 5.000 đồng/kg. Hàm tổng ích lợi được cho bởi TU = 2XY. Với mức ngân sách là I = 1,5 triệu đồng/tháng, giá hàng hoá X vẫn là 15.000 đồng/kg, kết hợp hàng hoá nào sau đây người tiêu dùng này không thể đạt được:<br>
+X = 60, Y = 40<br>
+X = 100, Y = 20<br>
+X = 40, Y = 50<br>
+X = 50, Y = 50<br>
+B<br>
+Một người tiêu dùng có thu nhập là I = 1,5 triệu đồng/tháng để mua 2 hàng hoá X và Y. Giá của hàng hoá X là 15.000 đồng/kg và hàng hoá Y là 5.000 đồng/kg. Hàm tổng ích lợi được cho bởi TU = 2XY. Nếu thu nhập của người tiêu dùng vẫn là I = 1,5 triệu đồng/ tháng nhưng giá của hàng hoá X giảm xuống còn 10.000 đồng/kg thì quyết định của người tiêu dùng sẽ là:<br>
+X = 50, Y = 100<br>
+X = 75, Y = 150<br>
+X = 100, Y = 100<br>
+X = 150, Y = 75<br>
+B<br>
+Mai tiêu dùng 2 hàng hoá A và B, và đang ở điểm cân bằng. Lợi ích cận biên của đơn vị hàng hoá A cuối cùng là 10 và B là 5. Nếu giá của A là $0,5, thì giá của B là:<br>
+$0,1<br>
+$1<br>
+$0,5<br>
+$0,25<br>
+D<br>
+Một người tiêu dùng có thu nhập là I = 1,5 triệu đồng/tháng để mua 2 hàng hoá X và Y. Giá của hàng hoá X là 15.000 đồng/kg và hàng hoá Y là 5.000 đồng/kg. Hàm tổng ích lợi được cho bởi TU = 2XY. Nếu thu nhập của người tiêu dùng này tăng lên I = 3 triệu đồng/ tháng thì số lượng hàng hoá X và Y được lựa chọn là:<br>
+X = 50, Y = 100<br>
+X = 50, Y = 150<br>
+X = 100, Y = 300<br>
+X = 75, Y = 150<br>
+C<br>
+Giả sử người tiêu dùng chi hết thu nhập của mình, và lợi ích cận biên trên một $ của hàng hoá X là 4, của hàng hoá Y là 2, thì:<br>
+Tổng lợi ích sẽ tăng lên nếu tăng tiêu dùng hàng hoá X và giảm tiêu dùng hàng hoá Y<br>
+Tổng lợi ích sẽ tăng lên nếu giảm tiêu dùng hàng hoá X và tăng tiêu dùng hàng hoá Y<br>
+Giá của Y phải gấp đôi giá của X<br>
+Tổng lợi ích là lớn nhất<br>
 A<br>
