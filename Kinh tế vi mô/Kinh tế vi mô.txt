@@ -11,7 +11,7 @@ Nền kinh tế<br>
 Thị trường, cung và cầu<br>
 C<br>
 Nền kinh tế là gì?<br>
-Là nơi tồn tại thị trường, người mua và người bán. Ở đó, người mua và người bán trao đổi hàng hóa<br>
+Là nơi tồn tại thị trường, người bán và người bán. Ở đó, người bán và người bán trao đổi hàng hóa<br>
 Là toàn bộ những lĩnh vực liên quan đến kinh tế như thị trường, cung, cầu, ...<br>
 Là nguồn động lực phát triển chính của mọi quốc gia<br>
 Là cơ chế phân bổ các nguồn lực khan hiếm cho mục tiêu cạnh tranh<br>
@@ -31,11 +31,11 @@ C<br>
 Người ra quyết định là:<br>
 Là bất cứ ai hoặc tổ chức nào ra các quyết định lựa chọn<br>
 Là bất cứ ai hoặc tổ chức nào có ảnh hưởng nhất định đến nền kinh tế<br>
-Là bất cứ ai hoặc tổ chức nào có khả năng mua hoặc bán<br>
+Là bất cứ ai hoặc tổ chức nào có khả năng bán hoặc bán<br>
 Là bất cứ ai hoặc tổ chức nào không có nhu cầu<br>
 A<br>
 Trong thị trường sản phẩm, hộ gia đình là<br>
-Người tiêu dùng<br>
+Người sản xuất<br>
 Nhà cung cấp<br>
 Nguồn lực chính<br>
 Nhân tố quyết định<br>
@@ -47,7 +47,7 @@ Vốn<br>
 Đất đai<br>
 B<br>
 Ai/Tổ chức nào tham gia vào nền kinh tế với tư cách là nhà cung cấp các hàng hóa dịch vụ và điều tiết phân phối lại thu nhập?<br>
-Người tiêu dùng<br>
+Người sản xuất<br>
 Hộ gia đình<br>
 Doanh nghiệp<br>
 Chính phủ<br>
@@ -95,7 +95,7 @@ Thực hiện được lựa chọn nhanh nhất<br>
 Hiệu quả kinh tế<br>
 D<br>
 Hiệu quả kinh tế đòi hỏi các hàng hóa được sản xuất ra phải:<br>
-Phù hợp với nhu cầu của người tiêu dùng<br>
+Phù hợp với nhu cầu của người sản xuất<br>
 Đạt doanh thu cao nhất so với kì vọng của nhà sản xuất<br>
 Hàng hóa sản xuất ra phải được nền kinh tế ưa thích nhất<br>
 Thỏa mãn được quy luật cung cầu của kinh tế thị trường<br>
@@ -200,7 +200,7 @@ C<br>
 Giá khám bệnh tư nhân quá cao<br>
 Trời rét sẽ làm tăng giá dầu mỏ<br>
 Nếu giảm thuế nhập khẩu, giá xe ô tô sẽ giảm xuống<br>
-Lãi suất cao không khuyến khích tiêu dùng<br>
+Lãi suất cao không khuyến khích sản xuất<br>
 A<br>
 Một nền kinh tế có đường giới hạn năng lực sản xuất được minh họa bởi phương trình sau: 2X^2 + Y^2 = 225 trong đó X là hàng hoá nông nghiệp còn Y là hàng hoá công nghiệp. Điều gì xảy ra với đường giới hạn năng lực sản xuất trên khi công nghệ sản xuất cả hai hàng hoá X và Y được cải tiến:<br>
 Đường giới hạn năng lực sản xuất dịch chuyển ra ngoài<br>
@@ -263,28 +263,224 @@ Y=10<br>
 Y=15<br>
 B<br>
 
+
+
 Cầu là:<br>
-Lượng hàng hóa, dịch vụ mà người tiêu dùng muốn mua và có khả năng mua ở các mức giá khác nhau trong khoảng thời gian nhất định, centeris paribus<br>
-Lượng hàng hóa, dịch vụ mà người tiêu dùng muốn mua và có khả năng mua ở mức giá nhất định trong khoảng thời gian nhất định, centeris paribus<br>
-Lượng hàng hóa, dịch vụ mà người tieu dùng muốn mua và có khả năng mua ở các mức giá khác nhau trong khoảng thời gian nhất định<br>
-Lượng hàng hóa, dịch vụ mà người tiêu dùng muốn mua và có khả năng mua ở mức giá nhất định trong khoảng thời gian nhất định<br>
+Lượng hàng hóa, dịch vụ mà người sản xuất muốn bán và có khả năng bán ở các mức giá khác nhau trong khoảng thời gian nhất định, centeris paribus<br>
+Lượng hàng hóa, dịch vụ mà người sản xuất muốn bán và có khả năng bán ở mức giá nhất định trong khoảng thời gian nhất định, centeris paribus<br>
+Lượng hàng hóa, dịch vụ mà người sản xuất muốn bán và có khả năng bán ở các mức giá khác nhau trong khoảng thời gian nhất định<br>
+Lượng hàng hóa, dịch vụ mà người sản xuất muốn bán và có khả năng bán ở mức giá nhất định trong khoảng thời gian nhất định<br>
 A<br>
 Cầu với hàng hóa hoặc dịch vụ chỉ tồn tại khi<br>
-Người tiêu dùng muốn mua hàng hóa đó<br>
-Người tiêu dùng sẵn sàng trả cho hàng hóa<br>
+Người sản xuất muốn bán hàng hóa đó<br>
+Người sản xuất sẵn sàng trả cho hàng hóa<br>
 Cả A và B<br>
 Không có đáp án nào đúng<br>
 C<br>
 Lượng cầu là<br>
-Lượng hàng hóa dịch vụ mà người dùng muốn mua và có thể mua tại một mức giá nhất định<br>
-Lượng hàng hóa dịch vụ mà người dùng muốn mua và sẵn sàng mua tại một mức giá nhất định, các yếu tố khác không đổi<br>
-Lượng hàng hóa dịch vụ mà người dùng có thể mua và hợp với nhu cầu tại một mức giá nhất định, centeris paribus<br>
+Lượng hàng hóa dịch vụ mà người dùng muốn bán và có thể bán tại một mức giá nhất định<br>
+Lượng hàng hóa dịch vụ mà người dùng muốn bán và sẵn sàng bán tại một mức giá nhất định, các yếu tố khác không đổi<br>
+Lượng hàng hóa dịch vụ mà người dùng có thể bán và hợp với nhu cầu tại một mức giá nhất định, centeris paribus<br>
 Lượng hàng hóa dịch vụ mà người dùng đang có nhu cầu và phù hợp với tài chính tại một mức giá nhất định, centeris paribus<br>
 B<br>
-Hoàng là một fan cứng của BLACKPINK. Do cửa hàng đĩa nhạc đang bán giá ưu đãi, Hoàng lại vừa lĩnh lương, do đó Hoàng quyết định mua hết toàn bộ đĩa nhạc BLACKPINK mà 
-cửa hàng bán ngày hôm đó. Hoàng muốn mua 30 chiếc đĩa để cho bố mẹ, anh em, bạn bè, thầy cô, đồng nghiệp ... cùng nghe BLACKPINK. Tuy nhiên, do Hoàng "bất ngờ chưa pà zà" cửa hàng, nên cửa hàng không kịp chuẩn bị, chỉ có 20 chiếc đĩa. Hoàng đành ngậm ngùi mua 20 chiếc. Trong trường hợp này, lượng cầu là:<br>
+Hoàng là một fan cứng của BLACKPINK. Do cửa hàng đĩa nhạc đang bán giá ưu đãi, Hoàng lại vừa lĩnh lương, do đó Hoàng quyết định bán hết toàn bộ đĩa nhạc BLACKPINK mà 
+cửa hàng bán ngày hôm đó. Hoàng muốn bán 30 chiếc đĩa để cho bố mẹ, anh em, bạn bè, thầy cô, đồng nghiệp ... cùng nghe BLACKPINK. Tuy nhiên, do Hoàng "bất ngờ chưa pà zà"
+ cửa hàng, nên cửa hàng không kịp chuẩn bị, chỉ có 20 chiếc đĩa. Hoàng đành ngậm ngùi bán 20 chiếc. Trong trường hợp này, lượng cầu là:<br>
  Qd = 20<br>
  Qd = 30<br>
  Qd = 25<br>
  Qd = 10<br>
  B<br>
+Cầu biểu diễn mối quan hệ giữa:<br>
+Lượng cầu và giá, centeris paribus<br>
+Lượng cầu và lượng cung, centeris paribus<br>
+Lượng cung và giá, centeris paribus<br>
+Lượng cung thị trường và giá thị trường, centeris paribus<br>
+A<br>
+Trên đường cầu, lượng cầu và giá có mối quan hệ:<br>
+Đồng biến<br>
+Nghịch biến<br>
+Lúc đồng biến lúc nghịch biến<br>
+Không đổi<br>
+B<br>
+Theo luật cầu, đường cầu:<br>
+Là đường đi lên, nghiêng về phía bên phải<br>
+Là đường đi lên, nghiêng về phía bên trái<br>
+Là đường đi xuống, nghiêng về phía bên phải<br>
+Là đường đi xuống, nghiêng về phía bên trái<br>
+C<br>
+Hàng hóa dịch vụ mà khi thu nhập tăng lên thì cầu đối với chúng cũng tăng và ngược lại, gọi là:<br>
+Hàng hóa bổ sung<br>
+Hàng hóa thay thế<br>
+Hàng hóa bình thường<br>
+Hàng hóa xa xỉ<br>
+C<br>
+Hàng hóa mà cầu nhiều hơn khi thu nhập tăng lên nhưng sự tăng lên của cầu là tương đối nhỏ hoặc xấp xỉ như sự tăng lên của thu nhập là:
+Hàng hóa cấp thấp<br>
+Hàng hóa thiết yếu<br>
+Hàng hóa xa xỉ<br>
+Hàng hóa bổ sung<br>
+B<br>
+Hàng hóa mà mức độ tăng lên của cầu lớn hơn so với mức tăng lên của thu nhập là:<br>
+Hàng hóa cấp thấp<br>
+Hàng hóa thiết yếu<br>
+Hàng hóa xa xỉ<br>
+Hàng hóa bổ sung<br>
+C<br>
+Hàng hóa mà khi thu nhập tăng lên người sản xuất bán ít đi và ngược lại là:<br>
+Hàng hóa cấp thấp<br>
+Hàng hóa thiết yếu<br>
+Hàng hóa xa xỉ<br>
+Hàng hóa bổ sung<br>
+A<br>
+Trước đây khi giá là 3.3$/kg thì thị trường bán 220 nghìn tấn thịt lợn/năm. Do thu nhập tăng dần, năm sau, vẫn mức giá đó, thị trường bán 232 tấn/năm.
+Trong trường hợp này đường cầu dịch chuyển theo hướng nào sau đây:<br>
+Dịch về phía gốc tọa độ<br>
+Dịch chuyển lên trên<br>
+Dịch chuyển xuống dưới<br>
+Dịch ra xa gốc tọa độ<br>
+A<br>
+Cung là:<br>
+Lượng hàng hóa, dịch vụ mà người sản xuất muốn bán và có khả năng bán ở các mức giá khác nhau trong khoảng thời gian nhất định, centeris paribus<br>
+Lượng hàng hóa, dịch vụ mà người sản xuất muốn bán và có khả năng bán ở mức giá nhất định trong khoảng thời gian nhất định, centeris paribus<br>
+Lượng hàng hóa, dịch vụ mà người sản xuất muốn bán và có khả năng bán ở các mức giá khác nhau trong khoảng thời gian nhất định<br>
+Lượng hàng hóa, dịch vụ mà người sản xuất muốn bán và có khả năng bán ở mức giá nhất định trong khoảng thời gian nhất định<br>
+A<br>
+Luật cung đòi hỏi đường cung:<br>
+Phải dốc xuống<br>
+Phải đi lên<br>
+Phải nằm ngang<br>
+Không yêu cầu phải có hình dáng nhất định<br>
+D<br>
+Cân bằng thị trường là:<br>
+Nơi gặp gỡ của cung và cầu<br>
+Sự tác động qua lại tự do giữa hai lực lượng cung và cầu<br>
+Trạng thái mà tại đó không có sức ép làm thay đổi giá và sản lượng<br>
+Lượng cung bằng đúng lượng cầu<br>
+C<br>
+Tác động qua lại giữa cung và cầu xác định<br>
+Giá và sản lượng hàng hóa dịch vụ được mua và bán trên thị trường<br>
+Giá và lượng mua hàng hóa dịch vụ trên thị trường, centeris paribus<br>
+Giá và lượng bán hàng hóa dịch vụ trên thị trường, centeris paribus<br>
+Lượng mua và lượng bán hàng hóa trên thị trường, centeris paribus<br>
+A<br>
+Biểu hiện gián tiếp của trạng thái cân bằng thị trường là:<br>
+Lượng cung đáp ứng vừa đủ lượng cầu<br>
+Người tiêu dùng có thể mua bất cứ số lượng nào tại mức giá thị trường<br>
+Lượng hàng hóa mà người dùng có thể mua nhiều hơn lượng hàng hóa nhà sản xuất làm ra<br>
+Cung và cầu bổ trợ lẫn nhau, khiến thị trường tự điều chỉnh<br>
+B<br>
+Trong các mệnh đề sau, mệnh đề nào đúng ?<br>
+Hàng hóa sản xuất ra cần đáp ứng vừa đủ nhu cầu người tiêu dùng để xuất hiện cân bằng thị trường<br>
+Nhà sản xuất cần đáp ứng thích hợp với nhu cầu người tiêu dùng để xuất hiện cân bằng thị trường<br>
+Nhà sản xuất và người tiêu dùng không cần phải có sự phối hợp để xuất hiện cân bằng thị trường<br>
+Tổng chi phí hàng hóa sản xuất ra phải ít hơn hoặc bằng tổng doanh thu từ hàng hóa đó<br>
+C<br>
+Sự thay đổi của một yếu tố nào đó của cầu hoặc cung như giá hàng hóa thay thế hoặc chi phí đầu vào sẽ làm dịch chuyển:<br>
+Cung và cầu<br>
+Lượng cung và lượng cầu<br>
+Giá thị trường<br>
+Đường cung và đường cầu<br>
+D<br>
+Chính sách hạn chế nhập khẩu bằng việc áp dụng hạn nghạch nhập khẩu của chính phủ làm:<br>
+Dịch chuyển đường cầu<br>
+Dịch chuyển đường cung<br>
+Dịch chuyển giá thị trường<br>
+Dịch chuyển lượng cung và lượng cầu<br>
+B<br>
+Trong các nhận xét sau, nhận xét nào đúng về thuế:<br>
+Thuế làm ảnh hưởng đến đường cầu<br>
+Cả người tiêu dùng và nhà sản xuất đều phải chịu thuế, tuy nhiên, người tiêu dùng chịu nhiều hơn<br>
+Người tiêu dùng sẽ cân nhắc sử dụng các hàng hóa bị đánh thuế<br>
+Thuế là một nhân tố của cung<br>
+D<br>
+Chính phủ thường can thiệp trực tiếp vào giá bằng:<br>
+Giá trần<br>
+Giá sàn<br>
+Thuế<br>
+Trợ giá<br>
+B<br>
+Mô hình cung cầu chỉ áp dụng cho thị trường:<br>
+Cạnh tranh hoàn hảo<br>
+Cạnh tranh tích cực<br>
+Cung cầu hỗ trợ<br>
+Mệnh lệnh chính phủ<br>
+A<br>
+Chi phí đầu vào để sản xuất ra dầu gội Romano dành cho các quý ông sẽ giảm xuống làm cho:<br>
+Đường cầu dịch chuyển lên trên<br>
+Đường cung dịch chuyển lên trên<br>
+Cả đường cung và cầu đều dịch chuyển lên trên<br>
+Đường cung dịch chuyển xuống dưới<br>
+D<br>
+Thực tế cho thấy khi giá của hàng hóa giảm làm người sản xuất giảm sản lượng sản xuất ra, điều đó thể hiện:<br>
+Quy luật chung<br>
+Quy luật cầu<br>
+Thay đổi công nghệ<br>
+Thay đổi chung<br>
+A<br>
+Điều nào dưới đây gây ra sự vận động dọc theo đường cung<br>
+Giá hàng hoá thay đổi<br>
+Công nghệ sản xuất thay đổi<br>
+Kỳ vọng của người bán<br>
+Không câu nào đúng<br>
+A<br>
+Cơn bão Xangsane tại Việt Nam vừa qua làm mất trắng nhiều diện tích nuôi trồng thủy sản có thể sẽ<br>
+Gây ra sự vận động dọc theo đường cung thuỷ sản ở VN tới mức giá cao hơn<br>
+Gây ra cầu tăng làm cho giá thuỷ sản cao hơn<br>
+Làm cho cầu thuỷ sản giảm xuống<br>
+Làm cho đường cung thuỷ sản VN dịch chuyển lên trên sang bên trái<br>
+A<br>
+Đường cung dịch chuyển sang phải có nghĩa là<br>
+Lượng cung ứng với mỗi mức giá tăng lên<br>
+Cung giảm<br>
+Lượng cung không đổi<br>
+Cả A,B<br>
+A<br>
+Có thể hạn chế dư thừa hàng hóa trên thị trường thông qua:<br>
+Tăng cung<br>
+Chính phủ tăng giá<br>
+Giảm lượng cầu<br>
+Giảm giá<br>
+D<br>
+Thị trường sản phẩm A có hàm cung và cầu như sau: Ps = 10 + Qs và Pd = 100 - Qd. Nếu chính phủ ấn định giá là 40 thì điều gì xảy ra:<br>
+A.Thiếu hụt 20<br>
+Dư thừa 30<br>
+Thiếu hụt 50<br>
+Thiếu hụt 30<br>
+D<br>
+Thị trường sản phẩm A có hàm cung và cầu như sau: Ps = 10 + Qs và Pd = 100 - Qd. Tổng doanh thu là bao nhiêu?<br>
+TR=2475<br>
+TR=2250<br>
+TR=2200<br>
+TR=2310<br>
+A<br>
+Thị trường sản phẩm A có hàm cung và cầu như sau: Ps = 10 + Qs và Pd = 100 - Qd. Nếu nhà nước đánh thuế t = 10/ sản phẩm, xác định phần thuế mà người sản xuất phải chịu/ sản phẩm?<br>
+4/ sản phẩm<br>
+5/ sản phẩm<br>
+6/ sản phẩm<br>
+7/ sản phẩm<br>
+B<br>
+Thị trường sản phẩm A có hàm cung và cầu như sau: Ps = 10 + Qs và Pd = 100 - Qd. Nếu nhà nước đánh thuế t = 10/ sản phẩm, xác định điểm cân bằng mới<br>
+Pe = 60 và Qe = 40<br>
+Pe = 65 và Qe = 40<br>
+Pe = 60 và Qe = 45<br>
+Pe = 65 và Qe = 45<br>
+A<br>
+Giả sử thị trường có ba cá nhân khác nhau có phương trình cung như sau: P1=10+Q1;P2=18+0.5Q2;P3=16+0.4Q3 . phương trình đường cung của thị trường là?<br>
+P= -86 + 5.5Q<br>
+Q= -86 + 5.5P<br>
+P=86 + 5Q<br>
+Q= 86+ 5P<br>
+B<br>
+Giả sử thị trường có ba cá nhân khác nhau có phương trình cầu như sau: P1 = 100-Q1;  P2 =80-0.5Q2; P3=60-0.4Q3.  phương trình đường cầu của thị trường là<br>
+P=410 - 5.5Q<br>
+Q=410 - 5.5P<br>
+P= 410 - 5Q<br>
+Q= 410 - 5P<br>
+B<br>
+Thị trường sản phẩm A có hàm cung và cầu như sau: Ps = 10 + Qs và Pd = 100 - Qd. Tính giá và sản lượng lượng cân bằng<br>
+Pe = 55 và Qe = 45<br>
+Pe = 50 và Qe = 45<br>
+Pe = 55 và Qe = 40<br>
+Pe = 45 và Qe = 55<br>
+A<br>
