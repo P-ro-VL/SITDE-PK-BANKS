@@ -161,16 +161,16 @@ Giữ nguyên sản lượng<br>
 Không câu nào đúng<br>
 B<br>
 Khi nguồn lực được chuyển từ ngành này sang ngành khác điều này được minh họa bởi<br>
-A. Sự vận động dọc theo đường giới hạn khả năng sản xuất<br>
-B. Sự dịch chuyển đường giới hạn khả năng sản xuất ra bên ngoài<br>
-C. Sự dịch chuyển đường giới hạn khả năng sản xuất vào bên trong<br>
-D. Làm dịch chuyển đường cầu sang trái<br>
+Sự vận động dọc theo đường giới hạn khả năng sản xuất<br>
+Sự dịch chuyển đường giới hạn khả năng sản xuất ra bên ngoài<br>
+Sự dịch chuyển đường giới hạn khả năng sản xuất vào bên trong<br>
+Làm dịch chuyển đường cầu sang trái<br>
 A<br>
 Hàm tổng lợi ích (TB) và hàm tổng chi phí (TC) của một hoạt động như sau: TB = 200Q - Q^2 và TC=200+ 20Q + 0,5Q^2.  Hãy xác định quy mô tối đa hoá lợi ích ròng<br>
-A. Q = 100<br>
-B. Q = 50<br>
-C. Q = 80<br>
-D. Q = 60<br>
+Q = 100<br>
+Q = 50<br>
+Q = 80<br>
+Q = 60<br>
 D<br>
 Hàm tổng lợi ích (TB) và hàm tổng chi phí (TC) của một hoạt động như sau: TB = 200Q - Q^2 và TC=200+ 20Q + 0,5Q^2. Hãy xác định lợi ích ròng cực đại NB(max)<br>
 NB(max) = 5200<br>
@@ -179,86 +179,86 @@ NB(max) = 5000<br>
 NB(max) = 4800<br>
 A<br>
 Trong kinh tế thị trường các thành viên kinh tế được giả định:<br>
-A. Có hành vi hợp lý<br>
-B. Không bị hạn chế bởi thu nhập<br>
-C. Có mục tiêu giống nhau<br>
-D. Tất cả đều đúng<br>
+Có hành vi hợp lý<br>
+Không bị hạn chế bởi thu nhập<br>
+Có mục tiêu giống nhau<br>
+Tất cả đều đúng<br>
 A<br>
 Dọc theo đường giới hạn khả năng sản xuất, chi phí cơ hội là:<br>
-A. Số lượng một hàng hóa phải hi sinh để sản xuất thêm một đơn vị hàng hóa kia<br>
-B. Bằng không<br>
-C. Số lượng một hàng hóa được sản xuất ra<br>
-D. Là chi phí để sản xuất ra các kết hợp hàng hóa<br>
+Số lượng một hàng hóa phải hi sinh để sản xuất thêm một đơn vị hàng hóa kia<br>
+Bằng không<br>
+Số lượng một hàng hóa được sản xuất ra<br>
+Là chi phí để sản xuất ra các kết hợp hàng hóa<br>
 A<br>
 Khi các nhà kinh tế sử dụng từ "cận biên" họ ám chỉ:<br>
-A. Vừa đủ<br>
-B. Không quan trọng<br>
-C. Bổ sung<br>
-D. Đường biên<br>
+Vừa đủ<br>
+Không quan trọng<br>
+Bổ sung<br>
+Đường biên<br>
 C<br>
 Điều nào dưới đây là tuyên bố chuẩn tắc<br>
-A. Giá khám bệnh tư nhân quá cao<br>
-B. Trời rét sẽ làm tăng giá dầu mỏ<br>
-C. Nếu giảm thuế nhập khẩu, giá xe ô tô sẽ giảm xuống<br>
-D. Lãi suất cao không khuyến khích tiêu dùng<br>
+Giá khám bệnh tư nhân quá cao<br>
+Trời rét sẽ làm tăng giá dầu mỏ<br>
+Nếu giảm thuế nhập khẩu, giá xe ô tô sẽ giảm xuống<br>
+Lãi suất cao không khuyến khích tiêu dùng<br>
 A<br>
 Một nền kinh tế có đường giới hạn năng lực sản xuất được minh họa bởi phương trình sau: 2X^2 + Y^2 = 225 trong đó X là hàng hoá nông nghiệp còn Y là hàng hoá công nghiệp. Điều gì xảy ra với đường giới hạn năng lực sản xuất trên khi công nghệ sản xuất cả hai hàng hoá X và Y được cải tiến:<br>
-A. Đường giới hạn năng lực sản xuất dịch chuyển ra ngoài<br>
-B. Đường giới hạn năng lực sản xuất dịch chuyển vào trong<br>
-C. Đường giới hạn năng lực sản xuất không đổi<br>
-D. Tất cả đều đúng<br>
+Đường giới hạn năng lực sản xuất dịch chuyển ra ngoài<br>
+Đường giới hạn năng lực sản xuất dịch chuyển vào trong<br>
+Đường giới hạn năng lực sản xuất không đổi<br>
+Tất cả đều đúng<br>
 A<br>
 Một nền kinh tế có đường giới hạn năng lực sản xuất được biểu diễn bằng phương trình sau: X + 2Y = 100. Đường giới hạn năng lực sản xuất trên là:<br>
-A. Đường thẳng tuyến tính<br>
-B. Đường cong lồi so với gốc toạ độ<br>
-C. Đường cong lõm so với gốc toạ độ<br>
-D. Tất cả đều đúng<br>
+Đường thẳng tuyến tính<br>
+Đường cong lồi so với gốc toạ độ<br>
+Đường cong lõm so với gốc toạ độ<br>
+Tất cả đều đúng<br>
 A<br>
 Một nền kinh tế có đường giới hạn năng lực sản xuất được minh họa bởi phương trình sau: 2X^2 + Y^2 = 225 trong đó X là hàng hoá nông nghiệp còn Y là hàng hoá công nghiệp. Nếu mình họa đường giới hạn năng lực sản xuất trên bằng đồ thị, ta thấy:<br>
-A. Đường giới hạn năng lực sản xuất là đường cong<br>
-B. Đường giới hạn năng lực sản xuất là đường thẳng tuyến tính<br>
-C. Đường giới hạn năng lực sản xuất là đường hyperbola<br>
-D. Không thể minh họa được<br>
+Đường giới hạn năng lực sản xuất là đường cong<br>
+Đường giới hạn năng lực sản xuất là đường thẳng tuyến tính<br>
+Đường giới hạn năng lực sản xuất là đường hyperbola<br>
+Không thể minh họa được<br>
 A<br>
 Một nền kinh tế có đường giới hạn năng lực sản xuất được minh họa bởi phương trình sau: 2X^2 + Y^2 = 225 trong đó X là hàng hoá nông nghiệp còn Y là hàng hoá công nghiệp. Có thể nhận xét gì về kết hợp hàng hoá X=8 và Y=6<br>
-A. Nền kinh tế không có khả năng sản xuất kết hợp hàng hoá này<br>
-B. Nền kinh tế có khả năng sản xuất kết hợp hàng hoá này, nhưng không đạt hiệu quả sản xuất<br>
-C. Để sản xuất được kết hợp hàng hoá này, nền kinh tế phải được bổ sung thêm nguồn lực<br>
-D. Kết hợp hàng hoá này là sản lượng tối đa có thể của nền kinh tế<br>
+Nền kinh tế không có khả năng sản xuất kết hợp hàng hoá này<br>
+Nền kinh tế có khả năng sản xuất kết hợp hàng hoá này, nhưng không đạt hiệu quả sản xuất<br>
+Để sản xuất được kết hợp hàng hoá này, nền kinh tế phải được bổ sung thêm nguồn lực<br>
+Kết hợp hàng hoá này là sản lượng tối đa có thể của nền kinh tế<br>
 B<br>
 Một nền kinh tế có đường giới hạn năng lực sản xuất được biểu diễn bằng phương trình sau: X + 2Y = 100. Đường giới hạn năng lực sản xuất trên cho biết<br>
-A. Để sản xuất thêm 1 đơn vị X phải hy sinh 2 đơn vị Y<br>
-B. Để sản xuất thêm 1 đơn vị Y phải hy sinh 2 đơn vị X<br>
-C. Để sản xuất thêm 1 đơn vị X phải hy sinh 3 đơn vị Y<br>
-D. Để sản xuất thêm 1 đơn vị Y phải hy sinh 3 đơn vị X<br>
+Để sản xuất thêm 1 đơn vị X phải hy sinh 2 đơn vị Y<br>
+Để sản xuất thêm 1 đơn vị Y phải hy sinh 2 đơn vị X<br>
+Để sản xuất thêm 1 đơn vị X phải hy sinh 3 đơn vị Y<br>
+Để sản xuất thêm 1 đơn vị Y phải hy sinh 3 đơn vị X<br>
 B<br>
 Một nền kinh tế có đường giới hạn năng lực sản xuất được biểu diễn bằng phương trình sau: X + 2Y = 100. Đường giới hạn năng lực sản xuất trên cho biết<br>
-A. Lượng X tối đa là 100 và lượng Y tối đa là 500<Br>
-B. Lượng X tối đa là 50 và lượng Y tối đa là 100<br>
-C. Lượng X tối đa là 30 và lượng Y tối đa là 40<br>
-D. Lượng X tối đa là 40 và lượng Y tối đa là 60<br>
+Lượng X tối đa là 100 và lượng Y tối đa là 500<br>
+Lượng X tối đa là 50 và lượng Y tối đa là 100<br>
+Lượng X tối đa là 30 và lượng Y tối đa là 40<br>
+Lượng X tối đa là 40 và lượng Y tối đa là 60<br>
 A<br>
 Một nền kinh tế có đường giới hạn năng lực sản xuất được minh họa bởi phương trình sau: 2X^2 + Y^2 = 225 trong đó X là hàng hoá nông nghiệp còn Y là hàng hoá công nghiệp. Nền kinh tế có khả năng sản xuất kết hợp hàng hoá gồm 10X và 10Y hay không?<br>
-A. Nền kinh tế không có khả năng sản xuất kết hợp hàng hoá trên vì nó nằm ngoài khả năng của nền kinh tế<br>
-B. Nền kinh tế có khả năng sản xuất kết hợp hàng hoá trên nếu giá hàng hoá Y tăng lên<br>
-C. Nền kinh tế có khả năng sản xuất kết hợp hàng hoá nếu giá hàng hoá X tăng lên<br>
-D. Tất cả các đáp án đều đúng<br>
+Nền kinh tế không có khả năng sản xuất kết hợp hàng hoá trên vì nó nằm ngoài khả năng của nền kinh tế<br>
+Nền kinh tế có khả năng sản xuất kết hợp hàng hoá trên nếu giá hàng hoá Y tăng lên<br>
+Nền kinh tế có khả năng sản xuất kết hợp hàng hoá nếu giá hàng hoá X tăng lên<br>
+Tất cả các đáp án đều đúng<br>
 A<br>
 Một nền kinh tế có đường giới hạn năng lực sản xuất được minh họa bởi phương trình sau: 2X^2 + Y^2 = 225 trong đó X là hàng hoá nông nghiệp còn Y là hàng hoá công nghiệp. Đường giới hạn năng lực sản xuất trên minh họa:<br>
-A. Chi phí cơ hội tăng dần<br>
-B. Chi phí cơ hội giảm dần<br>
-C. Chi phí cơ hội không đổi<br>
-D. Không minh hoạ điều nào<br>
+Chi phí cơ hội tăng dần<br>
+Chi phí cơ hội giảm dần<br>
+Chi phí cơ hội không đổi<br>
+Không minh hoạ điều nào<br>
 A<br>
 Một nền kinh tế có đường giới hạn năng lực sản xuất được biểu diễn bằng phương trình sau: X + 2Y = 100. Đường giới hạn năng lực sản xuất trên minh hoạ:<br>
-A. Chi phí cơ hội tăng dần<Br>
-B. Chi phí cơ hội giảm dần<br>
-C. Chi phí cơ hội không đổi<br>
-D. Không minh họa điều nào<br>
+Chi phí cơ hội tăng dần<br>
+Chi phí cơ hội giảm dần<br>
+Chi phí cơ hội không đổi<br>
+Không minh họa điều nào<br>
 C<br>
 Một nền kinh tế có đường giới hạn năng lực sản xuất được minh họa bởi phương trình sau: 2X^2 + Y^2 = 225 trong đó X là hàng hoá nông nghiệp còn Y là hàng hoá công nghiệp. Nếu X=10 thì lượng Y tối đa có thể sản xuất được là bao nhiêu?<br>
-A. Y=25<br>
-B. Y=5<br>
-C. Y=10<br>
-D. Y=15<br>
+Y=25<br>
+Y=5<br>
+Y=10<br>
+Y=15<br>
 B<br>
