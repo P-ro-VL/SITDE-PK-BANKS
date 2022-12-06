@@ -233,7 +233,7 @@ Một nền kinh tế có đường giới hạn năng lực sản xuất đư�
 Để sản xuất thêm 1 đơn vị Y phải hy sinh 3 đơn vị X<br>
 B<br>
 Một nền kinh tế có đường giới hạn năng lực sản xuất được biểu diễn bằng phương trình sau: X + 2Y = 100. Đường giới hạn năng lực sản xuất trên cho biết<br>
-Lượng X tối đa là 100 và lượng Y tối đa là 500<br>
+Lượng X tối đa là 100 và lượng Y tối đa là 50<br>
 Lượng X tối đa là 50 và lượng Y tối đa là 100<br>
 Lượng X tối đa là 30 và lượng Y tối đa là 40<br>
 Lượng X tối đa là 40 và lượng Y tối đa là 60<br>
@@ -262,3 +262,29 @@ Y=5<br>
 Y=10<br>
 Y=15<br>
 B<br>
+
+Cầu là:<br>
+Lượng hàng hóa, dịch vụ mà người tiêu dùng muốn mua và có khả năng mua ở các mức giá khác nhau trong khoảng thời gian nhất định, centeris paribus<br>
+Lượng hàng hóa, dịch vụ mà người tiêu dùng muốn mua và có khả năng mua ở mức giá nhất định trong khoảng thời gian nhất định, centeris paribus<br>
+Lượng hàng hóa, dịch vụ mà người tieu dùng muốn mua và có khả năng mua ở các mức giá khác nhau trong khoảng thời gian nhất định<br>
+Lượng hàng hóa, dịch vụ mà người tiêu dùng muốn mua và có khả năng mua ở mức giá nhất định trong khoảng thời gian nhất định<br>
+A<br>
+Cầu với hàng hóa hoặc dịch vụ chỉ tồn tại khi<br>
+Người tiêu dùng muốn mua hàng hóa đó<br>
+Người tiêu dùng sẵn sàng trả cho hàng hóa<br>
+Cả A và B<br>
+Không có đáp án nào đúng<br>
+C<br>
+Lượng cầu là<br>
+Lượng hàng hóa dịch vụ mà người dùng muốn mua và có thể mua tại một mức giá nhất định<br>
+Lượng hàng hóa dịch vụ mà người dùng muốn mua và sẵn sàng mua tại một mức giá nhất định, các yếu tố khác không đổi<br>
+Lượng hàng hóa dịch vụ mà người dùng có thể mua và hợp với nhu cầu tại một mức giá nhất định, centeris paribus<br>
+Lượng hàng hóa dịch vụ mà người dùng đang có nhu cầu và phù hợp với tài chính tại một mức giá nhất định, centeris paribus<br>
+B<br>
+Hoàng là một fan cứng của BLACKPINK. Do cửa hàng đĩa nhạc đang bán giá ưu đãi, Hoàng lại vừa lĩnh lương, do đó Hoàng quyết định mua hết toàn bộ đĩa nhạc BLACKPINK mà 
+cửa hàng bán ngày hôm đó. Hoàng muốn mua 30 chiếc đĩa để cho bố mẹ, anh em, bạn bè, thầy cô, đồng nghiệp ... cùng nghe BLACKPINK. Tuy nhiên, do Hoàng "bất ngờ chưa pà zà" cửa hàng, nên cửa hàng không kịp chuẩn bị, chỉ có 20 chiếc đĩa. Hoàng đành ngậm ngùi mua 20 chiếc. Trong trường hợp này, lượng cầu là:<br>
+ Qd = 20<br>
+ Qd = 30<br>
+ Qd = 25<br>
+ Qd = 10<br>
+ B<br>
