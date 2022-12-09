@@ -1,3 +1,3 @@
 KHMI1101:Kinh tế vi mô<br>
-deKHMI1101_1:Giữa kì (C1 - 4):false:normal<br>
+deKHMI1101_1:Giữa kì (C1 - 4):true:normal<br>
 Kinh tế vi mô/Kinh tế vi mô.txt<br>
