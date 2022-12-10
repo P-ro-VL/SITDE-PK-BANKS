@@ -1,15 +1,7 @@
 KHMI1101:Kinh tế vi mô<br>
 deKHMI1101_1:Giữa kì (C1 - 4):normal:MIDTERM<br>
 Kinh tế vi mô/Kinh tế vi mô.txt<br>
-<<<<<<< HEAD
 next<br>
 TOCB1101:Đại số<br>
 deTOCB1101_1:Giữa kì (C2 - 4):image_question:MIDTERM<br>
 Đại số/Đại số.txt<br>
-
-=======
-<br>
-TOCB1101:Đại số<br>
-deTOCB1101_1:Giữa kì (C2 - 4):image_question:MIDTERM<br>
-Đại số/Đại số.txt
->>>>>>> 5e348074de059a897c0f1db049514b9ccdc694c3
