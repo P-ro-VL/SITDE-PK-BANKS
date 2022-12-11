@@ -160,11 +160,456 @@ k = 2<br>
 k = 3<br>
 k = 4<br>
 C<br>
-
-
-
-
-
-
-
-
+https://i.imgur.com/ysqqA9w.png<br>
+299B<br>
+2100B<br>
+2199B<br>
+2200B<br>
+C<br>
+https://i.imgur.com/BkQLyyK.png<br>
+80<br>
+70<br>
+46<br>
+65<br>
+B<br>
+https://i.imgur.com/jfCo3hd.png<br>
+m = 1<br>
+Ba câu đều sai<br>
+m = -2<br>
+m = 2<br>
+B<br>
+https://i.imgur.com/TqeJeY4.png<br>
+9 15\n
+7 12\n
+-1 6<br>
+10 -16\n
+9 -18\n
+-10 19<br>
+3 câu kia sai<br>
+10 7\n
+-8 16\n
+0 12<br>
+B<br>
+https://i.imgur.com/VQBaZxM.png<br>
+3 câu kia sai<br>
+4100<br>
+6200<br>
+2100<br>
+A<br>
+https://i.imgur.com/gkurnYW.png<br>
+m = 10<br>
+m = 5<br>
+m = 6<br>
+m = 4<br>
+D<br>
+https://i.imgur.com/uk6wMzc.png<br>
+x = -10<br>
+x = 4<br>
+x = 0<br>
+x = -4<br>
+A<br>
+https://i.imgur.com/kqudP4x.png<br>
+53<br>
+14<br>
+20<br>
+47<br>
+A<br>
+https://i.imgur.com/ftHaoCt.png<br>
+m = -1<br>
+m = 1<br>
+m = 0<br>
+m = 2<br>
+D<br>
+https://i.imgur.com/efobUNn.png<br>
+m = 5<br>
+m = 4<br>
+m = 10<br>
+3 câu kia sai<br>
+D<br>
+https://i.imgur.com/lh5UjlG.png<br>
+|A| = 4<br>
+|A| = 0<br>
+|A| = -3<br>
+|A| = -7<br>
+D<br>
+https://i.imgur.com/hPdmrzl.png<br>
+2<br>
+4<br>
+3<br>
+7<br>
+B<br>
+https://i.imgur.com/uv5ouey.png<br>
+x = 5<br>
+x = 1/3<br>
+3 câu kia sai<br>
+x = 10/3<br>
+D<br>
+https://i.imgur.com/cUdx5Vg.png<br>
+64<br>
+512<br>
+37<br>
+8<br>
+A<br>
+https://i.imgur.com/Q1vyjSs.png<br>
+1/20<br>
+1/5<br>
+4/5<br>
+7/20<br>
+B<br>
+https://i.imgur.com/nBB24bI.png<br>
+4<br>
+1<br>
+-2<br>
+3<br>
+D<br>
+https://i.imgur.com/nECAb7J.png<br>
+det(A) = (a + b + c).abc<br>
+det(A) = (a + b)(b + c)(c + a)<br>
+det(A) = abc<br>
+det(A) = 0<br>
+D<br>
+https://i.imgur.com/BBmEoDT.png<br>
+-250.(1 + i)<br>
+-250<br>
+250<br>
+250.(1 + i)<br>
+B<br>
+https://i.imgur.com/zIxF7Bz.png<br>
+|A| = 12<br>
+|A| = 3 + m<br>
+|A| = 2 - m<br>
+|A| = 16<br>
+A<br>
+https://i.imgur.com/p7GvFVm.png<br>
+0<br>
+1<br>
+i<br>
+-1<br>
+A<br>
+https://i.imgur.com/L68oDOS.png<br>
+6<br>
+1/24<br>
+2/3<br>
+8/3<br>
+B<br>
+https://i.imgur.com/XLKoT0I.png<br>
+A.B = A<br>
+B = -2A<br>
+B = 2A<br>
+Cả ba đáp án đều sai<br>
+C<br>
+https://i.imgur.com/L0GIOfY.png<br>
+Các câu kia sai<br>
+Với mọi a phương trình đều vô số nghiệm<br>
+Với a = 2 phuơng trình có vô số nghiệm<br>
+Với a khác 2 phương trình có vô số nghiệm<br>
+C<br>
+https://i.imgur.com/A3zeHOq.png<br>
+m = 4<br>
+m = 3<br>
+m = -4<br>
+m = -3<br>
+B<br>
+https://i.imgur.com/79pvOxJ.png<br>
+Bậc 3<br>
+Không đáp án nào đúng<br>
+Bậc 4<br>
+Bậc 5<br>
+B<br>
+https://i.imgur.com/T4joQdU.png<br>
+m = 0<br>
+m = 26<br>
+m = 20<br>
+m = -26<br>
+B<br>
+https://i.imgur.com/yWTpez5.png<br>
+0<br>
+2011<br>
+1<br>
+-1<br>
+D<br>
+https://i.imgur.com/p9ppMqD.png<br>
+-16<br>
+18<br>
+5<br>
+-4<br>
+A<br>
+https://i.imgur.com/wtgvTfT.png<br>
+-24<br>
+-1/14<br>
+-8/3<br>
+-2/3<br>
+C<br>
+https://i.imgur.com/RFEEDTp.png<br>
+12<br>
+-48<br>
+-72<br>
+Ba câu kia sai<br>
+D<br>
+https://i.imgur.com/RJeRLIL.png<br>
+|A| = 4 + i<br>
+Ba câu kia sai<br>
+|A| = 12 - 14i<br>
+|A| = 1 + 4i<br>
+C<br>
+https://i.imgur.com/gRKkhuf.png<br>
+Ba câu kia sai<br>
+0<br>
+1<br>
+-2<br>
+B<br>
+https://i.imgur.com/eGwRD1k.png<br>
+1/3<br>
+-1/[3^(2n+1)]<br>
+-1/3<br>
+Ba câu kia sai<br>
+C<br>
+https://i.imgur.com/YNdFj7w.png<br>
+Bậc 2<br>
+Bậc 3<br>
+Bậc 4<br>
+Bậc 5<br>
+B<br>
+https://i.imgur.com/l0vIERR.png<br>
+-45<br>
+Các câu kia sai<br>
+20<br>
+15<br>
+A<br>
+https://i.imgur.com/60kPpQD.png<br>
+Mọi m<br>
+m = 23<br>
+Không tồn tại m<br>
+m = 1<br>
+B<br>
+https://i.imgur.com/KIq45pY.png<br>
+3 câu kia sai<br>
+Hệ A.X = 0 có nghiệm khác không<br>
+Hệ A.X = 0 vô nghiệm<br>
+Hệ A.X = 0 có nghiệm duy nhất<br>
+B<br>
+https://i.imgur.com/OcEGoRD.png<br>
+m khác -1<br>
+m = 3<br>
+m khác 3<br>
+m = -1<br>
+C<br>
+https://i.imgur.com/CkOdcPK.png<br>
+Không tồn tại m<br>
+m = 4<br>
+m = -1<br>
+m = 1<br>
+B<br>
+https://i.imgur.com/AGqmyee.png<br>
+m = 5<br>
+m = 14/3<br>
+Không tồn tại m<br>
+m = 3<br>
+B<br>
+https://i.imgur.com/tHFDyEw.png<br>
+(-8, 4, -1)<br>
+(16, -6, 1)<br>
+Ba câu kia sai<br>
+(-20, 9, 1)<br>
+C<br>
+https://i.imgur.com/VZj3Jga.png<br>
+m khác 2<br>
+Không tồn tại m<br>
+3 câu kia sai<br>
+m = 2<br>
+B<br>
+https://i.imgur.com/EjfF5WA.png<br>
+m = 2<br>
+m khác 0<br>
+m = 0<br>
+m = -1<br>
+C<br>
+https://i.imgur.com/o5r2Z7d.png<br>
+m = -2<br>
+Với mọi m<r>
+Không tồn tại m<br>
+m = 1<br>
+C<br>
+https://i.imgur.com/NYo4ZH3.png<bt>
+(2, -4, -3, 0)<br>
+(3, -4, 2, 0)<br>
+(4, -2, -2, 0)<br>
+(5, -3, -3, 0)<br>
+C<br>
+https://i.imgur.com/rfL2vCj.png<br>
+x = y = 3a, z = a; a thuộc C<br>
+x = 2a + b, y = a, z = b; a, b thuộc C<br>
+x = 2a - 3b, y = a, z = b; a, b thuộc C<br>
+x = -a, y = z = a; a thuộc C<br>
+C<br>
+https://i.imgur.com/lzkpvUT.png<br>
+m = 2; m = -2<br>
+Không tồn tại m<br>
+m = -2<br>
+m khác 2; m khác -2<br>
+A<br>
+https://i.imgur.com/nfNwskW.png<br>
+m = 1<br>
+Không tồn tại m<br>
+Với mọi m<br>
+3 câu kia sai<br>
+C<br>
+https://i.imgur.com/SINjNc7.png<br>
+3 câu kia đều sai<br>
+m khác 4<br>
+m khác 3<br>
+Không tồn tại m<br>
+D<br>
+https://i.imgur.com/3yIstGB.png<br>
+m = 4<br>
+m khác 4<br>
+m = 0<br>
+m = 3<br>
+A<br>
+https://i.imgur.com/XvBG5TI.png<br>
+m khác 1<br>
+3 câu kia sai<br>
+Không tồn tại m<br>
+m = 1<br>
+A<br>
+https://i.imgur.com/9Zjg61d.png<br>
+m khác 1<br>
+m = 1; m = -1<br>
+m = 3<br>
+m = -1<br>
+A<br>
+https://i.imgur.com/xVYu0o1.png<br>
+(-3, 2, 1, 0)<br>
+(-3/11, 2, 1/11, -10,11)<br>
+(-3, 2, 1, -10)<br>
+(-12/5, 2, 4/5, -1/5)<br>
+B<br>
+https://i.imgur.com/cE6NFx2.png<br>
+m = 7<br>
+Không tồn tại m<br>
+m khác 5<br>
+m khác 7<br>
+B<br>
+https://i.imgur.com/FoY89qL.png<br>
+m = 2<br>
+m = -1<br>
+m = 0<br>
+m = 1<br>
+B<br>
+https://i.imgur.com/RX4hKjJ.png<br>
+m khác -2<br>
+m khác 0<br>
+m khác -4<br>
+m khác -1<br>
+C<br>
+https://i.imgur.com/mwhr5oL.png<br>
+m = 2<br>
+m = -2<br>
+m khác 2; m khác -2<br>
+m = 2; m = -2<br>
+D<br>
+https://i.imgur.com/iIxxj4s.png<br>
+m = 14/3<br>
+m = 3<br>
+m = 5<br>
+m = 12/3<br>
+A<br>
+https://i.imgur.com/YHIp5sI.png<br>
+m khác 1<br>
+m khác -1/2<br>
+Với mọi m<br>
+m = -2<br>
+D<br>
+https://i.imgur.com/hWzGxq5.png<br>
+m = -2<br>
+m khác 2; m khác -2<br>
+m khác 2<br>
+m = 2; m = -2<br>
+https://i.imgur.com/EEADuSf.png<br>
+Không đáp án nào đúng<br>
+m = 0<br>
+m = 1<br>
+m = 19/2<br>
+A<br>
+https://i.imgur.com/9XERSzn.png<br>
+m khác -3<br>
+m = 3<br>
+m khác 2<br>
+Không đáp án nào đúng<br>
+D<br>
+https://i.imgur.com/K7ajGbB.png<br>
+m khác 2; m khác -2<br>
+m = 2; m = -2<br>
+m = 2<br>
+Không tồn tại m<br>
+D<br>
+https://i.imgur.com/S4rvkSz.png<br>
+m khác 1/3<br>
+m = 0<br>
+m khác 3<br>
+m khác 11/3<br>
+D<br>
+https://i.imgur.com/5eRFoZN.png<br>
+-16<br>
+16<br>
+32<br>
+-32<br>
+A<br>
+https://i.imgur.com/A8bCRfi.png<br>
+-30<br>
+30<br>
+15<br>
+-15<br>
+A<br>
+https://i.imgur.com/aZkcFow.png<br>
+m < 2<br>
+m > 0<br>
+m < 1<br>
+m > 2<br>
+A<br>
+https://i.imgur.com/BTR7r6j.png<br>
+A = 7a + 21<br>
+A = 7a + 21b<br>
+A = 7a - 2b<br>
+A = -7a - 21<br>
+https://i.imgur.com/RrllNHj.png<br>
+6<br>
+54<br>
+1/54<br>
+1/6<br>
+C<br>
+https://i.imgur.com/nBYf7uA.png<br>
+16<br>
+88<br>
+32<br>
+Không có đáp án nào đúng<br>
+D<br>
+https://i.imgur.com/RsFYE88.png<br>
+x = 2; x = -1<br>
+x = 2; x = 3<br>
+x = 3; x = -1<br>
+Cả 3 đáp án đều sai<br>
+A<br>
+https://i.imgur.com/2ZpatrV.png<br>
+1<br>
+2<br>
+3<br>
+4<br>
+https://i.imgur.com/Baacfvj.png<br>
+A = -2 + 7i<br>
+A = 2 + 7i<br>
+A = 7 - 2i<br>
+A = -7 + 2i<br>
+A<br>
+https://i.imgur.com/LbfHa0s.png<br>
+Phương trình vô nghiệm<br>
+Phương trình có 3 nghiệm a, b, c<br>
+Phương trình có 3 nghiệm a+b, b+c, c+a<br>
+Phương trình có 1 nghiệm x = a<br>
+B<br>
+https://i.imgur.com/LSqk8ZR.png<br>
+det(3A) = -72<br>
+det(3A) = 41<br>
+det(3A) = 14<br>
+det(3A) = 27<br>
+A<br>
