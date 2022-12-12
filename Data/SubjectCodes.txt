@@ -5,3 +5,7 @@ next
 TOCB1101:Đại số<br>
 deTOCB1101_1:Giữa kì (C2 - 4):image_question:MIDTERM:20<br>
 Đại số/Đại số.txt<br>
+next
+TOCB1107:Toán rời rạc<br>
+deTOCB1107_1:Giữa kì (C1 - 3):normal:MIDTERM:40<br>
+Toán rời rạc/Toán rời rạc.txt<br>
