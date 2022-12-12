@@ -60,7 +60,7 @@ B<br>
 01110110<br>
 01010110<br>
 D<br>
-(C1-2) Cho 2 tập hợp X = {1, 2, 3, 4} và Y = {2, 3, 5, 6}. Khi đó, hiệu đối xứng XΔY là:
+(C1-2) Cho 2 tập hợp X = {1, 2, 3, 4} và Y = {2, 3, 5, 6}. Khi đó, hiệu đối xứng XΔY là:<br>
 {2, 3, 4}<br>
 {2, 3, 5}<br>
 {1, 4}<br>
