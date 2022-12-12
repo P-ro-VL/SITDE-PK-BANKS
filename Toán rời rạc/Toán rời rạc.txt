@@ -11,7 +11,7 @@ A<br>
 (A∧C)∨(B∧C)<br>
 (A∧B)∨C<br>
 B<br>
-(C1-1) Đâu là kết quả của phép toán sau :<br>
+(C1-1) Đâu là kết quả của phép toán sau :
 0001110001 XOR 1001001000<br>
 1000111001<br>
 1000110001<br>
