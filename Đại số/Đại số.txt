@@ -430,7 +430,7 @@ Với mọi m<br>
 Không tồn tại m<br>
 m = 1<br>
 C<br>
-https://i.imgur.com/NYo4ZH3.png<bt>
+https://i.imgur.com/NYo4ZH3.png<br>
 (2, -4, -3, 0)<br>
 (3, -4, 2, 0)<br>
 (4, -2, -2, 0)<br>
