@@ -426,7 +426,7 @@ m = -1<br>
 C<br>
 https://i.imgur.com/o5r2Z7d.png<br>
 m = -2<br>
-Với mọi m<r>
+Với mọi m<br>
 Không tồn tại m<br>
 m = 1<br>
 C<br>
