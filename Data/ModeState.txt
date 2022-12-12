@@ -1,0 +1,3 @@
+PKMode=true
+MockTestMode=true
+PracticeMode=true
