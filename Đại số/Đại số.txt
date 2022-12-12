@@ -525,6 +525,7 @@ m = -2<br>
 m khác 2; m khác -2<br>
 m khác 2<br>
 m = 2; m = -2<br>
+A<br>
 https://i.imgur.com/EEADuSf.png<br>
 Không đáp án nào đúng<br>
 m = 0<br>
@@ -572,6 +573,7 @@ A = 7a + 21<br>
 A = 7a + 21b<br>
 A = 7a - 2b<br>
 A = -7a - 21<br>
+A<br>
 https://i.imgur.com/RrllNHj.png<br>
 6<br>
 54<br>
@@ -595,6 +597,7 @@ https://i.imgur.com/2ZpatrV.png<br>
 2<br>
 3<br>
 4<br>
+B<br>
 https://i.imgur.com/Baacfvj.png<br>
 A = -2 + 7i<br>
 A = 2 + 7i<br>
