@@ -66,7 +66,7 @@ Các câu kia đều sai<br>
 D<br>
 https://i.imgur.com/eMi8PWk.png<br>
 m khác 2 và m khác -1<br>
-m khác 2 hoặc m khác -1<br>
+m = 2 hoặc m = -1<br>
 m = 2<br>
 m = -1<br>
 B<br>
@@ -161,10 +161,10 @@ k = 3<br>
 k = 4<br>
 C<br>
 https://i.imgur.com/ysqqA9w.png<br>
-299B<br>
-2100B<br>
-2199B<br>
-2200B<br>
+2^99.B<br>
+2^100.B<br>
+2^196.B<br>
+2^200.B<br>
 C<br>
 https://i.imgur.com/BkQLyyK.png<br>
 80<br>
@@ -179,15 +179,15 @@ m = -2<br>
 m = 2<br>
 B<br>
 https://i.imgur.com/TqeJeY4.png<br>
-9 15\n
-7 12\n
+9 15
+7 12
 -1 6<br>
-10 -16\n
-9 -18\n
+10 -16
+9 -18
 -10 19<br>
 3 câu kia sai<br>
-10 7\n
--8 16\n
+10 7
+-8 16
 0 12<br>
 B<br>
 https://i.imgur.com/VQBaZxM.png<br>
