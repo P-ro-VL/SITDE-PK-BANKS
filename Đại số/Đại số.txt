@@ -57,7 +57,7 @@ https://i.imgur.com/X3vSt0L.png<br>
 |-A| = |A|<br>
 Nếu |A| = 0 thì có 1 vecto cột của A là tổ hợp tuyến tính của các vecto còn lại<br>
 Các câu trên đều sai<br>
-C<br>
+D<br>
 https://i.imgur.com/YBqmpWP.png<br>
 Tập nghiệm của (1) là không gian con của Rn<br>
 Hạng ma trận hệ số >= Hạng ma trận mở rộng<br>
@@ -519,7 +519,7 @@ m khác 1<br>
 m khác -1/2<br>
 Với mọi m<br>
 m = -2<br>
-D<br>
+B<br>
 https://i.imgur.com/hWzGxq5.png<br>
 m = -2<br>
 m khác 2; m khác -2<br>
