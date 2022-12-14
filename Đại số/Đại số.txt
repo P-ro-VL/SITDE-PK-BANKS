@@ -45,7 +45,7 @@ https://i.imgur.com/fXG31bH.png<br>
 (2 -1)<br>
 (-2 1)<br>
 (2 9)<br>
-C<br>
+B<br>
 https://i.imgur.com/Ra9kEbv.png<br>
 (d1; d2) = (130; 100)<br>
 (d1; d2) = (130; 220)<br>
