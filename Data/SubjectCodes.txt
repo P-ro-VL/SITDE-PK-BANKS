@@ -7,7 +7,7 @@ deTOCB1101_1:Giữa kì (C2 - 4):image_question:MIDTERM:20<br>
 Đại số/Đại số.txt<br>
 next
 TOCB1107:Toán rời rạc<br>
-deTOCB1107_2:Giữa kì (C1 - 3) (ITA - 22.23):image_question:MIDTERM:30<br>
+deTOCB1107_2:Giữa kì (C1 - 3) (ITA - 22.23):IMAGE_QUESTION:MIDTERM:30<br>
 Toán rời rạc/deTOCB1107_2.txt<br>
 deTOCB1107_1:Giữa kì (C1 - 3):normal:MIDTERM:40<br>
 Toán rời rạc/Toán rời rạc.txt<br>
