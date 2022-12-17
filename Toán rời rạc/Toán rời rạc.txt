@@ -128,8 +128,8 @@ return location
 Sắp xếp chèn<br>
 Sắp xếp chọn<br>
 Tìm kiếm nhị phân<br>
-Sắp xếp nhị phân<br>
-C<br>
+Tìm kiếm tuyến tính<br>
+D<br>
 (C2-2) Cho thuật toán kiểm tra tính nguyên tố của một số như sau:
 function NguyenTo(m: integer):
 i := 2
@@ -138,12 +138,12 @@ while (i <= √m):
         i := i + 1
 NguyenTo := i = 2
 return
-Nếu m là số nguyên dương có 10^9 chữ số và tốc độ của máy tính là 10^-10 giây/phép toán thì thời gian máy tính cần để giải bài toán trên là:<br>
+Nếu m là số nguyên dương có 10^18 chữ số và tốc độ của máy tính là 10^-10 giây/phép toán thì thời gian máy tính cần để giải bài toán trên là:<br>
 0,1 giây<br>
 1 giây<br>
 0.5 giây<br>
 0.01 giây<br>
-B<br>
+A<br>
 (C2-3) Kết quả của phpé toán sau trong hệ nhị phân là:
 1111101 + 100110<br>
 10100011<br>
@@ -299,11 +299,11 @@ D<br>
 Trên đảo này, vàng được chia ra làm 3 loại : Loại 1 giá trị là 3, nặng 2kg. Loại 2 giá trị là 4, nặng 3kg, Loại 3 giá trị là 3.5 nặng 2.5kg.
 Gọi a, b, c  lần lượt là số cục mỗi loại mà Linh phải lấy sao cho vừa đủ 50kg và thỏa mãn tổng giá trị Linh lấy được là lớn nhất
 Giá trị của a + b + c nằm trong khoảng nào sau đây<br>
-(40, 60)<br>
-(65, 75)<br>
-(25, 30)<br>
-(35, 35)<br>
-A<br>
+[40, 60)<br>
+[65, 75)<br>
+[25, 30)<br>
+[35, 35)<br>
+CC<br>
 Nobita được Doraemon tặng cho 5 loại chong chóng tre trong ngày sinh nhật. Mỗi cái có một trọng lượng và giá trị khác nhau.
 - Loại bằng sắt : Giá trị bằng 3 nặng 3 kg
 - Loại bằng vàng : Giá trị bằng 4.5 nặng 3 kg
