@@ -1,0 +1,66 @@
+the_fool:
+  op: "Khởi đầu, ngây thơ, tự phát, tinh thần tự do"
+  pes: "Ngây thơ, khờ dại, liều lĩnh, mạo hiểm"
+the_magician:
+  op: "Quyền lực, kỹ năng, sự tập trung, hành động, tháo vát"
+  pes: "Thao túng, lập kế hoạch kém, tài năng tiềm ẩn"
+the_high_priestess:
+  op: "Trực giác, nguồn sức mạnh bậc cao, sự bí ẩn, tiềm thức"
+  pes: "Chuyện bị giấu kín, nhu cầu lắng nghe nội tâm"
+the_empress:
+  op: "Sự sinh nở, nữ tính, vẻ đẹp, tự nhiên, sung túc"
+  pes: "Cản trở sáng tạo, phụ thuộc vào người khác"
+the_emperor:
+  op: "Quyền lực, lãnh đạo, kết cấu, nền tảng vững chắc"
+  pes: "Thống trị, kiểm soát quá mức, cứng nhắc, không nhân nhượng"
+the_lovers:
+  op: "Tình yêu, sự hòa hợp, các mối quan hệ, liên kết về giá trị, sự lựa chọn"
+  pes: "Sự không hòa thuận, mất cân bằng, sai lệch giá trị"
+the_hierophant:
+  op: "Tôn giáo, sự gia nhập nhóm, niềm tin tôn giáo, truyền thống, đức tin"
+  pes: "Sự giới hạn, thử thách hiện trạng"
+the_chariot:
+  op: "Có kiểm soát, sức mạnh ý chí, chiến thắng, quyết đoán, kiên định"
+  pes: "Thiếu kiểm soát và định hướng, hay gân hấn"
+strength:
+  op: "Sức mạnh, can đảm, kiên nhẫn, kiểm soát, đồng cảm"
+  pes: "Yếu đuối, thiếu tự tin, thiếu khả năng tự kiềm chế"
+the_hermit:
+  op: "Tìm kiếm linh hồn, xem xét nội tâm, cô đơn, tiềm thức mách bảo."
+  pes: "Sự cô lập, sự cô đơn, sự rút lui"
+the_wheel_of_fortune:
+  op: "May mắn, số phận, chu kỳ cuộc sống, định mệnh, bước ngoặt"
+  pes: "Suýt may mắn, các lực lượng xấu bên ngoài, mất kiểm soát"
+justice:
+  op: "Công bằng, thẳng thắn, thật thà, nhân quả, có quy luật"
+  pes: "Không công bằng, thiếu minh bạch, không trung thực"
+the_hanged_man:
+  op: "Sự trì hoãn, sự hạn chế, buông lỏng, hy sinh"
+  pes: "Khốn khổ, do dự, trì hoãn"
+death:
+  op: "Kết thúc, khởi đầu, thay đổi, biến đổi, chuyển tiếp"
+  pes: "Kháng cự lại thay đổi, không thể tiến lên"
+temperance:
+  op: "Cân bằng, điều độ, kiên nhẫn, mục đích, có ý nghĩa"
+  pes: "Thiếu cân bằng, thái quá, thiếu tầm nhìn lâu dài"
+the_devil:
+  op: "Sự lệ thuộc, cám dỗ, tình dục, chủ nghĩa duy vật"
+  pes: "Tách rời, phá vỡ tự do, phục hồi sức mạnh"
+the_tower:
+  op: "Tai họa, biến động, thay đổi đột ngột, tiết lộ"
+  pes: "Tránh tai họa, sợ thay đổi"
+the_start:
+  op: "Niềm hy vọng, tâm linh, sự đổi mới, nguồn cảm hứng, sự thanh bình"
+  pes: "Thiếu niềm tin, nỗi tuyệt vọng, sự chán nản"
+the_moon:
+  op: "Ảo tưởng, sợ hãi, lo lắng, bất an, tiềm thức"
+  pes: "Thoát khỏi nỗi sợ hãi, bất hạnh, bối rối."
+the_sun:
+  op: "Niềm vui, sự ấm áp, thành công, mặt tích cực, sinh khí"
+  pes: "Cảm giác chán nản tạm thời, thiếu thành công"
+judgement:
+  op: "Xét xử, tái sinh, tiếng gọi thầm kín, xá tội"
+  pes: "Thiếu tự tin, thiếu cân nhắc"
+the_world:
+  op: "Hoàn thành, hợp nhất, thành tựu, du hành"
+  pes: "Chưa hoàn tất, chưa kết thúc"
