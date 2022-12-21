@@ -1,21 +1,21 @@
 KHMI1101:Kinh tế vi mô<br>
-deKHMI1101_1:Giữa kì (C1 - 4):normal:MIDTERM:40<br>
+deKHMI1101_1:Giữa kì (C1 - 4):normal:MIDTERM:3600:40<br>
 Kinh tế vi mô/Kinh tế vi mô.txt<br>
 next
 TOCB1101:Đại số<br>
-deTOCB1101_1:Giữa kì (C2 - 4):image_question:MIDTERM:20<br>
+deTOCB1101_1:Giữa kì (C2 - 4):image_question:MIDTERM:3600:20<br>
 Đại số/Đại số.txt<br>
 next
 TOCB1107:Toán rời rạc<br>
-deTOCB1107_2:Giữa kì (C1 - 3) (ITA - 22.23):IMAGE_QUESTION:MIDTERM:30<br>
+deTOCB1107_2:Giữa kì (C1 - 3) (ITA - 22.23):IMAGE_QUESTION:MIDTERM:3600:30<br>
 Toán rời rạc/deTOCB1107_2.txt<br>
-deTOCB1107_1:Giữa kì (C1 - 3):normal:MIDTERM:40<br>
+deTOCB1107_1:Giữa kì (C1 - 3):normal:MIDTERM:3600:40<br>
 Toán rời rạc/Toán rời rạc.txt<br>
 next
 CNTT1191:Vật lý đại cương<br>
-de_CNTT1191_1:C1 - Điện trường tĩnh:simple_select:MIDTERM:40:true<br>
+de_CNTT1191_1:C1 - Điện trường tĩnh:simple_select:MIDTERM:3600:40:true<br>
 Vật lý đại cương/de_CNTT1191_1.txt<br>
-de_CNTT1191_2:Giữa kì (C1 - 3) (ITA - 22.23):simple_select:MIDTERM:30<br>
+de_CNTT1191_2:Giữa kì (C1 - 3) (ITA - 22.23):simple_select:MIDTERM:1800:30<br>
 Vật lý đại cương/de_CNTT1191_2.txt<br>
 
 
