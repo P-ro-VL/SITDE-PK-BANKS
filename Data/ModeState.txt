@@ -1,3 +1,4 @@
 PKMode=false
-MockTestMode=false
+MockExamMode=false
 PracticeMode=true
+MockTestMode=true
