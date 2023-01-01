@@ -19,10 +19,5 @@ de_CNTT1191_3:C2 - Vật dẫn:simple_select:NORMAL:3600:40:true<br>
 Vật lý đại cương/de_CNTT1191_3.txt<br>
 de_CNTT1191_2:Giữa kì (C1 - 3) (ITA - 22.23):simple_select:MIDTERM:1800:30:true<br>
 Vật lý đại cương/de_CNTT1191_2.txt<br>
-next
-TEST:Training Ban<br>
-de_TEST_1:Đề mẫu:normal:NORMAL:600:2<br>
-Test/Test.txt<br>
-
 
 
