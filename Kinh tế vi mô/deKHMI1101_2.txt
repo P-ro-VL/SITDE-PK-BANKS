@@ -4,7 +4,7 @@ Chỉ có lượng đầu vào lao động là thay đổi, lượng tư bản s
 Chỉ có lượng đầu vào lao động là thay đổi, các yếu tố khác centeris paribus<br>
 Chỉ có lượng sản xuất là biến thiên, lượng tư bản sử dụng cố định<br>
 B<br>
-Khi nghiên cứu sản xuất ngắn hạn (SR), mệnh đề nào sau đây đúng:
+Khi nghiên cứu sản xuất ngắn hạn (SR), mệnh đề nào sau đây đúng:<br>
 Giả định rằng lượng sản xuất là thay đổi, lượng tư bản sử dụng cố định<br>
 Sản lượng Q phụ thuộc vào các yếu tố biến đổi như công nghệ, vốn, ...<br>
 Hàm số theo L được biểu thị là: Q = f(L)<br>
