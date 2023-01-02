@@ -507,7 +507,7 @@ A<br>
 TC = TR - TB<br>
 TC = FC + VC<br>
 TC = TR - P*Q<br>
-TC = P*Q - FC<Br>
+TC = P*Q - FC<br>
 B<br>
 
 Chi phí cố định bình quân (AFC) là:<br>
