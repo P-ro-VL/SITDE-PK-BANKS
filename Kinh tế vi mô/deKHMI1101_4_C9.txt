@@ -264,6 +264,69 @@ Cả ba í trên<br>
 D<br>
 
 
+Một hãng cạnh tranh độc quyền gặp đường cầu về sản phẩm của mình là P = 9 – Q. Tổng chi phí ngắn hạn STC = 2 + 3Q +Q2, đường chi phí bình quân dài hạn LAC = 5Q -Q2.Tìm giá, sản lượng cho hãng trong ngắn hạn<br>
+Q = 1,75; P = 7,75 <br>
+Q = 1,5 ; P = 7,75 <br>
+Q = 1,75 ; P = 7,5 <br>
+Q = 1,5 ; P = 7,5 <br>
+D<br>
+
+Một hãng cạnh tranh độc quyền gặp đường cầu về sản phẩm của mình là P = 9 – Q. Tổng chi phí ngắn hạn STC = 2 + 3Q +Q2, đường chi phí bình quân dài hạn LAC = 5Q -Q2. Tìm giá, sản lượng cho hãng trong dài hạn<br>
+Q = 3,5; P = 6,5 <br>
+Q = 3 ; P = 6 <br>
+Q = 3,75 ; P = 6 <br>
+Q = 3,5 ; P = 6 <br>
+B<br>
+
+Một hãng cạnh tranh độc quyền gặp đường cầu về sản phẩm của mình là P = 9 – Q. Tổng chi phí ngắn hạn STC = 2 + 3Q +Q2, đường chi phí bình quân dài hạn LAC = 5Q -Q2.Tìm lợi nhuận cho hãng trong ngắn hạn<br>
+2,5<br>
+2,75<br>
+3,5<br>
+3,75<br>
+A<br>
+
+Một hãng cạnh tranh độc quyền gặp đường cầu về sản phẩm của mình là P = 9 – Q. Tổng chi phí ngắn hạn STC = 2 + 3Q +Q2, đường chi phí bình quân dài hạn LAC = 5Q -Q2. Tìm lợi nhuận cho hãng trong dài hạn<br>
+ 4<br>
+7<br>
+0<br>
+5<br>
+C<br>
+
+Hàm cầu của một dịch vụ sửa xe máy là Q = 240 -20P có mức sản lượng tối ưu là 80 xe máy được sửa và  ATC = 10$ , AVC = 6$.Hãng sẽ lỗ(lãi) bao nhiêu<br>
+Lãi 160$<br>
+Lãi 200$<br>
+Lỗ 160$<br>
+Lỗ 200$<br>
+C<br>
+
+Ở Thái Nguyên thị trường chè là thị trường cạnh tranh độc quyền. Hàm cầu cho lượng người mua hàng ngày và chi phí trung bình dài hạn là : P = 9 – 0.9Q  ; AC = 10 – 0.06Q + 0.0001Q2. Tính mức giá doanh nghiệp chè sẽ đặt trong dài hạn<br>
+5<br>
+4<br>
+5,5<br>
+4,5<br>
+A<br>
+
+Ở Thái Nguyên thị trường chè là thị trường cạnh tranh độc quyền. Hàm cầu cho lượng người mua hàng ngày và chi phí trung bình dài hạn là : P = 9 – 0.9Q  ; AC = 10 – 0.06Q + 0.0001Q2. Tính số lượng người mua tại mức giá doanh nghiệp đặt ra trong dài hạn<br>
+112<br>
+120<br>
+100<br>
+96<br>
+C<br>
+
+Ở Thái Nguyên thị trường chè là thị trường cạnh tranh độc quyền. Hàm cầu cho lượng người mua hàng ngày và chi phí trung bình dài hạn là : P = 9 – 0.9Q  ; AC = 10 – 0.06Q + 0.0001Q2. Chi phí trung bình dài hạn lầ bao nhiêu<br>
+4<br>
+5<br>
+4,5<br>
+5,5<br>
+B<br>
+
+Ở Thái Nguyên thị trường chè là thị trường cạnh tranh độc quyền. Hàm cầu cho lượng người mua hàng ngày và chi phí trung bình dài hạn là : P = 9 – 0.9Q  ; AC = 10 – 0.06Q + 0.0001Q2. Lợi nhuận thu được là bao nhiêu<br>
+7<br>
+8,6<br>
+0<br>
+5<br>
+C<br>
+
 
 
 

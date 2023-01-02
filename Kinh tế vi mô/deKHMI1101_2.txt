@@ -370,28 +370,28 @@ MRTS là một hằng số<br>
 Các đường Q1, Q2, ... Qn song song với nhau<br>
 B<br>
 
-Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu ra. Khi đó ta có:<br>
+Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu rKhi đó ta có:<br>
 𝝀Q = f(hK, hL)<br>
 𝝀Q = f(K, L)<br>
 𝝀Q = f(hK / hL)<br>
 𝝀Q = f(hL / hK)<br>
 A<br>
 
-Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu ra. Khi nào thì hiệu suất tăng theo quy mô?<br>
+Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu rKhi nào thì hiệu suất tăng theo quy mô?<br>
 𝝀/h > 1<br>
 𝝀/h < 1<br>
 𝝀/h = 1<br>
 𝝀/h = 0<br>
 A<br>
 
-Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu ra. Khi nào thì hiệu suất giảm theo quy mô?<br>
+Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu rKhi nào thì hiệu suất giảm theo quy mô?<br>
 𝝀/h > 1<br>
 𝝀/h < 1<br>
 𝝀/h = 1<br>
 𝝀/h = 0<br>
 B<br>
 
-Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu ra. Khi nào thì hiệu suất không đổi theo quy mô?<br>
+Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu rKhi nào thì hiệu suất không đổi theo quy mô?<br>
 𝝀/h > 1<br>
 𝝀/h < 1<br>
 𝝀/h = 1<br>
@@ -453,3 +453,341 @@ Nghiên cứu chi phí về tài nguyên<br>
 Nghiên cứu sự biến đổi của các yếu tố đầu vào<br>
 A và B<br>
 D<br>
+
+Chi phí kinh tế là gì ?<br>
+Là giá trị toàn bộ các nguồn tài nguyên sử dụng để sản xuất ra hàng hóa dịch vụ<br>
+Là chi phí các nguồn nhân lực tính bằng hiện vật để sản xuất ra sản phẩm<br>
+Là chi phí bằng tiền mà hãng đã thực sự bỏ ra để sản xuất các hàng hóa dịch vụ<br>
+Là chi phí mà nhà sản xuất cần trả cho các yếu tố đầu vào để tạo ra một sản lượng Q cố định<br>
+A<br>
+
+Chi phí tính toán/kế toán là gì ?<br>
+Là giá trị toàn bộ các nguồn tài nguyên sử dụng để sản xuất ra hàng hóa dịch vụ<br>
+Là chi phí các nguồn nhân lực tính bằng hiện vật để sản xuất ra sản phẩm<br>
+Là chi phí bằng tiền mà hãng đã thực sự bỏ ra để sản xuất các hàng hóa dịch vụ<br>
+Là chi phí mà nhà sản xuất cần trả cho các yếu tố đầu vào để tạo ra một sản lượng Q cố định<br>
+C<br>
+
+Mệnh đề nào sau đây đúng?<br>
+Chi phí kinh tế là chi phí không cần thiết đối với thị trường cạnh tranh hoàn hảo<br>
+Chi phí kinh tế lớn hơn chi phí kế toán<br>
+Chi phi kinh tế là cơ sở cho các nhà sản xuất độc quyền xác định giá trị Q và P cho sản phẩm sao cho đạt được doanh thu lớn nhất<br>
+Chi phi kinh tế là cơ sở cho các nhà sản xuất độc quyền xác định giá trị Q và P cho sản phẩm sao cho đạt được lợi nhuận lớn nhất<br>
+B<br>
+
+Vấn đề nào sau đây có ý nghĩa kinh tế quan trọng?<br>
+Bao nhiêu nguồn tài nguyên đã được sử dụng làm yếu tố đầu vào để sản xuất ra một sản lượng Q cố định<br>
+Bao nhiêu nguồn tài nguyên đã được sử dụng làm yếu tố đầu vào để sản xuất ra hàng hóa<br>
+Bao nhiêu nguồn tài nguyên xã hội đã được sử dụng trong sản xuất ra hàng hóa và dịch vụ<br>
+Bao nhiêu nguồn tài nguyên xã hội đã được sử dụng làm yếu tố đầu vào để sản xuất ra một sản lượng Q cố định<br>
+C<br>
+
+Chi phí chìm là:<br>
+Chi phí cơ hội mà nhà sản xuất không lường trước được<br>
+Khoản tiền mà nhà sản xuất bỏ ra để tiến hành cải thiện các yếu tố đầu vào<br>
+Những khoản chi tiêu đã được thực hiện và không thể thu hồi được<br>
+Chi phí của những cơ hội tốt nhất đã bị bỏ qua trong quá trình cải thiện các yếu tố đầu vào<br>
+C<br>
+
+Chi phí cố định (FC) là:<br>
+Những chi phí không thay đổi khi sản lượng thay đổi<br>
+Những chi phí phụ thuộc vào các mức sản lượng, tăng giảm cùng việc tăng giảm của sản lượng<br>
+Chi phí mà nhà sản xuất chi trả cho các yếu tố đầu vào để sản xuất ra một sản lượng Q cố định<br>
+Không có đáp án nào đúng<br>
+A<br>
+
+Chi phí biến đổi (VC) là:<br>
+Những chi phí không thay đổi khi sản lượng thay đổi<br>
+Những chi phí phụ thuộc vào các mức sản lượng, tăng giảm cùng việc tăng giảm của sản lượng<br>
+Chi phí mà nhà sản xuất chi trả cho các yếu tố đầu vào để sản xuất ra một sản lượng Q cố định<br>
+Không có đáp án nào đúng<br>
+A<br>
+
+Đâu là công thức chính xác để tính tổng chi phí (TC) ?<br>
+TC = TR - TB<br>
+TC = FC + VC<br>
+TC = TR - P*Q<br>
+TC = P*Q - FC<br>
+B<br>
+
+Chi phí cố định bình quân (AFC) là:<br>
+Là tổng chỉ phí cố định trên 1 sản phẩm<br>
+Là tổng chi phí cố định của yếu tố sản xuất đầu vào trên 1 đơn vị sản lượng<br>
+Là tỉ lệ chỉ phí cố định trên 1 sản phẩm<br>
+Là tỉ lệ chi phí cố định của yếu tố sản xuất đầu vào trên 1 đơn vị sản lượng<br>
+A<br>
+
+Chi phí biến đổi bình quân (AVC) là:<br>
+Là tổng chi phí biến đổi tính trên một đơn vị sản phẩm<br>
+Là tổng chi phí biến đổi của yếu tố sản xuất đầu vào trên 1 đơn vị sản lượng<br>
+Là tỉ lệ chỉ phí biến đổi trên 1 sản phẩm<br>
+Là tỉ lệ chi phí biến đổi của yếu tố sản xuất đầu vào trên 1 đơn vị sản lượng<br>
+A<br>
+
+Tổng chi phí bình quân (ATC) có công thức tính là:<br>
+ATC = (AFC + AVC) / 2<br>
+ATC = (AFC + AVC) / (FC + VC)<br>
+ATC = AFC + AVC<br>
+ATC = AFC.AVC<br>
+C<br>
+
+Đẳng thức nào sau đây là phương trình của đường đồng chi phí (Isocost) ?<br>
+TC = r.K + w.L<br>
+TC = P(K).K + P(L).L<br>
+TC = (PL / L) + (PK / K)<br>
+Cả A và B<br>
+D<br>
+
+Giả sử hãng muốn tối thiểu hóa chi phí với mức sản lượng nhất định thì yếu tố nào sau đây KHÔNG phải là điều kiện để kết hợp tối ưu giữa vốn và lao động:<br>
+Nó phải nằm trên đường đòng sản lượng Q<br>
+Nằm ở đường đồng chi phí thấp nhất có thể<br>
+Độ dốc của đường đồng chi phí phải là nhỏ nhất<br>
+Nằm ở tiếp điểm giữa đường đồng sản lượng và đường chi phí thấp nhất có thể<br>
+C<br>
+
+Điều kiện để lựa chọn đầu vào tối ưu của hãng đạt được xác định bằng biểu thức nào sau đây:<br>
+w.MPL = MPL.r<br>
+MPL / L = MPK / K<br>
+MPL / K = MPK / L<br>
+r.MPL = MPK.w<br>
+D<br>
+
+Công thức tính chi phí bình quân dài hạn (LAC) là:<br>
+MPL/Q<br>
+LTC/Q<br>
+LMC/Q<br>
+MPK/Q<br>
+B<br>
+
+Nhận xét nào sau đây KHÔNG đúng về lợi nhuận?<br>
+Là mục tiêu kinh tế quan trọng nhất<br>
+Là điều kiện tồn tại và phát triển của hãng<br>
+Là mục tiêu duy nhất đối với hành vi của hãng<br>
+Là động lực thúc đẩy các hãng phát triển sản xuất kinh doanh<br>
+C<br>
+
+Đâu là công thức cơ bản để tính lợi nhuận?<br>
+Pi = TR - TC<br>
+Pi = MR - MC<br>
+Pi = P*Q<br>
+Cả A và C<br>
+A<br>
+
+Biểu thức toán học để tính lợi nhuận π là:<br>
+π = TB - TC<br>
+π = Q.(P - ATC)<br>
+π = TR - VC<br>
+π = PS - VC<br>
+B<br>
+
+Biểu thức toán học để tính lợi nhuận π dựa trên thặng dư PS là:<br>
+π = PS - TC<br>
+π = PS - FC<br>
+π = PS - VC<br>
+π = PS - MC<br>
+B<br>
+
+Lợi nhuận kinh tế là:<br>
+Phần chênh lệch giữa tổng doanh thu và tổng chi phí kinh tế<br>
+Phần chênh lệch giữa tổng doanh thu và tổng chi phí tính toán<br>
+Phần chênh lệnh giữa tổng chi phí của lượng sản phẩm bán ra với tổng chi phí dùng cho các yếu tố sản xuất đầu vào để tạo ra sản phẩm đó<br>
+Không có đáp án đúng<br>
+A<br>
+
+Lợi nhuận tính toán là:<br>
+Phần chênh lệch giữa tổng doanh thu và tổng chi phí kinh tế<br>
+Phần chênh lệch giữa tổng doanh thu và tổng chi phí tính toán<br>
+Phần chênh lệnh giữa tổng chi phí của lượng sản phẩm bán ra với tổng chi phí dùng cho các yếu tố sản xuất đầu vào để tạo ra sản phẩm đó<br>
+Không có đáp án đúng<br>
+<br>
+
+Đâu KHÔNG phải là một nhân tố tác động đến lợi nhuận<br>
+Quy mô sản xuất hàng hóa, dịch vụ<br>
+Giá và chất lượng của các đầu vào<br>
+Quá trình tiêu thụ và thu hồi tư bản<br>
+Giá bán hàng hóa dịch vụ cùng các hoạt động như marketing, công tác tài chính.<br>
+C<br>
+
+Biểu thức nào sau đây KHÔNG phải biểu thức để tối đa hóa lợi nhuận:<br>
+π' = 0<br>
+MR = MC<br>
+TR' - TC' = 0<br>
+MPL = MPK<br>
+D<br>
+
+Thuế sản lượng là gì?<br>
+Là tiền thuế phải nộp được tính trên sản lượng sản phẩm bán ra<br>
+Là tiền thuế phải nộp cố định với mỗi doanh nghiệp, không phụ thuộc sản phẩm bán ra<br>
+Là tiền thuế phải nộp tỉ lệ với số lượng các yếu tố đầu vào để sản xuất một lượng đầu ra Q cố định<br>
+A và C<br>
+A<br>
+
+Thuế khoán là gì?<br>
+Là tiền thuế phải nộp được tính trên sản lượng sản phẩm bán ra<br>
+Là tiền thuế phải nộp cố định với mỗi doanh nghiệp, không phụ thuộc sản phẩm bán ra<br>
+Là tiền thuế phải nộp tỉ lệ với số lượng các yếu tố đầu vào để sản xuất một lượng đầu ra Q cố định<br>
+A và C<br>
+B<br>
+
+Hiệu suất không đổi theo quy mô có nghĩa là:<br>
+Tăng 𝝀 lần các đầu vào sẽ làm giảm 𝝀 lần sản lượng<br>
+Tăng 𝝀 lần các đầu vào sẽ làm tăng 𝝀 lần sản lượng<br>
+Sản lượng đầu ra không đổi khi tăng 𝝀 lần các yếu tố đầu vào<br>
+Sản lượng đầu ra không đổi khi giảm 𝝀 lần các yếu tố đầu vào<br>
+B<br>
+
+Hiệu suất tăng theo quy mô xảy ra khi nào?<br>
+Sản lượng tăng hơn gấp 𝝀 lần khi các đầu vào tăng 𝝀 lần<br>
+Sản lượng tăng lên chưa đến 𝝀 lần khi các đầu vào tăng 𝝀 lần<br>
+Quy mô tăng lên 𝝀 lần khiến hiệu suất tăng lên 𝝀%<br>
+Các yếu tố đầu vào được tăng lên 𝝀 lần<br>
+A<br>
+
+Hiệu suất giảm theo quy mô khi nào?<br>
+Sản lượng tăng hơn gấp 𝝀 lần khi các đầu vào tăng 𝝀 lần<br>
+Sản lượng tăng lên chưa đến 𝝀 lần khi các đầu vào tăng 𝝀 lần<br>
+Quy mô tăng lên 𝝀 lần khiến hiệu suất tăng lên 𝝀%<br>
+Các yếu tố đầu vào được tăng lên 𝝀 lần<br>
+B<br>
+
+Ngoài phát sinh từ mối quan hệ sản xuất kĩ thuật, nguồn gốc tính kinh tế của quy mô KHÔNG phát sinh từ:<br>
+Sự tồn tại của khả năng không chia được của các đầu vào<br>
+Chuyên môn hóa và phân công lao động<br>
+Sự hiện đại và kịp thời của các lao động<br>
+Ảnh hưởng rút kinh nghiệm<br>
+C<br>
+
+Đâu KHÔNG phải một phương pháp ước lượng tính kinh tế của quy mô?<br>
+Ước lượng thống kê<br>
+Phương pháp kĩ thuật, công nghệ<br>
+Kĩ thuật điều tra các doanh nghiệp sống sót<br>
+Không có đáp án đúng<br>
+D<br>
+
+Sản phẩm cận biên của vốn là<br>
+Sự thay đổi trong tổng sản phẩm do sử dụng thêm một đơn vị lao động, với lượng vốn không đổi<br>
+Sự thay đổi trong tổng sản phẩm do sản phẩm do sử dụng thêm một đơn vị vốn, với lượng lao động không đổi<br>
+Tổng sản phẩm chia cho tổng số vốn sử dụng, với lao động không đổi<br>
+Tổng sản phẩm chia cho tổng số lao động, với số vốn không đổi<br>
+B<br>
+
+Khi sản phẩm cận biên của lao động lớn hơn sản phẩm trung bình của lao động<br>
+Sản phẩm trung bình của lao động đang tăng<br>
+Sản phẩm cận biên của lao động đang giảm<br>
+Đường tổng sản phẩm có độ dốc âm<br>
+Hãng đang có năng suất cận biên giảm dần<br>
+A<br>
+
+Đường tổng sản phẩm là đồ thị của<br>
+Chi phí tối thiểu để sản xuất một số lượng nhất định đầu ra sử dụng những công nghệ khác nhau<br>
+Lợi nhuận tối đa đạt được từ mỗi đơn vị sản phẩm bán ra<br>
+Sản lượng tối đa đạt được từ mỗi số lượng đầu vào biến đổi được sử dụng<br>
+Sản lượng tối thiểu đạt được từ mỗi số lượng đầu vào được biến đổi được sử dụng<br>
+C<br>
+
+Đường tổng sán phẩm càng dốc<br>
+Mức sản lượng càng cao<br>
+Đường sản phẩm cận biên càng thấp<br>
+Đường tổng chi phí càng cao<br>
+Đường sán phẩm cận biên càng cao<br>
+D<br>
+
+Giả định công ty Xuân Thu có một lượng tài sản cố định dưới hình thức máy dệt. Công ty chỉ có thay đổi sản lượng bằng cách thay đổi lượng lao động. Đây là ví dụ về:<br>
+Các ràng buộc thị trường<br>
+B.Hiệu quả kinh tế<br>
+Sản xuất ngắn hạn<br>
+D.Sản xuất dài hạn<br>
+C<br>
+
+Một hãng sử dụng phương pháp sản xuất tối thiểu hóa chi phí; sản phẩm cận biện của vốn là 10, giá của một đơn vị vốn là 40 và giá của một đơn vị lao động là 16. Sản phẩm cận biện của lao động là bao nhiêu<br>
+8<br>
+2<br>
+10<br>
+4<br>
+D<br>
+
+Hàm sản xuất nào dưới đây cho biết hiệu suất tăng dần theo quy mô<br>
+Q= 2K+3L<br>
+Q= 0,5KL<br>
+Q= 0,5(K^0,5)(l^0,5)<br>
+Q= 0,5(K^0,4)(l^0,4)<br>
+B<br>
+
+Khi hãng tăng lượng đầu vào từ (2L,2K) lên (3L,6K) thì sản lượng đầu ra tăng từ 25 lên 35 . Hàm sản xuất của hãng cho biết<br>
+Hiệu suất tăng theo quy mô<br>
+Hiệu suất giảm theo quy mô<br>
+Hiệu suất không đổi theo quy mô<br>
+Không câu nào đúng<br>
+B<br>
+
+Hàm sản xuất nào dưới đây cho biết hiệu suất giảm dần theo quy mô<br>
+Q= 2K+3L<br>
+Q= 0,5KL<br>
+Q= 0,5(K^0,5)(l^0,5)<br>
+Q= 0,5(K^0,4)(l^0,4)<br>
+D<br>
+
+Nếu chi phí lao động là 50$ một ngày và chi phí thuê máy là 100$ một ngày, kết hợp vốn và lao động nào hãng có thể thuê với 900$?<br>
+10 máy móc và 4 lao động<br>
+9 máy móc và 7 lao động<br>
+8 máy móc và 8lao động<br>
+4 máy móc và 10 lao động<br>
+D<br>
+
+Tỷ lệ lãi suất là 10% / năm. Bạn đầu tư 150 triệu đồng tiền riêng của mình vào một công việc kinh doanh và kiếm được lợi nhuận tính toán 40 triệu đồng sau một năm. Giả định các yếu tố khác không đổi thì lợi nhuận kinh tế bạn thu được là<br>
+20 triệu đồng<br>
+25 triệu đồng<br>
+5 triệu đồng<br>
+2 triệu đồng<br>
+B<br>
+
+Khi hãng tăng lượng đầu vào từ (2L,2K) lên (4L,4K) thì sản lượng đầu ra tăng từ 20 lên 45 . Hàm sản xuất của hãng cho biết<br>
+Hiệu suất tăng theo quy mô<br>
+Hiệu suất giảm theo gia mô<br>
+Hiệu suất không đổi theo quy mô<br>
+Không câu nào đúng<br>
+A<br>
+
+Giả sử tăng thêm 1 đơn vị lao động, từ 2 lên 3 công nhân , sản lượng tăng từ 10 đến 18 áo len. Sản  phẩm cận biên của người công nhân thứ 3 là:<br>
+1<br>
+3<br>
+4<br>
+8<br>
+D<br>
+
+Hàm sản xuất nào dưới đây cho biết hiệu suất không đổi theo quy mô<br>
+Q= 2K+3L<br>
+Q= 0,5KL<br>
+Q= 0,5(K^0,5)(l^0,5)<br>
+Cả A và C<br>
+D<br>
+
+Trong những tuyên bố đề cập đến chi phí ngắn hạn dưới đây, tuyên bố nào là sai?<br>
+Tổng chi phí trung bình và chi phí biến đổi trung bình có dạng chữ U<br>
+Khoảng cách giữa tổng chi phí trung bình và chi phí biến đổi trung bình thu hẹp dần là chi phí cận biên<br>
+Khoảng cách giữa tổng chi phí trung bình và chi phí biến đổi trung bình thu hẹp dần khi sản lượng tăng<br>
+Đường chi phí cận biên cắt đường chi phí biến đổi trung bình ở điểm cực tểu của chi phí biến đổi trung bình<br>
+B<br>
+
+Nếu đường MC nằm phía trên đường AVC thì khi sản lượng tăng lên điều nào dưới đây là đúng:<br>
+ATC không đổi<br>
+AFC tăng lên<br>
+AVC giảm xuống<br>
+AVC tăng lên<br>
+D<br>
+
+Khoảng cách theo chiều thẳng đứng giữa TC và VC là:<br>
+Giảm xuống khi sản lượng tăng lên<br>
+AFC<br>
+FC<br>
+MC<br>
+C<br>
+
+Chi phí cận biên MC cắt<br>
+ATC, AVC và AFC tại điểm cực tiểu của chúng<br>
+ATC, AFC tại điểm cực tiểu của chúng<br>
+AVC và AFC tại điểm cực tiểu của chúng<br>
+ATC và AVC tại điểm cực tiểu của chúng<br>
+D<br>
+
+
