@@ -4,7 +4,7 @@ Kinh tế vi mô/Kinh tế vi mô.txt<br>
 deKHMI1101_3:Giữa kì (C8):normal:MIDTERM:3600:40<br>
 Kinh tế vi mô/deKHMI1101_3.txt<br>
 deKHMI1101_4:Giữa kì (C9):normal:MIDTERM:3600:40<br>
-Kinh tế vi mô/C9_KTVM1.txt<br>
+Kinh tế vi mô/deKHMI1101_4.txt<br>
 next
 
 TOCB1101:Đại số<br>
