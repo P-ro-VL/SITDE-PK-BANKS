@@ -3,132 +3,131 @@ Một cấu trúc thị trường trung gian giữa thị trường cạnh tranh
 Một cấu trúc thị trường trung gian giữa thị trường cạnh tranh không hoàn hảo và thị trường độc quyền duy nhất<br>
 Một cấu trúc thị trường trung gian giữa thị trường cạnh tranh hoàn hảo và thị trường độc quyền duy nhất<br>
 Một cấu trúc thị trường trung gian giữa thị trường cạnh tranh không hoàn hảo và thị trường độc quyền thuần tuý<br>
-Một cấu trúc thị trường trung gian giữa thị trường cạnh tranh hoàn hảo và thị trường độc quyền thuần tuý<br>
-
+A<br>
 Ngành là một tập hợp các doanh nghiệp sản xuất các sản phẩm được coi là<br>
 Thay thế gần gũi cho nhau<br>
 Bổ sung gần gũi cho nhau<br>
 Gần như thay thế cho nhau<br>
 Gần như bổ sung cho nhau<br>
-Thay thế gần gũi cho nhau<br>
+A<br>
 
 Đường cầu của kem đánh răng PS<br>
 Dốc xuống nhưng tương đối không co giãn<br>
 Dốc xuống nhưng tương đối co giãn<br>
 Thoải xuống và tương đối co giãn<br>
 Là đường nằm ngang<br>
-Dốc xuống nhưng tương đối co giãn<br>
+B<br>
 
 Trong thị trường cạnh tranh độc quyền, mỗi doanh nghiệp tìm cách làm cho sản phẩm của mình phân biệt sản phẩm của mình với sản phẩm của doanh nghiệp khác thì đường cầu về sản phẩm của nó càng<br>
 Ít co dãn<br>
 Co dãn<br>
 Không co dãn<br>
 Không thay đổi<br>
-Ít co dãn<br>
+A<br>
 
 Cấu trúc ngành cạnh tranh độc quyền bao gồm các yếu tố<br>
 Cạnh tranh,thay thế<br>
 Cạnh tranh,duy nhất<br>
 Cạnh tranh, độc quyền<br>
 Cạnh tranh, độc quyền, thay thế<br>
-Cạnh tranh, độc quyền<br>
+D<br>
 
 Trong mô hình chi tiết về nghành cạnh tranh độc quyền, nhiều vấn đề phụ thuộc vào<br>
 Số lượng doanh nghiệp kinh doanh các mặt hàng thay thế<br>
 Giá thành của sản phẩm, nhu cầu của người tiêu dùng, mức độ cạnh tranh của thị trường<br>
 Các chi tiết của sản phẩm và công nghệ,bản chất của sự lựa chọn công nghệ của doanh nghiệp<br>
 Cả ba í trên<br>
-Các chi tiết của sản phẩm và công nghệ,bản chất của sự lựa chọn công nghệ của doanh nghiệp<br>
+C<br>
 
 Chúng ta có thể mô tả trạng thái cân bằng của ngành theo cách nào<br>
 Mỗi doanh nghiệp đang bán sản phẩm với kết hợp giá và sản lượng trên đường cầu của mình<br>
 Mỗi doanh nghiệp đang tối đa hoá lợi nhuận của mình với đường cầu nhất định mà nó đối mặt<br>
 Sự gia nhập ngành của các doanh nghiệp mới buộc lợi nhuận của ngành giảm xuống bằng 0<br>
 Cả ba í trên<br>
-Cả ba í trên<br>
+D<br>
 
- Thị trường cạnh tranh độc quyền có một đặc trưng then chốt<br>
+Thị trường cạnh tranh độc quyền có một đặc trưng then chốt<br>
 Các hãng cạnh tranh với nhau bằng cách bản những sản phẩm giống nhau, không thể thay thế cho nhau<br>
 Các hãng cạnh tranh với nhau bằng cách bán những sản phẩm giống nhau, có thể thay thế nhau<br>
 Các hãng cạnh tranh với nhau bằng cách bán những sản phẩm khác biệt, không thể thay thế được cho nhau<br>
 Các hãng cạnh tranh với nhau bằng cách bán những sản phẩm khác biệt,có thể thay thế được cho nhau ở mức độ cao<br>
-Các hãng cạnh tranh với nhau bằng cách bán những sản phẩm khác biệt,có thể thay thế được cho nhau ở mức độ cao<br>
+D<br>
 
 Thị trường cạnh tranh độc quyền có một đặc trưng<br>
 Tự do gia nhập ngành và rút lui khỏi ngành<br>
 Tự do gia nhập ngành nhưng không được rút lui ra khỏi ngành<br>
 Gia nhập ngành và rút lui ra khỏi ngành cần sự cho phép<br>
 Không có các đặc trưng trên<br>
-Tự do gia nhập ngành và rút lui khỏi ngành<br>
+A<br>
 
 Thị trường ô tô là<br>
 Thị trường cạnh tranh độc quyền<br>
 Thị trường độc quyền tập đoàn<br>
 Thị trường cạnh tranh tập đoàn<br>
 Cả ba í trên sai<br>
-Thị trường độc quyền tập đoàn<br>
+B<br>
 
 Xà phòng thơm, dầu gội đầu,nước xịt thơm, kem cạo râu,…..,mặt hàng trong các hiệu thuốc, xe đạp và các hàng hoá thể thao khác và các doanh nghiệp bán lẻ là các ví dụ về thị trường cạnh tranh độc quyền là đúnh hay sai<br>
 Đúng<br>
 Sai<br>
 Cả đúng cả sai<br>
 Không đúng không sai<br>
-Đúng<br>
+A<br>
 
 Phần lớn các doanh nghiệp bán lẻ giống như cạnh tranh độc quyền vì hàng hoá ở các cửa hàng bán lẻ khác nhau sẽ cạnh tranh với nhau bằng sự khác biệt về<br>
 Phục vụ phù hợp với địa điểm<br>
 Sự sẵn có về tín dụng<br>
 Nghiệp vụ của người bán<br>
 Cả ba í trên<br>
-Cả ba í trên<br>
+D<br>
 
 Trong thị trường cạnh tranh độc quyền, nếu lợi nhuận cao ở lân cận vì có một cửa hàng thì các cửa hàng khác sẽ<br>
 Rút khỏi thị trường<br>
 Gia nhập thị trường<br>
 Ở lại thị trường<br>
 Thay đổi quy mô<br>
-Gia nhập thị trường<br>
+B<br>
 
 Thị trường nhà hàng của bất kì thành phố nào có đặc tính của<br>
 Thị trường cạnh tranh độc quyền<br>
 Thị trường độc quyền tập đoàn<br>
 Thị trường cạnh tranh tập đoàn<br>
 Cả ba í trên sai<br>
-Thị trường cạnh tranh độc quyền<br>
+A<br>
 
 Tại sao việc gia nhập thị trường kinh doanh nhà hàng lại tương đối dễ dàng<br>
 Mỗi nhà hàng bán các món ăn khác nhau, có các quảng cáo khác nhau<br>
 Mỗi nhà hàng có địa điểm, thực đơn khác nhau<br>
 Mỗi nhà hàng lại phù hợp cho nhiều tầng lớp khác nhau<br>
 Cả ba í trên đúng<br>
-Cả ba í trên đúng<br>
+D<br>
 
 Ở thành phố Hotlelis, Hoa Kì có một lối đi bộ trải dài dọc trên bãi biển. Một số người bán kem bằng xe đẩy muốn bán kem trên lối đi bộ. Nếu chỉ có một người bán kem trên lối đi bộ thì anh ta sẽ chọn địa điểm nào<br>
 Tại 1/3 quãng đường đi bộ<br>
 Tại 1/2 quãng đường đi bộ<br>
 Tại 3/4  quãng đường đi bộ<br>
 Tại đầu hoặc cuối quãng đường đi  bộ<br>
-Tại 1/2 quãng đường đi bộ<br>
+B<br>
 
 Ở thành phố Hotlelis, Hoa Kì có một lối đi bộ trải dài dọc trên bãi biển. Một số người bán kem bằng xe đẩy muốn bán kem trên lối đi bộ. Nếu có 2 người bán kem trên lỗi đi bộ thì trạng thái cân bằng duy nhất của 2 người này là ở đâu<br>
 Tại 1/3 quãng đường đi bộ<br>
 Tại 1/2 quãng đường đi bộ<br>
 Tại 3/4  quãng đường đi bộ<br>
 Tại đầu hoặc cuối quãng đường đi  bộ<br>
-Tại 1/2 quãng đường đi bộ<br>
+B<br>
 
 Ở thành phố Hotlelis, Hoa Kì có một lối đi bộ trải dài dọc trên bãi biển. Một số người bán kem bằng xe đẩy muốn bán kem trên lối đi bộ. Giả sử có 2 người bán kem trên lối đi bộ đang đứng tại điểm cân bằng duy nhất và bạn là người bán kem bên trái.Nếu bạn chuyển địa điểm một chút xang bên phải thì<br>
 Thị phần bán kem của bạn sẽ giảm xuống do bị mất khách hàng từ phía bên phải<br>
 Thị phần bán kem của bạn sẽ giảm xuống do bị mất khách hàng từ phía bên trái<br>
 Thị phần bán kem của bạn sẽ tăng lên do ăn cắp được thêm khách hàng từ phía bên phải<br>
 Thị phần bán kem của bạn sẽ tănh lên do ăn cắp được thêm khách hàng từ phía bên trái<br>
-Thị phần bán kem của bạn sẽ tăng lên do ăn cắp được thêm khách hàng từ phía bên phải<br>
+C<br>
 
 Tại một kênh chúng ta có nhạc cổ điển và kênh còn lại là nhạc rốc cực mạnh. Nếu kênh nhạc cổ điển phát nhạc gần trung tâm hơn và kênh nhạc rốc cũng làm như vậy thì số lượng thính giả mỗi kênh sẽ tăng lên. Như vậy trong trạng thái cân bằng, cả hai đài sẽ phát chương trình giống nhau và người có thị hiếu cực đoan sẽ<br>
 Chọn 1 trong hai kênh để nghe<br>
 Cảm thấy bất hạnh khi nghe bất cứ chương trình ca nhạc nào<br>
 Không nghe kênh nào cả<br>
 Cả ba í trên sai<br>
-Cảm thấy bất hạnh khi nghe bất cứ chương trình ca nhạc nào<br>
+B<br>
 
 
