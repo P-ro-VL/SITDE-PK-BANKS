@@ -370,28 +370,28 @@ MRTS là một hằng số<br>
 Các đường Q1, Q2, ... Qn song song với nhau<br>
 B<br>
 
-Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu ra. Khi đó ta có:<br>
+Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu rKhi đó ta có:<br>
 𝝀Q = f(hK, hL)<br>
 𝝀Q = f(K, L)<br>
 𝝀Q = f(hK / hL)<br>
 𝝀Q = f(hL / hK)<br>
 A<br>
 
-Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu ra. Khi nào thì hiệu suất tăng theo quy mô?<br>
+Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu rKhi nào thì hiệu suất tăng theo quy mô?<br>
 𝝀/h > 1<br>
 𝝀/h < 1<br>
 𝝀/h = 1<br>
 𝝀/h = 0<br>
 A<br>
 
-Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu ra. Khi nào thì hiệu suất giảm theo quy mô?<br>
+Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu rKhi nào thì hiệu suất giảm theo quy mô?<br>
 𝝀/h > 1<br>
 𝝀/h < 1<br>
 𝝀/h = 1<br>
 𝝀/h = 0<br>
 B<br>
 
-Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu ra. Khi nào thì hiệu suất không đổi theo quy mô?<br>
+Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu rKhi nào thì hiệu suất không đổi theo quy mô?<br>
 𝝀/h > 1<br>
 𝝀/h < 1<br>
 𝝀/h = 1<br>
@@ -665,37 +665,37 @@ Không có đáp án đúng<br>
 D<br>
 
 Sản phẩm cận biên của vốn là<br>
-A. Sự thay đổi trong tổng sản phẩm do sử dụng thêm một đơn vị lao động, với lượng vốn không đổi<br>
-B. Sự thay đổi trong tổng sản phẩm do sản phẩm do sử dụng thêm một đơn vị vốn, với lượng lao động không đổi<br>
-C. Tổng sản phẩm chia cho tổng số vốn sử dụng, với lao động không đổi<br>
-D. Tổng sản phẩm chia cho tổng số lao động, với số vốn không đổi<br>
+Sự thay đổi trong tổng sản phẩm do sử dụng thêm một đơn vị lao động, với lượng vốn không đổi<br>
+Sự thay đổi trong tổng sản phẩm do sản phẩm do sử dụng thêm một đơn vị vốn, với lượng lao động không đổi<br>
+Tổng sản phẩm chia cho tổng số vốn sử dụng, với lao động không đổi<br>
+Tổng sản phẩm chia cho tổng số lao động, với số vốn không đổi<br>
 B<br>
 
 Khi sản phẩm cận biên của lao động lớn hơn sản phẩm trung bình của lao động<br>
-A. Sản phẩm trung bình của lao động đang tăng<br>
-B. Sản phẩm cận biên của lao động đang giảm<br>
-C. Đường tổng sản phẩm có độ dốc âm<br>
-D. Hãng đang có năng suất cận biên giảm dần<br>
+Sản phẩm trung bình của lao động đang tăng<br>
+Sản phẩm cận biên của lao động đang giảm<br>
+Đường tổng sản phẩm có độ dốc âm<br>
+Hãng đang có năng suất cận biên giảm dần<br>
 A<br>
 
 Đường tổng sản phẩm là đồ thị của<br>
-A. Chi phí tối thiểu để sản xuất một số lượng nhất định đầu ra sử dụng những công nghệ khác nhau<br>
-B. Lợi nhuận tối đa đạt được từ mỗi đơn vị sản phẩm bán ra<br>
-C. Sản lượng tối đa đạt được từ mỗi số lượng đầu vào biến đổi được sử dụng<br>
-D. Sản lượng tối thiểu đạt được từ mỗi số lượng đầu vào được biến đổi được sử dụng<br>
+Chi phí tối thiểu để sản xuất một số lượng nhất định đầu ra sử dụng những công nghệ khác nhau<br>
+Lợi nhuận tối đa đạt được từ mỗi đơn vị sản phẩm bán ra<br>
+Sản lượng tối đa đạt được từ mỗi số lượng đầu vào biến đổi được sử dụng<br>
+Sản lượng tối thiểu đạt được từ mỗi số lượng đầu vào được biến đổi được sử dụng<br>
 C<br>
 
 Đường tổng sán phẩm càng dốc<br>
-A. Mức sản lượng càng cao<br>
-B. Đường sản phẩm cận biên càng thấp<br>
-C. Đường tổng chi phí càng cao<br>
-D. Đường sán phẩm cận biên càng cao<br>
+Mức sản lượng càng cao<br>
+Đường sản phẩm cận biên càng thấp<br>
+Đường tổng chi phí càng cao<br>
+Đường sán phẩm cận biên càng cao<br>
 D<br>
 
 Giả định công ty Xuân Thu có một lượng tài sản cố định dưới hình thức máy dệt. Công ty chỉ có thay đổi sản lượng bằng cách thay đổi lượng lao động. Đây là ví dụ về:<br>
-A. Các ràng buộc thị trường<br>
+Các ràng buộc thị trường<br>
 B.Hiệu quả kinh tế<br>
-C. Sản xuất ngắn hạn<br>
+Sản xuất ngắn hạn<br>
 D.Sản xuất dài hạn<br>
 C<br>
 
@@ -707,87 +707,87 @@ Một hãng sử dụng phương pháp sản xuất tối thiểu hóa chi phí;
 D<br>
 
 Hàm sản xuất nào dưới đây cho biết hiệu suất tăng dần theo quy mô<br>
-a. Q= 2K+3L<br>
-b. Q= 0,5KL<br>
-c. Q= 0,5(K^0,5)(l^0,5)<br>
-d. Q= 0,5(K^0,4)(l^0,4)<br>
+Q= 2K+3L<br>
+Q= 0,5KL<br>
+Q= 0,5(K^0,5)(l^0,5)<br>
+Q= 0,5(K^0,4)(l^0,4)<br>
 B<br>
 
 Khi hãng tăng lượng đầu vào từ (2L,2K) lên (3L,6K) thì sản lượng đầu ra tăng từ 25 lên 35 . Hàm sản xuất của hãng cho biết<br>
-a. Hiệu suất tăng theo quy mô<br>
-b. Hiệu suất giảm theo quy mô<br>
-c. Hiệu suất không đổi theo quy mô<br>
-d. Không câu nào đúng<br>
+Hiệu suất tăng theo quy mô<br>
+Hiệu suất giảm theo quy mô<br>
+Hiệu suất không đổi theo quy mô<br>
+Không câu nào đúng<br>
 B<br>
 
 Hàm sản xuất nào dưới đây cho biết hiệu suất giảm dần theo quy mô<br>
-a. Q= 2K+3L<br>
-b. Q= 0,5KL<br>
-c. Q= 0,5(K^0,5)(l^0,5)<br>
-d. Q= 0,5(K^0,4)(l^0,4)<br>
+Q= 2K+3L<br>
+Q= 0,5KL<br>
+Q= 0,5(K^0,5)(l^0,5)<br>
+Q= 0,5(K^0,4)(l^0,4)<br>
 D<br>
 
 Nếu chi phí lao động là 50$ một ngày và chi phí thuê máy là 100$ một ngày, kết hợp vốn và lao động nào hãng có thể thuê với 900$?<br>
-a. 10 máy móc và 4 lao động<br>
-b.9 máy móc và 7 lao động<br>
-c. 8 máy móc và 8lao động<br>
-d.4 máy móc và 10 lao động<br>
+10 máy móc và 4 lao động<br>
+9 máy móc và 7 lao động<br>
+8 máy móc và 8lao động<br>
+4 máy móc và 10 lao động<br>
 D<br>
 
 Tỷ lệ lãi suất là 10% / năm. Bạn đầu tư 150 triệu đồng tiền riêng của mình vào một công việc kinh doanh và kiếm được lợi nhuận tính toán 40 triệu đồng sau một năm. Giả định các yếu tố khác không đổi thì lợi nhuận kinh tế bạn thu được là<br>
-a. 20 triệu đồng<br>
-b. 25 triệu đồng<br>
-c. 5 triệu đồng<br>
-d. 2 triệu đồng<br>
+20 triệu đồng<br>
+25 triệu đồng<br>
+5 triệu đồng<br>
+2 triệu đồng<br>
 B<br>
 
 Khi hãng tăng lượng đầu vào từ (2L,2K) lên (4L,4K) thì sản lượng đầu ra tăng từ 20 lên 45 . Hàm sản xuất của hãng cho biết<br>
-a. Hiệu suất tăng theo quy mô<br>
-b. Hiệu suất giảm theo gia mô<br>
-c. Hiệu suất không đổi theo quy mô<br>
-d. Không câu nào đúng<br>
+Hiệu suất tăng theo quy mô<br>
+Hiệu suất giảm theo gia mô<br>
+Hiệu suất không đổi theo quy mô<br>
+Không câu nào đúng<br>
 A<br>
 
 Giả sử tăng thêm 1 đơn vị lao động, từ 2 lên 3 công nhân , sản lượng tăng từ 10 đến 18 áo len. Sản  phẩm cận biên của người công nhân thứ 3 là:<br>
-a. 1<br>
-b. 3<br>
-c. 4<br>
-d. 8<br>
+1<br>
+3<br>
+4<br>
+8<br>
 D<br>
 
 Hàm sản xuất nào dưới đây cho biết hiệu suất không đổi theo quy mô<br>
-a. Q= 2K+3L<br>
-b. Q= 0,5KL<br>
-c. Q= 0,5(K^0,5)(l^0,5)<br>
-d. cả A và C<br>
+Q= 2K+3L<br>
+Q= 0,5KL<br>
+Q= 0,5(K^0,5)(l^0,5)<br>
+Cả A và C<br>
 D<br>
 
 Trong những tuyên bố đề cập đến chi phí ngắn hạn dưới đây, tuyên bố nào là sai?<br>
-A. Tổng chi phí trung bình và chi phí biến đổi trung bình có dạng chữ U<br>
-B. Khoảng cách giữa tổng chi phí trung bình và chi phí biến đổi trung bình thu hẹp dần là chi phí cận biên<br>
-C. Khoảng cách giữa tổng chi phí trung bình và chi phí biến đổi trung bình thu hẹp dần khi sản lượng tăng<br>
-D. Đường chi phí cận biên cắt đường chi phí biến đổi trung bình ở điểm cực tểu của chi phí biến đổi trung bình<br>
+Tổng chi phí trung bình và chi phí biến đổi trung bình có dạng chữ U<br>
+Khoảng cách giữa tổng chi phí trung bình và chi phí biến đổi trung bình thu hẹp dần là chi phí cận biên<br>
+Khoảng cách giữa tổng chi phí trung bình và chi phí biến đổi trung bình thu hẹp dần khi sản lượng tăng<br>
+Đường chi phí cận biên cắt đường chi phí biến đổi trung bình ở điểm cực tểu của chi phí biến đổi trung bình<br>
 B<br>
 
 Nếu đường MC nằm phía trên đường AVC thì khi sản lượng tăng lên điều nào dưới đây là đúng:<br>
-A. ATC không đổi<br>
-B. AFC tăng lên<br>
-C. AVC giảm xuống<br>
-D. AVC tăng lên<br>
+ATC không đổi<br>
+AFC tăng lên<br>
+AVC giảm xuống<br>
+AVC tăng lên<br>
 D<br>
 
 Khoảng cách theo chiều thẳng đứng giữa TC và VC là:<br>
-A. Giảm xuống khi sản lượng tăng lên<br>
-B. AFC<br>
-C. FC<br>
-D. MC<br>
+Giảm xuống khi sản lượng tăng lên<br>
+AFC<br>
+FC<br>
+MC<br>
 C<br>
 
 Chi phí cận biên MC cắt<br>
-A. ATC, AVC và AFC tại điểm cực tiểu của chúng<br>
-B. ATC, AFC tại điểm cực tiểu của chúng<br>
-C. AVC và AFC tại điểm cực tiểu của chúng<br>
-D. ATC và AVC tại điểm cực tiểu của chúng<br>
+ATC, AVC và AFC tại điểm cực tiểu của chúng<br>
+ATC, AFC tại điểm cực tiểu của chúng<br>
+AVC và AFC tại điểm cực tiểu của chúng<br>
+ATC và AVC tại điểm cực tiểu của chúng<br>
 D<br>
 
 
