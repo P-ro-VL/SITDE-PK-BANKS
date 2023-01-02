@@ -4,204 +4,238 @@ Chỉ có lượng đầu vào lao động là thay đổi, lượng tư bản s
 Chỉ có lượng đầu vào lao động là thay đổi, các yếu tố khác centeris paribus<br>
 Chỉ có lượng sản xuất là biến thiên, lượng tư bản sử dụng cố định<br>
 B<br>
-Khi nghiên cứu sản xuất ngắn hạn (SR), mệnh đề nào sau đây đúng:
+
+Khi nghiên cứu sản xuất ngắn hạn (SR), mệnh đề nào sau đây đúng:<br>
 Giả định rằng lượng sản xuất là thay đổi, lượng tư bản sử dụng cố định<br>
 Sản lượng Q phụ thuộc vào các yếu tố biến đổi như công nghệ, vốn, ...<br>
 Hàm số theo L được biểu thị là: Q = f(L)<br>
 Các đáp án trên đều đúng<br>
 C<br>
+
 Năng suất bình quân là:<br>
 Số sản phẩm trung bình mà một đơn vị đầu vào nào đó tạo ra.<br>
 Số sản phẩm trung bình mà một đơn vị đầu vào nào đó tạo ra trong một khoảng thời gian nhất định<br>
 Tổng sản phẩm chia đầu người tham gia sản xuất của một đơn vị đầu vào<br>
 Tổng sản phẩm chia đầu người tham gia sản xuất của một đơn vị đầu vào trong một khoảng thời gian nhất định<br>
 A<br>
+
 Công thức tính sản phẩm bình quân là:<br>
 Sản phẩm bình quân = Tổng sản lượng / Số lượng lao động tham gia sản xuất<br>
 Sản phẩm bình quân = Tổng sản lượng / Số lượng đầu vào<br>
 Sản phẩm bình quân = Tổng sản lượng / Thời gian sản xuất<br>
 Sản phẩm bình quân = Tổng sản lượng / Tổng cơ sở vật chất đầu vào<br>
 B<br>
+
 Kí hiệu của năng suất bình quân/sản phẩm bình quân của lao động là:<br>
 ADL<br>
 ADP<br>
 ADE<br>
 APL<br>
 D<br>
+
 Công thức tính sản phẩm bình quân của lao động là:<br>
 Sản phẩm bình quân của lao động = Tổng sản lượng / Số lượng lao động sử dụng<br>
 Sản phẩm bình quân của lao động = Tổng sản lượng / Số lượng đầu vào<br>
 Sản phẩm bình quân của lao động = Tổng sản lượng / Thời gian sản xuất<br>
 Sản phẩm bình quân của lao động = Tổng sản lượng / Tổng cơ sở vật chất đầu vào<br>
 A<br>
+
 Công thức tổng quát để tính sản phẩm bình quân của lao động là:<br>
 APL = Q / L<br>
 APL = Q / K<br>
 APL = Q / f(L)<br>
 APL = Q / P<br>
 A<br>
+
 Công thức tổng quát để tính sản phẩm bình quân của tư bản là:<br>
 APK = Q / L<br>
 APK = Q / K<br>
 APK = Q / f(L)<br>
 APK = Q / P<br>
 B<br>
+
 Để nghiên cứu năng suất cận biên chẳng hạn của lao động, chúng ta hãy:<br>
 Bỏ qua các yếu tố sản xuất khác mà giả định chỉ để ý đến các yếu tố đầu vào và lao động tham gia sản xuất<br>
 Bỏ qua các yếu tố sản xuất khác mà giả định chỉ xem xét mối quan hệ giữa lao động tăng thêm và số lượng sản phẩm sản xuất ra.<br>
 Chỉ xét các yếu tố sản xuất khác mà bỏ qua các yếu tố đầu vào và lao động tham gia sản xuất<br>
 Chỉ xét các yếu tố sản xuất khác mà bỏ qua mối quan hệ giữa lao động tăng thêm và số lượng sản phẩm sản xuất ra.<br>
 B<br>
+
 Sản phẩm cận biên/Năng suất cận biên (MP) phản ánh:<br>
 Số sản phẩm giảm đi do một đơn vào bổ sung mang lại<br>
 Số sản phẩm giảm đi khi một nhân tố bất kì của sản xuất đầu vào bị ảnh hưởng, các nhân tố khác không đổi<br>
 Số sản phẩm tăng lên do một đơn vị vào bổ sung mang lại<br>
 Số sản phẩm tăng lên khi một nhân tố bất kì của sản xuất đầu vào bị ảnh hưởng, các nhân tố khác không đổi<br>
 A<br>
+
 Công thức tính sản phẩm cận biên (MP) là:<br>
 MP = Thay đổi của tổng sản lượng / Thay đổi của lượng cầu thị trường<br>
 MP = Thay đổi của tổng sản lượng / Thay đổi giá thị trường<br>
 MP = Thay đổi của tổng sản lượng / Thay đổi của các yếu tố sản xuất<br>
 MP = Thay đổi của tổng sản lượng / Thay đổi của lượng đầu vào<br>
 D<br>
+
 Công thức tính sản phẩm cận biên của lao động (MPL) là :<br>
 MPL = ∆Q / ∆S<br>
 MPL = ∆Q / ∆K<br>
 MPL = ∆Q / ∆P<br>
 MPL = ∆Q / ∆L<br>
 D<br>
+
 Công thức tính năng suất cận biên/sản phẩm cận biên của tư bản (MPK) là:<br>
 MPK = ∆Q / ∆S<br>
 MPK = ∆Q / ∆K<br>
 MPK = ∆Q / ∆P<br>
 MPK = ∆Q / ∆L<br>
 B<br>
+
 Đối với hầu hết các quá trình sản xuất, sản phẩm cận biên của lao động:<br>
 Tăng dần ở một thời điểm nhất định<br>
 Tăng dần khi một yếu tố thay đổi, các yếu tố khác centeris paribus<br>
 Giảm dần ở một thời điểm nhất định<br>
 Giảm dần khi một yếu tố thay đổi, các yếu tố khác centeris paribus<br>
 C<br>
+
 Đối với hầu hết các quá trình sản xuất, sản phẩm cận biên của lao động giảm dần ở một thời điểm nhất định. Điều này có đúng với sản phẩm cận biên của các đầu vào khác không ? Vì sao ?<br>
 Không. Do với các đầu vào khác nhau thì năng suất cận biên của lao động khác nhau. Do đó sản phẩm cận biên của lao động khác nhau.<br>
 Có. Do điều này là cố định với mọi đầu vào sản xuất<br>
 Không. Do sự tỉ lệ của các đầu vào, nên khi một đầu vào có sản phẩm cận biên của lao động giảm thì sẽ tồn tại một đầu vào khác có sản phẩm cận biên của lao động tăng<br>
 Có. Do điều này được tính dựa trên vào các công thức cố định, nên nó không biến thiên trong suốt quá trình sản xuất<br>
 B<br>
+
 Quy luật năng suất cận biên giảm dần phát biểu rằng:<br>
 Năng suất cận biên của một đầu vào biến đổi sẽ giảm dần khi sử dụng ngày càng nhiều hơn đầu vào đó trong quá trình sản xuất (Với điều kiện giữ nguyên lượng sử dụng các đầu vào cố định khác)<br>
 Năng suất cận biên của một đầu vào cố định sẽ giảm dần khi sử dụng ngày càng nhiều hơn đầu vào đó trong quá trình sản xuất (Với điều kiện giữ nguyên lượng sử dụng các đầu vào cố định khác)<br>
 Năng suất cận biên của một đầu vào biến đổi sẽ tăng dần khi sử dụng ngày càng nhiều hơn đầu vào đó trong quá trình sản xuất (Với điều kiện giữ nguyên lượng sử dụng các đầu vào cố định khác)<br>
 Năng suất cận biên của một đầu vào cố định sẽ tăng dần khi sử dụng ngày càng nhiều hơn đầu vào đó trong quá trình sản xuất (Với điều kiện giữ nguyên lượng sử dụng các đầu vào cố định khác)<br>
 A<br>
+
 Tại sao tồn tại quy luật năng suất cận biên giảm dần?<br>
 Vì khi các đơn vị đầu vào biến đổi thì số lượng yếu tố cố định bị lép vế<br>
 Vì khi cố định một số yếu tố mà không tận dụng được các yếu tố khác vào sản xuất thì năng suất giảm dần<br>
 Vì khi càng nhiều đơn vị đầu vào biến đổi được sử dụng thì các yếu tố cố định không còn nữa<br>
 Vì khi các đơn vị đầu vào biến đổi thì các yếu tố cố định không thể đáp ứng được<br>
 C<br>
+
 Quy luật năng suất cận biên giảm dần cho biết điều gì?<br>
 Mỗi một đơn vị đầu vào biến đổi tăng thêm được sử dụng trong quá trình sản xuất sẽ đem lại lượng sản phẩm bổ sung (MP) nhiều hơn đơn vị đầu vào trước đó<br>
 Sản phẩm cận biên của đầu vào biến đổi bắt đầu giảm tại một mức đầu vào biến đổi nhất định và có thể bằng không hoặc âm.<br>
 Khi một yếu tố đầu vào sản xuất thay đổi thì các yếu tố cố định không đủ đáp ứng được nhu cầu sản xuất<br>
 Cả A và B<br>
 B<br>
+
 Quy luật "Năng suất cận biên giảm dần" chỉ áp dụng được khi:<br>
 Tất cả các đầu vào khác giữ nguyên.<br>
 Các yếu tố cố định giữ nguyên<br>
 Các yếu tố đầu vào thay đổi<br>
 Một trong các yếu tố sản xuất như con người, công nghệ, đất đai... thay đổi, các yếu tố khác centeris paribus<br>
 A<br>
+
 Quy luật "Năng suất cận biên giảm dần" chỉ có thể áp dụng trong:<br>
 Dài hạn<br>
 Ngắt quãng<br>
 Ngắn hạn<br>
 Khi các yếu tố đầu vào thay đổi<br>
 C<br>
+
 Đường tổng sản lượng mô tả:<br>
 Sự thay đổi của đầu ra khi lao động được sử dụng trong quá trình sản xuất tăng lên có dạng hình chuông tăng, đạt giá trị lớn nhất và giảm xuống<br>
 Sự thay đổi của đầu ra khi lượng đầu vào biến đổi được sử dụng trong quá trình sản xuất giảm xuống có dạng hình chuông giảm, đạt giá trị nhỏ nhất và tăng lên<br>
 Sự thay đổi của đầu ra khi lao động được sử dụng trong quá trình sản xuất tăng lên có dạng hình chuông tăng<br>
 Sự thay đổi của đầu ra khi lượng đầu vào biến đổi được sử dụng trong quá trình sản xuất giảm xuống có dạng hình chuông giảm<br>
 A<br>
+
 Khi có sự thay đổi (như cải tiến công nghệ) thì đường tổng sản lượng:<br>
 Dịch chuyển xuống dưới<br>
 Dịch chuyển lên trên<br>
 Dịch chuyển sang trái<br>
 Dịch chuyển sang phải<br>
 B<br>
+
 Độ dốc của đường tổng sản lượng giảm đến 0 khi:<br>
 P là lớn nhất<br>
 L là lớn nhất<br>
 Q là lớn nhất<br>
 K là lớn nhất<br>
 C<br>
+
 Nếu mỗi lao động tăng thêm làm ra được nhiều sản phẩm hơn những đơn vị lao động trước thì:<br>
 Năng suất bình quân của lao động tăng lên<br>
 Năng suất bình quân của lao động giảm xuống<br>
 Năng suất bình quân tăng lên<br>
 Năng suất bình quân giảm xuống<br>
 C<br>
+
 Nếu năng suất cận biên tăng thì:<br>
 Năng suất bình quân của lao động tăng lên<br>
 Năng suất bình quân của lao động giảm xuống<br>
 Năng suất bình quân tăng lên<br>
 Năng suất bình quân giảm xuống<br>
 C<br>
+
 Trên đường sản phẩm bình quân, khi năng suất cận biên lớn hơn năng suất bình quân thì:<br>
 Đẩy năng suất bình quân lên<br>
 Đẩy năng suất bình quân xuống<br>
 Đẩy năng suất cận biên lên<br>
 Đẩy năng suất cận biên xuống<br>
 A<br>
+
 Trên đường sản phẩm bình quân, khi năng suất cận biên nhỏ hơn năng suất bình quân thì:<br>
 Đẩy năng suất bình quân lên<br>
 Đẩy năng suất bình quân xuống<br>
 Đẩy năng suất cận biên lên<br>
 Đẩy năng suất cận biên xuống<br>
 B<br>
+
 Trên đường sản phẩm bình quân, khi năng suất cận biên bằng năng suất bình quân thì:<br>
 Đẩy năng suất bình quân lên<br>
 Đẩy năng suất bình quân xuống<br>
 Đẩy năng suất cận biên lên<br>
 Năng suất bình quân không đổi (Ở điểm lớn nhất)<br>
 D<br>
+
 Hàm sản xuất biểu hiện:<br>
 Mối quan hệ kỹ thuật giữa các yếu tố sản xuất - đầu vào của quá trình sản xuất và sản lượng đầu ra được tạo ra từ quá trình này<br>
 Mối quan hệ giữa các yếu tố sản xuất - đầu vào của quá trình sản xuất, quá trình sản xuất và sản lượng đầu ra được tạo ra từ quá trình này<br>
 Mối quan hệ giữa các chủ thể kinh tế trong đó nhà sản xuất là người đóng vai trò quyết định, dựa trên đầu vào sản xuất, quá trình sản xuất và sản lượng đầu ra được tạo ra từ quá trình này<br>
 Không đáp án nào đúng<br>
 A<br>
+
 Cụ thể, hàm sản xuất cho biết điều gì ?<br>
 Sản lượng hàng hóa có thể tạo ra<br>
 Năng suất trung bình của lao động<br>
 Sản lượng hàng hóa tối đa có thể tạo ra<br>
 Năng suất trung bình của tư bản<br>
 C<br>
+
 Trong các yếu tố của hàm sản xuất, yếu tố không đổi là:<br>
 Lao động<br>
 Vốn<br>
 Đất đai<br>
 Công nghệ<br>
 D<br>
+
 Để nghiên cứu lý thuyết hành vi người sản xuất, cần có giả định gì để đơn giản hóa?<br>
 Tất cả những người lao động đều cung cấp những dịch vụ lao động giống nhau<br>
 Các hãng có hành vi là tối đa hóa lợi nhuận trong kinh tế thị trường<br>
 A và B<br>
 Không có đáp án nào đúng<br>
-C<br>
+C<br> 
+
 Hàm sản xuất tuyến tính có dạng:<br>
 Q = aK + bL<br>
 Q / L = a.(K.L) + b<br>
 Q = a(K + L)<br>
 Q / K = a.(K.L) + b<br>
 A<br>
+
 Hàm sản xuất Leontief có dạng:<br>
 Q = max(aK, bL)<br>
 Q = min(aK, bL)<br>
 Q = max(a(K + L), b(K / L))<br>
 Q = min(a(K + L), b(K / L))<br>
 B<br>
+
 Hàm sản xuất Cobb-Douglass có dạng:<br>
 Q = A.(K^a).(L^b)
 A > 0;  0 < a, b < 1<br>
@@ -212,12 +246,14 @@ A > 0;  0 < a, b < 1<br>
 Q = A.(K.L)^b
 A > 0;  0 < a, b < 1<br>
 A<br>
+
 Dạng tuyến tính của hàm sản xuất Cobb-Douglass là:<br>
 ln(Q) = (ln(A) / a.ln(K)) + (ln(A) / b.ln(L))<br>
 ln(Q) = ln(A) + a.(ln(K) + ln(L))<br>
 ln(Q) = ln(A) + a.ln(K) + b.ln(L)<br>
 ln(Q) = ln(A) / ln(K)<br>
 C<br>
+
 Cho hàm sản xuất Cobb-Douglass:
 Q = f(K, L) = A.(K^a).(L^b)
 Giả sử cố định K, năng suất cận biên của lao động được tính bằng công thức:<br>
@@ -226,6 +262,7 @@ MPL = A.(K.L)/a<br>
 MPL = A.(K^a).b.L^(b-1)<br>
 MPL = A.a.K^(a-1).L^b<br>
 C<br>
+
 Cho hàm sản xuất Cobb-Douglass:
 Q = f(K, L) = A.(K^a).(L^b)
 Để xét mối quan hệ giữa năng suất cận biên của lao động (MPL) và yếu tố biến đổi K, ta tính bằng công thức:<br>
@@ -234,36 +271,42 @@ MPL = A.(K.L)/a<br>
 MPL = A.(K^a).b.L^(b-1)<br>
 MPL = A.(K^a).b.(b-1).L^(b-2)<br>
 D<br>
+
 Khi xét mối quan hệ giữa năng suất cận biên của lao động và yếu tố biến đổi K. Quy luật năng suất cận biên giảm dần được thể hiện qua yếu tố nào?<br>
 MPL nghịch biến theo L<br>
 MPL nghịch biến theo a, b<br>
 MPL đồng biến tăng dần theo L<br>
 MPL đồng biến tăng dần theo a, b<br>
 A<br>
+
 Công cụ để phân tích sản xuất dài hạn là:<br>
 Đường giới hạn khả năng sản xuất (PPF)<br>
 Đường cung cầu thị trường<br>
 Đường đồng sản lượng (Isoquant)<br>
 Đường chi phí cơ hội gia tăng<br>
 C<br>
+
 Nhận xét nào sau đây đúng về đường đồng sản lượng (Isoquant) ?<br>
 Cho thấy mối liên hệ giữa các yếu tố sản xuất đầu vào với sản lượng đầu ra của một đầu vào sản xuất<br>
 Biểu thị tất cả những kết hợp yếu tố đầu vào khác nhau để hãng có thể sản xuất ra cùng một mức sản lượng Q<br>
 Biểu diễn mối quan hệ giữa các nhân tố cố định và các nhân tố có thể thay đổi trong đầu vào sản xuất, quá trình sản xuất và sản lượng của đầu vào đó<br>
 A và B<br>
 B<br>
+
 Đường đồng lượng có dạng:<br>
 Dốc xuống về phía bên phải<br>
 Dốc xuống về phía bên trái<br>
 Thẳng đứng<br>
 Nằm ngang<br>
 A<br>
+
 Trong một họ các đồng đồng lượng, khi thực hiện dịch chuyển từ đường đồng lượng này đến đường đồng lượng khác thì yếu tố không đổi là:<br>
 Các yếu tố đầu vào<br>
 Sản lượng sản phẩm sản xuất ra<br>
 Năng suất trung bình<br>
 Công nghệ<br>
 D<br>
+
 Khi vận động dọc theo đường sản lượng, nhận xét nào sau đây đúng?<br>
 Mức sản lượng giữ nguyên nhưng lượng tư bản và lao động cần thiết để sản xuất ra mức sản lượng đó sẽ thay đổi<br>
 Mức sản lượng thay đổi nhưng lượng tư bản và lao động cần thiết để sản xuất ra mức sản lượng đó sẽ giữ nguyên<br>
@@ -271,5 +314,142 @@ Mức sản lượng giữ nguyên nhưng lượng yếu tố đầu vào để 
 Mức sản lượng thay đổi nhưng lượng yếu tố đầu vào để sản xuất ra mức sản lượng đó sẽ giữ nguyên<br>
 A<br>
 
+Với một mức đầu ra cho trước, nếu sử dụng ngày càng nhiều hơn đầu vào này thì đầu vào kia sẽ:<br>
+Được sử dụng nhiều hơn và ngược lại<br>
+Được sử dụng ít hơn và ngược lại<br>
+Số lượng sử dụng cố định (không đổi)<br>
+Tăng giảm tùy thuộc vào mức độ sử dụng và năng suất lao động<br>
+B<br>
 
+Tỉ lệ thay thế kĩ thuật cận biên (MRTS) là:<br>
+Tỷ lệ chênh lệch giữa các yếu tố sản xuất và sản lượng đầu ra sao cho khi cố định các yếu tố sản xuất thì sản lượng đầu ra không đổi<br>
+Tỷ lệ phần trăm chênh lệch giữa các yếu tố sản xuất và sản lượng đầu ra sao cho khi cố định các yếu tố sản xuất thì sản lượng đầu ra không đổi<br> 
+Tỷ lệ thay thế giữa các yếu tố sản xuất nhưng vẫn đảm bảo tạo ra một mức sản lượng không đổi<br>
+Tỷ lệ thay thế phần trăm giữa các yếu tố sản xuất nhưng vẫn đảm bảo tạo ra một mức sản lượng không đổi<br>
+C<br>
 
+Ý nghĩa cụ thể của tỷ lệ thay thế kĩ thuật cận biên MRTS là:<br>
+Lượng tư bản phải giảm đi bao nhiêu khi sử dụng thêm một đơn vị lao động để vẫn tạo ra được mức sản lượng như cũ<br>
+Lượng tư bản phải tăng thêm bao nhiêu khi sử dụng thêm một đơn vị lao động để vẫn tạo ra được mức sản lượng như cũ<br>
+Để tăng thêm 1 đơn vị sản lượng đầu ra thì lượng tư bản phải tăng thêm bao nhiêu khi sử dụng thêm một đơn vị lao động<br>
+Để tăng thêm 1 đơn vị sản lượng đầu ra thì lượng tư bản phải giảm thêm bao nhiêu khi sử dụng thêm một đơn vị lao động<br>
+A<br>
+
+Trên đường đồng sản lượng, tỉ lệ thay thế kĩ thuật (MRTS) được biểu diễn bởi:<br>
+Các điểm trên đường đồng sản lượng<br>
+Độ dốc<br>
+Độ dài<br>
+Số giao điểm của đường này với đường khác<br>
+B<br>
+
+Công thức tính MRTS là:<br>
+MRTS = ∆K/∆L<br>
+MRTS = -∆K/∆L<br>
+MRTS = ∆K.∆L<br>
+A và B<br>
+D<br>
+
+Để biết rằng khi vận động dọc theo đường đồng sản lượng thì việc thay thế lao động cho tư bản thay đổi thế nào để giữ nguyên sản lượng, ta dựa vào biểu thức nào:<br>
+MPL / MPK = ∆L / ∆K<br>
+MPL.∆L + MPK.∆K = 0<br>
+MPL.∆L / MPK.∆K = 1<br>
+MPL.∆K - MPK.∆L = 0<br>
+B<br>
+
+Khi đầu vào là thay thế hoàn hảo, điều nào sau đây SAI?<br>
+Các đường đồng lượng là các đường thẳng<br>
+MRTS là một hằng số<br>
+Các đường đồng lượng có độ dốc lớn<br>
+Các đường Q1, Q2, ... Qn song song với nhau<br>
+C<br>
+
+Khi đầu vào là bổ sung hoàn hảo, điều nào sau đây đúng?<br>
+Các đường đồng sản lượng có dạng đường tuyến tính<br>
+Chỉ có một kết hợp lao động và tư bản có thể được sử dụng để sản xuất một sản lượng nhất định<br>
+MRTS là một hằng số<br>
+Các đường Q1, Q2, ... Qn song song với nhau<br>
+B<br>
+
+Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu ra. Khi đó ta có:<br>
+𝝀Q = f(hK, hL)<br>
+𝝀Q = f(K, L)<br>
+𝝀Q = f(hK / hL)<br>
+𝝀Q = f(hL / hK)<br>
+A<br>
+
+Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu ra. Khi nào thì hiệu suất tăng theo quy mô?<br>
+𝝀/h > 1<br>
+𝝀/h < 1<br>
+𝝀/h = 1<br>
+𝝀/h = 0<br>
+A<br>
+
+Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu ra. Khi nào thì hiệu suất giảm theo quy mô?<br>
+𝝀/h > 1<br>
+𝝀/h < 1<br>
+𝝀/h = 1<br>
+𝝀/h = 0<br>
+B<br>
+
+Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu ra. Khi nào thì hiệu suất không đổi theo quy mô?<br>
+𝝀/h > 1<br>
+𝝀/h < 1<br>
+𝝀/h = 1<br>
+𝝀/h = 0<br>
+C<br>
+
+Đối với hàm sản xuất Cobb-Douglass, hiệu suất giảm theo quy mô khi:<br>
+α + β < 1<br>
+α + β > 1<br>
+α + β = 1<br>
+α + β = 0<br>
+A<br>
+
+Đối với hàm sản xuất Cobb-Douglass, hiệu suất tăng theo quy mô khi:<br>
+α + β < 1<br>
+α + β > 1<br>
+α + β = 1<br>
+α + β = 0<br>
+B<br>
+
+Đối với hàm sản xuất Cobb-Douglass, hiệu suất không đổi theo quy mô khi:<br>
+α + β < 1<br>
+α + β > 1<br>
+α + β = 1<br>
+α + β = 0<br>
+C<br>
+
+Ngắn hạn là gì?<br>
+Là khoảng thời gian trong đó có nhiều nhất một đầu vào của doanh nghiệp là cố định<br>
+Là khoảng thời gian được dự tính trước sao cho các yếu tố đầu vào sản xuất của doanh nghiệp có thể sản xuất ra được một sản lượng Q cố định<br>
+Là khoảng thời gian được chưa biết trước sao cho các yếu tố đầu vào sản xuất của doanh nghiệp có thể sản xuất ra được một sản lượng Q cố định<br>
+Là khoảng thời gian trong đó có ít nhất một đầu vào của doanh nghiệp là cố định<br>
+D<br>
+
+Dài hạn là gì?<br>
+Là khoảng thời gian trong đó doanh nghiệp dự trù trước lượng yếu tố sản xuất đầu vào để thay đổi năng suất lao động cho phù hợp<br>
+Là khoảng thời gian trong đó doanh nghiệp có thể thay đổi tất cả các đầu vào sử dụng trong quá trình sản xuất<br>
+Là khoảng thời gian mà khi cố định ít nhất một yếu tố đầu vào thì sản lượng đầu ra của doanh nghiệp không đổi<br>
+A và B<br>
+B<br>
+
+Hàm sản xuất trong ngắn hạn giả sử rằng:<br>
+Số lượng vốn là không đổi<br>
+Các yếu tố công nghệ đầu vào là không đổi<br>
+Số lượng lao động đầu vào là không đổi<br>
+Vốn, con người, và đất đai không đổi<br>
+A<br>
+
+Chi phí tài nguyên là gì?<br>
+Là chi phí các nguồn nhân lực tính bằng hiện vật để sản xuất ra sản phẩm<br>
+Là chi phí các nguồn nhân lực mà nhà sản xuất sẵn có để sản xuất ra sản phẩm<br>
+Là tổng chi phí mà nhà sản xuất phải trả để có được các nguyên liệu và yếu tố đầu vào để sản xuất ra sản phẩm<br>
+Là tổng chi phí mà nhà sản xuất phải trả cho các nguồn nhân lực có sẵn để tạo ra sản phẩm<br>
+A<br>
+
+Đâu là cơ sở khoa học của việc nghiên cứu và xác định chi phí bằng tiền ?<br>
+Nghiên cứu hàm sản xuất chi<br>
+Nghiên cứu chi phí về tài nguyên<br>
+Nghiên cứu sự biến đổi của các yếu tố đầu vào<br>
+A và B<br>
+D<br>
