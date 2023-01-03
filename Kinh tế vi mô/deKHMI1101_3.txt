@@ -208,10 +208,16 @@ Trong công thức chỉ số Lerner, sức mạnh của nhà độc quyền cà
  Khi L càng nhỏ hơn 0<br>
 B<br>
 
- 
-
-
-
-
-
-
+* Một nhà độc quyền có hàm chi phí TC = Q^2 + 2Q + 100 và đối diện với hàm cầu là P = 122 - Q. Trong đó Q là số lượng sản phẩm, giá và chi phí tính bằng $. Để tối đa hóa lợi nhuận, nhà độc quyền quyết định như thế nào?<br>
+* Một nhà độc quyền gặp đường cầu P = 55 - 2Q. Hàm tổng chi phí là ($) TC = Q^2 - 5Q + 100. Thặng dư tiêu dùng và thặng dư sản xuất do nhà độc quyền lần lượt là<br>
+* Một nhà độc quyền gặp phải đường cầu P = 30 - 0,5Q. Nhà độc quyền này có chi phí bình quân không đổi và bằng 14$. Giá và sản lượng tối đa hóa lợi nhuận của nhà độc quyền lần lượt là<br>
+* Hãng Shell là hãng sản xuất độc quyền về các sản phẩm gas có hàm cầu về sản phẩm của mình là: P = 2750 - 45/8Q (trong đó P là giá và Q là số lượng bình gas). Tổng chi phí sản xuất của hãng là TC = Q/30 - 15Q^2 + 2500Q. Tính hệ số co dãn của cầu về gas tại mức giá và sản lượng tối đa lợi nhuận<br>
+* Một hãng độc quyền bán sản phẩm ở 2 thị trường A và B có hàm cầu là: P(A) = 80 - 0,5Q(A) và P(B) = 140 - 2Q(B). Vì không có sự ngăn cách nào giữa 2 thị trường nên hãng bán sản phẩm với giá thống nhất. Xác định hàm cầu và doanh thu cận biên của hãng?<br>
+* Có 70 người tiêu dùng 1 loại sản phẩm trên thị trường. Hàm cầu của mỗi người tiêu dùng giống nhau và được cho bởi: ($)P = 280 - 70Q/4. Sản phẩm này do 1 hãng sản xuất với hàm chi phí sản xuất VC = Q^2/6 + 30Q và FC = 15000, Xác định mức sản lượng và lợi nhuận thu được khi chính phủ đánh thuế 20$/đơn vị sản phẩm<br>
+* Một nhà độc quyền có đường cầu P = 60 - Q (Trong đó Q tính bằng nghìn sản phẩm, P tính bằng nghìn đồng/sản phẩm) và chi phí cố định là 300 nghìn đồng, chi phí cận biên không đổi là 10 nghìn đồng/sản phẩm. Tính chỉ số Lerner và EDF của nhà độc quyền?<br>
+* Một nhà độc quyền sản xuất với chi phí TC = 100 - 5Q + Q^2 và hàm cầu PD = 55 - 2Q. Tính phần mất không của xã hội (DWL)<br>
+* Doanh nghiệp toàn quyền hành động trên thị trường, hàm cầu thị trường của sản phẩm có dạng Q = -3P + 14400, hàm chi phí: TC = 1/3Q^2 + 200Q + 5000. Tính sức mạnh của thị trường<br>
+* Một doanh nghiệp độc quyền bán có hàm tổng doanh thu và chi phí biến đổi như sau: TR = 32Q - 0,6Q^2 và VC = 4Q + 0,4Q^2. Viết phương trình đường cầu và đường doanh thu biên của doanh nghiệp<br>
+* Một doanh nghiệp độc quyền bán có hàm tổng doanh thu và chi phí biến đổi như sau: TR = 32Q - 0,6Q^2 và VC = 4Q + 0,4Q^2. Với mức thuế t = 4/đơn vị sản phẩm, sản lượng và lợi nhuận của doanh nghiệp thay đổi như thế nào?<br>
+* Một nhà độc quyền có hàm cầu P = 52 -2Q, hàm chi phí TC = 0,5Q^2 + 2Q + 47,5. Hãng đặt giá bao nhiêu để bán được nhiều sản phẩm nhất mà không bị lỗ?
+* Một nhà độc quyền gặp đường cầu P = 30- 0,5Q; chi phí bình quân ATC = $14. Tính thặng dư tiêu dùng và thặng dư sản xuất trong điều kiện doanh nghiệp là người chấp nhận giá thị trường<br>
