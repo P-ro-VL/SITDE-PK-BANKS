@@ -392,7 +392,7 @@ A<br>
  16<br>
  24<br>
  32<br>
-A<br>
+B<br>
 
 Một nhà độc quyền sản xuất với chi phí TC = 100 - 5Q + Q^2 và hàm cầu P = 55 - 2Q. Tính phần mất không của xã hội (DWL)<br>
  DWL = 50<br>
