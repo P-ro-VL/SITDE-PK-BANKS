@@ -5,6 +5,8 @@ deKHMI1101_C5:C5 - Sản xuất Chi phí Lợi nhuận:normal:MIDTERM:3600:40<br
 Kinh tế vi mô/deKHMI1101_C5.txt<br>
 deKHMI1101_C6:C6 - Cấu trúc thị trường:normal:MIDTERM:3600:40<br>
 Kinh tế vi mô/deKHMI1101_C6.txt<br>
+deKHMI1101_MID_CS22_23:Giữa kì 22.23 - Khoa học máy tính:normal:MIDTERM:3600:40<br>
+Kinh tế vi mô/deKHMI1101_MID_CS22_23.txt<br>
 next
 
 TOCB1101:Đại số<br>
