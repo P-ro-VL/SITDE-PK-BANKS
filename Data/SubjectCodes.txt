@@ -1,8 +1,10 @@
 KHMI1101:Kinh tế vi mô<br>
-deKHMI1101_1:Giữa kì (C1 - 4):normal:MIDTERM:3600:40<br>
-Kinh tế vi mô/Kinh tế vi mô.txt<br>
-deKHMI1101_2:C6 - Cấu trúc thị trường:normal:MIDTERM:3600:40<br>
-Kinh tế vi mô/deKHMI1101_3_C6.txt<br>
+deKHMI1101_C1_4:Giữa kì (C1 - 4):normal:MIDTERM:3600:40<br>
+Kinh tế vi mô/deKHMI1101_C1_4.txt<br>
+deKHMI1101_C5:C5 - Sản xuất Chi phí Lợi nhuận:normal:MIDTERM:3600:40<br>
+Kinh tế vi mô/deKHMI1101_C5.txt<br>
+deKHMI1101_C6:C6 - Cấu trúc thị trường:normal:MIDTERM:3600:40<br>
+Kinh tế vi mô/deKHMI1101_C6.txt<br>
 next
 
 TOCB1101:Đại số<br>
