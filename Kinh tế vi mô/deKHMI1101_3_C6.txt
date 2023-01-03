@@ -1,447 +1,155 @@
-Đường giới hạn khả năng sản xuất là đường thẳng thể hiện quy luật chi phí cơ hội:<br>
-Tăng dần<br>
-Giảm dần<br>
-Không đổi<br>
-Tất cả các câu trên<br>
-C<br>
-
-Khi Chính phủ áp đặt giá trần sẽ dẫn đến hiện tượng:<br>
-Dư thừa<br>
-Thiếu hụt<br>
-Dư cầu<br>
-Cả B và C<br>
-D<br>
-
-Một doanh nghiệp đứng trước cầu co giãn, muốn tăng tổng doanh thu thì phải:<br>
-Tăng giá<br>
-Giảm giá<br>
-Giữ giá<br>
-Không câu nào<br>
-B<br>
-
-Để tối đa hóa lợi ích, người tiêu dùng cần phải cân bằng:<br>
-MUx = MUY<br>
-MUx/Px = MUY/PY<br>
-MUx/MUY = Px/PY<br>
-Cả B và C<br>
-D<br>
-
-Khi giá hàng hoá tăng 1% mà tổng doanh thu giảm 1% thì cầu hàng hoá đó là:<br>
-Co giãn đơn vị<br>
-Không co giãn<br>
-Co giãn<br>
-Hoàn toàn co giãn<br>
-C<br>
-
-Đường giới hạn khả năng sản xuất dịch chuyển sang phải khi:<br>
-Giảm yếu tố đầu vào<br>
-Tăng yếu tố đầu vào<br>
-Áp dụng công nghệ tiên tiến<br>
-Cả B và C<br>
-D<br>
-
-Thu nhập của người tiêu dùng tăng lên sẽ làm cho cầu:<br>
-Tăng<br>
-Giảm<br>
-Không câu nào<br>
-Cả A và B<br>
-D<br>
-
-Hàng hóa có cầu co giãn theo thu nhập sẽ có độ co giãn:<br>
-Lớn hơn 1<br>
-Nhỏ hơn 1<br>
-Nhỏ hơn 0<br>
-Không câu nào<br>
-A<br>
-
-Cung tăng, cầu giảm sẽ làm cho giá cân bằng:<br>
-Tăng<br>
-Giảm<br>
-Không đổi<br>
-Tất cả<br>
-B<br>
-
-Chính phủ đánh thuế trên đơn vị sản lượng bán ra sẽ làm tổng doanh thu tăng khi:<br>
-Cầu co giãn<br>
-Cầu không co giãn<br>
-Cầu co giãn đơn vị<br>
-Không câu nào<br>
-B<br>
-
-Trên thị trường máy tính lắp ráp tại Việt Nam, nếu Chính phủ đánh thuế trên sản phẩm bán
-ra sẽ làm cho:<br>
-Cung tăng<br>
-Cầu giảm<br>
-Cung giảm<br>
-Cầu tăng<br>
-C<br>
-
-Hàng hóa X và Y có độ co giãn chéo lớn hơn 0, vậy X và Y là hàng hóa:<br>
-Thay thế<br>
-Bổ sung<br>
-Độc lập<br>
-Không câu nào<br>
-A<br>
-
-Giá men làm bia tăng lên sẽ làm cho cầu về nem chua(bia và nem chua là hàng hóa bổ
-sung):<br>
-Tăng<br>
-Giảm<br>
-Không đổi<br>
-Không câu nào<br>
-B<br>
-
-Trên thị trường thịt bò, giá thịt bò tăng lên sẽ làm:<br>
-Cầu thị bò giảm<br>
-Cầu thịt bò tăng<br>
-Lượng cầu thịt bò giảm<br>
-Không câu nào<br>
-C<br>
-
-Thị trường sản phẩm X cho bởi hàm cầu và ccung như sau: P = 48 – 3Q và P = 16 + Q; 
-nếu Chính phủ đánh thuế 4/sản phẩm bán ra thì giá và sản lượng cân bằng:<br>
-P = 27; Q = 7<br>
-P = 7; Q = 27<br>
-P = 25; Q = 7<br>
-P = 17; Q = 8<br>
-A<br>
-
-Giá giảm mà tổng doanh thu tăng thì cầu về hàng hoá là:<br>
-Co giãn đơn vị<br>
-Không co giãn<br>
-Co giãn<br>
-Hoàn toàn co giãn<br>
-C<br>
-
-Nếu thu nhập của Nam giảm xuống, thì cầu về một hàng hóa của Nam sẽ:<br>
-Không thay đổi<br>
-Hàng hóa thông thường giảm<br>
-Hàng hóa xa xỉ tăng<br>
-Hàng hóa thứ cấp giảm<br>
-B<br>
-
-Khi Chính phủ đánh thuế đối với nhà sản xuất trên mỗi sản phẩm bán ra mà người tiêu 
-dùng phải chịu toàn bộ thuế thì cầu đối với hàng hóa:<br>
-Co giãn theo giá<br>
-Không co giãn theo giá<br>
-Hoàn toàn co giãn theo giá<br>
-Hoàn toàn không co giãn theo giá<br>
-D<br>
-
-Cầu về sản phẩm X tăng lên khi giá của sản phẩm Y giảm xuống thì X và Y là 2 hàng hóa:<br>
-Thay thế<br>
-Bổ sung<br>
-Thông thường<br>
-Thứ cấp<br>
-B<br>
-
-Chính phủ quyết định giảm án phạt cho hành vi tàng trữ và sử dụng ma tuý ở quy mô nhỏ 
-nhưng tăng án phạt cho hành vi buôn bán ma tuý. Chính sách này sẽ ảnh hưởng đến thị 
-trường ma tuý như thế nào?<br>
-Giá ma tuý sẽ tăng còn thay đổi sản lượng chưa xác định<br>
-Giá ma tuý sẽ giảm còn thay đổi sản lượng chưa xác định<br>
-Sản lượng ma tuý sẽ tăng còn thay đổi giá chưa xác định<br>
-Sản lượng ma tuý sẽ giảm còn thay đổi giá chưa xác định<br>
-A<br>
-
-Cho hai mệnh đề: (1) Đức sẽ nhận 80.000 người tị nạn trong năm nay; và (2) Các nước EU 
-sẽ nhận nhiều người tị nạn hơn mức mà họ có thể sẵn sàng chấp nhận. Các mệnh đề trên là 
-thực chứng hay chuẩn tắc?<br>
-Cả hai mệnh đề đều là thực chứng<br>
-Cả hai mệnh đề đều là chuẩn tắc<br>
-Mệnh đề A là thực chứng còn mệnh đề B là chuẩn tắc<br>
-Mệnh đề A là chuẩn tắc còn mệnh đề B là thực chứng<br>
-C<br>
-
-Điều gì sau đây sẽ làm cho thặng dư tiêu dùng tăng lên<br>
-Nhà nước đặt một mức giá sàn có hiệu lực<br>
-Chi phí sản xuất hàng hóa tăng lên<br>
-Số lượng nhà sản xuất giảm đi<br>
-Công nghệ sản xuất hàng hóa có tiến bộ<br>
-D<br>
-
-Giả sử hàng hóa A là đầu vào sản xuất hàng hóa B, hàng hóa B là hàng hóa bổ sung của 
-hàng hóa Các yếu tố khác không đổi, khi giá hàng hóa A giảm sẽ làm cho<br>
-Cung của B giảm đi và cầu của C tăng lên<br>
-Cung của B tăng lên cà cầu của C giảm đi<br>
-Cung của B giảm đi và cầu của C giảm đi<br>
-Cung của B tăng lên và cầu của C tăng lên<br>
-D<br>
-
-Giả sử Quân trúng thưởng Vietlott. Mệnh đề nào sau đây mô tả chính xác nhất thay đổi 
-trong cầu hàng hoá của bạn?<br>
-Cầu cho hàng hoá bình thường sẽ tăng còn cầu cho hàng hoá cấp thấp sẽ giảm<br>
-Cầu cho tất cả các hàng hoá, bình thường và cấp thấp, sẽ tăng<br>
-Cầu cho hàng hoá bình thường sẽ giảm còn cầu cho hàng hoá cấp thấp sẽ tăng<br>
-Chỉ có cầu của hàng hoá xa xỉ là sẽ tăng<br>
-A<br>
-
-Giả sử trên một đường ngân sách, giá của sản phẩm X được biểu diễn ở trục hoành tăng 
-lên gấp 3 lần trong khi giá của sản phẩm Y được biểu diễn ở trục tung tăng lên 2 lần trong 
-khi đó thu nhập của người tiêu dùng chỉ tăng lên 1,5 lần. Đường ngân sách sẽ bị ảnh hưởng 
-như thế nào?<br>
-Đường ngân sách sẽ dịch vào trong và trở nên dốc hơn<br>
-Đường ngân sách sẽ dịch ra ngoài và trở nên dốc hơn<br>
-Đường ngân sách sẽ dịch ra ngoài và trở nên thoải hơn<br>
-Đường ngân sách sẽ dịch vào trong và trở nên thoải hơn<br>
-A<br>
-
-Hầu hết các loại ô tô chạy điện sử dụng pin Lithium-Ion. Nếu chính phủ trợ cấp cho việc 
-mua ô tô chạy điện thì mệnh đề nào sau đây nhiều khả năng sẽ xảy ra nhất?<br>
-Giá của lithium sẽ tăng trừ khi cung lithium là hoàn toàn co giãn<br>
-Cầu của lithium sẽ tăng trừ khi cung lithium là hoàn toàn co giãn<br>
-Giá của lithium sẽ tăng trừ khi cung ltihium là hoàn toàn không co giãn<br>
-Không có mệnh đề nào có khả năng xảy ra<br>
-A<br>
-
-Khả năng của hàng hóa dịch vụ có thể thỏa mãn các nhu cầu của người tiêu dùng được gọi 
-là<br>
-Tối đa hóa lợi ích<br>
-Chi phí cơ hội<br>
-Doanh thu tiềm năng<br>
-Lợi ích<br>
-D<br>
-
-Khi chính phủ đánh thuế sản lượng t đồng trên mỗi đơn vị sản phẩm bán ra, người tiêu 
-dùng sẽ chịu gánh nặng thuế ít hơn người sản xuất nếu<br>
-Cầu và cung hàng hóa đó đều co giãn<br>
-Cầu và cung hàng hóa đó đều không co giãn<br>
-Cầu về hàng hóa đó không co giãn và cung hàng hóa đó co giãn<br>
-Cầu về hàng hóa đó co giãn và cung hàng hóa đó không co giãn<br>
-D<br>
-
-Khi di chuyển dọc theo một đường cung thì yếu tố nào sau đây không được giữ không đổi<br>
-Số lượng hãng sản xuất hàng hóa<br>
-Kì vọng về giá cả trong tương lai<br>
-Công nghệ được sử dụng trong sản xuất<br>
-Mức giá của bản thân hàng hóa đang nghiên cứu<br>
-D<br>
-
-Khi nguồn lực được chuyển từ ngành này sang ngành khác, điều này được minh họa bởi<br>
-Sự vận động dọc theo đường giới hạn khả năng sản xuất<br>
-Sự dịch chuyển đường giới hạn khả năng sản xuất ra bên ngoài<br>
-Sự dịch chuyển đường giới hạn khả năng sản xuất vào bên trong<br>
-Làm dịch chuyển đường cầu sang trái<br>
-A<br>
-
-Linh là người ăn chay, cô ấy không ăn thịt bao giờ, tức là việc tiêu dùng thịt không đem lại 
-lợi ích gì cho Linh. Ngược lại, cô ấy rất thích ăn khoai lang. Nếu ta vẽ các đường bàng 
-quan mô tả lợi ích của Linh với số lượng thịt ở trục hoành và số lượng khoai lang ở trục 
-tung thì các đường bàng quan của Linh sẽ<br>
-dốc xuống.<br>
-là đường thẳng đứng.<br>
-dốc lên<br>
-là đường thẳng nằm ngang.<br>
-D<br>
-
-Lợi ích cận biên của việc Quang ăn chiếc bánh mỳ thứ tư sẽ bằng<br>
-Tổng lợi ích Quang có từ việc ăn bốn chiếc bánh mỳ trừ đi tổng lợi ích Quang có từ 
-việc ăn ba chiếc bánh mỳ<br>
-Tổng lợi ích từ việc Quang ăn bốn chiếc bánh mỳ<br>
-Nhỏ hơn chi phí cận biên của việc ăn chiếc bánh mỳ thứ tư do Quang đã quyết định 
-sẽ ăn chiếc bánh mỳ thứ tư<br>
-Tổng lợi ích từ việc Quang ăn năm chiếc bánh mỳ trừ đi tổng lợi ích từ việc Quang 
-ăn bốn chiếc bánh mỳ<br>
-A<br>
-
-Một đường cầu thẳng đứng có giá trị tuyệt đối của độ co giãn theo giá là:<br>
-Nhỏ hơn 0<br>
-Bằng 0<br>
-Giữa 0 và 1<br>
-Lớn hơn 1<br>
-B<br>
-
-Những người bận rộn thường ít có thời gian dạo qua nhiều cửa hiệu để tìm mức giá tốt 
-nhất. Theo bạn giá trị tuyệt đối co giãn cầu theo giá của họ sẽ như thế nào so với những 
-người bình thường?<br>
-Cao hơn<br>
-Thấp hơn<br>
-Không có sự khác biệt nào<br>
-Không đủ thông tin để kết luận<br>
-B<br>
-
-Sau khi TESCO đặt giá 5 xu đối với túi Nylon (thay vì miễn phí) thì họ nhận thấy số vụ 
-mất trộm giỏ mua hàng tăng lên. Từ thông tin này ta có thể kết luận:<br>
-Giỏ mua hàng và túi Nylon là các hàng hoá bổ sung<br>
-Khách hàng không trả tiền cho giả mua hàng vì vậy hai mặt hàng này không phải là 
-bổ sung hay thay thế<br>
-Giỏ mua hàng và túi Nylon là các hàng hoá thay thế<br>
-Không thể kết luận nếu không biết giá của giỏ mua hàng<br>
-C<br>
-
-Thất nghiệp và sự không hiệu quả trong sản xuất:<br>
-Làm cho đường giới hạn khả năng sản xuất dịch chuyển ra bên ngoài<br>
-Có thể tồn tại ở bất cứ điểm nào nằm trên đường giới hạn khả năng sản xuất<br>
-Đều được biểu diễn bằng một điểm nằm ngoài đường giới hạn khả năng sản xuất<br>
-Đều được biểu diễn bằng một điểm nằm trong đường giới hạn khả năng sản xuất<br>
-D<br>
-
-Tỉ số giá giữa hai hàng hóa X và Y là 1:2. Nếu một người tiêu dùng đang tiêu dùng số 
-lượng hàng hóa X và Y ở mức thỏa mãn MUx/MUy = 1/2 thì để tối đa hóa tổng lợi ích, 
-người này phải<br>
-Không thay đổi quyết định tiêu dùng hiện tại<br>
-Tăng số lượng Y và giảm số lượng X<br>
-Tăng số lượng X và giảm số lượng Y<br>
-Tăng gấp đôi số lượng X và giảm một nửa số lượng Y<br>
-A<br>
-
-Trong mô hình dòng luân chuyển của nền kinh tế:<br>
-Các doanh nghiệp luôn trao đổi hàng hoá lấy tiền<br>
-Các hộ gia đình luôn trao đổi tiền lấy hàng hoá<br>
-Bao gồm cả các giao dịch thương mại quốc tế<br>
-Các hộ gia đình là người bán trên thị trường yếu tố sản xuất và người mua trên thị 
-trường hàng hoá dịch vụ<br>
-D<br>
-
-Vấn đề nào dưới đây không thuộc phạm vi nghiên cứu của kinh tế học vi mô:<br>
-Tiền công và thu nhập<br>
-Sự khác biệt thu nhập giữa các quốc gia<br>
-Tiêu dùng<br>
-Sản xuất<br>
-B<br>
-
-Đường cầu cho chuối có dạng dốc xuống. Khi giá chuối là 2 đồng một nải, lượng cầu tương 
-ứng là 100 nải. Khi giá chuối tăng lên 3 đồng một nải, thăng dư tiêu dùng sẽ thay đổi như 
-thế nào ?<br>
-Tăng lên<br>
-Giảm đi<br>
-Không đổi<br>
-Chưa thể kết luận<br>
-B<br>
-
-
-
 Phát biểu nào sau đây không phải là một đặc điểm của thị trường cạnh tranh hoàn hảo?<br>
-Có vô số người mua và người bán trên thị trường<br>
-Sản phẩm đồng nhất và người mua có đầy thông tin về sản phẩm<br>
-Thông tin trên thị trường là hoàn hảo<br>
-Việc xâm nhập và rút khỏi thị trường phải được thị trường xác nhận<br>
+ Có vô số người mua và người bán trên thị trường<br>
+ Sản phẩm đồng nhất và người mua có đầy thông tin về sản phẩm<br>
+ Thông tin trên thị trường là hoàn hảo<br>
+ Việc xâm nhập và rút khỏi thị trường phải được thị trường xác nhận<br>
 D<br>
+
 Đâu là đặc trưng của hành vi cạnh tranh hoàn hảo ?<br>
-Hãng cạnh tranh hoàn hảo là người chấp nhận giá thị trường<br>
-Hãng cạnh tranh hoàn hảo có thể bán tất cả sản lượng của mình ở mức giá thị trường<br>
-Hãng cạnh tranh hoàn hảo đặt ra một mức giá ban đầu và để thị trường tự cân bằng mức giá đó<br>
-Hãng cạnh tranh hoàn hảo không có sức mạnh thị trường<br>
+ Hãng cạnh tranh hoàn hảo là người chấp nhận giá thị trường<br>
+ Hãng cạnh tranh hoàn hảo có thể bán tất cả sản lượng của mình ở mức giá thị trường<br>
+ Hãng cạnh tranh hoàn hảo đặt ra một mức giá ban đầu và để thị trường tự cân bằng mức giá đó<br>
+ Hãng cạnh tranh hoàn hảo không có sức mạnh thị trường<br>
 C<br>
+
 Mục đích ngắn hạn của một nhà sản xuất là:<br>
-Xác định được sản lượng mang lại lợi nhuận tối đa<br>
-Tối đa hoá doanh thu sao cho tổng chi phí là thấp nhất<br>
-Tối đa hoá doanh thu bằng việc cải thiện và đầu tư cho các yếu tố đầu vào để sản lượng sản xuất được giữ ở một mức Q cố định<br>
-Cả 3 đáp án trên<br>
+ Xác định được sản lượng mang lại lợi nhuận tối đa<br>
+ Tối đa hoá doanh thu sao cho tổng chi phí là thấp nhất<br>
+ Tối đa hoá doanh thu bằng việc cải thiện và đầu tư cho các yếu tố đầu vào để sản lượng sản xuất được giữ ở một mức Q cố định<br>
+ Cả 3 đáp án trên<br>
 A<br>
+
 Mọi hãng sản xuất đều tìm kiếm mức sản lượng mà tại đó<br>
-TR max<br>
-MR – MC = 0<br>
-MR max<br>
-TC min<br>
+ TR max<br>
+ MR – MC = 0<br>
+ MR max<br>
+ TC min<br>
 B<br>
+
 Quy tắc lựa chọn sản phẩm mang lại lợi nhuận tối đa với hãng cạnh tranh hoàn hảo là<br>
-MC = P<br>
-MC = MR<br>
-MC = 0<br>
-MR = 0<br>
+ MC = P<br>
+ MC = MR<br>
+ MC = 0<br>
+ MR = 0<br>
 A<br>
+
 Hãng cạnh tranh hoàn hảo đối mặt với đường cầu<br>
-Dốc về bên phải<br>
-Dốc về bên trái<br>
-Nằm ngang<br>
-Thẳng đứng<br>
+ Dốc về bên phải<br>
+ Dốc về bên trái<br>
+ Nằm ngang<br>
+ Thẳng đứng<br>
 C<br>
+
 Lợi nhuận đơn vị được tính bằng công thức:<br>
-P – ATC<br>
-P – AFC<br>
-P – AVC<br>
-P*Q – ATC<br>
+ P – ATC<br>
+ P – AFC<br>
+ P – AVC<br>
+ P*Q – ATC<br>
 A<br>
+
 Điểm hoà vốn (break-even) là điểm mà tại đó:<br>
-P = ATC min<br>
-TR = TC<br>
-TR max, TC min<br>
-A và B<br>
-D<br>
+ P = ATC min<br>
+ TR = TC<br>
+ TR max, TC min<br>
+ A và B<br>
+ D<br>
+
 Điểm đóng cửa là điểm mà tại đó:<br>
-P < AVC min<br>
-P < ATC min<br>
-P <= ATC min<br>
-P <= AVC min<br>
+ P < AVC min<br>
+ P < ATC min<br>
+ P <= ATC min<br>
+ P <= AVC min<br>
 D<br>
+
 Hãng nên đóng cửa sản xuất trong trường hợp nào sau đây<br>
-TR <= VC<br>
-TR <= FC<br>
-TR <= AVC<br>
-TC <= ATC<br>
+ TR <= VC<br>
+ TR <= FC<br>
+ TR <= AVC<br>
+ TC <= ATC<br>
 A<br>
+
 Đường cung của hãng cạnh tranh hoàn hảo là:<br>
-Đường chi phí cận biên<br>
-Đường chi phí cận biên, phần nằm bên trên điểm đóng cửa<br>
-Đường chi phí cận biên, phần nằm bên dưới điểm đóng cửa<br>
-Đường chi phí cận biên, đi qua điểm đóng cửa<br>
+ Đường chi phí cận biên<br>
+ Đường chi phí cận biên, phần nằm bên trên điểm đóng cửa<br>
+ Đường chi phí cận biên, phần nằm bên dưới điểm đóng cửa<br>
+ Đường chi phí cận biên, đi qua điểm đóng cửa<br>
 B<br>
+
 Đường cung trong thị trường cạnh tranh hoàn hảo là<br>
-Tổng hợp các đường cung của hãng theo chiều dọc<br>
-Tổng hợp các đường cung của hãng theo đường chéo<br>
-Tổng hợp các đường cung của hãng theo chiều ngang<br>
-Tổng hợp trung bình của các đường cung thị trường đang có trên đồ thị sao cho đường ấy đi qua điểm cân bằng thị trường<br>
+ Tổng hợp các đường cung của hãng theo chiều dọc<br>
+ Tổng hợp các đường cung của hãng theo đường chéo<br>
+ Tổng hợp các đường cung của hãng theo chiều ngang<br>
+ Tổng hợp trung bình của các đường cung thị trường đang có trên đồ thị sao cho đường ấy đi qua điểm cân bằng thị trường<br>
 C<br>
+
 Đường cung ngắn hạn của các hãng cạnh tranh hoàn hảo dốc lên do quy luật nào sau đây:<br>
-Quy luật chi phí cơ hội tăng dần<br>
-Quy luật chi phí cận biên giảm dần<br>
-Quy luật năng suất cận biên giảm dần<br>
-B và C<br>
+ Quy luật chi phí cơ hội tăng dần<br>
+ Quy luật chi phí cận biên giảm dần<br>
+ Quy luật năng suất cận biên giảm dần<br>
+ B và C<br>
 C<br>
+
 Công thức nào sau đây dùng để tính thặng dư sản xuất?<br>
-PS = TR – VC<br>
-PS = MR – MC<br>
-PS = Lợi nhuận – ATC<br>
-PS = Lợi nhuận – AVC<br>
+ PS = TR – VC<br>
+ PS = MR – MC<br>
+ PS = Lợi nhuận – ATC<br>
+ PS = Lợi nhuận – AVC<br>
 A<br>
+
 Lợi nhuận kinh tế càng cao khi<br>
-Doanh thu càng cao<br>
-Thặng dư sản xuất càng cao<br>
-Chi phí dành cho lao động càng thấp<br>
-Các yếu tố đầu vào đáp ứng vừa đủ hoặc hơn để sản xuất một lượng Q cố định<br>
+ Doanh thu càng cao<br>
+ Thặng dư sản xuất càng cao<br>
+ Chi phí dành cho lao động càng thấp<br>
+ Các yếu tố đầu vào đáp ứng vừa đủ hoặc hơn để sản xuất một lượng Q cố định<br>
 B<br>
+
 Điều kiện cân bằng dài hạn của hãng là:<br>
-MC = ATC = P<br>
-MR = ATC = P<br>
-MC = AVC = P<br>
-MR = AVC = P<br>
+ MC = ATC = P<br>
+ MR = ATC = P<br>
+ MC = AVC = P<br>
+ MR = AVC = P<br>
 A<br>
+ 
 Hiệu quả sản xuất đạt được khi nào<br>
-ATC min<br>
-AVC min<br>
-TR max<br>
-Lợi nhuận max<br>
+ ATC min<br>
+ AVC min<br>
+ TR max<br>
+ Lợi nhuận max<br>
 A<br>
+
 Giá thị trường của sản phẩm bị ảnh hưởng thế nào nếu thuế chỉ đánh vào sản lượng của một hãng ?<br>
-Giá thị trường giảm xuống<br>
-Giá thị trường tăng lên<br>
-Giá thị trường không đổi<br>
-Giá thị trường thay đổi lên xuống tuỳ thuộc vào mức độ co giãn của sản phẩm<br>
+ Giá thị trường giảm xuống<br>
+ Giá thị trường tăng lên<br>
+ Giá thị trường không đổi<br>
+ Giá thị trường thay đổi lên xuống tuỳ thuộc vào mức độ co giãn của sản phẩm<br>
 C<br>
+
 Giả sử đánh một lượng thuế t vào sản lượng của một hãng thì đường chi phí cận biên của hãng dịch chuyển thế nào?<br>
-Dịch chuyển lên trên một khoảng t / 2<br>
-Dịch chuyển lên trên một khoảng t<br>
-Dịch chuyển xuống dưới một khoảng t / 2<br>
-Dịch chuyển xuống dưới một khoảng t<br>
+ Dịch chuyển lên trên một khoảng t / 2<br>
+ Dịch chuyển lên trên một khoảng t<br>
+ Dịch chuyển xuống dưới một khoảng t / 2<br>
+ Dịch chuyển xuống dưới một khoảng t<br>
 B<br>
+ 
 Giá thị trường bị ảnh hưởng thế nào nếu đánh một lượng thuế t vào tất cả các hãng trong thị trường<br>
-Giá tăng một khoảng t<br>
-Giá tăng một khoảng nhỏ hơn t<br>
-Giá tăng một khoảng lớn hơn t<br>
-Giá tăng một khoảng t/2<br>
+ Giá tăng một khoảng t<br>
+ Giá tăng một khoảng nhỏ hơn t<br>
+ Giá tăng một khoảng lớn hơn t<br>
+ Giá tăng một khoảng t/2<br>
 B<br>
+
 Hãng thị trường cạnh tranh lựa chọn sản lượng trong điều kiện giả định là:<br>
-Cầu hoàn toàn co giãn và đường cầu trùng đường MR<br>
-Cầu ít co giãn và đường cầu trùng đường MR<br>
-Cầu hoàn toàn không co giãn và đường cầu trùng đường MR<br>
-Cầu co giãn đơn vị và đường cầu trùng đường MR<br>
+ Cầu hoàn toàn co giãn và đường cầu trùng đường MR<br>
+ Cầu ít co giãn và đường cầu trùng đường MR<br>
+ Cầu hoàn toàn không co giãn và đường cầu trùng đường MR<br>
+ Cầu co giãn đơn vị và đường cầu trùng đường MR<br>
 A<br>
+
 Điều nào sau đây SAI về sự can thiệp của chính phủ vào thị trường cạnh tranh hoàn hảo?<br>
-Các chính sách của chính phủ có thể được phân tích bằng các mô hình đơn giản về cung cầu<br>
-Chính phủ áp đặt thuế sẽ khiến giá thị trường thường không tăng hay giảm bằng lượng thuế<br>
-Sự can thiệp của chính phủ thường làm lợi ích ròng của xã hội bị mất đi<br>
-Chính phủ có thể dùng thặng dư tiêu dùng và thặng dư sản xuất để phân tích quá trình biến đổi của thị trường, từ đó áp đặt các chính sách sao cho hiệu quả<br>
+ Các chính sách của chính phủ có thể được phân tích bằng các mô hình đơn giản về cung cầu<br>
+ Chính phủ áp đặt thuế sẽ khiến giá thị trường thường không tăng hay giảm bằng lượng thuế<br>
+ Sự can thiệp của chính phủ thường làm lợi ích ròng của xã hội bị mất đi<br>
+ Chính phủ có thể dùng thặng dư tiêu dùng và thặng dư sản xuất để phân tích quá trình biến đổi của thị trường, từ đó áp đặt các chính sách sao cho hiệu quả<br>
 D<br>
 
 
@@ -466,7 +174,7 @@ Giả sử rằng chi phí cố định của nhà độc quyền tăng gấp đ
  Tăng gấp đôi mức giá tối đa hóa lợi nhuận do nhà độc quyền đặt ra<br>
  Lợi nhuận giảm đi một nửa so với mức nhà độc quyền thu được trước khi chi phí tăng<br>
  Đóng cửa sản xuất nếu giá không thay đổi tương ứng<br>
- Không có sự thay đổi trong mức giá tối đa hóa lợi nhuận do nhà độc quyền đặt r nếu nó không đóng cửa sản xuất<br>
+ Không có sự thay đổi trong mức giá tối đa hóa lợi nhuận do nhà độc quyền đặt ra nếu nó không đóng cửa sản xuất<br>
 D<br>
 
 Nhà độc quyền đối diện với đường cầu dốc xuống, doanh thu cận biên không bao giờ lớn hơn giá vì<br>
@@ -679,11 +387,12 @@ Một nhà độc quyền gặp phải đường cầu P = 30 - 0,5Q. Nhà độ
  Giá $128/đvsp, sản lượng 22 sản phẩm <br>
 A<br>
 
-Một nhà độc quyền gặp phải đường cầu P = 30 - 0,5Q. Nhà độc quyền này có chi phí bình quân không đổi và bằng 14$. Tính phần mất không của xã hội nếu nhà độc quyền này chỉ bán 24 sản phẩm<br>
+* Một nhà độc quyền gặp phải đường cầu P = 30 - 0,5Q. Nhà độc quyền này có chi phí bình quân không đổi và bằng 14$. Tính phần mất không của xã hội nếu nhà độc quyền này chỉ bán 24 sản phẩm<br>
  8<br>
  16<br>
  24<br>
  32<br>
+A<br>
 
 Một nhà độc quyền sản xuất với chi phí TC = 100 - 5Q + Q^2 và hàm cầu P = 55 - 2Q. Tính phần mất không của xã hội (DWL)<br>
  DWL = 50<br>
@@ -727,7 +436,6 @@ Một doanh nghiệp độc quyền bán có hàm tổng doanh thu và chi phí 
  Q tăng 2,5 và P giảm 1,5<br>
 B<br>
 
-
 Một nhà độc quyền gặp đường cầu P = 30- 0,5Q; chi phí bình quân ATC = $14. Tính thặng dư tiêu dùng (CS) và thặng dư sản xuất (PS) trong điều kiện doanh nghiệp là người chấp nhận giá thị trường<br>
  CS = 0 và PS = 256 (đvt) <br>
  CS = 265 và PS = 35 (đvt)<br>
@@ -742,7 +450,7 @@ Theo hãng nghiên cứu thị trường iSupply, trong năm 2009, chi phí cậ
  L1 = 0,72 ; L2 = 0,69 ; L3 = 0,54<br>
 D<br>
 
-Một nhà độc quyền có đường cầu P = 15 - 5Q, hàm tổng chi phí TC = 2,5Q^2 + 3Q + 1. Tính lợi ích ròng của xã hội (NSB) gây ra bởi nhà độc quyền<br>
+Một nhà độc quyền có đường cầu P = 15 - 5Q, hàm tổng chi phí TC = 2,5Q^2 + 3Q + 1. Tính lợi ích ròng của xã hội (NSB) gây ra bởi nhà độc quyền <br>
  NSB = 6,4<br>
  NSB = 1,6<br>
  NSB = 4,8<br>
@@ -753,135 +461,136 @@ A<br>
 
 
 Cạnh tranh độc quyền là<br>
-Một cấu trúc thị trường trung gian giữa thị trường cạnh tranh hoàn hảo và thị trường độc quyền thuần tuý<br>
-Một cấu trúc thị trường trung gian giữa thị trường cạnh tranh không hoàn hảo và thị trường độc quyền duy nhất<br>
-Một cấu trúc thị trường trung gian giữa thị trường cạnh tranh hoàn hảo và thị trường độc quyền duy nhất<br>
-Một cấu trúc thị trường trung gian giữa thị trường cạnh tranh không hoàn hảo và thị trường độc quyền thuần tuý<br>
+ Một cấu trúc thị trường trung gian giữa thị trường cạnh tranh hoàn hảo và thị trường độc quyền thuần tuý<br>
+ Một cấu trúc thị trường trung gian giữa thị trường cạnh tranh không hoàn hảo và thị trường độc quyền duy nhất<br>
+ Một cấu trúc thị trường trung gian giữa thị trường cạnh tranh hoàn hảo và thị trường độc quyền duy nhất<br>
+ Một cấu trúc thị trường trung gian giữa thị trường cạnh tranh không hoàn hảo và thị trường độc quyền thuần tuý<br>
 A<br>
+
 Ngành là một tập hợp các doanh nghiệp sản xuất các sản phẩm được coi là<br>
-Thay thế gần gũi cho nhau<br>
-Bổ sung gần gũi cho nhau<br>
-Gần như thay thế cho nhau<br>
-Gần như bổ sung cho nhau<br>
+ Thay thế gần gũi cho nhau<br>
+ Bổ sung gần gũi cho nhau<br>
+ Gần như thay thế cho nhau<br>
+ Gần như bổ sung cho nhau<br>
 A<br>
 
 Đường cầu của kem đánh răng PS<br>
-Dốc xuống nhưng tương đối không co giãn<br>
-Dốc xuống nhưng tương đối co giãn<br>
-Thoải xuống và tương đối co giãn<br>
-Là đường nằm ngang<br>
+ Dốc xuống nhưng tương đối không co giãn<br>
+ Dốc xuống nhưng tương đối co giãn<br>
+ Thoải xuống và tương đối co giãn<br>
+ Là đường nằm ngang<br>
 B<br>
 
 Trong thị trường cạnh tranh độc quyền, mỗi doanh nghiệp tìm cách làm cho sản phẩm của mình phân biệt sản phẩm của mình với sản phẩm của doanh nghiệp khác thì đường cầu về sản phẩm của nó càng<br>
-Ít co dãn<br>
-Co dãn<br>
-Không co dãn<br>
-Không thay đổi<br>
+ Ít co dãn<br>
+ Co dãn<br>
+ Không co dãn<br>
+ Không thay đổi<br>
 A<br>
 
 Cấu trúc ngành cạnh tranh độc quyền bao gồm các yếu tố<br>
-Cạnh tranh,thay thế<br>
-Cạnh tranh,duy nhất<br>
-Cạnh tranh, độc quyền<br>
-Cạnh tranh, độc quyền, thay thế<br>
+ Cạnh tranh,thay thế<br>
+ Cạnh tranh,duy nhất<br>
+ Cạnh tranh, độc quyền<br>
+ Cạnh tranh, độc quyền, thay thế<br>
 D<br>
 
 Trong mô hình chi tiết về nghành cạnh tranh độc quyền, nhiều vấn đề phụ thuộc vào<br>
-Số lượng doanh nghiệp kinh doanh các mặt hàng thay thế<br>
-Giá thành của sản phẩm, nhu cầu của người tiêu dùng, mức độ cạnh tranh của thị trường<br>
-Các chi tiết của sản phẩm và công nghệ,bản chất của sự lựa chọn công nghệ của doanh nghiệp<br>
-Cả ba í trên<br>
+ Số lượng doanh nghiệp kinh doanh các mặt hàng thay thế<br>
+ Giá thành của sản phẩm, nhu cầu của người tiêu dùng, mức độ cạnh tranh của thị trường<br>
+ Các chi tiết của sản phẩm và công nghệ,bản chất của sự lựa chọn công nghệ của doanh nghiệp<br>
+ Cả ba ý trên<br>
 C<br>
 
 Chúng ta có thể mô tả trạng thái cân bằng của ngành theo cách nào<br>
-Mỗi doanh nghiệp đang bán sản phẩm với kết hợp giá và sản lượng trên đường cầu của mình<br>
-Mỗi doanh nghiệp đang tối đa hoá lợi nhuận của mình với đường cầu nhất định mà nó đối mặt<br>
-Sự gia nhập ngành của các doanh nghiệp mới buộc lợi nhuận của ngành giảm xuống bằng 0<br>
-Cả ba í trên<br>
+ Mỗi doanh nghiệp đang bán sản phẩm với kết hợp giá và sản lượng trên đường cầu của mình<br>
+ Mỗi doanh nghiệp đang tối đa hoá lợi nhuận của mình với đường cầu nhất định mà nó đối mặt<br>
+ Sự gia nhập ngành của các doanh nghiệp mới buộc lợi nhuận của ngành giảm xuống bằng 0<br>
+ Cả ba ý trên<br>
 D<br>
 
 Thị trường cạnh tranh độc quyền có một đặc trưng then chốt<br>
-Các hãng cạnh tranh với nhau bằng cách bản những sản phẩm giống nhau, không thể thay thế cho nhau<br>
-Các hãng cạnh tranh với nhau bằng cách bán những sản phẩm giống nhau, có thể thay thế nhau<br>
-Các hãng cạnh tranh với nhau bằng cách bán những sản phẩm khác biệt, không thể thay thế được cho nhau<br>
-Các hãng cạnh tranh với nhau bằng cách bán những sản phẩm khác biệt,có thể thay thế được cho nhau ở mức độ cao<br>
+ Các hãng cạnh tranh với nhau bằng cách bản những sản phẩm giống nhau, không thể thay thế cho nhau<br>
+ Các hãng cạnh tranh với nhau bằng cách bán những sản phẩm giống nhau, có thể thay thế nhau<br>
+ Các hãng cạnh tranh với nhau bằng cách bán những sản phẩm khác biệt, không thể thay thế được cho nhau<br>
+ Các hãng cạnh tranh với nhau bằng cách bán những sản phẩm khác biệt,có thể thay thế được cho nhau ở mức độ cao<br>
 D<br>
 
 Thị trường cạnh tranh độc quyền có một đặc trưng<br>
-Tự do gia nhập ngành và rút lui khỏi ngành<br>
-Tự do gia nhập ngành nhưng không được rút lui ra khỏi ngành<br>
-Gia nhập ngành và rút lui ra khỏi ngành cần sự cho phép<br>
-Không có các đặc trưng trên<br>
+ Tự do gia nhập ngành và rút lui khỏi ngành<br>
+ Tự do gia nhập ngành nhưng không được rút lui ra khỏi ngành<br>
+ Gia nhập ngành và rút lui ra khỏi ngành cần sự cho phép<br>
+ Không có các đặc trưng trên<br>
 A<br>
 
 Thị trường ô tô là<br>
-Thị trường cạnh tranh độc quyền<br>
-Thị trường độc quyền tập đoàn<br>
-Thị trường cạnh tranh tập đoàn<br>
-Cả ba í trên sai<br>
+ Thị trường cạnh tranh độc quyền<br>
+ Thị trường độc quyền tập đoàn<br>
+ Thị trường cạnh tranh tập đoàn<br>
+ Cả ba ý trên sai<br>
 B<br>
 
 Xà phòng thơm, dầu gội đầu,nước xịt thơm, kem cạo râu,…..,mặt hàng trong các hiệu thuốc, xe đạp và các hàng hoá thể thao khác và các doanh nghiệp bán lẻ là các ví dụ về thị trường cạnh tranh độc quyền là đúnh hay sai<br>
-Đúng<br>
-Sai<br>
-Cả đúng cả sai<br>
-Không đúng không sai<br>
+ Đúng<br>
+ Sai<br>
+ Cả đúng cả sai<br>
+ Không đúng không sai<br>
 A<br>
 
 Phần lớn các doanh nghiệp bán lẻ giống như cạnh tranh độc quyền vì hàng hoá ở các cửa hàng bán lẻ khác nhau sẽ cạnh tranh với nhau bằng sự khác biệt về<br>
-Phục vụ phù hợp với địa điểm<br>
-Sự sẵn có về tín dụng<br>
-Nghiệp vụ của người bán<br>
-Cả ba í trên<br>
+ Phục vụ phù hợp với địa điểm<br>
+ Sự sẵn có về tín dụng<br>
+ Nghiệp vụ của người bán<br>
+ Cả ba ý trên<br>
 D<br>
 
 Trong thị trường cạnh tranh độc quyền, nếu lợi nhuận cao ở lân cận vì có một cửa hàng thì các cửa hàng khác sẽ<br>
-Rút khỏi thị trường<br>
-Gia nhập thị trường<br>
-Ở lại thị trường<br>
-Thay đổi quy mô<br>
+ Rút khỏi thị trường<br>
+ Gia nhập thị trường<br>
+ Ở lại thị trường<br>
+ Thay đổi quy mô<br>
 B<br>
 
 Thị trường nhà hàng của bất kì thành phố nào có đặc tính của<br>
-Thị trường cạnh tranh độc quyền<br>
-Thị trường độc quyền tập đoàn<br>
-Thị trường cạnh tranh tập đoàn<br>
-Cả ba í trên sai<br>
+ Thị trường cạnh tranh độc quyền<br>
+ Thị trường độc quyền tập đoàn<br>
+ Thị trường cạnh tranh tập đoàn<br>
+ Cả ba í trên sai<br>
 A<br>
 
 Tại sao việc gia nhập thị trường kinh doanh nhà hàng lại tương đối dễ dàng<br>
-Mỗi nhà hàng bán các món ăn khác nhau, có các quảng cáo khác nhau<br>
-Mỗi nhà hàng có địa điểm, thực đơn khác nhau<br>
-Mỗi nhà hàng lại phù hợp cho nhiều tầng lớp khác nhau<br>
-Cả ba í trên đúng<br>
+ Mỗi nhà hàng bán các món ăn khác nhau, có các quảng cáo khác nhau<br>
+ Mỗi nhà hàng có địa điểm, thực đơn khác nhau<br>
+ Mỗi nhà hàng lại phù hợp cho nhiều tầng lớp khác nhau<br>
+ Cả ba ý trên đúng<br>
 D<br>
 
 Ở thành phố Hotlelis, Hoa Kì có một lối đi bộ trải dài dọc trên bãi biển. Một số người bán kem bằng xe đẩy muốn bán kem trên lối đi bộ. Nếu chỉ có một người bán kem trên lối đi bộ thì anh ta sẽ chọn địa điểm nào<br>
-Tại 1/3 quãng đường đi bộ<br>
-Tại 1/2 quãng đường đi bộ<br>
-Tại 3/4  quãng đường đi bộ<br>
-Tại đầu hoặc cuối quãng đường đi  bộ<br>
+ Tại 1/3 quãng đường đi bộ<br>
+ Tại 1/2 quãng đường đi bộ<br>
+ Tại 3/4  quãng đường đi bộ<br>
+ Tại đầu hoặc cuối quãng đường đi  bộ<br>
 B<br>
 
-Ở thành phố Hotlelis, Hoa Kì có một lối đi bộ trải dài dọc trên bãi biển. Một số người bán kem bằng xe đẩy muốn bán kem trên lối đi bộ. Nếu có 2 người bán kem trên lỗi đi bộ thì trạng thái cân bằng duy nhất của 2 người này là ở đâu<br>
-Tại 1/3 quãng đường đi bộ<br>
-Tại 1/2 quãng đường đi bộ<br>
-Tại 3/4  quãng đường đi bộ<br>
-Tại đầu hoặc cuối quãng đường đi  bộ<br>
+Ở thành phố Hotlelis, Hoa Kì có một lối đi bộ trải dài dọc trên bãi biển. Một số người bán kem bằng xe đẩy muốn bán kem trên lối đi bộ. Nếu có 2 người bán kem trên lỗi đi bộ thì trạng thái cân bằng duy nhất của 2 người này là ở đâu <br>
+ Tại 1/3 quãng đường đi bộ<br>
+ Tại 1/2 quãng đường đi bộ<br>
+ Tại 3/4  quãng đường đi bộ<br>
+ Tại đầu hoặc cuối quãng đường đi  bộ<br>
 B<br>
 
 Ở thành phố Hotlelis, Hoa Kì có một lối đi bộ trải dài dọc trên bãi biển. Một số người bán kem bằng xe đẩy muốn bán kem trên lối đi bộ. Giả sử có 2 người bán kem trên lối đi bộ đang đứng tại điểm cân bằng duy nhất và bạn là người bán kem bên trái.Nếu bạn chuyển địa điểm một chút xang bên phải thì<br>
-Thị phần bán kem của bạn sẽ giảm xuống do bị mất khách hàng từ phía bên phải<br>
-Thị phần bán kem của bạn sẽ giảm xuống do bị mất khách hàng từ phía bên trái<br>
-Thị phần bán kem của bạn sẽ tăng lên do ăn cắp được thêm khách hàng từ phía bên phải<br>
-Thị phần bán kem của bạn sẽ tănh lên do ăn cắp được thêm khách hàng từ phía bên trái<br>
+ Thị phần bán kem của bạn sẽ giảm xuống do bị mất khách hàng từ phía bên phải<br>
+ Thị phần bán kem của bạn sẽ giảm xuống do bị mất khách hàng từ phía bên trái<br>
+ Thị phần bán kem của bạn sẽ tăng lên do ăn cắp được thêm khách hàng từ phía bên phải<br>
+ Thị phần bán kem của bạn sẽ tănh lên do ăn cắp được thêm khách hàng từ phía bên trái<br>
 C<br>
 
 Tại một kênh chúng ta có nhạc cổ điển và kênh còn lại là nhạc rốc cực mạnh. Nếu kênh nhạc cổ điển phát nhạc gần trung tâm hơn và kênh nhạc rốc cũng làm như vậy thì số lượng thính giả mỗi kênh sẽ tăng lên. Như vậy trong trạng thái cân bằng, cả hai đài sẽ phát chương trình giống nhau và người có thị hiếu cực đoan sẽ<br>
-Chọn 1 trong hai kênh để nghe<br>
-Cảm thấy bất hạnh khi nghe bất cứ chương trình ca nhạc nào<br>
-Không nghe kênh nào cả<br>
-Cả ba í trên sai<br>
+ Chọn 1 trong hai kênh để nghe<br>
+ Cảm thấy bất hạnh khi nghe bất cứ chương trình ca nhạc nào<br>
+ Không nghe kênh nào cả<br>
+ Cả ba ý trên sai<br>
 B<br>
 
 Cạnh tranh độc quyền giống cạnh tranh hoàn hảo ở chỗ<br>
@@ -892,191 +601,170 @@ Khó khăn gia nhập<br>
 A<br>
 
 Đâu là 1 quyết định sản xuất của hãng cạnh tranh độc quyền<br>
-Cân bằng trung bình<br>
-Cân bằng dài hạn<br>
-Cân bằng trạng thái<br>
-Cân bằng độc quyền<br>
+ Cân bằng trung bình<br>
+ Cân bằng dài hạn<br>
+ Cân bằng trạng thái<br>
+ Cân bằng độc quyền<br>
 B<br>
 
 Đường cầu theo giá và sản lượng cân bằng của doanh nghiệp cạnh tranh độc quyền trong ngắn hạn như thế nào so với thị dài hạn<br>
-Thoải hơn<br>
-Dốc hơn<br>
-Như nhau<br>
-Không xác định được<br>
+ Thoải hơn<br>
+ Dốc hơn<br>
+ Như nhau<br>
+ Không xác định được<br>
 B<br>
 
 Trong ngắn hạn,doanh nghiệp cạnh tranh độc quyền thực hiện tối đa hoá lợi nhuận.Khi đó doanh nghiệp có lợi nhuận kinh tế<br>
-Âm<br>
-Dương<br>
-Bằng 0<br>
-Bằng vô cùng<br>
+ Âm<br>
+ Dương<br>
+ Bằng 0<br>
+ Bằng vô cùng<br>
 B<br>
 
 Trong dài hạn, lợi nhuận dương sẽ<br>
-Kích thích doanh nghiệp mở rộng quy mô<br>
-Làm hạn chế thu nhập các ngành cạnh tranh<br>
-Kích thích các doanh nghiệp mới gia nhập thị trường<br>
-Tất cả đáp án trên<br>
+ Kích thích doanh nghiệp mở rộng quy mô<br>
+ Làm hạn chế thu nhập các ngành cạnh tranh<br>
+ Kích thích các doanh nghiệp mới gia nhập thị trường<br>
+ Tất cả đáp án trên<br>
 C<br>
 
 Khi các doanh nghiệp mới gia nhập vào thị trường cạnh tranh độc quyền thì các doanh nghiệp đang ở trong ngành sẽ<br>
-Mất đi một phần thị trường và doanh thu sẽ giảm,đường cầu vẫn dốc xuống<br>
-Mất đi một phần thị trường và doanh thu sẽ giảm, đường cầu dốc lên<br>
-Mất đi một phần thị trường và doanh thu sẽ giảm, đường cầu nằm ngang<br>
-Không bị ảnh hưởng gì cả<br>
+ Mất đi một phần thị trường và doanh thu sẽ giảm,đường cầu vẫn dốc xuống<br>
+ Mất đi một phần thị trường và doanh thu sẽ giảm, đường cầu dốc lên<br>
+ Mất đi một phần thị trường và doanh thu sẽ giảm, đường cầu nằm ngang<br>
+ Không bị ảnh hưởng gì cả<br>
 A<br>
 
 Trong dài hạn, khi các doanh nghiệp mới gia nhập, các đường chi phí trung bình và đường chi phí cận biên của doanh nghiệp đang ở trong nhành được giả định là không đổi và đường cầu dài hạn sẽ tiếp xúc với đường nào và doanh thu doanh nghiệp là bao nhiêu<br>
-Đường chi phí trung bình và bằng 0<br>
-Đường chi phí cận biên và bằng vô cùng<br>
-Cả hai đường trên và bằng 0<br>
-Không đường nào cả và bằng vô cùng<br>
+ Đường chi phí trung bình và bằng 0<br>
+ Đường chi phí cận biên và bằng vô cùng<br>
+ Cả hai đường trên và bằng 0<br>
+ Không đường nào cả và bằng vô cùng<br>
 A<br>
 
 Vì sao các thị trường cạnh tranh độc quyền là mong muốn<br>
-Có quy mô lớn và có mặt hàng sản xuất lad duy nhất<br>
-Có lợi nhuận cao khi càng nhiều doanh nghiệp gia nhập thị trường<br>
-Có hiệu quả kinh tế khi mà không có ngoại ứng và không có gì ngăn cản hoạt động của thị trường khiến tổng thặng dư của người tiêu dùng và người sản xuất là lớn nhất<br>
-Cả ba í trên<br>
+ Có quy mô lớn và có mặt hàng sản xuất lad duy nhất<br>
+ Có lợi nhuận cao khi càng nhiều doanh nghiệp gia nhập thị trường<br>
+ Có hiệu quả kinh tế khi mà không có ngoại ứng và không có gì ngăn cản hoạt động của thị trường khiến tổng thặng dư của người tiêu dùng và người sản xuất là lớn nhất<br>
+ Cả ba í trên<br>
 C<br>
 
- Trong thị trường cạnh tranh độc quyền, lợi ích cận biên như thế nào so với chi phí cận biên để sản xuất chúng<br>
-Cao hơn<br>
-Thấp hơn<br>
-Bằng nhau<br>
-Không thể so sánh<br>
+Trong thị trường cạnh tranh độc quyền, lợi ích cận biên như thế nào so với chi phí cận biên để sản xuất chúng<br>
+ Cao hơn<br>
+ Thấp hơn<br>
+ Bằng nhau<br>
+ Không thể so sánh<br>
 A<br>
 
 Phần mất không (DWL) đối với xã hội của thị trường độc quyền<br>
-Bằng thị trường cạnh tranh hoàn hảo<br>
-Ít hơn thị trường cạnh trạnh hoàn hảo<br>
-Bằng thị trường độc quyền<br>
-Ít hơn thị trường độc quyền<br>
+ Bằng thị trường cạnh tranh hoàn hảo<br>
+ Ít hơn thị trường cạnh trạnh hoàn hảo<br>
+ Bằng thị trường độc quyền<br>
+ Ít hơn thị trường độc quyền<br>
 D<br>
 
 Các hãng cạnh tranh độc quyền<br>
-Hoạt động với mức công suất dư thừa nhưng sản lượng lại thấp hơn sản lượng ở mức chi phí trung bình tối thiểu<br>
-Hoạt động với mức công suấy thiếu hụt nên sản lượng thấp hơn sản lượng ở mức trung bình tối thiểu<br>
-Hoạt động ở mức công suất dư thừa nên sản lượng nhiều hơn sản lượng ở mức chi phí trung bình tối thiểu<br>
-Hoạt động ở mức công suất thiếu hụt nhưng sản lượng lại nhiều hơn sản lượng ở mức cân bằng tối thiểu<br>
+ Hoạt động với mức công suất dư thừa nhưng sản lượng lại thấp hơn sản lượng ở mức chi phí trung bình tối thiểu<br>
+ Hoạt động với mức công suấy thiếu hụt nên sản lượng thấp hơn sản lượng ở mức trung bình tối thiểu<br>
+ Hoạt động ở mức công suất dư thừa nên sản lượng nhiều hơn sản lượng ở mức chi phí trung bình tối thiểu<br>
+ Hoạt động ở mức công suất thiếu hụt nhưng sản lượng lại nhiều hơn sản lượng ở mức cân bằng tối thiểu<br>
 A<br>
 
 Trong thị trường cạnh tranh độc quyền, điểm lợi nhuận bằng 0 nằm ở<br>
-Bên phải điểm chi phí cân bằng tối thiểu<br>
-Bên trái điểm chi phí cân bằng tối thiểu<br>
-Trùng điểm chi phí cân bằng tối thiểu<br>
-Không xác định được<br>
+ Bên phải điểm chi phí cân bằng tối thiểu<br>
+ Bên trái điểm chi phí cân bằng tối thiểu<br>
+ Trùng điểm chi phí cân bằng tối thiểu<br>
+ Không xác định được<br>
 B<br>
 
 Thặng dư tiêu dùng trong thị trường cạnh tranh độc quyền thấp hơn trong thị trường cạnh tranh hoàn hảo vì<br>
-Mức sản lượng thấp hơn<br>
-Giá bán ra thấp hơn<br>
-Giá bán ra cao hơn<br>
-Cả A và C<br>
+ Mức sản lượng thấp hơn<br>
+ Giá bán ra thấp hơn<br>
+ Giá bán ra cao hơn<br>
+ Cả A và C<br>
 C<br>
 
 Tại sao các hãng cạnh tranh độc quyền lại bị sản xuất với công xuất dư thừa<br>
-Vì chi phí sản xuất thấp nên mở rộng quy mô sản xuất là điều dễ hiểu<br>
-Vì nhu cầu của khách hàng lớn( do trung thành với cac thương hiệu)<br>
-Vì trong ngành có nhiều sản phẩm dễ thay thế cho nhau nên đối với 1 sản phẩm cụ thể của hãng, cầu sẽ giảm dần và sản phẩm không được tiêu thụ trên thị trường<br>
-Cả ba í trên<br>
+ Vì chi phí sản xuất thấp nên mở rộng quy mô sản xuất là điều dễ hiểu<br>
+ Vì nhu cầu của khách hàng lớn( do trung thành với cac thương hiệu)<br>
+ Vì trong ngành có nhiều sản phẩm dễ thay thế cho nhau nên đối với 1 sản phẩm cụ thể của hãng, cầu sẽ giảm dần và sản phẩm không được tiêu thụ trên thị trường<br>
+ Cả ba í trên<br>
 C<br>
 
 Trong hầu hết thị trường cạnh tranh độc quyền, sức mạnh độc quyền là<br>
-Tương đối lớn<br>
-Tương đối nhỏ<br>
-Là tuyệt đối<br>
-Là hằng số<br>
+ Tương đối lớn<br>
+ Tương đối nhỏ<br>
+ Là tuyệt đối<br>
+ Là hằng số<br>
 B<br>
 
 Thị trường cạnh tranh độc quyền có<br>
-Đường cầu tương đối co dãn, công suất dư thừa lớn<br>
-Đường cầu tương đối không co giãn, công suất dư thừa nhỏ<br>
-Đường cầu tương đối co giãn, công suất dư thừa nhỏ<br>
-Đường cầu tương đôi không co giãn, công suất dư thừa lớn<br>
+ Đường cầu tương đối co dãn, công suất dư thừa lớn<br>
+ Đường cầu tương đối không co giãn, công suất dư thừa nhỏ<br>
+ Đường cầu tương đối co giãn, công suất dư thừa nhỏ<br>
+ Đường cầu tương đôi không co giãn, công suất dư thừa lớn<br>
 C<br>
 
 Đâu là một lợi ích rất quan trọng của khách hàng trong thị trường cạnh tranh độc quyền<br>
-Giá thành sản phẩm thấp<br>
-Số lượng sản phẩm nhiều<br>
-Chất lượng sản phẩm cao<br>
-Sự đa dạng hoá sản phẩm<br>
+ Giá thành sản phẩm thấp<br>
+ Số lượng sản phẩm nhiều<br>
+ Chất lượng sản phẩm cao<br>
+ Sự đa dạng hoá sản phẩm<br>
 D<br>
 
 Điển hình của thị trường cạnh tranh độc quyền<br>
-Mức độ co giãn của đường cầu lớn<br>
-Mức độ trung thành của khách hàng không cao<br>
-Các thương hiệu có mức độ độc quyền nhỏ<br>
-Cả ba í trên<br>
+ Mức độ co giãn của đường cầu lớn<br>
+ Mức độ trung thành của khách hàng không cao<br>
+ Các thương hiệu có mức độ độc quyền nhỏ<br>
+ Cả ba ý trên<br>
 D<br>
 
 Các đặc điểm của thị trường cạnh tranh độc quyền<br>
-Các hãng cạnh tranh với nhau bằng việc bán các sản phẩm khác biệt và có độ thay thế nhau cao<br>
-Các hãng mới có thể gia nhạp hoặc rút lui thị trường một cách dễ dàng<br>
-Sức mạnh độc quyền của các hãng là nhỏ<br>
-Cả ba í trên<br>
+ Các hãng cạnh tranh với nhau bằng việc bán các sản phẩm khác biệt và có độ thay thế nhau cao<br>
+ Các hãng mới có thể gia nhạp hoặc rút lui thị trường một cách dễ dàng<br>
+ Sức mạnh độc quyền của các hãng là nhỏ<br>
+ Cả ba ý trên<br>
 D<br>
 
 
-Một hãng cạnh tranh độc quyền gặp đường cầu về sản phẩm của mình là P = 9 – Q. Tổng chi phí ngắn hạn STC = 2 + 3Q +Q2, đường chi phí bình quân dài hạn LAC = 5Q -Q2.Tìm giá, sản lượng cho hãng trong ngắn hạn<br>
-Q = 1,75; P = 7,75 <br>
-Q = 1,5 ; P = 7,75 <br>
-Q = 1,75 ; P = 7,5 <br>
-Q = 1,5 ; P = 7,5 <br>
+Một hãng cạnh tranh độc quyền gặp đường cầu về sản phẩm của mình là P = 9 – Q. Tổng chi phí ngắn hạn STC = 2 + 3Q + Q^2, đường chi phí bình quân dài hạn LAC = 5Q - Q2. Tìm giá, sản lượng cho hãng trong ngắn hạn<br>
+ Q = 1,75; P = 7,75 <br>
+ Q = 1,5 ; P = 7,75 <br>
+ Q = 1,75 ; P = 7,5 <br>
+ Q = 1,5 ; P = 7,5 <br>
 D<br>
 
-Một hãng cạnh tranh độc quyền gặp đường cầu về sản phẩm của mình là P = 9 – Q. Tổng chi phí ngắn hạn STC = 2 + 3Q +Q2, đường chi phí bình quân dài hạn LAC = 5Q -Q2. Tìm giá, sản lượng cho hãng trong dài hạn<br>
-Q = 3,5; P = 6,5 <br>
-Q = 3 ; P = 6 <br>
-Q = 3,75 ; P = 6 <br>
-Q = 3,5 ; P = 6 <br>
+Một hãng cạnh tranh độc quyền gặp đường cầu về sản phẩm của mình là P = 9 – Q. Tổng chi phí ngắn hạn STC = 2 + 3Q + Q^2, đường chi phí bình quân dài hạn LAC = 5Q - Q2. Tìm giá, sản lượng cho hãng trong dài hạn<br>
+ Q = 3,5; P = 6,5 <br>
+ Q = 3 ; P = 6 <br>
+ Q = 3,75 ; P = 6 <br>
+ Q = 3,5 ; P = 6 <br>
 B<br>
 
 Một hãng cạnh tranh độc quyền gặp đường cầu về sản phẩm của mình là P = 9 – Q. Tổng chi phí ngắn hạn STC = 2 + 3Q +Q2, đường chi phí bình quân dài hạn LAC = 5Q -Q2.Tìm lợi nhuận cho hãng trong ngắn hạn<br>
-2,5<br>
-2,75<br>
-3,5<br>
-3,75<br>
+ 2,5<br>
+ 2,75<br>
+ 3,5<br>
+ 3,75<br>
 A<br>
 
 Một hãng cạnh tranh độc quyền gặp đường cầu về sản phẩm của mình là P = 9 – Q. Tổng chi phí ngắn hạn STC = 2 + 3Q +Q2, đường chi phí bình quân dài hạn LAC = 5Q -Q2. Tìm lợi nhuận cho hãng trong dài hạn<br>
  4<br>
-7<br>
-0<br>
-5<br>
+ 7<br>
+ 0<br>
+ 5<br>
 C<br>
 
 Hàm cầu của một dịch vụ sửa xe máy là Q = 240 -20P có mức sản lượng tối ưu là 80 xe máy được sửa và  ATC = 10$ , AVC = 6$.Hãng sẽ lỗ(lãi) bao nhiêu<br>
-Lãi 160$<br>
-Lãi 200$<br>
-Lỗ 160$<br>
-Lỗ 200$<br>
+ Lãi 160$<br>
+ Lãi 200$<br>
+ Lỗ 160$<br>
+ Lỗ 200$<br>
 C<br>
 
 Ở Thái Nguyên thị trường chè là thị trường cạnh tranh độc quyền. Hàm cầu cho lượng người mua hàng ngày và chi phí trung bình dài hạn là : P = 9 – 0.9Q  ; AC = 10 – 0.06Q + 0.0001Q2. Tính mức giá doanh nghiệp chè sẽ đặt trong dài hạn<br>
-5<br>
-4<br>
-5,5<br>
-4,5<br>
+ 5<br>
+ 4<br>
+ 5,5<br>
+ 4,5<br>
 A<br>
-
-Ở Thái Nguyên thị trường chè là thị trường cạnh tranh độc quyền. Hàm cầu cho lượng người mua hàng ngày và chi phí trung bình dài hạn là : P = 9 – 0.9Q  ; AC = 10 – 0.06Q + 0.0001Q2. Tính số lượng người mua tại mức giá doanh nghiệp đặt ra trong dài hạn<br>
-112<br>
-120<br>
-100<br>
-96<br>
-C<br>
-
-Ở Thái Nguyên thị trường chè là thị trường cạnh tranh độc quyền. Hàm cầu cho lượng người mua hàng ngày và chi phí trung bình dài hạn là : P = 9 – 0.9Q  ; AC = 10 – 0.06Q + 0.0001Q2. Chi phí trung bình dài hạn lầ bao nhiêu<br>
-4<br>
-5<br>
-4,5<br>
-5,5<br>
-B<br>
-
-Ở Thái Nguyên thị trường chè là thị trường cạnh tranh độc quyền. Hàm cầu cho lượng người mua hàng ngày và chi phí trung bình dài hạn là : P = 9 – 0.9Q  ; AC = 10 – 0.06Q + 0.0001Q2. Lợi nhuận thu được là bao nhiêu<br>
-7<br>
-8,6<br>
-0<br>
-5<br>
-C<br>
