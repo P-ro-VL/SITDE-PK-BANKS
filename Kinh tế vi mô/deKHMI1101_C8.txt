@@ -54,4 +54,154 @@ Thuế khoán<br>
 Thuế xuất nhập khẩu<br>
 D<br>
 
+Chính phủ điều tiết sản lượng như thế nào để khắc phục độc quyền và sức mạnh thị trường<br>
+MC = D<br>
+MR = D<br>
+MB = D<br>
+P = D<br>
+A<br>
+
+Phương pháp điều tiết độc quyền tự nhiên bản chất là:<br>
+Độc quyền tự nhiên = Độc quyền + Tính kinh tế của vĩ mô<br>
+Độc quyền tự nhiên = Độc quyền + Tính kinh tế của vi mô<br>
+Độc quyền tự nhiên = Độc quyền + Tính kinh tế của tư bản<br>
+Độc quyền tự nhiên = Độc quyền + Tính kinh tế của lao động<br>
+B<br>
+
+Ngoại ứng là gì?<br>
+Là hiện tượng khi hoạt động sản xuất hoặc tiêu dùng của một chủ thể kinh tế gây ra ảnh hưởng đến quyền lợi của người khác<br>
+Là hiện tượng khi hoạt động sản xuất của một chủ thể kinh tế gây ra ảnh hưởng đến lợi ích của người khác<br>
+Là hiện tượng khi hoạt động sản xuất hoặc tiêu dùng của một chủ thể kinh tế gây ra ảnh hưởng đến lợi ích của người khác<br>
+Là hiện tượng khi hoạt động tiêu dùng của một chủ thể kinh tế gây ra ảnh hưởng đến lợi ích của người khác<br>
+C<br>
+
+Hiện tại ngoại ứng xảy ra khi nào?<br>
+Khi các doanh nghiệp hay các cá nhân áp đặt chi phí cho những người khác mà những người này không nhận được sự thanh toán hay phải trả chi phí thích hợp.<br>
+Khi các doanh nghiệp hay các cá nhân áp đặt lợi ích cho những người khác mà những người này không nhận được sự thanh toán hay phải trả chi phí thích hợp.<br>
+Khi các doanh nghiệp và chính phủ áp đặt chi phí hay lợi ích cho những người khác mà những người này không nhận được sự thanh toán hay phải trả chi phí thích hợp.<br>
+Khi các doanh nghiệp hay các cá nhân áp đặt chi phí hay lợi ích cho những người khác mà những người này không nhận được sự thanh toán hay phải trả chi phí thích hợp.<br>
+D<br>
+
+Hiện tượng ngoại ứng tiêu cực xảy ra khi nào?<br>
+MSC > MPC<br>
+MSC < MPC<br>
+MSC = MPC<br>
+Không đáp án nào đúng<br>
+A<br>
+
+Giải pháp cho hiện tượng ngoại ứng tiêu cực là:<br>
+Ra các điều luật<br>
+Đánh thuế<br>
+Đặt ra hạn ngạch<br>
+Điều tiết thị trường<br>
+B<br>
+
+Tại sao khi xảy ra hiện tượng ngoại ứng tiêu cực, người ta lại đánh thuế?
+Biết MSC = Chi phí xã hội cận biên; MPC = Chi phí cá nhân/hãng cận biên
+MEC = Chi phí ngoại ứng cận biên<br>
+Vì MSC = MPC - MEC<br>
+Vì MSC = (MPC.MEC)/D<br>
+Vì MSC = MPC + MEC<br>
+Vì MSC = MPC/MEC<br>
+C<br>
+
+Hiện tượng ngoại ứng tích cực xảy ra khi nào?<br>
+Khi hoạt động sản xuất của một bên làm lợi cho bên khác mà chi phí này không được phản ánh trong giá cả thị trường<br>
+Khi hoạt động tiêu dùng của một bên làm lợi cho bên khác mà chi phí này không được phản ánh trong giá cả thị trường<br>
+Khi hoạt động sản xuất hay tiêu dùng của một bên làm lợi cho bên khác<br>
+Khi hoạt động sản xuất hay tiêu dùng của một bên làm lợi cho bên khác mà chi phí này không được phản ánh trong giá cả thị trường<br>
+D<br>
+
+Giải pháp cho hiện tượng ngoại ứng tích cực là gì?<br>
+Trợ cấp<br>
+Đánh thuế<br>
+Đặt ra hạn ngạch<br>
+Điều tiết thị trường<br>
+A<br>
+
+Tại sao khi xảy ra hiện tượng ngoại ứng tích cực, chính phủ cần phải trợ cấp?<br>
+Vì MSB = MPB - MFB<br>
+Vì MSB = MPB + MFB<br>
+Vì MSB = MPB.MFB<br>
+Vì MSB = MPB / MFB<br>
+B<br>
+
+Hàng hóa công cộng là:<br>
+Là những hàng hoá và dịch vụ mà khi chúng được sản xuất ra thì hầu như mọi người đều có khả năng tiêu dùng<br>
+Là những hàng hoá và dịch vụ mà khi chúng được sản xuất ra thì mọi người đều có khả năng chi trả<br>
+Là những hàng hoá và dịch vụ mà khi chúng được sản xuất ra thì mọi người đều có khả năng tiêu dùng<br>
+Là những hàng hoá và dịch vụ mà khi chúng được sản xuất ra thì hầu như mọi người đều có khả năng chi trả<br>
+C<br>
+
+Hàng hóa công cộng có đặc tính chủ yếu là:<br>
+Tính không cạnh tranh<br>
+Tính không loại trừ<br>
+Không đáp án nào đúng<br>
+Cả A và B<br>
+D<br>
+
+Tính không cạnh tranh của hàng hóa công cộng được phát biểu:<br>
+Một người sử dụng hàng hoá không ảnh hưởng đến việc người khác sử dụng hàng hoá đó<br>
+Một người sử dụng hàng hoá có ảnh hưởng đến việc người khác sử dụng hàng hoá đó<br>
+Giữa các nhà sản xuất ra hàng hóa đó không có tính cạnh tranh, nghĩa là không có khác biệt về giá, yếu tố đầu vào, ...<br>
+A và C<br>
+A<br>
+
+Tính không loại trừ của hàng hóa công cộng được phát biểu<br>
+Hàng hóa tiếp cận được đến rộng rãi người tiêu dùng trong thị trường đó<br>
+Khi những hàng hoá như vậy được sản xuất ra thì không có cách gì ngăn cản được những người tiêu dùng nhất định tiêu dùng chúng<br>
+Hàng hóa được sản xuất ra mà không có bất kì vấn đề gì từ yếu tố đầu vào đến khi ra được thành phẩm<br>
+Hàng hóa được áp đặt các mức thuế, nhận trợ cấp, chịu ảnh hưởng của các chính sách, ... như các hàng hóa thông thường<br>
+B<br>
+
+Nếu một hàng hóa có cả 2 đặc tính : Tính không cạnh tranh và tính không loại trừ, thì đó gọi là<br>
+Hàng hóa công cộng cận biên<br>
+Hàng hóa công cộng hoàn hảo<br>
+Hàng hóa công cộng thuần túy<br>
+Hàng hóa công cộng không thuần túy<br>
+C<br>
+
+Nếu một hàng hóa có 1 trong 2 đặc tính : Tính không cạnh tranh hoặc tính không loại trừ, thì đó gọi là<br>
+Hàng hóa công cộng cận biên<br>
+Hàng hóa công cộng hoàn hảo<br>
+Hàng hóa công cộng thuần túy<br>
+Hàng hóa công cộng không thuần túy<br>
+D<br>
+
+Hàng hóa nào sau đây là hàng hóa công cộng thuần túy?<br>
+Đèn giao thông<br>
+Đường giao thông vào giờ cao điểm<br>
+Sóng vô tuyến<br>
+Điện<br>
+A<br>
+
+Hàng hóa nào sau đây là hàng hóa công cộng không thuần túy?<br>
+Đèn hải đăng<br>
+Điện<br>
+An ninh quốc phòng<br>
+Đèn giao thông<br>
+B<br>
+
+Tại sao có thể nói rằng : Sự cung cấp hàng hoá công cộng bởi tư nhân thông qua thị trường rất khó xảy ra?<br>
+Vì lợi ích của những hàng hóa này đem lại không hiệu quả bằng các hàng hóa thông thường<br>
+Vì lợi nhuận của những hàng hóa này đem lại không hiệu quả bằng các hàng hóa thông thường<br>
+Vì lợi ích của những hàng hoá này bị phân tán rộng rãi đến mức không một hãng nào muốn cung cấp chúng<br>
+Vì chính phủ là người cung cấp chính hàng hóa công cộng<br>
+C<br>
+
+Điều nào sau đây là vai trò của chính phủ?<br>
+Điều tiết thị trường hàng hóa công cộng<br>
+Sản xuất hàng hóa công cộng hoàn hảo<br>
+Đặt ra các chính sách để khuyến khích tư nhân sản xuất hàng hóa công cộng<br>
+Cung cấp hàng hóa công cộng<br>
+D<br>
+
+Điều nào sau đây KHÔNG phải là một thất bại thị trường<br>
+Sự sản xuất kém hiệu quả của hàng hóa công cộng<br>
+Phân phối thu nhập không công bằng<br>
+Vấn đề thông tin không hoàn hảo<br>
+Các thất bại vĩ mô như: lạm phát, thất nghiệp,...<br>
+A<br>
+
+
 
