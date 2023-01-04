@@ -694,9 +694,9 @@ D<br>
 
 Giả định công ty Xuân Thu có một lượng tài sản cố định dưới hình thức máy dệt. Công ty chỉ có thay đổi sản lượng bằng cách thay đổi lượng lao động. Đây là ví dụ về:<br>
 Các ràng buộc thị trường<br>
-B.Hiệu quả kinh tế<br>
+Hiệu quả kinh tế<br>
 Sản xuất ngắn hạn<br>
-D.Sản xuất dài hạn<br>
+Sản xuất dài hạn<br>
 C<br>
 
 Một hãng sử dụng phương pháp sản xuất tối thiểu hóa chi phí; sản phẩm cận biện của vốn là 10, giá của một đơn vị vốn là 40 và giá của một đơn vị lao động là 16. Sản phẩm cận biện của lao động là bao nhiêu<br>

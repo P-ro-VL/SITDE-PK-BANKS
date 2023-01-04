@@ -835,7 +835,7 @@ Tiếp điểm ở giữa của đường ngân sách và đường bàn quan<br
 Tiếp điểm gần gốc tọa độ nhất của đường ngân sách và đường bàng quan<br>
 Tiếp điểm của pháp tuyến của đường ngân sách với đường bàng quan<br>
 A<br>
-Theo giả thuyết Slutsky, một sự thay đổi trong giá của àng hóa sẽ có hai tác động, đó là :<br>
+Theo giả thuyết Slutsky, một sự thay đổi trong giá của hàng hóa sẽ có hai tác động, đó là :<br>
 Ảnh hưởng thay thế và ảnh hưởng thu nhập<br>
 Ảnh hưởng thay thế và ảnh hưởng bổ sung<br>
 Ảnh hưởng giá và ảnh hưởng thu nhập<br>
