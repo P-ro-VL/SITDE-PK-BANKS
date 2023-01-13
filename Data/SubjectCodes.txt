@@ -15,6 +15,13 @@ deKHMI1101_bank:Ngân hàng đề - 10.000 câu:normal:MIDTERM:3600:40<br>
 Kinh tế vi mô/deKHMI1101_bank.txt<br>
 next
 
+LUCS1129:Pháp luật đại cương<br>
+deLUCS1129_C1:C1 -  Những vấn đề cơ bản về Nhà nước, Nhà nước CHXHCN Việt Nam:normal:MIDTERM:3600:30<br>
+Pháp luật đại cương/deLUCS1129_C1.txt<br>
+deLUCS1129_C2:C2 -  Những vấn đề cơ bản về pháp luật:normal:MIDTERM:3600:30<br>
+Pháp luật đại cương/deLUCS1129_C12txt<br>
+next
+
 TOCB1101:Đại số<br>
 deTOCB1101_1:Giữa kì (C2 - 4):image_question:MIDTERM:3600:20<br>
 Đại số/Đại số.txt<br>
