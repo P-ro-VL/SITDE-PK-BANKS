@@ -16,9 +16,9 @@ Kinh tế vi mô/deKHMI1101_bank.txt<br>
 next
 
 LUCS1129:Pháp luật đại cương<br>
-deLUCS1129_C1:C1 -  Những vấn đề cơ bản về Nhà nước, Nhà nước CHXHCN Việt Nam:normal:MIDTERM:3600:30<br>
+deLUCS1129_C1:C1 - Những vấn đề cơ bản về Nhà nước, Nhà nước CHXHCN Việt Nam:normal:MIDTERM:3600:30<br>
 Pháp luật đại cương/deLUCS1129_C1.txt<br>
-deLUCS1129_C2:C2 -  Những vấn đề cơ bản về pháp luật:normal:MIDTERM:3600:30<br>
+deLUCS1129_C2:C2 - Những vấn đề cơ bản về pháp luật:normal:MIDTERM:3600:30<br>
 Pháp luật đại cương/deLUCS1129_C2.txt<br>
 next
 
