@@ -116,7 +116,7 @@ Available:
         FileName: "Toán rời rạc.txt"
       deTOCB1107_2:
         Name: "2022 - 2023 | Đề kiểm tra giữa kì số 1 (Thầy Long)"
-        Style: "NORMAL"
+        Style: "IMAGE_QUESTION"
         Time: 3600
         Count: 30
         HasExplanation: false
