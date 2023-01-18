@@ -1,7 +1,7 @@
 GK_KHMI1101_2:
   Id: "GK_KHMI1101_2"
   Name: "Kinh tế vi mô (KHMI1101)"
-  Date: "31/12/2023 09:45"
+  Date: "31/12/2022 09:45"
   Time: 3600
-  DocumentLink: "https://raw.githubusercontent.com/P-ro-VL/SITDE-PK-BANKS/main/Thi/GK_KHMI1101_2.pdf"
+  DocumentLink: "https://raw.githubusercontent.com/P-ro-VL/SITDE-PK-BANKS/main/MockExam/GK_KHMI1101_2.pdf"
   Answers: "A B A D D A D C D B B C D C B C C B A C B A A C A C D C B C B C B C C B D A D A"
