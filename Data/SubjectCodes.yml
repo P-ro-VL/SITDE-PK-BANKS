@@ -114,6 +114,13 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: "Toán rời rạc.txt"
+      deTOCB1107_C4:
+        Name: "Chương 4 - Lý thuyết đồ thị"
+        Style: "IMAGE_QUESTION"
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: "deTOCB1107_C4.txt"
       deTOCB1107_2:
         Name: "2022 - 2023 | Đề kiểm tra giữa kì số 1 (Thầy Long)"
         Style: "IMAGE_QUESTION"
