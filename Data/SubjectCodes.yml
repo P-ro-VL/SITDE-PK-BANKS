@@ -129,7 +129,7 @@ Available:
         HasExplanation: false
         FileName: "deTOCB1107_2.txt"
   CNTT1191:
-    Name: "Vật lí đại cương"
+    Name: "Vật lý đại cương"
     Enable: true
     Type: "DC"
     Theory: "https://docs.google.com/document/d/1-ebSFs2OucLue6q_fhQ5wlmaK0d0eRtX/edit?usp=sharing&ouid=115323166783378376603&rtpof=true&sd=true"
