@@ -133,18 +133,18 @@ Available:
         Time: 3600
         Count: 40
         HasExplanation: true
-        FilePath: "de_CNTT1191_1.txt"
+        FileName: "de_CNTT1191_1.txt"
       de_CNTT1191_2:
         Name: "Chương 2 - Vật dẫn"
         Style: "Simple_select"
         Time: 3600
         Count: 40
         HasExplanation: true
-        FilePath: "de_CNTT1191_3.txt"
+        FileName: "de_CNTT1191_3.txt"
       de_CNTT1191_3:
         Name: "2022 - 2023 | Đề kiểm tra giữa kì (Cô Tâm)"
         Style: "Simple_select"
         Time: 1800
         Count: 30
         HasExplanation: true
-        FilePath: "de_CNTT1191_1.txt"
+        FileName: "de_CNTT1191_1.txt"
