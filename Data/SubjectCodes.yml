@@ -7,49 +7,49 @@ Available:
     Questions:
       deKHMI1101_C1_4:
         Name: "Chương 1 - 4"
-        Style: "Normal"
+        Style: "NORMAL"
         Time: 3600
         Count: 40
         HasExplanation: false
         FileName: "deKHMI1101_C1_4.txt"
       deKHMI1101_C5:
         Name: "Chương 5 - Sản xuất, chi phí, lợi nhuận"
-        Style: "Normal"
+        Style: "NORMAL"
         Time: 3600
         Count: 40
         HasExplanation: false
         FileName: "deKHMI1101_C5.txt"
       deKHMI1101_C6:
         Name: "Chương 6 - Cấu trúc thị trường"
-        Style: "Normal"
+        Style: "NORMAL"
         Time: 3600
         Count: 40
         HasExplanation: false
         FileName: "deKHMI1101_C6.txt"
       deKHMI1101_C7:
         Name: "Chương 7 - Thương mại quốc tế"
-        Style: "Normal"
+        Style: "NORMAL"
         Time: 3600
         Count: 40
         HasExplanation: false
         FileName: "deKHMI1101_C7.txt"
       deKHMI1101_C8:
         Name: "Chương 8 - Thất bại của thị trường"
-        Style: "Normal"
+        Style: "NORMAL"
         Time: 3600
         Count: 40
         HasExplanation: false
         FileName: "deKHMI1101_C8.txt"
       deKHMI1101_MID_CS22_23:
         Name: "2022 - 2023 | Đề kiểm tra giữa kì số 1 (Thầy Dũng)"
-        Style: "Normal"
+        Style: "NORMAL"
         Time: 3600
         Count: 40
         HasExplanation: false
         FileName: "deKHMI1101_MID_CS22_23.txt"
       deKHMI1101_bank:
         Name: "NGÂN HÀNG 10.000 CÂU HỎI VI MÔ"
-        Style: "Normal"
+        Style: "NORMAL"
         Time: 3600
         Count: 40
         HasExplanation: false
@@ -62,28 +62,28 @@ Available:
     Questions:
       deLUCS1129_C1:
         Name: "Chương 1 - Những vấn đề cơ bản về Nhà nước, Nhà nước CHXHCN Việt Nam"
-        Style: "Normal"
+        Style: "NORMAL"
         Time: 3600
         Count: 30
         HasExplanation: false
         FileName: "deLUCS1129_C1.txt"
       deLUCS1129_C2:
         Name: "Chương 2 - Những vấn đề cơ bản về pháp luật"
-        Style: "Normal"
+        Style: "NORMAL"
         Time: 3600
         Count: 30
         HasExplanation: false
         FileName: "deLUCS1129_C2.txt"
       deLUCS1129_C3:
         Name: "Chương 3 - Quy phạm pháp luật và hệ thống pháp luật"
-        Style: "Normal"
+        Style: "NORMAL"
         Time: 3600
         Count: 30
         HasExplanation: false
         FileName: "deLUCS1129_C3.txt"
       deLUCS1129_C4:
         Name: "Chương 4 - Quan hệ pháp luật"
-        Style: "Normal"
+        Style: "NORMAL"
         Time: 3600
         Count: 30
         HasExplanation: false
@@ -96,7 +96,7 @@ Available:
     Questions:
       deTOCB1101_1:
         Name: "Chương 2 - 4 - Ma trận, định thức, hệ phương trình tuyến tính"
-        Style: "Image_question"
+        Style: "IMAGE_QUESTION"
         Time: 3600
         Count: 20
         HasExplanation: false
@@ -109,14 +109,14 @@ Available:
     Questions:
       deTOCB1107_1:
         Name: "Chương 1 - 3 - Logic/Tập hợp/Ánh xạ - Thuật toán - Bài toán đếm"
-        Style: "Normal"
+        Style: "NORMAL"
         Time: 3600
         Count: 40
         HasExplanation: false
         FileName: "Toán rời rạc.txt"
       deTOCB1107_2:
         Name: "2022 - 2023 | Đề kiểm tra giữa kì số 1 (Thầy Long)"
-        Style: "Normal"
+        Style: "NORMAL"
         Time: 3600
         Count: 30
         HasExplanation: false
@@ -129,21 +129,21 @@ Available:
     Questions:
       de_CNTT1191_1:
         Name: "Chương 1 - Điện trường tĩnh"
-        Style: "Simple_select"
+        Style: "SIMPLE_SELECT"
         Time: 3600
         Count: 40
         HasExplanation: true
         FileName: "de_CNTT1191_1.txt"
       de_CNTT1191_2:
         Name: "Chương 2 - Vật dẫn"
-        Style: "Simple_select"
+        Style: "SIMPLE_SELECT"
         Time: 3600
         Count: 40
         HasExplanation: true
         FileName: "de_CNTT1191_3.txt"
       de_CNTT1191_3:
         Name: "2022 - 2023 | Đề kiểm tra giữa kì (Cô Tâm)"
-        Style: "Simple_select"
+        Style: "SIMPLE_SELECT"
         Time: 1800
         Count: 30
         HasExplanation: true
