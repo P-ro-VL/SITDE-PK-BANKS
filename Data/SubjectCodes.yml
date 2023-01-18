@@ -2,6 +2,7 @@ Available:
   KHMI1101:
     Name: "Kinh tế vi mô"
     Enable: true
+    Type: "DC"
     Questions:
       deKHMI1101_C1_4:
         Name: "Chương 1 - 4"
@@ -55,6 +56,7 @@ Available:
   LUCS1129:
     Name: "Pháp luật đại cương"
     Enable: true
+    Type: "DC"
     Questions:
       deLUCS1129_C1:
         Name: "Chương 1 - Những vấn đề cơ bản về Nhà nước, Nhà nước CHXHCN Việt Nam"
@@ -87,6 +89,7 @@ Available:
   TOCB1101:
     Name: "Đại số"
     Enable: true
+    Type: "DC"
     Questions:
       deTOCB1101_1:
         Name: "Chương 2 - 4 - Ma trận, định thức, hệ phương trình tuyến tính"
@@ -98,6 +101,7 @@ Available:
   TOCB1107:
     Name: "Toán rời rạc"
     Enable: true
+    Type: "CSN"
     Questions:
       deTOCB1107_1:
         Name: "Chương 1 - 3 - Logic/Tập hợp/Ánh xạ - Thuật toán - Bài toán đếm"
@@ -116,6 +120,7 @@ Available:
   CNTT1191:
     Name: "Vật lí đại cương"
     Enable: true
+    Type: "DC"
     Questions:
       de_CNTT1191_1:
         Name: "Chương 1 - Điện trường tĩnh"
