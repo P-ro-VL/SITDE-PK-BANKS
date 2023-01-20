@@ -148,6 +148,13 @@ Available:
         Count: 40
         HasExplanation: true
         FileName: "de_CNTT1191_3.txt"
+      de_CNTT1191_C3:
+        Name: "Chương 3 - Điện môi"
+        Style: "SIMPLE_SELECT"
+        Time: 3600
+        Count: 40
+        HasExplanation: true
+        FileName: "de_CNTT1191_C3.txt"
       de_CNTT1191_3:
         Name: "2022 - 2023 | Đề kiểm tra giữa kì (Cô Tâm)"
         Style: "SIMPLE_SELECT"
