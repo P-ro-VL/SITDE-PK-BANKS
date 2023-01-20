@@ -3,7 +3,7 @@ Available:
     Name: "Kinh tế vi mô"
     Enable: true
     Type: "DC"
-    Theory: "https://drive.google.com/file/d/19Or3aD1nxTZjRB5ioQpKOFqJOOANiIsD/view?fbclid=IwAR0bFfcEUehYm0dWfh62_l6kzrgWRn6NzLJytHPkslCHt3ydjAw18pZQFPg"
+    Theory: "https://drive.google.com/file/d/19Or3aD1nxTZjRB5ioQpKOFqJOOANiIsD/view"
     Questions:
       deKHMI1101_C1_4:
         Name: "Chương 1 - 4"
@@ -132,7 +132,7 @@ Available:
     Name: "Vật lý đại cương"
     Enable: true
     Type: "DC"
-    Theory: "https://docs.google.com/document/d/1-ebSFs2OucLue6q_fhQ5wlmaK0d0eRtX/edit?usp=sharing&ouid=115323166783378376603&rtpof=true&sd=true"
+    Theory: "https://docs.google.com/document/d/1-ebSFs2OucLue6q_fhQ5wlmaK0d0eRtX/"
     Questions:
       de_CNTT1191_1:
         Name: "Chương 1 - Điện trường tĩnh"
