@@ -1,3 +1,9 @@
+TOCB1101:Đại số<br>
+deTOCB1101_1:Giữa kì (C2 - 4):image_question:MIDTERM:3600:20<br>
+Đại số/Đại số.txt<br>
+next
+
+
 KHMI1101:Kinh tế vi mô<br>
 deKHMI1101_1:Giữa kì (C1 - 4):normal:MIDTERM:3600:40<br>
 Kinh tế vi mô/Kinh tế vi mô.txt<br>
@@ -7,9 +13,10 @@ deKHMI1101_2:C6 - Cấu trúc thị trường:normal:MIDTERM:3600:40<br>
 Kinh tế vi mô/deKHMI1101_3_C6.txt<br>
 next
 
-TOCB1101:Đại số<br>
-deTOCB1101_1:Giữa kì (C2 - 4):image_question:MIDTERM:3600:20<br>
-Đại số/Đại số.txt<br>
+
+CNTT1116:Nhập môn Công nghệ thông tin<br>
+deCNTT1116_C3:C3 - Phần mềm máy tính thông dụng:normal:3600:50:true<br>
+Nhập môn Công nghệ thông tin/deCNTT1116_C3.txt<br>
 next
 
 TOCB1107:Toán rời rạc<br>
@@ -18,6 +25,7 @@ Toán rời rạc/deTOCB1107_2.txt<br>
 deTOCB1107_1:Giữa kì (C1 - 3):normal:MIDTERM:3600:40<br>
 Toán rời rạc/Toán rời rạc.txt<br>
 next
+
 
 CNTT1191:Vật lý đại cương<br>
 de_CNTT1191_1:C1 - Điện trường tĩnh:simple_select:NORMAL:3600:40:true<br>

@@ -1,0 +1,750 @@
+﻿Làm cách nào để xem thuộc tính của một thư mục?<br>
+Click chuột phải vào thư mục và chọn Create Short Cut<br>
+Click chuột phải vào thư mục và chọn Open<br>
+Click chuột phải vào thư mục và chọn Properties.<br>
+Click chuột phải vào thư mục và chọn Search<br>
+c<br>
+"Thuộc tính" tiếng Anh là "Properties".<br>
+Trong Microsoft Word 2007 trở đi, file có phần mở rộng mặc định là gì?<br>
+*.rtf<br>
+*.doc<br>
+*.docx<br>
+*.txt<br>
+c<br>
+Từ phiên bản 2007 trở đi, phần mở rộng mặc định của các file Microsoft Word, Microsoft Excel, Microsoft PowerPoint có thêm chữ "x" (ví dụ: *.doc thành *.docx).<br>
+Trong ứng dụng Microsoft Word 2010, để chuyển đổi định dạng tệp sang kiểu .rtf ta thực hiện:<br>
+File/Convert/ Rich text Format<br>
+File/Save as, tại mục Save as type, chọn Rich text Format (*.rtf)<br>
+File/Save, chọn Rich text Format (*.rtf)<br>
+Home/Save as, tại mục Save as type, chọn Rich text Format (*.rtf)<br>
+b<br>
+Muốn thay đổi về thuộc tính chung của file, ta vào thẻ File chứ không dùng thẻ Home. Lưu ý: Save là chỉ LƯU THAY ĐỔI MỚI - còn Save as VỪA LƯU THAY ĐỔI MỚI, VỪA CHỈNH SỬA một số thuộc tính cũ của file như thư mục lưu file, tên file, định dạng file,...<br>
+Trong Microsoft Word (2013, 2016, 2019) muốn tạo một văn bản trống mới ta thực hiện các bước nào sau đây?<br>
+Thẻ Home/Open, chọn Blank Document<br>
+Thẻ File/New, chọn Blank Document<br>
+Thẻ Home/New, chọn Blank Document<br>
+Thẻ File/Open, chọn Blank Document<br>
+b<br>
+Câu này không có giải thích.<br>
+Chức năng nào không phải là chức năng của hệ điều hành?<br>
+Bảo mật<br>
+Quản lý các luồng thông tin vào ra.<br>
+Dịch và thực hiện các chương trình nguồn.<br>
+Quản lý các tệp tin.<br>
+c<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), muốn thiết lập khoảng cách dãn đoạn so với đoạn văn bản bên trên ta chọn chức năng nào?<br>
+Trong hộp thoại Paragraph/ Spacing/ After<br>
+Trong hộp thoại Paragraph/ Spacing/ Right<br>
+Trong hộp thoại Paragraph/ Spacing/ Left<br>
+Trong hộp thoại Paragraph/ Spacing/ Before<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), hộp thoại Paragraph cho phép:<br>
+Định dạng mục lục<br>
+Định dạng các đoạn của văn bản<br>
+Định dạng màu sắc<br>
+Định dạng font chữ<br>
+b<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Office, thanh Quick Access Toolbar dùng để làm gì?<br>
+Chứa các lệnh chèn biểu tượng.<br>
+Chứa các lệnh căn lề.<br>
+Chứa các lệnh dãn dòng.<br>
+Chứa các lệnh thường xuyên sử dụng.<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), để thể hiện đoạn văn bản theo danh sách đơn cấp dạng kí hiệu, trong thẻ Home, chọn nhóm Paragraph, sau đó chọn mục nào?<br>
+Line and Paragraph<br>
+Multilevel list<br>
+Numbering<br>
+Bullets<br>
+d<br>
+Câu này không có giải thích.<br>
+Thao tác nào sau đây được dùng để chọn nhiều đối tượng không liên tiếp nhau trong hệ điều hành Windows?<br>
+Nhấn chuột vào từng đối tượng.<br>
+Nhấn giữ phím Shift và nháy chuột vào từng đối tượng.<br>
+Nhấn giữ phím Ctrl và nháy chuột vào từng đối tượng.<br>
+Nhấn phải chuột tại từng đối tượng.<br>
+c<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), muốn thay đổi khoảng cách các dòng là 1.5 lines cho văn bản, trong thẻ Home, ta thực hiện các bước nào?<br>
+Chọn styles- line spacing: 1.5 lines<br>
+Chọn Paragraph- line spacing: 1.5 lines<br>
+Chọn Editing- line spacing: 1.5 lines<br>
+Chọn font - line spacing: 1.5 lines<br>
+b<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019) nút lệnh Switch Windows trong thẻ View có tác dụng gì?<br>
+Chuyển mở cửa sổ tài liệu khác<br>
+Đóng tài liệu<br>
+Lưu tài liệu<br>
+Chèn thông tin<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), tổ hợp phím nào cho phép đưa con trỏ về đầu văn bản?<br>
+Alt + Home<br>
+Shift + Home<br>
+Ctrl + Alt + Home<br>
+Ctrl + Home<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), muốn hiển thị thanh thước kẻ (Ruler) ta thực hiện:<br>
+View – Zoom<br>
+View – Ruler<br>
+Review – Ruler<br>
+Design – Ruler<br>
+b<br>
+Câu này không có giải thích.<br>
+Trong hệ điều hành Windows, các đối tượng đã bị xóa được lưu trong Recycle Bin, muốn xóa hẳn các đối tượng thì:<br>
+Click chuột phải vào đối tượng bị xóa, chọn Delete<br>
+Click chuột phải vào đối tượng bị xóa, chọn Restore.<br>
+Click chuột phải vào đối tượng bị xóa, chọn Properties<br>
+Click chuột phải vào đối tượng bị xóa, chọn Cut<br>
+a<br>
+Câu này không có giải thích.<br>
+Đâu KHÔNG phải là một hệ điều hành?<br>
+Microsoft Window<br>
+UNIX<br>
+Linux<br>
+Google Chrome<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), muốn tạo phong cách (style) cho văn bản, ta chọn chức năng styles trong thẻ nào?<br>
+Page Layout<br>
+View<br>
+Insert<br>
+Home<br>
+d<br>
+Câu này không có giải thích.<br>
+Đâu KHÔNG phải thành phần của cửa sổ Window?<br>
+Thanh thước kẻ (Ruler)<br>
+Thanh cuốn (scroll bar)<br>
+Thanh tiêu đề (Title bar)<br>
+Thanh công cụ (Toolbar)<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), trong thẻ Go to của hộp hội thoại Find and Replace không cho phép tìm kiếm mục nào?<br>
+Page<br>
+Line<br>
+Footnote<br>
+Footer<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), muốn giảm thụt lề ta chọn chức năng nào?<br>
+Insert - Decrease Indent<br>
+Home - Increase Indent<br>
+Insert - Increase Indent<br>
+Home - Decrease Indent<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), muốn tạo các đường, các hình vẽ trong văn bản ta thực hiện các bước nào?<br>
+View - Chọn Shapes trong nhóm Illustrations<br>
+Insert - Chọn Shapes trong nhóm Illustrations<br>
+Home - Chọn Shapes trong nhóm Illustrations<br>
+Insert - Chọn Shapes trong nhóm Text<br>
+b<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), làm việc với bảng, muốn chia một ô thành nhiều ô, trong trong thẻ Layout của nhóm thẻ Table Tools ta chọn nút lệnh nào?<br>
+Merge Cells<br>
+Split Table<br>
+Insert Above<br>
+Split Cells<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), muốn tạo chú thích cho văn bản ta chọn thao tác nào?<br>
+Review – New Comment<br>
+Review – Word Count<br>
+Review – Track Changes<br>
+Review – Spelling Grammar<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), để soạn thảo công thức toán học phức tạp ta dùng công cụ nào?<br>
+Insert - Symbol<br>
+Insert - Equation<br>
+Insert - WordArt<br>
+Insert - Bookmark<br>
+b<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), muốn lưu văn bản với một tên khác ta chọn chức năng nào sau đây?<br>
+Home - Save As<br>
+File - Save As<br>
+File - Save<br>
+File - Recent<br>
+b<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), muốn thêm một số ký tự đặc biệt, ta chọn chức năng nào?<br>
+Insert – Clip Art<br>
+Insert - Symbol<br>
+Insert – Shapes<br>
+Insert - Equation<br>
+b<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), muốn tạo liên kết trong văn bản ta chọn chức năng nào?<br>
+Hyperlink<br>
+Bookmark<br>
+Screenshot<br>
+Cross-reference<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), muốn chọn in các trang lẻ của văn bản, ta chọn thẻ File, sau đó chọn chức năng nào?<br>
+Print – Print markup<br>
+Print – Only print even pages<br>
+Print – Only print odd pages<br>
+Print – Print all pages<br>
+c<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), muốn thay đổi chiều cao của hàng trong bảng, trong thẻ Layout của nhóm thẻ Table Tools ta chọn chức năng nào?<br>
+Rows<br>
+Width<br>
+Height<br>
+Columns<br>
+c<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), muốn đặt khổ giấy A5, ta chọn chức năng nào?<br>
+Page Layout – Columns/ Legal<br>
+Page Layout – Margins/ A5<br>
+Page Layout – Size/ A5<br>
+Page Layout – Size/ Legal<br>
+c<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), muốn đặt văn bản theo chiều giấy ngang ta chọn chức năng nào?<br>
+Portrait<br>
+Right<br>
+Landscape<br>
+Left<br>
+c<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), để tạo chữ nghệ thuật, ta chọn chức năng nào?<br>
+Insert - WordArt<br>
+Insert - TextBox<br>
+Insert - SmartArt<br>
+Insert - Quick Parts<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), để chỉnh lề cho văn bản, trong thẻ Page Layout, ta chọn chức năng nào sau đây?<br>
+Orientation<br>
+Columns<br>
+Size<br>
+Margins<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), Header và Footer không cho phép chèn đối tượng nào?<br>
+Drop Cap<br>
+Hình ảnh<br>
+Số<br>
+Chuỗi ký tự<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), khi soạn thảo văn bản muốn tạo ký tự to, rơi 1 số dòng trong một đoạn ta chọn chức năng nào?<br>
+Text Box<br>
+Quick Parts<br>
+Bookmark<br>
+Drop Cap<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), chức năng Watermark có tác dụng gì?<br>
+Chèn ký tự bất kỳ dưới chân văn bản<br>
+Chèn số trang cho văn bản<br>
+Chèn ký tự bất kỳ ở đầu văn bản<br>
+Chèn hình mờ (chuỗi ký tự, hình) chìm dưới tài liệu<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), muốn căn chỉnh lề trong ô của bảng, trong thẻ Layout ta chọn chức năng nào?<br>
+Cell Margins<br>
+AutoFit<br>
+Columns<br>
+Rows<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), công cụ Format Painter có tác dụng gì?<br>
+Sao chép định dạng<br>
+Căn chỉnh lề<br>
+Chỉnh sửa một bảng<br>
+Chỉnh sửa một đoạn text<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), muốn di chuyển con trỏ chuột từ trái qua phải trong bảng ta sử dụng phím nào?<br>
+Alt<br>
+Tab<br>
+Ctrl<br>
+Shift<br>
+b<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Word (2013, 2016, 2019), muốn điều chỉnh các cột trong bảng có độ rộng bằng nhau, ta chọn chức năng nào?<br>
+Table Tools/Layout- Distribute Columns<br>
+Table Tools/Layout- Distribute Rows<br>
+Table Tools/Design- Distribute Rows<br>
+Table Tools/Design- Distribute Columns<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), thao tác nhấp chọn ô A2, giữ phím Shift và nhấp tiếp vào ô D7 có tác dụng gì?<br>
+Di chuyển dữ liệu từ ô A2 sang ô D7<br>
+Bôi đen vùng A2:D7<br>
+Sao chép dữ liệu từ ô A2 sang ô D7<br>
+Bôi đen 2 ô A2 và D7<br>
+b<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), để thiết lập độ cao dòng cho các ô đang chọn ta thực hiện bằng cách nào?<br>
+Tại thẻ Home, nhấp nút Increase Indent trong nhóm Alignment<br>
+Nhấn phím mũi tên lên trên.<br>
+Nhấn tổ hợp phím CTRL và phím mũi tên lên trên.<br>
+Tại thẻ Home, nhấp nút Format trong nhóm Cell, chọn Row Height<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), thẻ nào của hệ thống Ribbon cho phép kiểm lỗi chính tả, hỗ trợ dịch từ, thêm chú thích vào các ô, các thiết lập bảo vệ trang tính, bảng tính?<br>
+Review<br>
+View<br>
+Window<br>
+Data<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), thẻ nào của hệ thống Ribbon cho phép chèn công thức, đặt tên vùng (range), công cụ kiểm tra theo dõi công thức, điều khiển việc tính toán của Excel?<br>
+Insert<br>
+Data<br>
+Page Layout<br>
+Formula<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), để xóa dữ liệu trong các ô đang chọn thì ta dùng cách nào?<br>
+Click chuột phải lên vùng đang chọn, chọn lệnh Delete<br>
+Nhấn phím BackSpace<br>
+Click chuột phải chọn Clear Contents<br>
+Tại thẻ Home, nhấp nút Delete trong nhóm Cell<br>
+c<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), để chọn các dòng kề nhau thì trong số các cách dưới đây đâu là cách làm SAI?<br>
+Nhấn giữ chuột trái và kéo di chuột từ chỉ số dòng đầu tiên đến dòng cuối cùng muốn chọn<br>
+Nhấn giữ phím CTRL và nhấn trái chuột vào chỉ số các dòng muốn chọn<br>
+Nhấn giữ phím SHIFT và nhấn phải chuột vào chỉ số các dòng muốn chọn<br>
+Nhấn giữ chuột trái và kéo di chuột từ chỉ số dòng cuối cùng đến chỉ số dòng đầu tiên muốn chọn<br>
+c<br>
+Câu này không có giải thích.<br>
+Trong các dạng địa chỉ sau đây, địa chỉ nào là địa chỉ tuyệt đối?<br>
+B$1:D$10<br>
+$B1:$D10<br>
+B$1$:D$10$<br>
+$B$1:$D$10<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), thẻ nào của hệ thống Ribbon chứa các nút lệnh thiết lập in ấn?<br>
+Page Layout<br>
+Home<br>
+Review<br>
+View<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), khi sao chép công thức, một địa chỉ mà chỉ có địa chỉ cột được thay đổi, còn địa chỉ dòng cố định thì gọi là địa chỉ gì?<br>
+Địa chỉ tương đối cột, tuyệt đối dòng<br>
+Địa chỉ tuyệt đối cột, tương đối dòng<br>
+Địa chỉ tương đối<br>
+Địa chỉ tuyệt đối<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), khi sao chép công thức, một địa chỉ mà chỉ có địa chỉ dòng được thay đổi, còn địa chỉ cột cố định thì gọi là địa chỉ gì?<br>
+Địa chỉ tương đối cột, tuyệt đối dòng<br>
+Địa chỉ tuyệt đối cột, tương đối dòng<br>
+Địa chỉ tương đối<br>
+Địa chỉ tuyệt đối<br>
+b<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), khi sao chép công thức, một địa chỉ mà có cả địa chỉ cột và địa chỉ dòng được thay đổi thì gọi là địa chỉ gì?<br>
+Địa chỉ tương đối cột, tuyệt đối dòng<br>
+Địa chỉ tuyệt đối cột, tương đối dòng<br>
+Địa chỉ tương đối<br>
+Địa chỉ tuyệt đối<br>
+c<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), khi sao chép công thức, một địa chỉ mà có cả địa chỉ cột và địa chỉ dòng cố định thì gọi là địa chỉ gì?<br>
+Địa chỉ tương đối cột, tuyệt đối dòng<br>
+Địa chỉ tuyệt đối cột, tương đối dòng<br>
+Địa chỉ tương đối<br>
+Địa chỉ tuyệt đối<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), để ẩn một cột, ta thực hiện bằng cách nào?<br>
+Không thể ẩn cột trong Excel<br>
+Nhấn tổ hợp phím Ctrl + H<br>
+Vào thẻ Home, chọn lệnh Delete, chọn Delete Sheet Columns<br>
+Click chuột phải lên chỉ số cột muốn ẩn, chọn Hide<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), để tạo bảng tính mới theo mẫu cho trước, ta thực hiện bằng cách nào?<br>
+Vào File, chọn New, chọn Sample Template, chọn mẫu phù hợp<br>
+Vào Insert, chọn New, chọn Sample Template, chọn mẫu phù hợp<br>
+Nhấn Ctrl-N, chọn mẫu phù hợp<br>
+Vào File, chọn Recent, chọn Sample Template, chọn mẫu phù hợp<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong công thức của Excel, thay vì sử dụng địa chỉ của một vùng thì ta có thể sử dụng tên đại diện của vùng đó. Để thực hiện định nghĩa tên cho một vùng ô thì sau khi chọn vùng ô ta chọn lệnh nào sau đây?<br>
+Vào thẻ Formula, nhấp chọn Define Name<br>
+Vào thẻ Data, nhấp chọn Define Name<br>
+Vào thẻ Insert, nhấp chọn Define Name<br>
+Vào thẻ Home, nhấp chọn Define Name<br>
+a<br>
+Câu này không có giải thích.<br>
+Phát biểu nào sau đây là SAI khi nói về nhập dữ liệu vào bảng tính Excel?<br>
+Dữ liệu kiểu ngày tháng sẽ mặc định căn lề phải<br>
+Dữ liệu kiểu kí tự sẽ mặc định căn lề trái<br>
+Dữ liệu kiểu thời gian sẽ mặc định căn lề phải<br>
+Dữ liệu kiểu số sẽ mặc định căn lề trái<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel 2010, thẻ nào của hệ thống Ribbon cho phép thiết lập các chế độ hiển thị của bảng tính như: phóng to, thu nhỏ, chia màn hình,…?<br>
+Review<br>
+Page Layout<br>
+Window<br>
+View<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), đâu là một khẳng định SAI?<br>
+Trang tính chứa các bảng tính.<br>
+Một trang tính chứa được 16384 cột và 1048576 dòng.<br>
+Trang tính là nơi lưu trữ và làm việc với dữ liệu.<br>
+Một trang tính chứa nhiều ô (cell), các ô được tổ chức thành các cột và các dòng.<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), một trang tính có tổng số bao nhiêu dòng và được đánh số như thế nào?<br>
+1048576 dòng, được đánh số A,B,C,...Z,....XFD<br>
+65536 dòng, được đánh số 1,2,3.... 65536<br>
+1048576 dòng, được đánh số 1,2,3.... 1048576<br>
+65536 dòng, được đánh số A,B,C,...Z,....IV<br>
+c<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), vùng Name Box có tác dụng gì?<br>
+Canh lề dữ liệu cho ô<br>
+Hiển thị địa chỉ (các) ô hiện hành và tên của vùng ô<br>
+Hiển thị dữ liệu trong ô<br>
+Hiển thị công thức của ô<br>
+b<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), vùng Formula Bar có tác dụng gì?<br>
+Canh lề dữ liệu cho ô<br>
+Hiển thị công thức hoặc nội dung của ô<br>
+Hiển thị địa chỉ (các) ô hiện hành và tên của vùng đang chọn<br>
+Hiển thị danh sách các công thức có thể sử dụng<br>
+a<br>
+Câu này không có giải thích.<br>
+Tập hợp các trang tính trong một file Excel được gọi là gì?<br>
+Book<br>
+Presentation<br>
+Document<br>
+Sheet<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), một trang tính có tổng số bao nhiêu cột và được đánh số như thế nào?<br>
+16384 cột được đánh số 1,2,3.... 16384.<br>
+1048576 cột được đánh số 1,2,3.... 1048576<br>
+1048576 cột được đánh số A,B,C,...Z,....IV<br>
+16384 cột được đánh số A,B,C,...Z,....XFD<br>
+d<br>
+Câu này không có giải thích.<br>
+Khi làm việc với PowerPoint, để xóa bỏ hiệu ứng chuyển slide cho trang Slide hiện thời, ta thực hiện:<br>
+Vào thẻ Transitions, chọn None<br>
+Vào thẻ Insert, chọn Transitions, chọn None<br>
+Vào thẻ Review, chọn Transitions, chọn None<br>
+Vào thẻ Design, chọn Transitions, chọn None<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong Microsoft PowerPoint (2013, 2016, 2019), để chèn ngày tháng vào tất cả các Slide ta làm thế nào?<br>
+Vào thẻ Insert, chọn Text Box<br>
+Vào thẻ Insert, chọn Date & Time<br>
+Vào thẻ Insert, chọn Object<br>
+Vào thẻ Insert, chọn Chat<br>
+b<br>
+Câu này không có giải thích.<br>
+Trong Microsoft PowerPoint, bạn hiểu Animation là gì?<br>
+Là hiệu ứng động cho các Slide<br>
+Là hiệu ứng chỉ tác động đối với các đối tượng đồ họa<br>
+Là hiệu ứng chỉ tác động đối với các bảng<br>
+Là hiệu ứng động cho các đối tượng trong Slide<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft PowerPoint (2013, 2016, 2019), muốn đánh số cho các Slide ta thực hiện như thế nào?<br>
+Vào thẻ Design, chọn Slide Number<br>
+Vào thẻ Insert, chọn Slide Number<br>
+Vào thẻ Insert, chọn Numbering Slide<br>
+Vào thẻ Home, chọn Slide Number<br>
+b<br>
+Câu này không có giải thích.<br>
+Trong Excel, để in trang tính hiện tại ta vào File, chọn Print, trong Setting click chọn mục nào?<br>
+Print Active Sheets<br>
+Print Selected<br>
+Print Selection<br>
+Print Entire Workbook<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong Microsoft PowerPoint (2013, 2016, 2019), để tạo 1 Slide giống hệt trang slide hiện hành ta kích chuột phải tại Slide đó và chọn?<br>
+Duplicate Slide<br>
+Duplicate<br>
+New<br>
+New Slide<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong Microsoft PowerPoint (2013, 2016, 2019), để thay đổi bố cục của trang Slide hiện thời ta làm như sau:<br>
+Vào thẻ Design, chọn Layout<br>
+Vào thẻ Home, chọn Layout<br>
+Vào thẻ Design, chọn Section<br>
+Vào thẻ Home, chọn Section<br>
+b<br>
+Câu này không có giải thích.<br>
+Để áp dụng việc in dòng tiêu đề tự động trên mọi trang bảng tính, trong thẻ Sheet của hộp thoại Page Setup, ta thiết lập tại mục nào?<br>
+Columns to repeat at left<br>
+Print area<br>
+Print titles<br>
+Row to repeat at top<br>
+d<br>
+Câu này không có giải thích.<br>
+Khi làm việc với PowerPoint, để thiết lập hiệu ứng chuyển slide cho trang Slide hiện thời, ta thực hiện:<br>
+
+Vào thẻ Review, chọn Transitions, chọn hiệu ứng phù hợp<br>
+Vào thẻ Design, chọn Transitions, chọn hiệu ứng phù hợp<br>
+Vào thẻ Transitions, chọn hiệu ứng phù hợp<br>
+Vào thẻ Insert, chọn Transitions, chọn hiệu ứng phù hợp<br>
+c<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), công thức nào sau đây sẽ cho kết quả là giá trị TRUE?<br>
+=IF(1>=5,TRUE,“ĐÚNG”)<br>
+=AND(5>=3,5^2<>26)<br>
+=OR(3+2=6,5>3^2)<br>
+=IF(6>=5,FALSE,TRUE)<br>
+b<br>
+Câu này không có giải thích.<br>
+Trong quá trình thiết kế bản trình chiếu muốn tạo một slide mới dưới dạng so sánh ta thực hiện thao tác nào?<br>
+Vào thẻ Design, chọn Slide Orientation<br>
+Vào thẻ Home, chọn Section Header trong New Slide<br>
+Vào thẻ Insert, chọn Comparison<br>
+Vào thẻ Home, chọn Comparison trong New Slide<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft PowerPoint, bạn hiểu Transition là gì?<br>
+Là hiệu ứng chỉ tác động đối với các bảng<br>
+Là hiệu ứng chuyển trang Slide<br>
+Là hiệu ứng động cho các đối tượng trong Slide<br>
+Là hiệu ứng chỉ tác động đối với các đối tượng đồ họa<br>
+b<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel, chọn kết quả đúng nhất: =LEFT(“Thanh pho Da Nang”, 7) sẽ trả về:<br>
+“Thanh ph”<br>
+“Thanh p”<br>
+“Da Nang”<br>
+“ Da Nang”<br>
+b<br>
+Câu này không có giải thích.<br>
+Trong Microsoft PowerPoint, muốn hiển thị các Slide thuận tiện việc sắp xếp các trang slide ta làm cách nào?<br>
+View, chọn Notes Page<br>
+Home, chọn Slide Sorter<br>
+View, chọn Slide Sorter<br>
+Nhấn Ctrl + V<br>
+c<br>
+Câu này không có giải thích.<br>
+Trong Microsoft PowerPoint (2013, 2016, 2019), để mở Slide Master ta làm thế nào?<br>
+Vào thẻ Home, trong nhóm Master View, nhấn nút Slide Master<br>
+Vào thẻ Insert, trong nhóm Master View, nhấn nút Slide Master<br>
+Vào thẻ Design, trong nhóm Master View, nhấn nút Slide Master<br>
+Vào thẻ View, trong nhóm Master View, nhấn nút Slide Master<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), để thêm trường tên tệp vào đầu trang, ta đặt con trỏ chuột tại vùng Header, sau đó trong nhóm Header and Footer elements của thẻ Design, chọn nút lệnh nào?<br>
+Sheet Name<br>
+File Path<br>
+File Name<br>
+Book Name<br>
+c<br>
+Câu này không có giải thích.<br>
+Muốn vẽ biểu đồ thể hiện tỷ lệ giữa các thành phần so với toàn thể, ta chọn loại biểu đồ nào?<br>
+Line<br>
+Columns<br>
+Pie<br>
+Bar<br>
+c<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), để đếm số ô chứa giá trị lớn hơn 100 trong vùng từ E4 tới E9, ta sử dụng công thức nào?<br>
+COUNTIF(E4:E9,>100)<br>
+COUNTIF(E4..E9,>100)<br>
+COUNTIF(E4..E9, “>100”)<br>
+COUNTIF(E4:E9,“>100”)<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft PowerPoint (2013, 2016, 2019), để áp dụng các mẫu Themes có sẵn ta vào thẻ nào?<br>
+Thẻ Insert<br>
+Thẻ Review<br>
+Thẻ Home <br>
+Thẻ Design<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong Microsoft Excel (2013, 2016, 2019), kết quả trả lại của công thức =IF(20>3,130,”Hello”) là gì?<br>
+130<br>
+#VALUE!<br>
+Hello<br>
+#N/A<br>
+a<br>
+Câu này không có giải thích.<br>
+Hệ thống các chương trình đảm nhận chức năng làm môi trường trung gian giữa người sử dụng và phần cứng máy tính được gọi là?<br>
+Phần cứng<br>
+Hệ điều hành<br>
+Các loại trình dịch<br>
+Tất cả đều đúng<br>
+b<br>
+Câu này không có giải thích.<br>
+Chọn phát biểu đúng về vai trò của hệ điều hành?<br>
+Quản lý tài nguyên của máy tính<br>
+Biên dịch chương trình nguồn sang mã máy<br>
+Kiểm tra phần cứng hệ thống khi khởi động<br>
+Soạn thảo văn bản<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong các tên dưới đây, đâu là tên của một hệ điều hành?<br>
+WORD<br>
+UNIX<br>
+Windows Explorer<br>
+Microsoft Office<br>
+b<br>
+Câu này không có giải thích.<br>
+Các ký tự nào sau đây không được dùng để đặt tên tệp, thư mục trong hệ điều hành Windows?<br>
+?,*, /, \, <, >, :, |<br>
+@, 1<br>
+@, 1, %<br>
+~, @, #, $<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong các đuôi tệp dưới đây, đuôi nào gắn với tệp có thể chạy trực tiếp trên hệ điều hành WINDOWS?<br>
+*.txt<br>
+*.exe<br>
+*.jpg<br>
+*.mp3<br>
+b<br>
+*.exe là tệp chứa lệnh dưới dạng mã máy có thể chạy trực tiếp trên hệ điều hành Windows.<br>
+Trong hệ điều hành các tệp được tổ chức lưu trữ dưới dạng?<br>
+Dạng ngăn xếp<br>
+Dạng đường dẫn Path<br>
+Dạng cây<br>
+Dạng thư mục<br>
+c<br>
+Hệ điều hành tổ chức thông tin trong máy tính dạng hình cây gồm các Tệp tin và Thư mục.<br>
+Khi tìm kiếm tệp với tên tìm kiếm là baitap?.* thì những tệp nào có thể là kết quả của việc tìm kiếm, biết rằng có các tệp: baitap5.pdf, baitao9.doc, baitap10.doc và baitap8.pdf?<br>
+baitap5.pdf<br>
+baitap5.pdf và baitap8.pdf<br>
+baitap5.pdf, baitap9.doc và baitap8.pdf<br>
+baitap5.pdf, baitap9.doc, baitap10.doc và baitap8.pdf<br>
+c<br>
+Lý thuyết:
+- Dấu ? đại diện cho 1 kí tự bất kì tại vị trí của nó.
+- Dấu * đại diện cho 1 chuỗi kí tự (có thể không có hoặc có nhiều kí tự liền nhau) tại vị trí của nó.
+VÍ DỤ:
+Bai?.doc : Bai1.doc, Bai7.doc, Bait.doc...
+Bai*.doc : Bai.doc, Bai1.doc, Bai12.doc, BaiTap.doc...
+BaiTap.* : BaiTap.doc, BaiTap.pdf...<br>
+Trong ứng dụng nào dưới đây là trình ứng dụng chuẩn của Windows XP (khi cài đặt Windows sẽ có)?<br>
+Paint<br>
+Microsoft Excel<br>
+Microsoft Word<br>
+Turbo C<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong Windows Explorer, để chọn tất cả các tệp và thư mục con trong thư mục đang xét, dùng tổ hợp phím:<br>
+Ctrl + C<br>
+Ctrl + V<br>
+Ctrl + X<br>
+Ctrl + A<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong hệ điều hành Windows, tổ hợp phím nào có thể đóng một ứng dụng bất kỳ?<br>
+Alt + F4<br>
+Ctrl + Alt + Del<br>
+Ctrl + F1<br>
+Ctrl + F4<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong hệ điều hành Windows, phím tắt dùng để xóa file là?<br>
+Ctrl + C<br>
+Ctrl + A <br>
+Ctrl + D<br>
+Ctrl + V<br>
+c<br>
+Ctrl + D là Delete(Xóa) nhừng gì đang được chọn.<br>
+Trong Windows Explorer, để sao chép tập tin/thư mục dùng tổ hợp phím nào?<br>
+Ctrl + C<br>
+Ctrl + V<br>
+Ctrl + X<br>
+Ctrl + A<br>
+a<br>
+Câu này không có giải thích.<br>
+Hệ điều hành được xếp loại là:<br>
+Phần mềm ứng dụng<br>
+Phần mềm hệ thống<br>
+Phần mềm giải trí<br>
+Tất cả các loại trên<br>
+b<br>
+Câu này không có giải thích.<br>
+Trong các hệ điều hành sau, hệ điều hành nào được công bố gần đây nhất?<br>
+Windows XP<br>
+UNIX<br>
+Windows 7<br>
+Windows Vista<br>
+c<br>
+Câu này không có giải thích.<br>
+Phát biểu nào về Windows Explorer chưa chính xác?<br>
+Cho phép duyệt cây thư mục<br>
+Là một ứng dụng của Windows<br>
+Cho phép chuyển đổi tên file<br>
+Là chương trình cho phép duyệt Web<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong một số phiên bản hệ điều hành Windows, khả năng tự động nhận biết các thiết bị phần cứng và tự động cài đặt cấu hình của các thiết bị là chức năng:<br>
+Plug and Play<br>
+Desktop<br>
+Windows Explorer<br>
+Multimedia<br>
+a<br>
+Câu này không có giải thích.<br>
+Để loại bỏ một chương trình không còn sử dụng nữa, người dùng thực hiện:<br>
+Xóa bỏ biểu tượng của chương trình đó trong Start Menu<br>
+Xóa bỏ tập tin và thư mục của chương trình đó trên máy tính<br>
+Xóa bỏ biểu tượng của chương trình đó trên màn hình<br>
+Dùng chương trình Add and Remove Programs trong Control Panel<br>
+d<br>
+Câu này không có giải thích.<br>
+Template đề cập tới<br>
+Các mẫu trình diễn đã được định nghĩa trước<br>
+Thư viện các hình ảnh, biểu tượng<br>
+Các hiệu ứng chuyển động đã được định nghĩa trước<br>
+Trình diễn slide một cách tự động<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong các phần mở rộng file sau, phần mở rộng nào được tạo ra bởi phần mềm PowerPoint 2007?<br>
+*.pptx<br>
+*.pdfx<br>
+*.ppt<br>
+*.pdf<br>
+a<br>
+Câu này không có giải thích.<br>
+Vai trò chính của phần mềm bảng tính đối với người sử dụng?<br>
+Nhập, xuất các số liệu<br>
+Tính toán các số liệu<br>
+Tính toán điểm trung bình của người học<br>
+Trình bày số liệu dưới dạng con số và đồ thị<br>
+b<br>
+Câu này không có giải thích.<br>
+Phát biểu nào dưới đây sai về phần mềm bảng tính Excel?<br>
+Địa chỉ của ô được xác định thông qua hàng và cột của ô đó<br>
+Nội dung của các ô có thể thay đổi<br>
+Các hàng và cột được đánh số tăng dần, bắt đầu từ 1<br>
+Các ô có địa chỉ xác định<br>
+c<br>
+Câu này không có giải thích.<br>
+Trong phần mềm Excel, hàm AVERAGE là hàm dùng để tìm?<br>
+Giá trị lớn nhất trong các ô được chọn<br>
+Giá trị nhỏ nhất trong các ô được chọn<br>
+Giá trị trung bình trong các ô được chọn<br>
+Tổng tất cả các giá trị trong các ô được chọn<br>
+c<br>
+Câu này không có giải thích.<br>
+Các khái niệm page, sheet, slide đề cập tới các phần mềm là:<br>
+Microsoft Word, Microsoft Excel, Microsoft PowerPoint<br>
+Microsoft PowerPoint, Microsoft Excel, Microsoft Word<br>
+Microsoft Word, Microsoft PowerPoint, Microsoft Excel<br>
+Microsoft Excel, Microsoft Word, Microsoft PowerPoint<br>
+a<br>
+Câu này không có giải thích.<br>
+
