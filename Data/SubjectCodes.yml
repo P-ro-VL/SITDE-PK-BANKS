@@ -101,6 +101,19 @@ Available:
         Count: 20
         HasExplanation: false
         FileName: "Đại số.txt"
+  CNTT1116:
+    Name: "Nhập môn Công nghệ thông tin"
+    Enable: true
+    Type: "DC"
+    Theory:
+    Questions:
+      deCNTT1116_C3:
+        Name: "C3 - Phần mềm máy tính thông dụng"
+        Style: "NORMAL"
+        Time: 3600
+        Count: 50
+        HasExplanation: true
+        FileName: "deCNTT1116_C3.txt"
   TOCB1107:
     Name: "Toán rời rạc"
     Enable: true

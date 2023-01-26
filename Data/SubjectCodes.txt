@@ -19,6 +19,7 @@ deCNTT1116_C3:C3 - Phần mềm máy tính thông dụng:normal:3600:50:true<br>
 Nhập môn Công nghệ thông tin/deCNTT1116_C3.txt<br>
 next
 
+
 TOCB1107:Toán rời rạc<br>
 deTOCB1107_2:Giữa kì (C1 - 3) (ITA - 22.23):IMAGE_QUESTION:MIDTERM:3600:30<br>
 Toán rời rạc/deTOCB1107_2.txt<br>
