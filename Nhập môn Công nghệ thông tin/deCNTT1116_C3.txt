@@ -423,7 +423,7 @@ Canh lề dữ liệu cho ô<br>
 Hiển thị công thức hoặc nội dung của ô<br>
 Hiển thị địa chỉ (các) ô hiện hành và tên của vùng đang chọn<br>
 Hiển thị danh sách các công thức có thể sử dụng<br>
-a<br>
+b<br>
 Câu này không có giải thích.<br>
 Tập hợp các trang tính trong một file Excel được gọi là gì?<br>
 Book<br>
