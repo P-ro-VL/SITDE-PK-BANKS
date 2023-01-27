@@ -101,6 +101,13 @@ Available:
         Count: 20
         HasExplanation: false
         FileName: "Đại số.txt"
+      deTOCB1101_C5:
+        Name: "Chương 5 - Không gian vectơ N chiều"
+        Style: "SIMPLE_SELECT"
+        Time: 3600
+        Count: 20
+        HasExplanation: true
+        FileName: "deTOCB1101_C5.txt"
   TOCB1107:
     Name: "Toán rời rạc"
     Enable: true
