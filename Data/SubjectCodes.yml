@@ -148,6 +148,13 @@ Available:
         Count: 30
         HasExplanation: false
         FileName: "deTOCB1107_2.txt"
+      deTOCB1107_C5:
+        Name: "ToanRR_C5_SITDEPK"
+        Style: "IMAGE_QUESTION"
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: "deTOCB1107_C5.txt"
   CNTT1191:
     Name: "Vật lý đại cương"
     Enable: true
