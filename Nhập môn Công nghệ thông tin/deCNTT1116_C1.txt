@@ -71,12 +71,6 @@ Không í nào<br>
 Cả hai í trên<br>
 b<br>
 Hệ thống thông tin là gì<br>
-Là một hệ thống bao gồm các yếu tố không có quan hệ với nhau cùng làm nhiệm vụ thu thập, xử lí, lưu trữ, phân phối dữ liệu và thông tin; cung cấp một cơ chế yêu cầu để đạt được một mục tiêu định trước<br>
-Là một hệ thống bao gồm các yếu tố không có quan hệ với nhau cùng làm nhiệm vụ thu thập, xử lí, lưu trữ, phân phối dữ liệu và thông tin; cung cấp một cơ chế phản hồi để đạt được một mục tiêu định trước<br>
-Là một hệ thống bao gồm các yếu tố có quan hệ với nhau cùng làm nhiệm vụ thu thập, xử lí, lưu trữ, phân phối dữ liệu và thông tin; cung cấp một cơ chế yêu cầu để đạt được một mục tiêu định trước<br>
-Là một hệ thống bao gồm các yếu tố có quan hệ với nhau cùng làm nhiệm vụ thu thập, xử lí, lưu trữ, phân phối dữ liệu và thông tin; cung cấp một cơ chế phản hồi để đạt được một mục tiêu định trước<br>
-d<br>
-Hệ thống thông tin là gì<br>
 Là sự kết hợp giữa phần cứng hoặc phần mền, cơ sở dữ liệu, các quy trình và con người để tạo ra thông tin<br>
 Là sự kết hợp giữa phần cứng hoặc phần mền, cơ sở dữ liệu, các quy trình và con AI để tạo ra thông tin<br>
 Là sự kết hợp giữa phần cứng và phần mền, cơ sở dữ liệu, các quy trình và con người để tạo ra thông tin<br>
