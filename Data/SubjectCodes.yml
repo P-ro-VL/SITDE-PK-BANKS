@@ -121,6 +121,13 @@ Available:
         Count: 50
         HasExplanation: true
         FileName: "deCNTT1116_C3.txt"
+      deCNTT1116_C1:
+        Name: "C1 - Tổng quan về CNTT "
+        Style: "NORMAL"
+        Time: 3600
+        Count: 50
+        HasExplanation: false
+        FileName: "deCNTT1116_C1.txt"
   TOCB1107:
     Name: "Toán rời rạc"
     Enable: true

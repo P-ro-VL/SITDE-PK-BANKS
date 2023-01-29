@@ -1,0 +1,411 @@
+Thông tin là gì<br>
+Thông tin là khái niệm trừu tượng, nhưng có thể hiểu đơn giản thông tin là những hiểu biết có được về các sự vật, sự việc nào đó<br>
+Thông tin là khái niệm cụ thể,có thể hiểu đơn giản thông tin là những hiểu biết có được về các sự vật, sự việc nào đó<br>
+Thông tin là khái niệm trừu tượng, nhưng có thể hiểu đơn giản thông tin là những định nghĩa có được về các sự vật, sự việc nào đó<br>
+Thông tin là khái niệm cụ thể, nhưng có thể hiểu đơn giản thông tin là những định nghĩa có được về các sự vật, sự việc nào đó<br>
+a<br>
+Vật mang tin là gì<br>
+Là phương tiện vật chất để quảng bá thông tin<br>
+Là phương tiện vật chất để bảo mật thông tin<br>
+Là phương tiện vật chất để truyền thông tin<br>
+Là phương tiện vật chất để lưu giữ thông tin<br>
+d<br>
+Thông tin có lợi ích như thế nào trong đời sống hàng ngày<br>
+Mang lại cho con người sự hiểu biết, nhận thức tốt hơn về những đối tượng trong xã hội, trong thien nhiên...<br>
+Giúp cho họ thực hiện hợp lí công việc cần làm để đạt tới mục đích tốt nhất<br>
+Cả hai đáp án trên<br>
+Không đáp án nào<br>
+c<br>
+Khi tham gia giao thông, thấy tín hiệu đèn giao thông màu đỏ thì<br>
+Thông tin là màu đỏ<br>
+Thông tin là mọi người tham gia giao thông phải dừng lại<br>
+Thông tin là đèn giao thông<br>
+Cả ba í trên<br>
+b<br>
+Hãy xem một quyển sách<br>
+Thông tin là tên sách<br>
+Vật mang tin là quyển sách<br>
+Thông tin là tác giả<br>
+Cả ba í trên<br>
+c<br>
+Data là gì<br>
+Dữ liệu<br>
+Thông tin<br>
+Vật mang tin<br>
+cả A và C <br>
+c<br>
+Dữ liệu<br>
+Cụ thể, quan sát được<br>
+Trừu tượng, không quan sát được<br>
+Tuỳ vào vật mang dữ liệu<br>
+a<br>
+Các đặc trưng của thông tin có giá trị<br>
+Tính chính xác, đầy đủ, kinh tế, định hướng, độc lập, tin cậy, kịp thời, dễ sử dụng<br>
+Tính chính xác, đầy đủ, kinh tế, định hướng, liên quan, tin cậy, kịp thời, dễ sử dụng<br>
+Tính chính xác, đầy đủ, kinh tế, không định hướng, liên quan, tin cậy, kịp thời, dễ sử dụng<br>
+Tính chính xác, đầy đủ, kinh tế, không định hướng, độc lập, tin cậy, kịp thời, dễ sử dụng<br>
+b<br>
+Quy trình xử lsi thông tin bao gồm các hoath động<br>
+Thu thập dữ liệu; lưu trữ dữ liệu và thông tin; xử lí dữ liệu;  xuất, phân phối thông tin<br>
+Xử lí dữ liệu; Thu thập dữ liệu; lưu trữ dữ liệu và thông tin; xuất, phân phối thông tin<br>
+Thu thập dữ liệu; xử lí dữ liệu;  xuất, phân phối thông tin; lưu trữ dữ liệu và thông tin<br>
+Thu thập dữ liệu; xử lí dữ liệu; lưu trữ dữ liệu và thông tin; xuất, phân phối thông tin<br>
+d<br>
+Các phương pháp nhập dữ liệu phù hợp<br>
+Thủ công<br>
+Bán tự động<br>
+Tự động<br>
+cả ba í trên<br>
+d<br>
+Các thao tác xử lí dữ liệu<br>
+Sắp xếp, tính toán, tổng hợp dữ liệu theo các tiêu thức khác nhau<br>
+Sắp xếp, tính toán, tổng hợp dữ liệu theo các tiêu thức giống nhau<br>
+Sắp xếp, tính toán, tổng hợp, lưu trữ dữ liệu theo các tiêu thức giống nhau<br>
+Sắp xếp, tính toán, tổng hợp, lưu trữ dữ liệu theo các tiêu thức khác nhau<br>
+a<br>
+Vấn đề lưu trữ dữ liệu, thông tin phục vụ mục đích<br>
+Bảo mật<br>
+Truy xuất và khai thác<br>
+Không í nào<br>
+Cả hai í trên<br>
+b<br>
+Hệ thống thông tin là gì<br>
+Là một hệ thống bao gồm các yếu tố không có quan hệ với nhau cùng làm nhiệm vụ thu thập, xử lí, lưu trữ, phân phối dữ liệu và thông tin; cung cấp một cơ chế yêu cầu để đạt được một mục tiêu định trước<br>
+Là một hệ thống bao gồm các yếu tố không có quan hệ với nhau cùng làm nhiệm vụ thu thập, xử lí, lưu trữ, phân phối dữ liệu và thông tin; cung cấp một cơ chế phản hồi để đạt được một mục tiêu định trước<bt>
+Là một hệ thống bao gồm các yếu tố có quan hệ với nhau cùng làm nhiệm vụ thu thập, xử lí, lưu trữ, phân phối dữ liệu và thông tin; cung cấp một cơ chế yêu cầu để đạt được một mục tiêu định trước<bt>
+Là một hệ thống bao gồm các yếu tố có quan hệ với nhau cùng làm nhiệm vụ thu thập, xử lí, lưu trữ, phân phối dữ liệu và thông tin; cung cấp một cơ chế phản hồi để đạt được một mục tiêu định trước<bt>
+d<br>
+Hệ thống thông tin là gì<br>
+Là sự kết hợp giữa phần cứng hoặc phần mền, cơ sở dữ liệu, các quy trình và con người để tạo ra thông tin<br>
+Là sự kết hợp giữa phần cứng hoặc phần mền, cơ sở dữ liệu, các quy trình và con AI để tạo ra thông tin<br>
+Là sự kết hợp giữa phần cứng và phần mền, cơ sở dữ liệu, các quy trình và con người để tạo ra thông tin<br>
+Là sự kết hợp giữa phần cứng và phần mền, cơ sở dữ liệu, các quy trình và con AI để tạo ra thông tin<br>
+c<br>
+Phân loại hệ thống thông tin theo mục đích phục vụ gồm mấy loại<br>
+1<br>
+2<br>
+3<br>
+4<br>
+b<br>
+Máy tính điện tử<br>
+Nhận dữ liệu theo yêu cầu của người dùng<br>
+Tính toán dữ liệu theo các lệnh của chương trình xác định<br>
+Lưu trữ thông tin, kết quả<br>
+Cả ba í trên đều đúng<br>
+c<br>
+Lịch sử phát triển máy tính điện tử bao gồm bao nhiêu thế hệ<br>
+3<br>
+4<br>
+5<br>
+6<br>
+c<br>
+Thế hệ 1 có sự ra đời của<br>
+Máy tính sử dụng các bóng đèn điện tử chân không<br>
+Máy tính dùng bộ xử lí bằng đèn bán dẫn, mạch in<br>
+Máy tính được gắn các bộ vi xử lí bằng vi mạch điện tử cỡ nhỏ<br>
+Máy tính bắt đầu có các vi mạch đa xử lí với tốc độ tính từ hàng chục triệu đến hàng tỉ phép tính/giây<br>
+a<br>
+Thế hệ 2 có sự ra đời của<br>
+Máy tính sử dụng các bóng đèn điện tử chân không<br>
+Máy tính được gắn các bộ vi xử lí bằng vi mạch điện tử cỡ nhỏ<br>
+Máy tính bắt đầu có các vi mạch đa xử lí với tốc độ tính từ hàng chục triệu đến hàng tỉ phép tính/giây<br>
+Máy tính dùng bộ xử lí bằng đèn bán dẫn, mạch in<br>
+d<br>
+Thế hệ 3 có sự ra đời của<br>
+Máy tính sử dụng các bóng đèn điện tử chân không<br>
+Máy tính bắt đầu có các vi mạch đa xử lí với tốc độ tính từ hàng chục triệu đến hàng tỉ phép tính/giây<br>
+Máy tính được gắn các bộ vi xử lí bằng vi mạch điện tử cỡ nhỏ<br>
+Máy tính dùng bộ xử lí bằng đèn bán dẫn, mạch in<br>
+c<br>
+Thế hệ 4 có sự ra đời của<br>
+Máy tính sử dụng các bóng đèn điện tử chân không<br>
+Máy tính bắt đầu có các vi mạch đa xử lí với tốc độ tính từ hàng chục triệu đến hàng tỉ phép tính/giây<br>
+Máy tính được gắn các bộ vi xử lí bằng vi mạch điện tử cỡ nhỏ<br>
+Máy tính dùng bộ xử lí bằng đèn bán dẫn, mạch in<br>
+b<br>
+Thế hệ thứ 5 có sự ra đời của<br>
+Máy tính bắt đầu có các vi mạch đa xử lí với tốc độ tính từ hàng chục triệu đến hàng tỉ phép tính/giây<br>
+Máy tính được gắn các bộ vi xử lí bằng vi mạch điện tử cỡ nhỏ<br>
+Máy tính dùng bộ xử lí bằng đèn bán dẫn, mạch in<br>
+AI<br>
+d<br>
+Thế hệ 1 máy tính có tốc độ tính khoảng bao nhiêu/giây<br>
+300 - 3000<br>
+10000 - 100000<br>
+100000 - 1000000<br>
+chục triệu - tỉ<br>
+a<br2
+Thế hệ 1 máy tính có tốc độ tính khoảng bao nhiêu/giây<br>
+300 - 3000<br>
+10000 - 100000<br>
+100000 - 1000000<br>
+chục triệu - tỉ<br>
+b<br>
+Thế hệ 5 máy tính có tốc độ tính khoảng bao nhiêu/giây<br>
+300 - 3000<br>
+10000 - 100000<br>
+100000 - 1000000<br>
+chục triệu - tỉ<br>
+c<br>
+Thế hệ 5 máy tính có tốc độ tính khoảng bao nhiêu/giây<br>
+300 - 3000<br>
+10000 - 100000<br>
+100000 - 1000000<br>
+chục triệu - tỉ<br>
+d<br>
+Máy tính điện tử đầu tiên với công nghệ bóng chân không trong 1 giây thực hiện được bao nhiêu phép toán<br>
+2<br>
+3<br>
+4<br>
+5<br>
+b<br>
+Máy tính có hệ điều hành đơn giản trong thế hệ thứ mấy<br>
+1<br>
+2<br>
+3<br>
+4<br>
+b<br>
+Máy tính đầu tiên sử dụng bóng bán dẫn gồm có bao nhiêu transistors<br>
+6780<br>
+7000<br>
+8000<br>
+8240<br>
+c<br>
+Máy tính có các hệ điều hành đa chương trình trong thế hệ thứ mấy<br>
+2<br>
+3<br>
+4<br>
+5<br>
+b<br>
+Máy IBM - 360 hay EC được sản xuất ra trong thế hệ thứ mấy<br>
+1<br>
+2<br>
+3<br>
+4<br>
+c<br>
+Công nghệ tích hợp(IC)<br>
+Nhỏ hơn, rẻ hơn, hiệu quả hơn<br>
+Nhỏ hơn, đắt hơn nhưng hiệu quả hơn<br>
+Nhỏ hơn, khó thay thế, khó gia công hơn<br>
+Trên vi mạch có hàng nghìn transistor<br>
+a<br>
+Máy tính cá nhân và máy tính sách tay bắt đầu phổ biến vào thế hệ thứ mấy<br>
+2<br>
+3<br>
+4<br>
+5<br>
+c<br>
+Xu hướng ngày nay trong việc lựa chọn máy tính<br>
+Nhanh hơn<br>
+Nhỏ hơn<br>
+Dễ sử dụng hơn<br>
+Cả ba í trên<br>
+d<br>
+Phân loại máy tính điện tử theo khả năng sử dụng chung gồm<br>
+Máy tính lớn(siêu máy tính), máy tính tầm trung, máy vi tính<br>
+Siêu máy tính, máy tính lớn, máy tính tầm trung, máy vi tính<br>
+Máy tính lớn, máy tính tầm trung, máy vi tính, máy tính sách tay<br>
+Cả ba í trên sai<br>
+a<br>
+Máy tính nào phù hợp với nhiều đối tượng sử dụng, sử dụng nhiều trong công nghiệp và giải trí<br>
+Siêu máy tính<br>
+Máy tính tầm trung<br>
+Máy vi tính<br>
+Khác<br>
+c<br>
+Máy tính nhúng<br>
+Là máy chuyên dụng<br>
+Gắn trong các thiết bị gia dụng, máy công nghiệp<br>
+Giúp con người sử dụng thiết bị hiệu quả hơn<br>
+Cả ba í trên<br>
+d<br>
+Tin học là môn khoa học nghiên cứu về<br>
+Cấu trúc, thuật toán, hành vi và sự khác nhau giữa các hệ thống tự nhiên và nhân tạo<br>
+Cấu trúc, thuật toán, hành vi và sự khác nhau giữa các hệ thống tự nhiên hoặc nhân tạo<br>
+Cấu trúc, thuật toán, hành vi và mối tương tác giữa các hệ thống tự nhiên và nhân tạo<br>
+Cấu trúc, thuật toán, hành vi và mối tương tác giữa các hệ thống tự nhiên hoặc nhân tạo<br>
+c<br>
+Tin học nhằm phục vụ nhu cầu<br>
+Lưu trữ, xử lí, truy cập và truyền thông tin<br>
+Hiểu biết của con người<br>
+Cả hai í trên<br>
+Khôgn í nào cả<br>
+a<br>
+Tin học hoá được hiểu là<br>
+Hoạt động có mục đích cần đến máy tính<br>
+Sử dụng khai thác máy tính<br>
+Tạp ra máy tính<br>
+Cả ba í trên<br>
+d<br>
+Các lĩnh vực nghiên cứu của tin học<br>
+BE,CS,IS,IT,SE<br>
+CE,CS,IS,IT,SE<br>
+PE,CS,IS,IT,SE<br>
+CE,CS,IS,IT,BE<br>
+b<br>
+Nghiên cứu về thiết kế và chế tạo máy tính và các hệ thống dựa trên máy tính là hoạt động thuộc lĩnh vực nào của tin học<br>
+Kĩ nghệ máy tính(CE)<br>
+Khoa học máy tính(CS)<br>
+Hệ thống thông tin(IS)<br>
+Công nghệ thông tin(IT)<br>
+a<br>
+Nghiên cứu thiết kế, triển khai phần mềm, tìm ra cách thức mới sử dụng máy tính, phát triển cách thức giải quyết vấn đề của máy tính một cách hiệu quả là hoạt động của lĩnh cực nghiên cứu nào của tin học<br>
+Kĩ nghệ máy tính(CE)<br>
+Khoa học máy tính(CS)<br>
+Hệ thống thông tin(IS)<br>
+Công nghệ thông tin(IT)<br>
+b<br>
+Truyền thông là<br>
+Quá trình chia sẻ thông tin<br>
+Một kiểu tương tác xã hội trong đó ít nhất có hai tác nhân tương tác lẫn nhau, chia sẻ các quy tắc,tín hiệu chung<br>
+Gồm 2 phần là mã hoá và giải mã<br>
+Cả ba í trên <br>
+d<br>
+Phân loại phần mềm dựa trên quan điểm người sử dụng gồm<br>
+2 loại:Phần mềm hệ thống và phần mềm ứng dụng<br>
+3 loại:Phần mềm hệ thống, phần mềm ứng dụng và phần mềm trung gian<br>
+3 loại:Phần mềm hệ thống, phần mềm úng dụng và phần mền liên kết<br>
+Khác<br>
+a<br>
+Phần mềm hệ thống là<br>
+Phần mềm điều khiển toàn bộ máy tính và cung cấp môi trường giao tiếp giữa người dùng và máy tính nhằm khai thác hiệu quả phần cứng phục vụ cho nhu cầu của người dùng<br>
+Phần mềm điều khiển bên trong của máy tính và cung cấp môi trường giao tiếp giữa người dùng và máy tính nhằm khai thác hiệu quả phần mềm phục vụ cho nhu cầu của người dùng<br>
+Phần mềm điều khiển bên trong của máy tính và cung cấp môi trường giao tiếp giữa người dùng và máy tính nhằm khai thác hiệu quả phần cứng phục vụ cho nhu cầu của người dùng<br>
+Phần mềm điều khiển toàn bộ máy tính và cung cấp môi trường giao tiếp giữa người dùng và máy tính nhằm khai thác hiệu quả phần mềm phục vụ cho nhu cầu của người dùng<br>
+c<br>
+Phần mềm ứng dụng là<br>
+Phần mềm nâng cao hiệu suất sử dụng<br>
+Phần mềm bổ sung cho các hoạt động cá nhân<br>
+Phần mềm cho các doanh nghiệp, tổ chức<br>
+Cả ba í trên<br>
+d<br>
+Máy tính chỉ tương tác với bạn khi đã cài<br>
+Đủ phần mềm hệ thống<br>
+Đủ phần mềm ứng dụng<br>
+Hệ điều hành<br>
+Cả A và C<br>
+c<br>
+Chức năng của hệ điều hành bao gồm<br>
+Quản lí các thiết bị phần cứng, quản lí các tập tin được lưu trữ trên máy tính<br>
+Quản lí các thiết bị phần cứng, quản lí các tập tin được lưu trữ trên máy tính, điều hành hoạt động của các phần mềm<br>
+Quản lí các tập tin được lưu trữ trên máy tính, điều hành hoạt động của các phần mềm<br>
+Quản lí các thiết bị phần cứng, điều hành hoạt động của các phần mềm<br>
+a<br>
+Giao diện người dùng gồm có<br>
+Giao diện người dùng thiết kế và giao diện người dùng công thức<br>
+Giao diện người dùng đồ hoạ và giao diện người dùng kí tự<br>
+Giao diện người dùng tự động và giao diện người dùng bán tự động<br>
+Giao diện người dùng linh động và giao diện người dùng cố định<br>
+b<br>
+Mạng máy tính là<br>
+Một tập hợp gồm nhiều máy tính hoặc thiết bị xử lí thông tin được kết nối với nhau qua các đường truyền vật lí và phi vật lí<br>
+Một tập hợp gồm nhiều máy tính hoặc thiết bị xử lí thông tin được kết nối với nhau qua các đường truyền phi vật lí<br>
+Một tập hợp gồm nhiều máy tính hoặc thiết bị xử lí thông tin được kết nối với nhau qua các đường truyền vật chất<br>
+Một tập hợp gồm nhiều máy tính hoặc thiết bị xử lí thông tin được kết nối với nhau qua các đường truyền vật lí<br>
+d<br>
+Mục đích của mạng máy tính<br>
+Trao đổi thông tin giữa các máy tính<br>
+Chia sẻ tài nguyên<br>
+Cả 2 í trên<br>
+Không í nào<br>
+c<br>
+Mạng máy tính bắt đầu xuất hiện vào thời gian nào<br>
+1950s<br>
+1960s<br>
+1970<br>
+1980<br>
+b<br>
+Phân loại mạng máy tính theo mối quan hệ giữa các máy gồm<br>
+Mạng bình đẳng và mạng một phía<br>
+Mạng bán bình đẳng và mạng khách chủ<br>
+Mạng độc lập và mạng khách chủ<br>
+Mạng bình đẳng và mạng khách chủ<br>
+d<br>
+Phân loại máy tính theo quy mô địa lí được sắp xếp theo sự tăng dần quy mô là<br>
+LAN, MAN, WAN, GAN<br>
+MAN, LAN, WAN, GAN<br>
+LAN, MAN, GAN, WAN<br>
+LAN, GAN, MAN, WAN<br>
+a<br>
+Mạng tại quán game thuộc loại mạng<br>
+LAN<br>
+MAN<br>
+WAN<br>
+GAN<br>
+a<br>
+Mạng tại trường học thuộc loại mạng<br>
+LAN<br>
+MAN<br>
+WAN<br>
+GAN<br>
+a<br>
+Mạng đô thị thuộc loại mạng<br>
+LAN<br>
+MAN<br>
+WAN<br>
+GAN<br>
+b<br>
+Mạng tổng cục thuế thuộc loại mạng<br>
+LAN<br>
+MAN<br>
+WAN<br>
+GAN<br>
+c<br>
+Mạng internet thuộc loại mạng<br>
+LAN<br>
+MAN<br>
+WAN<br>
+GAN<br>
+d<br>
+Phân loại mạng theo cách thức kết nối mạng bao gồm<br>
+Mạng tuyến tính, mạng hình sao, mạng vòng, mạng hỗn hợp<br>
+Mạng tuyến tính, mạng hình sao, mạng vòng, mạng lai<br>
+Mạng tuyến tính, mạng hình sao, mạng vòng, mạng hybrid<br>
+Cả ba í trên<br>
+d<br>
+Các thiết bị mạng bao gồm<br>
+Dây cáp mạng, card mạng, Reapeater, hub, switch, bridge, router, gate way, các thiết bị không dây, máy chủ mạng<br>
+Dây cáp mạng, bàn phím, Reapeater, hub, switch, bridge, router, gate way, các thiết bị không dây, máy chủ mạng<br>
+Dây cáp mạng, card mạng, Reapeater, hub, chuột, bridge, router, gate way, các thiết bị không dây, máy chủ mạng<br>
+Dây cáp mạng, card mạng, Reapeater, hub, switch, bridge, loa, gate way, các thiết bị không dây, máy chủ mạng<br>
+a<br>
+Đường truyền vật lí có thể là<br>
+Cáp đồng, cáp quang<br>
+Ăng ten<br>
+Không dây(wifi)<br>
+cả ba í trên<br>
+d<br>
+Khái niệm về internet<br>
+Internet không thuộc sở hữu của ai cả. Chỉ có uỷ ban điều phối và kĩ thuật giúp điều hành internet<br>
+Internet thuộc sở hữu của Bộ Quốc phòng Mỹ. Có uỷ ban điều phối và kĩ thuật giúp điều hành internet<br>
+Internet thuộc sở hữu của DoD .Có uỷ ban điều phối và kĩ thuật giúp điều hành internet<br>
+Internet thuộc sở hữu của GAN. Có uỷ ban điều phối và kĩ thuật giúp điều hành internet<br>
+a<br>
+Khái niệm internet xuất hiện năm bao nhiêu<br>
+1972<br>
+1974<br>
+1986<br>
+1988<br>
+b<br>
+Việt Nam kết nối internet năm bao nhiêu<br>
+1993<br>
+1991<br>
+1997<br>
+2003<br>
+c<br>
+Giao thức là gì<br>
+Là một tập hợp những quy tắc hay công thức dùng để điều khiển những thông tin được truyền đi giữa các thiết bị hay chương trình trên mạng<br>
+Là một tập hợp những mệnh lệnh dùng để điều khiển những thông tin được truyền đi giữa các thiết bị hay chương trình trên mạng<br>
+Là một tập hợp những quy tắc hay công thức dùng để điều khiển những thông tin được truyền đi giữa các máy tính hay chương trình trên mạng<br>
+Là một tập hợp những mệnh lệnh dùng để điều khiển những thông tin được truyền đi giữa các máy tính hay chương trình trên mạng<br>
+c<br>
+Mô hình IOS gồm bao nhiêu tầng<br>
+4<br>
+5<br>
+6<br>
+7<br>
+d<br>
+
+
+
+
