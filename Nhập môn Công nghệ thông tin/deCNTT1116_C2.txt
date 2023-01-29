@@ -412,33 +412,6 @@ Hệ thống máy tính gồm mấy phần<br>
 6:Bộ xử lí trung tâm, bộ nhớ chính, hệ thống vào ra, liên kết hệ thống, hệ thống mạng, các vi mạch<br>
 b<br>
 
-CPU bao gồm<br>
-Khối điều khiển<br>
-Khối tính toán số học và logic<br>
-Tập các thanh ghi<br>
-CẢ ba í trên<br>
-d<br>
-
-Nhận lệnh của chương trình từ bộ nhớ trong đưa vào CPU là nhiệm vụ của khối nào<br>
-Khối điều khiển<br>
-Khối tính toán số học và logic<br>
-Tập các thanh ghi<br>
-CẢ ba í trên<br>
-a<br>
-
-Giải mã các lệnh, tạo ra các tín hiệu điều khiển công việc là nhiệm vụ cảu khối nào<br>
-Khối điều khiển<br>
-Khối tính toán số học và logic<br>
-Tập các thanh ghi<br>
-CẢ ba í trên<br>
-a<br>
-
-Tăng tốc đọ trao đổi thông tin tron gmays tính là chức năng của khối nào<br>
-Khối điều khiển<br>
-Khối tính toán số học và logic<br>
-Tập các thanh ghi<br>
-CẢ ba í trên<br>
-c<br>
 
 Vùng bộ nhớ chỉ đọc là<br>
 ROM<br>
