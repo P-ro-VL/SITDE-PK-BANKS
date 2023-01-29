@@ -304,7 +304,7 @@ a<br>
 Dấu phẩy động<br>
 Dấu chấm <br>
 Luỹ thừa<br>
-Dấu chấm than<br>
+Dấu chấm thanh<br>
 a<br>
 
 Số thực biểu diễn gồm 3 phần là<br>
@@ -410,7 +410,7 @@ Hệ thống máy tính gồm mấy phần<br>
 4:Bộ xử lí trung tâm, bộ nhớ chính, hệ thống vào ra, liên kết hệ thống<br>
 5:Bộ xử lí trung tâm, bộ nhớ chính, hệ thống vào ra, liên kết hệ thống, hệ thống mạng<br>
 6:Bộ xử lí trung tâm, bộ nhớ chính, hệ thống vào ra, liên kết hệ thống, hệ thống mạng, các vi mạch<br>
-b<r>
+b<br>
 
 CPU bao gồm<br>
 Khối điều khiển<br>
