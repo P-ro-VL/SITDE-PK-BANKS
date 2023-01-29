@@ -124,30 +124,6 @@ Máy tính được gắn các bộ vi xử lí bằng vi mạch điện tử c�
 Máy tính dùng bộ xử lí bằng đèn bán dẫn, mạch in<br>
 AI<br>
 d<br>
-Thế hệ 1 máy tính có tốc độ tính khoảng bao nhiêu/giây<br>
-300 - 3000<br>
-10000 - 100000<br>
-100000 - 1000000<br>
-chục triệu - tỉ<br>
-a<br>
-Thế hệ 1 máy tính có tốc độ tính khoảng bao nhiêu/giây<br>
-300 - 3000<br>
-10000 - 100000<br>
-100000 - 1000000<br>
-chục triệu - tỉ<br>
-b<br>
-Thế hệ 5 máy tính có tốc độ tính khoảng bao nhiêu/giây<br>
-300 - 3000<br>
-10000 - 100000<br>
-100000 - 1000000<br>
-chục triệu - tỉ<br>
-c<br>
-Thế hệ 5 máy tính có tốc độ tính khoảng bao nhiêu/giây<br>
-300 - 3000<br>
-10000 - 100000<br>
-100000 - 1000000<br>
-chục triệu - tỉ<br>
-d<br>
 Máy tính điện tử đầu tiên với công nghệ bóng chân không trong 1 giây thực hiện được bao nhiêu phép toán<br>
 2<br>
 3<br>
