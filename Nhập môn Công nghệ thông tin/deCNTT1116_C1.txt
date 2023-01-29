@@ -46,7 +46,7 @@ Tính chính xác, đầy đủ, kinh tế, định hướng, liên quan, tin c�
 Tính chính xác, đầy đủ, kinh tế, không định hướng, liên quan, tin cậy, kịp thời, dễ sử dụng<br>
 Tính chính xác, đầy đủ, kinh tế, không định hướng, độc lập, tin cậy, kịp thời, dễ sử dụng<br>
 b<br>
-Quy trình xử lsi thông tin bao gồm các hoath động<br>
+Quy trình xử lí thông tin bao gồm các hoath động<br>
 Thu thập dữ liệu; lưu trữ dữ liệu và thông tin; xử lí dữ liệu;  xuất, phân phối thông tin<br>
 Xử lí dữ liệu; Thu thập dữ liệu; lưu trữ dữ liệu và thông tin; xuất, phân phối thông tin<br>
 Thu thập dữ liệu; xử lí dữ liệu;  xuất, phân phối thông tin; lưu trữ dữ liệu và thông tin<br>
@@ -72,9 +72,9 @@ Cả hai í trên<br>
 b<br>
 Hệ thống thông tin là gì<br>
 Là một hệ thống bao gồm các yếu tố không có quan hệ với nhau cùng làm nhiệm vụ thu thập, xử lí, lưu trữ, phân phối dữ liệu và thông tin; cung cấp một cơ chế yêu cầu để đạt được một mục tiêu định trước<br>
-Là một hệ thống bao gồm các yếu tố không có quan hệ với nhau cùng làm nhiệm vụ thu thập, xử lí, lưu trữ, phân phối dữ liệu và thông tin; cung cấp một cơ chế phản hồi để đạt được một mục tiêu định trước<bt>
-Là một hệ thống bao gồm các yếu tố có quan hệ với nhau cùng làm nhiệm vụ thu thập, xử lí, lưu trữ, phân phối dữ liệu và thông tin; cung cấp một cơ chế yêu cầu để đạt được một mục tiêu định trước<bt>
-Là một hệ thống bao gồm các yếu tố có quan hệ với nhau cùng làm nhiệm vụ thu thập, xử lí, lưu trữ, phân phối dữ liệu và thông tin; cung cấp một cơ chế phản hồi để đạt được một mục tiêu định trước<bt>
+Là một hệ thống bao gồm các yếu tố không có quan hệ với nhau cùng làm nhiệm vụ thu thập, xử lí, lưu trữ, phân phối dữ liệu và thông tin; cung cấp một cơ chế phản hồi để đạt được một mục tiêu định trước<br>
+Là một hệ thống bao gồm các yếu tố có quan hệ với nhau cùng làm nhiệm vụ thu thập, xử lí, lưu trữ, phân phối dữ liệu và thông tin; cung cấp một cơ chế yêu cầu để đạt được một mục tiêu định trước<br>
+Là một hệ thống bao gồm các yếu tố có quan hệ với nhau cùng làm nhiệm vụ thu thập, xử lí, lưu trữ, phân phối dữ liệu và thông tin; cung cấp một cơ chế phản hồi để đạt được một mục tiêu định trước<br>
 d<br>
 Hệ thống thông tin là gì<br>
 Là sự kết hợp giữa phần cứng hoặc phần mền, cơ sở dữ liệu, các quy trình và con người để tạo ra thông tin<br>
