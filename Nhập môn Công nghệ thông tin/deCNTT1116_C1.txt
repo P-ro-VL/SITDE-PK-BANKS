@@ -376,25 +376,25 @@ Mô hình IOS gồm bao nhiêu tầng<br>
 6<br>
 7<br>
 d<br>
-Thế hệ 1 máy tính có tốc độ tính khoảng bao nhiêu/giây<br>
+Thế hệ 1 máy tính có tốc độ tính khoảng bao nhiêu trên giây<br>
 300 - 3000<br>
 10000 - 100000<br>
 100000 - 1000000<br>
 chục triệu - tỉ<br>
 a<br>
-Thế hệ 2 máy tính có tốc độ tính khoảng bao nhiêu/giây<br>
+Thế hệ 2 máy tính có tốc độ tính khoảng bao nhiêu trên giây<br>
 300 - 3000<br>
 10000 - 100000<br>
 100000 - 1000000<br>
 chục triệu - tỉ<br>
 b<br>
-Thế hệ 3 máy tính có tốc độ tính khoảng bao nhiêu/giây<br>
+Thế hệ 3 máy tính có tốc độ tính khoảng bao nhiêu trên giây<br>
 300 - 3000<br>
 10000 - 100000<br>
 100000 - 1000000<br>
 chục triệu - tỉ<br>
 c<br>
-Thế hệ 4 máy tính có tốc độ tính khoảng bao nhiêu/giây<br>
+Thế hệ 4 máy tính có tốc độ tính khoảng bao nhiêu trên giây<br>
 300 - 3000<br>
 10000 - 100000<br>
 100000 - 1000000<br>
