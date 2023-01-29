@@ -95,6 +95,7 @@ Chuyển số 1764 từ hệ thập phân sang hệ thập lục phân<br>
 6E3<br>
 6E5<br>
 6E6<br>
+a<br>
 
 Chuyển số 3428 từ hệ thập phân sang hệ thập lục phân<br>
 D64<br>
