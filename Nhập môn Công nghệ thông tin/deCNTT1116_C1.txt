@@ -129,7 +129,7 @@ Thế hệ 1 máy tính có tốc độ tính khoảng bao nhiêu/giây<br>
 10000 - 100000<br>
 100000 - 1000000<br>
 chục triệu - tỉ<br>
-a<br2
+a<br>
 Thế hệ 1 máy tính có tốc độ tính khoảng bao nhiêu/giây<br>
 300 - 3000<br>
 10000 - 100000<br>
