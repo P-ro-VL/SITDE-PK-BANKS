@@ -400,6 +400,91 @@ Thế hệ 4 máy tính có tốc độ tính khoảng bao nhiêu trên giây<br
 100000 - 1000000<br>
 chục triệu - tỉ<br>
 d<br>
+Quy trình giải quyết bài toán bằng máy tính gồm những giai đoạn nào<br>
+Xây dựng và khai thác, bảo trì<br>
+Thu thập thông tin và khai thác thông tin<br>
+Thu thập thông tin và lưu trữ thông tin<br>
+Thu thập thông tin và xuất thông tin<br>
+a<br>
+1:xác định bài toán, 2:Lựa chọn phương pháp, 3:xây dựng giải thuật, 4:xây dựng chương trình, 5:thực hiện chương trình, 6:Hiệu chỉnh chương trình. Hãy sắp xếp theo thứ tự đúng của quy trình giải quyết bài toán bằng máy tính<br>
+1 2 3 4 5 6<br>
+1 2 3 4 6 5<br>
+1 2 4 3 5 6<br>
+1 2 4 3 6 5<br>
+b<br>
+Quy trình giải bài toán theo cách tiếp cận phần mềm gồm các bước<br>
+Xác định bài toán, phân tích bài toán, thiết kế chương trình, xây dựng chương trình, kiểm thử chương trình, triển khai<br>
+Thu thập thông tin, xác định bài toán, phân tích bài toán, thiết kế chương trình, xây dựng chương trình, kiểm thử chương trình, triển khai<br>
+Thu thập thông tin, phân tích bài toán, thiết kế chương trình, xây dựng chương trình, kiểm thử chương trình, triển khai<br>
+Thu thập thông tin, xác định bài toán, thiết kế chương trình, xây dựng chương trình, kiểm thử chương trình, triển khai<br>
+a<br>
+Phương pháp giải quyết bài toán gồm<br>
+Xác định trực tiếp lời giả và xác định gián tiếp lời giải<br>
+Tìm kiếm lời giải và liệt kê lời giải<br>
+Quy nạp và diễn dịch<br>
+Xác định trực tiếp lời giả và tìm kiếm lời giải<br>
+d<br>
+Thuật toán là gì<br>
+Dãy hữu hạn các thao tác cần thực hiện theo một trình tự xác định sao cho sau khi thực hiện thao tác ấy thu được kết quả cần thiết từ các điều kiện cho trước<br>
+Dãy vô hạn các thao tác cần thực hiện theo một trình tự xác định sao cho sau khi thực hiện thao tác ấy thu được kết quả cần thiết từ các điều kiện cho trước<br>
+Dãy hữu hạn các thao tác cần thực hiện theo một trình tự khác nhau sao cho sau khi thực hiện thao tác ấy thu được kết quả cần thiết từ các điều kiện cho trước<br>
+Dãy vô hạn các thao tác cần thực hiện theo một trình tự khác nhau sao cho sau khi thực hiện thao tác ấy thu được kết quả cần thiết từ các điều kiện cho trước<br>
+a<br>
+Tính chất của thuật toán bao gồm<br>
+Tính hữu hạn, tính dừng<br>
+Tính chính xác, tính đúng<br>
+Tính hiệu quả<br>
+Cả ba í trên<br>
+d<br>
+Tính chất của thuật toán bao gồm<br>
+Tính khan hiếm<br>
+Tính đa trị<br>
+Tính vô hạn<br>
+Tính tổng quát, phổ dụng<br>
+d<br>
+Tính chất của thuật toán bao gồm<br>
+Tính đơn trị<br>
+Tính hữu hạn<br>
+Tính phổ biến<br>
+Cả ba í trên<br>
+d<br>
+Các cách biểu diễn thuật toán<br>
+Ngôn ngữ tự nhiên<br>
+Mã giả<br>
+Lưu đồ<br>
+Cả ba í trên<br>
+d<br>
+Cách biểu diễn nào rõ chức năng khác nhau của các câu lệnh cũng như đem lại cái nhìn dễ hiểu nhất cho người sử dụng<br>
+Ngôn ngữ tự nhiên<br>
+Mã giả<br>
+Lưu đồ<br>
+Cả ba í trên<br>
+c<br>
+Khối bình hành là khối<br>
+Bắt đầu hoặc kết thúc thuật toán<br>
+Nhập hoặc xuất dữ liệu<br>
+Tính toán<br>
+Rẽ nhánh<br>
+b<br>
+Khối chữ nhật là khối<br>
+Bắt đầu hoặc kết thúc thuật toán<br>
+Nhập hoặc xuất dữ liệu<br>
+Tính toán<br>
+Rẽ nhánh<br>
+c<br>
+Khối elip là khối<br>
+Bắt đầu hoặc kết thúc thuật toán<br>
+Nhập hoặc xuất dữ liệu<br>
+Tính toán<br>
+Rẽ nhánh<br>
+a<br>
+Khối thoi là khối<br>
+Bắt đầu hoặc kết thúc thuật toán<br>
+Nhập hoặc xuất dữ liệu<br>
+Tính toán<br>
+Rẽ nhánh<br>
+d<br>
+
 
 
 
