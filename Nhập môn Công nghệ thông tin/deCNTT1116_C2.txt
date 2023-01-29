@@ -1,0 +1,502 @@
+Hệ đếm cơ số 10 sử dụng bao nhiêu chữ số<br>
+10 chữ số:0,1,2,3,4,5,6,7,8,9<br>
+10 chữ số:1,2,3,4,5,6,7,8,9,10<br>
+9 chữ số:0,1,2,3,4,5,6,7,8<br>
+9 chữ số:1,2,3,4,5,6,7,8,9<br>
+a<br>
+
+Quy tắc tính giá trị của hệ đếm có số 10<br>
+Mười đơn vị ở hàng bất kì có giá trị bằng 10 đơn vị hàng kế cận bên trái<br>
+Mười đơn vị ở hàng bất kì có giá trị bằng 10 đơn vị hàng kế cận bên phải<br>
+Mỗi đơn vị ở hàng bất kì có giá trị bằng 10 đơn vị hàng kế cận bên trái<br>
+Mỗi đơn vị ở hàng bất kì có giá trị bằng 10 đơn vị hàng kế cận bên phải<br>
+d<br>
+
+Quy tắc tính giá trị của hệ đếm cơ số 10<br>
+Phần thập phân thể hiện 10 luỹ thừa âm tính từ phải sang trái kể từ dấu chấm phân cách<br>
+Phần thập phân thể hiện 10 luỹ thừa âm tính từ phải sang trái kể từ dấu phẩy phân cách<br>
+Phần thập phân thể hiện 10 luỹ thừa âm tính từ trái sang phải kể từ dấu chấm phân cách<br>
+Phần thập phân thể hiện 10 luỹ thừa âm tính từ trái sang phải kể từ dấu phẩy phân cách<br>
+c<br>
+
+Hệ đếm là gì<br>
+Hệ đếm là tập hợp các kí hiệu và quy tắc dùng để biểu diễn và xác định các giá trị của các số<br> 
+Mỗi hệ đếm sử dụng một số các chữ số hữu hạn để biểu diễn, gọi là ký số<br>
+Tổng chữ số được dùng để biểu diễn của hệ đếm gọi là cơ số (Base/Radix)<br>
+Cả ba í trên<br>
+d<br>
+
+
+Trọng số là gì<br>
+Là giá trị biểu diễn cho vị trí của một con số trong chuỗi số<br>
+Là giá trị biểu diễn cho số lần xuất hiện của một con số trong chuỗi số<br>
+Là đại lượng biểu diễn cho số lần xuất hiện của một con số trong chuỗi số<br>
+Là đại lượng biểu diễn cho vị trí của một con số trong chuỗi số<br>
+d<br>
+
+Chuyển số 101101 từ hệ nhị phân sang hệ thập phân<br>
+45<br>
+44<br>
+60<br>
+61<br>
+a<br>
+
+Chuyển số 10110110 từ hệ nhị phân sang hệ thập phân<br>
+182<br>
+190<br>
+191<br>
+255<br>
+a<br>
+
+Chuyển số 56 từ hệ thập phân sang hệ nhị phân<br>
+101100<br>
+111000<br>
+101110<br>
+111100<br>
+b<br>
+
+Chuyển số 167 từ hệ thập phân sang hệ nhị phân<br>
+10100011<br>
+10110111<br>
+10100101<br>
+10100111<br>
+d<br>
+
+Chuyển số 167 từ hệ thập phân sang hệ bát phân<br>
+543<br>
+256<br>
+247<br>
+542<br>
+c<br>
+
+Chuyển số 56 từ hệ thập phân sang hệ bát phân<br>
+70<br>
+72<br>
+67<br>
+68<br>
+a<br>
+
+Chuyển số 167 từ hệ bát phân sang hệ nhị phân<br>
+1110101<br>
+1110110<br>
+1110011<br>
+1110111<br>
+d<br>
+
+Chuyển số 56 từ hệ bát phân sang hệ nhị phân<br>
+101100<br>
+101110<br>
+100110<br>
+101010<br>
+b<br>
+
+Chuyển số 1764 từ hệ thập phân sang hệ thập lục phân<br>
+6E4<br>
+6E3<br>
+6E5<br>
+6E6<br>
+
+Chuyển số 3428 từ hệ thập phân sang hệ thập lục phân<br>
+D64<br>
+D12<br>
+B33<br>
+B34<br>
+a<br>
+
+Chuyển số 1101011 từ hệ nhị phân sang hệ thập lục phân<br>
+7B<br>
+6B<br>
+6D<br>
+7D<br>
+b<br>
+
+Chuyển số 0011101101011101.01101010 từ hệ nhị phân sang hệ thập lục phân<br>
+3B5D.7A<br>
+3B5E.7A<br>
+3B5E.6A<br>
+3B5D.6A<br>
+d<br>
+
+Chuyển số 43BE từ hệ thập lục phân sang hệ thập phân<br>
+18654<br>
+18655<br>
+17342<br>
+17332<br>
+c<br>
+
+Chuyển số 43BE từ hệ thập lục phân sang hệ bát phân<br>
+41676<br>
+41677<br>
+41674<br>
+41673<br>
+a<br>
+
+Chuyển số 11001011010.1011 từ hệ nhị phân sang hệ bát phân<br>
+3133.54<br>
+3123.54<br>
+3132.54<br>
+3134.54<br>
+c<br>
+
+Để đưa dữ liệu vào máy thì dữ liệu cần phải ở dạng nào<br>
+Bát phân<br>
+Nhị phân<br>
+Thập phân<br>
+Thập lục phân<br>
+b<br>
+
+Dữ liệu dạng số được mã hoá theo cách nào sau đây<br>
+Chuyển đổi trực tiếp thành dãy số nhị phân theo các chuẩn xác định<br>
+Được mã hoá theo 1 bộ mã cụ thể, mỗi số tương ứng với 1 chuỗi nhị phân<br>
+Được số hoá<br>
+Cả ba cách trên<br>
+a<br>
+
+Dữ liệu dạng kí tự được mã hoá theo cách nào sau đây<br>
+Chuyển đổi trực tiếp thành dãy số nhị phân theo các chuẩn xác định<br>
+Được mã hoá theo 1 bộ mã cụ thể, mỗi kí tự tương ứng với 1 chuỗi nhị phân<br>
+Được số hoá<br>
+Cả ba cách trên<br>
+b<br>
+
+Dữ liệu dạng âm thanh, hình ảnh được mã hoá theo cách nào sau đây<br>
+Chuyển đổi trực tiếp thành dãy số nhị phân theo các chuẩn xác định<br>
+Được mã hoá theo 1 bộ mã cụ thể, mỗi kí tự tương ứng với 1 chuỗi nhị phân<br>
+Được số hoá<br>
+Cả ba cách trên<br>
+c<br>
+
+Dữ liệu được chia làm 2 loại là<br>
+Dạng cơ bản và dạng có cấu trúc<br>
+Dạng cơ bản và dạng nâng cao<br>
+Dạng cấu trúc 1 chiều và cấu trúc đa chiều<br>
+Dạng cấu trúc nhánh và cấu trúc dạng không gian<br>
+a<br>
+
+Số nguyên, số thực, kí tự thuôc kiểu dữ liệu nào sau đây<br>
+Dữ liệu dạng cơ bản<br>
+Dữ liệu dạng nâng cao<br>
+Dữ liệu dạng có cấu trúc<br>
+Dữ liệu dạng nhánh<br>
+a<br>
+
+Mảng,tập hợp, xâu, bản ghi thuộc dạng dữ liệu nào sau đây<br>
+Dữ liệu dạng cơ bản<br>
+Dữ liệu dạng nâng cao<br>
+Dữ liệu dạng có cấu trúc<br>
+Dữ liệu dạng nhánh<br>
+c<br>
+
+Đơn vị nhỏ nhất biểu diễn thông tin là<br>
+Bit<br>
+Byte<br>
+Kiloyte<br>
+Kilobit<br>
+a<br>
+
+1 kilobyte bằng bao nhiêu byte<br>
+1000<br>
+1024<br>
+luỹ thừa cơ số 12 của 2<br>
+Khác<br>
+b<br>
+
+Thực hiện phép tính sau rồi đổi kết quả ra hệ thập phân:1101101 + 1001011<br>
+187<br>
+184<br>
+188<br>
+198<br>
+b<br>
+
+Thực hiện phép tính sau rồi đổi kết quả ra hệ thập phân:1011110 + 1111111<br>
+223<br>
+225<br>
+227<br>
+221<br>
+d<br>
+ 
+Thực hiện phép tính sau rồi đổi kết quả ra hệ thập phân:11011011 - 1011011<br>
+165<br>
+174<br>
+128<br>
+125<br>
+c<br>
+
+Thực hiện phép tính sau rồi đổi kết quả ra hệ thập phân:110110 x 100<br>
+289<br>
+347<br>
+129<br>
+216<br>
+d<br>
+
+Thực hiện phép tính sau rồi đổi kết quả ra hệ thập phân:110101101 and 011010101<br>
+178<br>
+128<br>
+133<br>
+155<br>
+c<br>
+
+Thực hiện phép tính sau rồi đổi kết quả ra hệ thập phân:110101101 or 011010101<br>
+498<br>
+219<br>
+667<br>
+509<br>
+d<br>
+
+Thực hiện phép tính sau rồi đổi kết quả ra hệ thập phân:110101101 xor 011010101<br>
+329<br>
+219<br>
+376<br>
+200<br>
+c<br>
+
+Với n=8bit thì dải giá trị dương nằm trong khoảng nào<br>
+[1,256]<br>
+[0,255]<br>
+[0,256]<br>
+[1,255]<br>
+b<br>
+
+Với n=16bit thì dải giá trị dương nằm trong khoảng nào<br>
+[0,65535]<br>
+[1,65535]<br>
+[0,65536]<br>
+[1,65526]<br>
+a<br>
+
+Với n=8bit thì giải giá trị nằm tron khoảng nào<br>
+[-128,+127]<br>
+[-127,+128]<br>
+[-126,+127]<br>
+[-127,+126]<br>
+a<br>
+
+Với n=16bit thì dải giá trị nằm trong khoảng nào<br>
+[-32768,+32767]<br>
+[-32767,+32768]<br>
+[-23766,+32765]<br>
+[-32754,+32766]<br>
+a<br>
+
+Xác định giá trị của số nguyên có dấu 8 bit:11010010<br>
+-45<br>
+-46<br>
+-48<br>
+46<br>
+b<br>
+
+Xét n=4bit, A=0110 thì số bù 2 của A là<br>
+0011<br>
+0110<br>
+1010<br>
+0101<br>
+c<br>
+
+Xét n=4bit, A=0110 thì số bù 1 của A là<br>
+1001<br>
+0110<br>
+1010<br>
+0101<br>
+a<br>
+
+Để biểu diễn số thực trong máy tính ta dùng<br>
+Dấu phẩy động<br>
+Dấu chấm <br>
+Luỹ thừa<br>
+Dấu chấm than<br>
+a<br>
+
+Số thực biểu diễn gồm 3 phần là<br>
+N = M * (R mũ E)<br>
+M = N * (R mũ E)<br>
+E = M * (R mũ N)<br>
+E = N * (R mũ M)<br>
+a<br>
+
+Chuẩn IEEE 754/85 có dạng cơ bản là<br>
+Dạng có độ chính xác đơn, 32-bit<br>
+Dạng có độ chính xác kép, 64-bit<br>
+Dạng có độ chính xác kép mở rộng, 80-bit<br>
+Cả ba í trên<br>
+d<br>
+
+Xác định giá trị thập phân của số thực X được biểu diễn dưới dạng nhị phân theo chuẩn IEEE 754 dạng 32 bit như sau:1100 0001 0101 0110 0000 0000 0000 0000<br>
+-12.435<br>
+-23.8373<br>
+-13.375<br>
+-18.435<br>
+c<br>
+
+Xác định giá trị thập phân của số thực X được biểu diễn dưới dạng nhị phân theo chuẩn IEEE 754 dạng 32 bit như sau:0011 1111 1000 0000 0000 0000 0000 0000<br>
+1<br>
+-1<br>
+0.5432<br>
+-0.5432<br>
+a<br>
+
+Biểu diễn số thực 9.6875 về dạng số dấu chấm động theo chuẩn IEE 754 dạng 32 bit<br>
+01000001000110110000000000000000<br>
+01000001000111110000000000000000<br>
+01000001100110110000000000000000<br>
+01100001000110110000000000000000<br>
+a<br>
+
+Biểu diễn số thực 0.75 về dạng số dấu chấm động theo chuẩn IEE 754 dạng 32 bit<br>
+00111011010000000000000000000000<br>
+00101111010000000000000000000000<br>
+01111111010000000000000000000000<br>
+00111111010000000000000000000000<br>
+d<br>
+
+Biểu diễn số thực -27.0625 về dạng số dấu chấm động theo chuẩn IEE 754 dạng 32 bit<br>
+11000101110110001000000000000000<br>
+11100001110110001000000000000000<br>
+11000001110110001000000000000000<br>
+11000000110110001000000000000000<br>
+c<br>
+
+Nguyên tắc chung của biểu diễn kí tự<br>
+Trong máy tính các kí tự cũng cần được chuyển thành chuỗi bit nhị phân gọi là mã của các kí tự đó<br>
+Trong máy tính các kí tự không cần chuyển thành chuỗi bit nhị phân mà chuyển thành mã của các kí tự đó<br>
+Trong máy tính các kí tự cũng cần được chuyển thành chuỗi bit thập phân gọi là mã của các kí tự đó<br>
+Cả ba í trên<br>
+d<br>
+
+Bộ mã ASCII dùng bao nhiêu bit để mã hoá cho 1 kí tự<br>
+8 bit<br>
+16 bit <br>
+32 bit<br>
+Khác<br>
+a<br>
+
+Bộ mã Unicode dùng bao nhiêu bit để mã hoá cho 1 kí tự<br>
+8 bit<br>
+16 bit <br>
+32 bit<br>
+Khác<br>
+b<br>
+
+Bộ mã ASCII dùng các loại kí tự<br>
+Kí tự điều khiển<br>
+Kí tự hiển thị thông dụng<br>
+Kí tự mở rộng<br>
+Cả ba í trên<br>
+d<br>
+
+Tiếng việt trong Unicode có thể có các dạng nào<br>
+Kí tự dựng sẵn và kí tự nâng cao<br>
+Kí tự độc lập và kí tự nâng cao<br>
+Kí tự độc lập và kí tự tổ hợp<br>
+Kí tự dựng sẵn và kí tự tổ hợp<br>
+d<br>
+
+Hình ảnh được biểu diễn theo những nguyên tắc nào<br>
+Đồ hoạ điểm và đồ hoạ vùng<br>
+Đồ hoạ vùng và đồ hoạ kĩ thuật số <br>
+Đồ hoạ vùng và đồ hoạ vecto<br>
+Đồ hoạ điểm và đồ hoạ vecto<br>
+d<br>
+
+Các chức năng của hệ thống máy tính<br>
+Xử lí dữ liệu, Lưu trữ dữ liệu, Trao đổi dữ liệu, Điều khiển<br>
+Thu thập dữ liệu, Xử lí dữ liệu, Lưu trữ dữ liệu, Trao đổi dữ liệu, Điều khiển<br>
+Thu thập dữ liệu, Xử lí dữ liệu, Lưu trữ dữ liệu, Trao đổi dữ liệu,<br>
+Thu thập dữ liệu, Lưu trữ dữ liệu, Trao đổi dữ liệu, Điều khiển<br>
+a<br>
+
+Hệ thống máy tính gồm mấy phần<br>
+3:Bộ xử lí trung tâm, bộ nhớ chính, hệ thống vào ra<br>
+4:Bộ xử lí trung tâm, bộ nhớ chính, hệ thống vào ra, liên kết hệ thống<br>
+5:Bộ xử lí trung tâm, bộ nhớ chính, hệ thống vào ra, liên kết hệ thống, hệ thống mạng<br>
+6:Bộ xử lí trung tâm, bộ nhớ chính, hệ thống vào ra, liên kết hệ thống, hệ thống mạng, các vi mạch<br>
+b<r>
+
+CPU bao gồm<br>
+Khối điều khiển<br>
+Khối tính toán số học và logic<br>
+Tập các thanh ghi<br>
+CẢ ba í trên<br>
+d<br>
+
+Nhận lệnh của chương trình từ bộ nhớ trong đưa vào CPU là nhiệm vụ của khối nào<br>
+Khối điều khiển<br>
+Khối tính toán số học và logic<br>
+Tập các thanh ghi<br>
+CẢ ba í trên<br>
+a<br>
+
+Giải mã các lệnh, tạo ra các tín hiệu điều khiển công việc là nhiệm vụ cảu khối nào<br>
+Khối điều khiển<br>
+Khối tính toán số học và logic<br>
+Tập các thanh ghi<br>
+CẢ ba í trên<br>
+a<br>
+
+Tăng tốc đọ trao đổi thông tin tron gmays tính là chức năng của khối nào<br>
+Khối điều khiển<br>
+Khối tính toán số học và logic<br>
+Tập các thanh ghi<br>
+CẢ ba í trên<br>
+c<br>
+
+Vùng bộ nhớ chỉ đọc là<br>
+ROM<br>
+RAM<br>
+cả hai<br>
+Thanh ghi<br>
+a<br>
+
+Thông tin trong ROM có bị mất đi khi máy tính ngừng hoạt động hay không <br>
+Có<br>
+Không<br>
+Hên xui<br>
+Chưa thể xác định<br>
+b<br>
+
+Thông tin trong RAM có bị mất đi khi máy tính ngừng hoạt động hay không <br>
+Có<br>
+Không<br>
+Hên xui<br>
+Chưa thể xác định<br>
+a<br>
+
+Bộ nhớ Cache sử dụng<br>
+SRAM<br>
+DRAM<br>
+Thanh ghi<br>
+Khác<br>
+a<br>
+
+Bộ nhớ chính được làm bởi<br>
+SRAM<br>
+DRAM<br>
+Thanh ghi<br>
+Khác<br>
+b<br>
+
+Bộ nhớ ngoài<br>
+Dung lượng lớn<br>
+Tốc độ chậm<br>
+Lưu giữ nguyên phần mềm máy tính<br>
+CẢ ba í trên<br>
+d<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
