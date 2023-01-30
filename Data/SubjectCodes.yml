@@ -114,6 +114,20 @@ Available:
     Type: "DC"
     Theory:
     Questions:
+      deCNTT1116_C1:
+        Name: "C1 - Tổng quan về Công nghệ thông tin "
+        Style: "NORMAL"
+        Time: 3600
+        Count: 50
+        HasExplanation: false
+        FileName: "deCNTT1116_C1.txt"
+      deCNTT1116_C2:
+        Name: "C2 - Biểu diễn dữ liệu và tổ chức của hệ thống máy tính"
+        Style: "NORMAL"
+        Time: 3600
+        Count: 50
+        HasExplanation: false
+        FileName: "deCNTT1116_C2.txt"
       deCNTT1116_C3:
         Name: "C3 - Phần mềm máy tính thông dụng"
         Style: "NORMAL"
@@ -121,20 +135,6 @@ Available:
         Count: 50
         HasExplanation: true
         FileName: "deCNTT1116_C3.txt"
-      deCNTT1116_C1:
-        Name: "C1 - Tổng quan về CNTT "
-        Style: "NORMAL"
-        Time: 3600
-        Count: 50
-        HasExplanation: false
-        FileName: "deCNTT1116_C1.txt"
-      deCNTT1116_C2:
-        Name: "C2 "
-        Style: "NORMAL"
-        Time: 3600
-        Count: 50
-        HasExplanation: false
-        FileName: "deCNTT1116_C2.txt"
   TOCB1107:
     Name: "Toán rời rạc"
     Enable: true
