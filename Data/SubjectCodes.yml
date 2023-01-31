@@ -203,3 +203,10 @@ Available:
         Count: 30
         HasExplanation: true
         FileName: "de_CNTT1191_1.txt"
+      de_CNTT1191_C4:
+        Name: "Chương 4 - Từ trường"
+        Style: "IMAGE_QUESTION"
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: "de_CNTT1191_C4.txt"
