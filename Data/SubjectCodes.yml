@@ -175,13 +175,6 @@ Available:
     Type: "DC"
     Theory: "https://docs.google.com/document/d/1-ebSFs2OucLue6q_fhQ5wlmaK0d0eRtX/"
     Questions:
-      de_CNTT1191_C4:
-        Name: "Chương 4 - Từ trường"
-        Style: "IMAGE_QUESTION"
-        Time: 3600
-        Count: 40
-        HasExplanation: false
-        FileName: "de_CNTT1191_C4.txt"
       de_CNTT1191_1:
         Name: "Chương 1 - Điện trường tĩnh"
         Style: "SIMPLE_SELECT"
@@ -203,6 +196,13 @@ Available:
         Count: 40
         HasExplanation: true
         FileName: "de_CNTT1191_C3.txt"
+      de_CNTT1191_C4:
+        Name: "Chương 4 - Từ trường"
+        Style: "IMAGE_QUESTION"
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: "de_CNTT1191_C4.txt"
       de_CNTT1191_3:
         Name: "2022 - 2023 | Đề kiểm tra giữa kì (Cô Tâm)"
         Style: "SIMPLE_SELECT"
