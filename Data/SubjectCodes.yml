@@ -101,12 +101,33 @@ Available:
         Count: 20
         HasExplanation: false
         FileName: "Đại số.txt"
+      deTOCB1101_C5:
+        Name: "Chương 5 - Không gian vectơ N chiều"
+        Style: "SIMPLE_SELECT"
+        Time: 3600
+        Count: 20
+        HasExplanation: true
+        FileName: "deTOCB1101_C5.txt"
   CNTT1116:
     Name: "Nhập môn Công nghệ thông tin"
     Enable: true
     Type: "DC"
     Theory:
     Questions:
+      deCNTT1116_C1:
+        Name: "C1 - Tổng quan về Công nghệ thông tin "
+        Style: "NORMAL"
+        Time: 3600
+        Count: 50
+        HasExplanation: false
+        FileName: "deCNTT1116_C1.txt"
+      deCNTT1116_C2:
+        Name: "C2 - Biểu diễn dữ liệu và tổ chức của hệ thống máy tính"
+        Style: "NORMAL"
+        Time: 3600
+        Count: 50
+        HasExplanation: false
+        FileName: "deCNTT1116_C2.txt"
       deCNTT1116_C3:
         Name: "C3 - Phần mềm máy tính thông dụng"
         Style: "NORMAL"
@@ -141,6 +162,13 @@ Available:
         Count: 30
         HasExplanation: false
         FileName: "deTOCB1107_2.txt"
+      deTOCB1107_C5:
+        Name: "Chương 5 - Cây"
+        Style: "IMAGE_QUESTION"
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: "deTOCB1107_C5.txt"
   CNTT1191:
     Name: "Vật lý đại cương"
     Enable: true
@@ -168,6 +196,13 @@ Available:
         Count: 40
         HasExplanation: true
         FileName: "de_CNTT1191_C3.txt"
+      de_CNTT1191_C4:
+        Name: "Chương 4 - Từ trường"
+        Style: "IMAGE_QUESTION"
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: "de_CNTT1191_C4.txt"
       de_CNTT1191_3:
         Name: "2022 - 2023 | Đề kiểm tra giữa kì (Cô Tâm)"
         Style: "SIMPLE_SELECT"
