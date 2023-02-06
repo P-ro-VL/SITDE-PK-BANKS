@@ -155,13 +155,6 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: "deTOCB1107_C4.txt"
-      deTOCB1107_2:
-        Name: "2022 - 2023 | Đề kiểm tra giữa kì số 1 (Thầy Long)"
-        Style: "IMAGE_QUESTION"
-        Time: 3600
-        Count: 30
-        HasExplanation: false
-        FileName: "deTOCB1107_2.txt"
       deTOCB1107_C5:
         Name: "Chương 5 - Cây"
         Style: "IMAGE_QUESTION"
@@ -169,6 +162,13 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: "deTOCB1107_C5.txt"
+      deTOCB1107_2:
+        Name: "2022 - 2023 | Đề kiểm tra giữa kì số 1 (Thầy Long)"
+        Style: "IMAGE_QUESTION"
+        Time: 3600
+        Count: 30
+        HasExplanation: false
+        FileName: "deTOCB1107_2.txt"
   CNTT1191:
     Name: "Vật lý đại cương"
     Enable: true
