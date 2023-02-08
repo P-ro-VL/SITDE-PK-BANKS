@@ -112,7 +112,7 @@ Available:
     Name: "Nhập môn Công nghệ thông tin"
     Enable: true
     Type: "DC"
-    Theory:
+    Theory: "https://drive.google.com/file/d/1UgZe1yPhnlv1rqnCCP988SCGM3OZIHu7/view"
     Questions:
       deCNTT1116_C1:
         Name: "C1 - Tổng quan về Công nghệ thông tin "
