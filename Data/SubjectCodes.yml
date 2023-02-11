@@ -210,6 +210,13 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: "de_CNTT1191_C4.txt"
+      de_CNTT1191_C9:
+        Name: "Chương 9 - Sóng điện từ"
+        Style: "IMAGE_QUESTION"
+        Time: 3600
+        Count: 40
+        HasExplanation: true
+        FileName: "de_CNTT1191_C9.txt"
       de_CNTT1191_3:
         Name: "2022 - 2023 | Đề kiểm tra giữa kì (Cô Tâm)"
         Style: "SIMPLE_SELECT"
