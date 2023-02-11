@@ -171,7 +171,7 @@ Available:
         FileName: "deTOCB1107_2.txt"
       deTOCB1107_ITA_2:
         Name: "2022 - 2023 | Đề kiểm tra giữa kì số 2 (Thầy Long)"
-        Style: "IMAGE_QUESTION"
+        Style: "SIMPLE_SELECT"
         Time: 3600
         Count: 35
         HasExplanation: true
@@ -212,7 +212,7 @@ Available:
         FileName: "de_CNTT1191_C4.txt"
       de_CNTT1191_C9:
         Name: "Chương 9 - Sóng điện từ"
-        Style: "IMAGE_QUESTION"
+        Style: "SIMPLE_SELECT"
         Time: 3600
         Count: 40
         HasExplanation: true
