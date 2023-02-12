@@ -135,6 +135,13 @@ Available:
         Count: 50
         HasExplanation: true
         FileName: "deCNTT1116_C3.txt"
+      deCNTT1116_C4:
+        Name: "C4 - Lập trình cơ bản"
+        Style: "NORMAL"
+        Time: 3600
+        Count: 50
+        HasExplanation: true
+        FileName: "deCNTT1116_C4.txt"
   TOCB1107:
     Name: "Toán rời rạc"
     Enable: true
