@@ -92,7 +92,7 @@ Available:
     Name: "Đại số"
     Enable: true
     Type: "DC"
-    Theory: "https://drive.google.com/file/d/1yJfOieQlnr5Dal2mPv-c74l49jfei57n/view"
+    Theory: "https://drive.google.com/file/d/1IW62cGnyXJTYG0IXChq46t6rAUpaXfwE/view"
     Questions:
       deTOCB1101_1:
         Name: "Chương 2 - 4 - Ma trận, định thức, hệ phương trình tuyến tính"
@@ -112,7 +112,7 @@ Available:
     Name: "Nhập môn Công nghệ thông tin"
     Enable: true
     Type: "DC"
-    Theory:
+    Theory: "https://drive.google.com/file/d/1UgZe1yPhnlv1rqnCCP988SCGM3OZIHu7/view"
     Questions:
       deCNTT1116_C1:
         Name: "C1 - Tổng quan về Công nghệ thông tin "
@@ -146,7 +146,7 @@ Available:
     Name: "Toán rời rạc"
     Enable: true
     Type: "CSN"
-    Theory: ""
+    Theory: "https://drive.google.com/file/d/1dC1C-JLQCGsKLP656BlgSRme1aEd5N3W/view"
     Questions:
       deTOCB1107_1:
         Name: "Chương 1 - 3 - Logic/Tập hợp/Ánh xạ - Thuật toán - Bài toán đếm"
@@ -162,13 +162,6 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: "deTOCB1107_C4.txt"
-      deTOCB1107_2:
-        Name: "2022 - 2023 | Đề kiểm tra giữa kì số 1 (Thầy Long)"
-        Style: "IMAGE_QUESTION"
-        Time: 3600
-        Count: 30
-        HasExplanation: false
-        FileName: "deTOCB1107_2.txt"
       deTOCB1107_C5:
         Name: "Chương 5 - Cây"
         Style: "IMAGE_QUESTION"
@@ -176,6 +169,20 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: "deTOCB1107_C5.txt"
+      deTOCB1107_2:
+        Name: "2022 - 2023 | Đề kiểm tra giữa kì số 1 (Thầy Long)"
+        Style: "IMAGE_QUESTION"
+        Time: 3600
+        Count: 30
+        HasExplanation: false
+        FileName: "deTOCB1107_2.txt"
+      deTOCB1107_ITA_2:
+        Name: "2022 - 2023 | Đề kiểm tra giữa kì số 2 (Thầy Long)"
+        Style: "SIMPLE_SELECT"
+        Time: 3600
+        Count: 35
+        HasExplanation: true
+        FileName: "deTOCB1107_ITA_2.txt"
   CNTT1191:
     Name: "Vật lý đại cương"
     Enable: true
@@ -210,6 +217,13 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: "de_CNTT1191_C4.txt"
+      de_CNTT1191_C9:
+        Name: "Chương 9 - Sóng điện từ"
+        Style: "SIMPLE_SELECT"
+        Time: 3600
+        Count: 40
+        HasExplanation: true
+        FileName: "de_CNTT1191_C9.txt"
       de_CNTT1191_3:
         Name: "2022 - 2023 | Đề kiểm tra giữa kì (Cô Tâm)"
         Style: "SIMPLE_SELECT"
