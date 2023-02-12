@@ -223,7 +223,7 @@ Available:
         Time: 3600
         Count: 40
         HasExplanation: false
-        FileName: "de_CNTT1191_C6.txt"
+        FileName: "de_CNTT1191_C6_1.txt"
       de_CNTT1191_C9:
         Name: "Chương 9 - Sóng điện từ"
         Style: "SIMPLE_SELECT"
