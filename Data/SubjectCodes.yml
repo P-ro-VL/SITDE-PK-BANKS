@@ -122,7 +122,7 @@ Available:
         HasExplanation: false
         FileName: "deCNTT1116_C1.txt"
       deCNTT1116_C2:
-        Name: "C2 - Biểu diễn dữ liệu và tổ chức của hệ thống máy tính"
+        Name: "C2 - Biểu diễn dữ liệu và tổ chức của hệ thống máy tính "
         Style: "NORMAL"
         Time: 3600
         Count: 50
@@ -135,6 +135,13 @@ Available:
         Count: 50
         HasExplanation: true
         FileName: "deCNTT1116_C3.txt"
+      deCNTT1116_C4:
+        Name: "C4 - Lập trình cơ bản"
+        Style: "NORMAL"
+        Time: 3600
+        Count: 50
+        HasExplanation: true
+        FileName: "deCNTT1116_C4.txt"
   TOCB1107:
     Name: "Toán rời rạc"
     Enable: true
@@ -210,6 +217,13 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: "de_CNTT1191_C4.txt"
+      de_CNTT1191_C6:
+        Name: "Chương 6 - Vật liệu từ"
+        Style: "SIMPLE_SELECT"
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: "de_CNTT1191_C6.txt"
       de_CNTT1191_C9:
         Name: "Chương 9 - Sóng điện từ"
         Style: "SIMPLE_SELECT"
