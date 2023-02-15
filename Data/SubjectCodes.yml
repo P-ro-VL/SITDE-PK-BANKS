@@ -40,13 +40,6 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: "deKHMI1101_C8.txt"
-      deKHMI1101_MID_CS22_23:
-        Name: "2022 - 2023 | Đề kiểm tra giữa kì số 1 (Thầy Dũng)"
-        Style: "NORMAL"
-        Time: 3600
-        Count: 40
-        HasExplanation: false
-        FileName: "deKHMI1101_MID_CS22_23.txt"
       deKHMI1101_bank:
         Name: "NGÂN HÀNG 10.000 CÂU HỎI VI MÔ"
         Style: "NORMAL"
@@ -183,20 +176,6 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: "deTOCB1107_C5.txt"
-      deTOCB1107_2:
-        Name: "2022 - 2023 | Đề kiểm tra giữa kì số 1 (Thầy Long)"
-        Style: "IMAGE_QUESTION"
-        Time: 3600
-        Count: 30
-        HasExplanation: false
-        FileName: "deTOCB1107_2.txt"
-      deTOCB1107_ITA_2:
-        Name: "2022 - 2023 | Đề kiểm tra giữa kì số 2 (Thầy Long)"
-        Style: "SIMPLE_SELECT"
-        Time: 3600
-        Count: 35
-        HasExplanation: true
-        FileName: "deTOCB1107_ITA_2.txt"
   CNTT1191:
     Name: "Vật lý đại cương"
     Enable: true
@@ -245,10 +224,3 @@ Available:
         Count: 40
         HasExplanation: true
         FileName: "de_CNTT1191_C9.txt"
-      de_CNTT1191_3:
-        Name: "2022 - 2023 | Đề kiểm tra giữa kì (Cô Tâm)"
-        Style: "SIMPLE_SELECT"
-        Time: 1800
-        Count: 30
-        HasExplanation: true
-        FileName: "de_CNTT1191_1.txt"
