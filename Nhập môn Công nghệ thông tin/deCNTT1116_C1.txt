@@ -33,7 +33,7 @@ Dữ liệu<br>
 Thông tin<br>
 Vật mang tin<br>
 cả A và C <br>
-c<br>
+d<br>
 Dữ liệu<br>
 Cụ thể, quan sát được<br>
 Trừu tượng, không quan sát được<br>

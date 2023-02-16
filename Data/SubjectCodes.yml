@@ -40,13 +40,6 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: "deKHMI1101_C8.txt"
-      deKHMI1101_MID_CS22_23:
-        Name: "2022 - 2023 | Đề kiểm tra giữa kì số 1 (Thầy Dũng)"
-        Style: "NORMAL"
-        Time: 3600
-        Count: 40
-        HasExplanation: false
-        FileName: "deKHMI1101_MID_CS22_23.txt"
       deKHMI1101_bank:
         Name: "NGÂN HÀNG 10.000 CÂU HỎI VI MÔ"
         Style: "NORMAL"
@@ -88,6 +81,20 @@ Available:
         Count: 30
         HasExplanation: false
         FileName: "deLUCS1129_C4.txt"
+      deLUCS1129_C5:
+        Name: "Chương 5 - Thực hiện pháp luật, vi phạm pháp luật và trách nhiệm pháp lý"
+        Style: "NORMAL"
+        Time: 3600
+        Count: 30
+        HasExplanation: false
+        FileName: "deLUCS1129_C5.txt"
+      deLUCS1129_C7:
+        Name: "Chương 7 - Các ngành luật trong hệ thống pháp luật Việt Nam"
+        Style: "NORMAL"
+        Time: 3600
+        Count: 30
+        HasExplanation: false
+        FileName: "deLUCS1129_C7.txt"
   TOCB1101:
     Name: "Đại số"
     Enable: true
@@ -122,7 +129,7 @@ Available:
         HasExplanation: false
         FileName: "deCNTT1116_C1.txt"
       deCNTT1116_C2:
-        Name: "C2 - Biểu diễn dữ liệu và tổ chức của hệ thống máy tính"
+        Name: "C2 - Biểu diễn dữ liệu và tổ chức của hệ thống máy tính "
         Style: "NORMAL"
         Time: 3600
         Count: 50
@@ -135,6 +142,13 @@ Available:
         Count: 50
         HasExplanation: true
         FileName: "deCNTT1116_C3.txt"
+      deCNTT1116_C4:
+        Name: "C4 - Lập trình cơ bản"
+        Style: "NORMAL"
+        Time: 3600
+        Count: 50
+        HasExplanation: true
+        FileName: "deCNTT1116_C4.txt"
   TOCB1107:
     Name: "Toán rời rạc"
     Enable: true
@@ -162,13 +176,6 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: "deTOCB1107_C5.txt"
-      deTOCB1107_2:
-        Name: "2022 - 2023 | Đề kiểm tra giữa kì số 1 (Thầy Long)"
-        Style: "IMAGE_QUESTION"
-        Time: 3600
-        Count: 30
-        HasExplanation: false
-        FileName: "deTOCB1107_2.txt"
   CNTT1191:
     Name: "Vật lý đại cương"
     Enable: true
@@ -203,10 +210,17 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: "de_CNTT1191_C4.txt"
-      de_CNTT1191_3:
-        Name: "2022 - 2023 | Đề kiểm tra giữa kì (Cô Tâm)"
+      de_CNTT1191_C6:
+        Name: "Chương 6 - Vật liệu từ"
         Style: "SIMPLE_SELECT"
-        Time: 1800
-        Count: 30
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: "de_CNTT1191_C6.txt"
+      de_CNTT1191_C9:
+        Name: "Chương 9 - Sóng điện từ"
+        Style: "SIMPLE_SELECT"
+        Time: 3600
+        Count: 40
         HasExplanation: true
-        FileName: "de_CNTT1191_1.txt"
+        FileName: "de_CNTT1191_C9.txt"

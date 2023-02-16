@@ -110,14 +110,14 @@ Pháp luật là phương tiện để Nhà nước quản lý mọi mặt đờ
 Pháp luật là cơ sở để tạo lập mối quan hệ đối ngoại<br>
 C<br>
 
-#VALUE!<br>
+Đề cập về mối quan hệ giữa pháp luật và Nhà nước, khẳng định nào sau đây là sai? <br>
 Pháp luật và Nhà nước đều là hai yếu tố thuộc kiến trúc thượng tầng<br>
 Nhà nước và pháp luật có mối quan hệ tác động qua lại lẫn nhau<br>
 Nhà nước đứng trên pháp luật vì Nhà nước ban hành ra pháp luật<br>
 Pháp luật là phương tiện để tổ chức và thực hiện quyền lực Nhà nước<br>
 C<br>
 
-#VALUE!<br>
+Đề cập về mối quan hệ giữa pháp luật và Nhà nước, khẳng định nào sau đây là sai? <br>
 Pháp luật và Nhà nước có chung điều kiện ra đời, tồn tại, thay đổi và tiêu vong<br>
 Nhà nước và pháp luật có mối quan hệ tác động qua lại lẫn nhau theo hướng tích cực hoặc tiêu cực<br>
 Pháp luật đứng trên Nhà nước vì nó là cơ sở pháp lý thừa nhận sự tồn tại của Nhà nước<br>
@@ -127,9 +127,9 @@ C<br>
 Pháp luật là công cụ bảo vệ lợi ích của? <br>
 Tổ chức tôn giáo<br>
 Giai cấp thống trị <br>
-  Nhà nước và xã hội<br>
+Nhà nước và xã hội<br>
 Nhân dân<br>
-B<br>
+C<br>
 
 Đề cập về mối quan hệ giữa pháp luật và kinh tế, khẳng định nào sau đây là sai? <br>
 Đó là mối quan hệ giữa cơ sở thượng tầng và hạ tầng kiến trúc <br>
