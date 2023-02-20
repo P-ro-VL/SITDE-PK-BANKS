@@ -224,6 +224,13 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: "de_CNTT1191_C7.txt"
+      de_CNTT1191_C8:
+        Name: "Chương 8 - Dao động điện từ"
+        Style: "SIMPLE_SELECT"
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: "de_CNTT1191_C8.txt"
       de_CNTT1191_C9:
         Name: "Chương 9 - Sóng điện từ"
         Style: "SIMPLE_SELECT"
