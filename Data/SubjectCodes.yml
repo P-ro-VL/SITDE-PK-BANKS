@@ -13,6 +13,13 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: 'deKHMA1101_C1.txt'
+      deKHMA1101_C3:
+        Name: 'Chương 3 - Sản xuất và tăng trưởng kinh tế'
+        Style: 'NORMAL'
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: 'deKHMA1101_C3.txt'
   KHMI1101:
     Name: 'Kinh tế vi mô'
     Enable: true
