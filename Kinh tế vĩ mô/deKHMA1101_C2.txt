@@ -1,0 +1,848 @@
+﻿Điều nào sau đây là định nghĩa đúng về GDP ? <br>
+ Giá trị thị trường của mọi hàng hóa được sản xuất ra trong một nước<br>
+ Giá trị thị trường của mọi hàng hóa và dịch vụ cuối cùng được sản xuất ra bởi các công dân một nước<br>
+ Giá trị thị trường của mọi hàng hóa và dịch vụ cuối cùng được sản xuất ra trong một nước<br>
+ Tổng doanh thu của các doanh nghiệp trong một nước<br>
+C<br>
+
+GDP được tính bằng cách sử dụng giá cả thị trường của hàng hóa và dịch vụ cuối cùng bởi vì:<br>
+ Giá cả thị trường không thay đổi nhiều, do vậy sẽ dễ dàng so sánh giữa các năm<br>
+ Nếu giá cả thị trường không phản ánh đúng giá trị của hàng hóa, Chính phủ sẽ áp đặt giá trần hoặc giá sàn đối với chúng<br>
+ Giá cả thị trường phản ánh giá trị của hàng hóa và dịch vụ<br>
+ Không phải các đáp án trên. Tổng cục thống kê không sử dụng giá cả thị trường để tính GDP<br>
+C<br>
+
+Khoản nào sau đây không nằm trong GDP?<br>
+ Dịch vụ lau dọn nhà không được thanh toán<br>
+ Dịch vụ cung ứng bởi luật sư<br>
+ Giá trị cho thuê nhà<br>
+ Giá trị sản xuất của công dân nước ngoài đang sống ở Việt Nam<br>
+A<br>
+
+Dịch vụ cho thuê khách sạn trong nền kinh tế<br>
+ Không nằm trong GDP bởi nó không được giao dịch trên thị trường<br>
+ Được tính vào GDP theo giá trị trả góp của chủ đầu tư đối với ngân hàng<br>
+ Được tính vào GDP dựa trên giá của khách sạn trong năm nó được mua<br>
+ Được tính vào GDP dựa trên giá trị cho thuê của nó<br>
+D<br>
+
+Giả sử rằng một tổ hợp căn hộ cho thuê bây giờ được bán đứt cho những người đang thuê nó thì<br>
+ Tiền thuê căn hộ được tính vào GDP nhưng tiền mua nó thì không<br>
+ Tiền thuê căn hộ và tiền mua căn hộ đều được tính vào GDP<br>
+ Tiền thuê căn hộ không được tính vào GDP nhưng tiền mua căn hộ được tính vào GDP<br>
+ Tiền thuê căn hộ và tiền mua căn hộ đều không được tính vào GDP<br>
+A<br>
+
+Trong vài năm trở lại đây, người Việt Nam ở thành phố có xu hướng lựa chọn ăn uống ở nhà hàng nhiều hơn thay vì tự nấu ở nhà. Hành vi này làm<br>
+ Tăng GDP đo được<br>
+ Giảm GDP đo được<br>
+ Không ảnh hưởng đến con số GDP đo được<br>
+ Chỉ ảnh hưởng đến GDP đo được bằng mức chênh lệch giữa ăn uống tại nhà hàng và ăn uống tại nhà<br>
+A<br>
+
+Giờ lo ngại về tình trạng thực phẩm bẩn, ngày càng nhiều gia đình chuyển sang tự trồng rau tự tiêu thụ tại nhà và ít mua rau trên thị trường hơn. Hành vi này làm<br>
+ Tăng GDP theo thời gian<br>
+ Không làm thay đổi GDP theo thời gian<br>
+ Giảm GDP theo thời gian<br>
+ Thay đổi GDP nhưng không rõ xu hướng<br>
+C<br>
+
+Nếu Hải quyết định tự thay dầu cho chiếc xe hơi của anh thay vì mang vào gara của hãng Ford, GDP<br>
+ Chắc chắn tăng<br>
+ Chắc chắn giảm<br>
+ Sẽ không bị ảnh hưởng bởi vì cả hai dịch vụ là như nhau<br>
+ Sẽ không bị ảnh hưởng bởi vì dịch vụ bảo trì xe hơi không nằm trong GDP<br>
+B<br>
+
+Tổng doanh thu của mọi công ty trong nền kinh tế trong một năm<br>
+ Bằng với GDP của năm đó<br>
+ Lớn hơn GDP của năm đó<br>
+ Nhỏ hơn GDP của năm đó<br>
+ Bằng với GNP của năm đó<br>
+B<br>
+
+Giả sử một đại lý xe hơi của Vinfast có số lượng xe tồn kho tăng thêm 30 chiếc trong năm 2020, trong năm 2021 đại lý này bán được cả 30 chiếc xe này<br>
+ Giá trị của tồn kho tăng thêm sẽ được tính vào GDP của năm 2020, tuy nhiên giá trị của những chiếc xe được bán trong năm 2021 sẽ không làm tăng GDP của năm này<br>
+ Giá trị của tồn kho tăng thêm không ảnh hưởng đến GDP của năm 2020 nhưng sẽ nằm trong GDP của năm 2021<br>
+ Giá trị tồn kho tăng thêm sẽ được tính vào GDP của năm 2020 và giá trị của những chiếc xe được bán trong năm 2021 sẽ làm tăng GDP của năm này<br>
+ Không phải các đáp án trên<br>
+A<br>
+
+Giả sử công ty Vinamilk vừa sản xuất được 500.000 thùng sữa trong quý. Họ bán 300.000 thùng vào cuối quý 2 và giữ phần còn lại trong kho hàng.Nhận định nào sau đây là đúng<br>
+ Do sữa cuối cùng sẽ được tiêu thụ bởi khách hàng nên chúng sẽ nằm trong tiêu dùng của quý 2<br>
+ Do sữa không được tiêu thụ trong quý 2 nên chúng sẽ được tính vào GDP của quý 3<br>
+ Sữa chưa bán được tính vào thay đổi hàng tồn kho của quý 2 và do vậy được tính vào GDP của quý 2<br>
+ Sữa chưa bán được tính vào thay đổi hàng tồn kho của quý 2 và khi được tiêu thụ trong quý 3 nó sẽ làm tăng GDP<br>
+C<br>
+
+Anh Bảo mua và sống trong một căn hộ mới xây dựng ở Vingroup với giá 3 tỷ trong năm 2016. Anh bán căn hộ trong năm 2018 với giá 3,2 tỷ đồng. Việc bán nhà này<br>
+ Làm GDP của năm 2018 tăng thêm 3,2 tỷ và không ảnh hưởng đến GDP của năm 2016<br>
+ Làm GDP của năm 2018 tăng thêm 200 triệu và không ảnh hưởng đến GDP của năm 2016<br>
+ Không làm thay đổi GDP của năm 2018 và 2016<br>
+ Làm tăng GDP của năm 2018 thêm 3,2 tỷ còn GDP của năm 2016 được điều chỉnh tăng thêm 200 triệu<br>
+C<br>
+
+David Nguyễn là một công dân Việt Nam nhưng làm việc ở Singapore. Giá trị gia tăng mà anh ta đóng góp từ công việc<br>
+ Được tính vào cả GDP lẫn GNP của Việt Nam<br>
+ Được tính vào GDP của Singapore<br>
+ Được tính vào GDP của Việt Nam<br>
+ Không được tính vào GDP hay GNP của Việt Nam<br>
+B<br>
+
+Công ty McDonald của Mỹ mở cửa hàng tại Việt Nam. Lợi nhuận từ cửa hàng này được tính vào<br>
+ GNP của cả Việt Nam và Mỹ<br>
+ GDP của cả Việt Nam và Mỹ<br>
+ GDP của Việt Nam và GNP của Mỹ<br>
+ GNP của Việt Nam và GDP của Mỹ<br>
+C<br>
+
+Trong năm 2018 anh Nam mua lại một chiếc xe tải hiệu Trường Hải sản xuất năm 2016 từ một cá nhân để chuyên chở vật liệu xây dựng cho công ty gia đình. Giá trị của riêng giao dịch này được tính như thế nào vào GDP của Việt Nam trong năm 2018 ?<br>
+ Làm tăng đầu tư và GDP của năm 2018<br>
+ làm giảm đầu tư và GDP của năm 2018<br>
+ không ảnh hưởng đến đầu tư nhưng làm tăng GDP của năm 2018<br>
+ không ảnh hưởng đến GDP của năm 2018<br>
+D<br>
+
+Hàng hóa và dịch vụ phi thị trường (Không được giao dịch trên thị trường) nào sau đây được ước tính trong GDP của Việt Nam?<br>
+ Công việc nhà không được chi trả<br>
+ giá trị của những luống rau mà mọi người trồng trong vườn nhà họ<br>
+ tiền thuê ước tính của nhà tự có tự ở<br>
+ giá trị ước tính của các hoạt động buôn lậu ma túy<br>
+C<br>
+
+Bột lúa mì<br>
+ Luôn được coi là hàng hóa trung gian<br>
+ được coi là hàng hóa cuối cùng nếu nó được một người sử dụng để làm ra những chiếc bánh mì và tự tiêu dùng<br>
+ được coi là hàng hóa trung gian nếu nó được một công ty sử dụng để làm ra những chiếc bánh mì để bán<br>
+ cả B và C đều đúng<br>
+D<br>
+
+Một công nhân Nhật mua một chiếc áo khoác được sản xuất bởi nhãn hiệu thời trang Uniqlo nổi tiếng thuộc sở hữu của chính nước này tại Việt Nam. Khi đó, tiêu dùng của Nhật tăng, xuất khẩu ròng của Nhật<br>
+ Giảm, GDP của Nhật không thay đổi và GNP của Nhật tăng<br>
+ Giảm, GDP của Nhật tăng và GNP của Nhật không thay đổi<br>
+ Giảm, GNP của Nhật tăng và GDP của Việt Nam không thay đổi<br>
+ GDP của Nhật không thay đổi và GDP của Việt Nam tăng<br>
+A<br>
+
+Một công nhân Việt Nam mua một chiếc ôtô được sản xuất tại Mỹ bởi một công ty Nhật. Kết quả là<br>
+ Xuất khẩu ròng của Mỹ tăng, GNP và GDP của Mỹ không thay đổi, GNP của Nhật tăng, xuất khẩu ròng của Việt Nam giảm, GNP và GDP của Việt Nam không thay đổi<br>
+ Xuất khẩu ròng, GNP và GDP của Mỹ tăng, GDP của Nhật tăng, xuất khẩu ròng của Việt Nam giảm và GDP của Việt Nam không thay đổi<br>
+ Xuất khẩu ròng và GDP của Mỹ tăng, GNP của Nhật tăng, xuất khẩu ròng của Việt Nam giảm, GDP và GNP của Việt Nam không thay đổi<br>
+ Xuất khẩu ròng, GNP và GDP của Mỹ không thay đổi, GNP của Nhật tăng, xuất khẩu ròng, GDP và GNP của Việt Nam giảm<br>
+C<br>
+
+Đại sứ quán Úc chi trả cho một công dân Việt Nam 1000 đô la để làm việc tại trụ sở của họ ở Hà Nội. Kết quả là<br>
+ Chi tiêu của Chính phủ Úc tăng 1.000 đôla, xuất khẩu ròng của Úc giảm 1000 đôla, GDP và GNP của Úc không thay đổi<br>
+ Chi tiêu của Chính phủ Úc tăng 1.000 đôla, GNP của Úc tăng 1000 đôla, GDP và xuất khẩu ròng của Úc không thay đổi<br>
+ Chi tiêu của Chính phủ Úc, xuất khẩu ròng, GDP và GNP của Úc không thay đổi<br>
+ Chi tiêu của Chính phủ Úc tăng 1.000 đôla, xuất khẩu ròng của Úc giảm 1000 đôla, GNP của Úc tăng 1000 đôla nhưng GDP của Úc không thay đổi<br>
+A<br>
+
+Tập đoàn Hoàng Anh Gia Lai có một trang trại cây ăn quả tại Lào. Giá trị của những hàng hóa mà họ sản xuất này được tính vào<br>
+ Cả GDP của Lào và Việt Nam<br>
+ GDP của Lào nhưng không nằm trong GDP của Việt Nam<br>
+ Một phần GDP của Lào và một phần GDP của Việt Nam<br>
+ Vào GDP của Việt Nam và GNP của Lào<br>
+B<br>
+
+Điều nào sau đây được tính vào GDP?<br>
+ Doanh số bán cổ phiếu và trái phiếu<br>
+ Giá trị của thời gian nghỉ ngơi<br>
+ Hàng hóa và dịch vụ không được chi trả ở nhà<br>
+ Không phải các đáp án trên<br>
+D<br>
+
+Sản phẩm quốc dân ròng(NNP) được tính bằng cách lấy<br>
+ Tổng thu nhập trừ đi tiết kiệm của các công dân một nước<br>
+ Tổng lợi nhuận trừ đi chi phí và thuế của các doanh nghiệp một nước<br>
+ Thu nhập của các công dân một nước trừ đi khấu hao<br>
+ Tổng lợi nhuận kiếm được bởi các công dân một nước trừ đi khấu hao<br>
+C<br>
+
+Thu nhập quốc dân được định nghĩa là<br>
+ Thu nhập tạo ra trong phạm vi một nước<br>
+ Tổng thu nhập kiếm được từ sản xuất hàng hóa và dịch vụ bởi những người sống trong phạm vi lãnh thổ một nước<br>
+ Tổng thu nhập kiếm được từ sản xuất hàng hóa và dịch vụ bởi các công dân một nước<br>
+ Tổng thu nhập của Chính phủ<br>
+C<br>
+
+Lợi nhuận giữ lại là một phần của thu nhập mà<br>
+ Hộ gia đình giữ lại sau khi nộp thuế<br>
+ Doanh nghiệp giữ lại sau khi nộp thuế<br>
+ Doanh nghiệp dùng để chi trả cho các hộ gia đình dưới dạng cổ tức<br>
+ Doanh nghiệp không chi trả cho hộ gia đình dưới dạng cổ tức mà giành để tiếp tục đầu tư<br>
+D<br>
+
+Thu nhập mà các hộ gia đình nhận được được gọi là<br>
+ Thu nhập cá nhân<br>
+ Thu nhập tự doanh<br>
+ Thu nhập cá nhân khả dụng<br>
+ Thu nhập quốc dân<br>
+A<br>
+
+Khác với thu nhập quốc dân, thu nhập cá nhân<br>
+ Bao gồm lợi nhuận giữ lại, thuế thu nhập doanh nghiệp và đóng góp bảo hiểm xã hội, nhưng không bao gồm lãi vay và các khoản thanh toán chuyển giao cho các hộ gia đình từ chính phủ<br>
+ Không bao gồm lợi nhuận giữ lại, thuế thu nhập doanh nghiệp, đóng góp bảo hiểm xã hội, lãi vay và các khoản thanh toán chuyển giao cho các hộ gia đình từ chính phủ<br>
+ Không bao gồm lợi nhuận giữ lại, thuế thu nhập doanh nghiệp và đóng góp bảo hiểm xã hội nhưng bao gồm lãi vay và các khoản thanh toán chuyển giao cho các hộ gia đình từ chính phủ<br>
+ Bao gồm lợi nhuận giữ lại, thuế thu nhập doanh nghiệp, đóng góp bảo hiểm xã hội, lãi vay và các khoản thanh toán chuyển giao cho các hộ gia đình từ chính phủ <br>
+C<br>
+
+Thu nhập cá nhân khả dụng là thu nhập mà<br>
+ Hộ gia đình có được sau khi nộp thuế cho Chính phủ và tiêu dùng<br>
+ Doanh nghiệp có được sau khi nộp thuế và thực hiện các nghĩa vụ đóng góp khác cho chính phủ<br>
+ Hộ gia đình có được sau khi nộp thuế và thực hiện các nghĩa vụ đóng góp khác cho chính phủ<br>
+ Hộ gia đình và doanh nghiệp có được sau khi nộp thuế và thực hiện các nghĩa vụ đóng góp khác cho chính phủ<br>
+C<br>
+
+Cho nền kinh tế có các số liệu sau:\n- Thu nhập kiếm được bởi các công dân nước ngoài: 5 đô la\n- Thu nhập mà người nước ngoài kiếm được trong nước: 15 đô la\n- Khấu hao: 4 đô la\n- Thuế gián thu: 6 đô la\n- Trợ cấp kinh doanh: 2 đô la\n- Sai số thống kê: 0 đô la\n- Lợi nhuận giữ lại: 5 đô la\n- Thuế thu nhập doanh nghiệp: 6 đô la\n- Đóng góp bảo hiểm xã hội: 10 đô la\n- Thanh toán chuyển giao cho các hộ gia đình từ Chính phủ: 15 đô la\n- Thuế thu nhập cá nhân: 30 đô la\n- Các khoản đóng góp khác đối với Chính phủ: 5 đô la\nGNP của nền kinh tế này là<br>
+ 96 đô la<br>
+ 100 đô la<br>
+ 105 đô la<br>
+ 110 đôla<br>
+B<br>
+
+Cho nền kinh tế có các số liệu sau:\n- Thu nhập kiếm được bởi các công dân nước ngoài: 5 đô la\n- Thu nhập mà người nước ngoài kiếm được trong nước: 15 đô la\n- Khấu hao: 4 đô la\n- Thuế gián thu: 6 đô la\n- Trợ cấp kinh doanh: 2 đô la\n- Sai số thống kê: 0 đô la\n- Lợi nhuận giữ lại: 5 đô la\n- Thuế thu nhập doanh nghiệp: 6 đô la\n- Đóng góp bảo hiểm xã hội: 10 đô la\n- Thanh toán chuyển giao cho các hộ gia đình từ Chính phủ: 15 đô la\n- Thuế thu nhập cá nhân: 30 đô la\n- Các khoản đóng góp khác đối với Chính phủ: 5 đô la\nNNP của nền kinh tế này là<br>
+ 100 đô la<br>
+ 96 đô la<br>
+ 90 đôla<br>
+ 88 đôla<br>
+B<br>
+
+Cho nền kinh tế có các số liệu sau:\n- Thu nhập kiếm được bởi các công dân nước ngoài: 5 đô la\n- Thu nhập mà người nước ngoài kiếm được trong nước: 15 đô la\n- Khấu hao: 4 đô la\n- Thuế gián thu: 6 đô la\n- Trợ cấp kinh doanh: 2 đô la\n- Sai số thống kê: 0 đô la\n- Lợi nhuận giữ lại: 5 đô la\n- Thuế thu nhập doanh nghiệp: 6 đô la\n- Đóng góp bảo hiểm xã hội: 10 đô la\n- Thanh toán chuyển giao cho các hộ gia đình từ Chính phủ: 15 đô la\n- Thuế thu nhập cá nhân: 30 đô la\n- Các khoản đóng góp khác đối với Chính phủ: 5 đô la\nThu nhập quốc dân của nền kinh tế này là<br>
+ 96 đô la<br>
+ 92 Đôla<br>
+ 90 đôla<br>
+ 88 Đôla<br>
+B<br>
+
+Cho nền kinh tế có các số liệu sau:\n- Thu nhập kiếm được bởi các công dân nước ngoài: 5 đô la\n- Thu nhập mà người nước ngoài kiếm được trong nước: 15 đô la\n- Khấu hao: 4 đô la\n- Thuế gián thu: 6 đô la\n- Trợ cấp kinh doanh: 2 đô la\n- Sai số thống kê: 0 đô la\n- Lợi nhuận giữ lại: 5 đô la\n- Thuế thu nhập doanh nghiệp: 6 đô la\n- Đóng góp bảo hiểm xã hội: 10 đô la\n- Thanh toán chuyển giao cho các hộ gia đình từ Chính phủ: 15 đô la\n- Thuế thu nhập cá nhân: 30 đô la\n- Các khoản đóng góp khác đối với Chính phủ: 5 đô la\nThu nhập cá nhân của nền kinh tế này là<br>
+ 86 đô la<br>
+ 81 đô la<br>
+ 80 đô la<br>
+ 51 Đôla<br>
+A<br>
+
+Cho nền kinh tế có các số liệu sau:\n- Thu nhập kiếm được bởi các công dân nước ngoài: 5 đô la\n- Thu nhập mà người nước ngoài kiếm được trong nước: 15 đô la\n- Khấu hao: 4 đô la\n- Thuế gián thu: 6 đô la\n- Trợ cấp kinh doanh: 2 đô la\n- Sai số thống kê: 0 đô la\n- Lợi nhuận giữ lại: 5 đô la\n- Thuế thu nhập doanh nghiệp: 6 đô la\n- Đóng góp bảo hiểm xã hội: 10 đô la\n- Thanh toán chuyển giao cho các hộ gia đình từ Chính phủ: 15 đô la\n- Thuế thu nhập cá nhân: 30 đô la\n- Các khoản đóng góp khác đối với Chính phủ: 5 đô la\nThu nhập cá nhân khả dụng của nền kinh tế này là<br>
+ 51 đô la<br>
+ 46 đô la<br>
+ 45 đôla<br>
+ 11 Đôla<br>
+A<br>
+
+Khi tính GDP, đầu tư là chi tiêu cho<br>
+ Cổ phiếu, trái phiếu và các tài sản tài chính khác<br>
+ Bất động sản và tài sản tài chính<br>
+ thiết bị máy móc mới, hàng tồn kho, cơ sở hạ tầng và nhà ở mới<br>
+ Thiết bị máy móc, hàng tồn kho, cơ sở hạ tầng, không bao gồm chi mua nhà ở mới của hộ gia đình<br>
+C<br>
+
+Một doanh nghiệp sản xuất hàng tiêu dùng và để trong kho trong quý<br>
+Trong quý 4 doanh nghiệp này bán được lượng hàng tồn trong kho thông qua các cửa hàng bán lẻ. Hoạt động này sẽ làm thay đổi những thành phần nào của GDP thực trong quý 4?<br>
+ Chỉ có đầu tư thay đổi và nó giảm đi<br>
+ Chỉ có tiêu dùng và nó tăng lên<br>
+ Đầu tư giảm còn tiêu dùng tăng<br>
+C<br>
+
+ Không phải các đáp án trên<br>
+Nhà xuất bản Đại học Kinh Tế Quốc Dân mua một máy in mới từ Nhật. Hoạt động này làm<br>
+ Tăng đầu tư và GDP<br>
+ Tăng nhập khẩu và giảm GDP<br>
+ Tăng đầu tư và nhập khẩu nhưng không làm thay đổi GDP<br>
+C<br>
+
+ Không phải các đáp án trên<br>
+Nếu một công dân Việt Nam mua một chiếc tivi sản xuất bởi LG ở Hàn Quốc thì<br>
+ Cả xuất khẩu ròng và GDP của Việt Nam đều giảm<br>
+ Xuất khẩu ròng của Việt Nam không bị ảnh hưởng và GDP của Việt Nam giảm<br>
+ xuất khẩu ròng hay GDP của Việt Nam đều không bị ảnh hưởng<br>
+D<br>
+
+ xuất khẩu ròng của Việt Nam giảm nhưng GDP của Việt Nam không bị ảnh hưởng<br>
+Nếu một hộ gia đình Việt Nam mua một chiếc túi xách tay từ Ý trị giá 200 đô la thì tiêu dùng của Việt Nam sẽ tăng 200 đô la và<br>
+ Nhập khẩu của Việt Nam tăng 200 Đôla và GDP của Việt Nam tăng 200 Đôla<br>
+ Nhập khẩu của Việt Nam tăng 200 đô la nhưng GDP của Việt Nam không bị ảnh hưởng<br>
+ Cả nhập khẩu và GDP của Việt Nam đều không bị ảnh hưởng<br>
+B<br>
+
+ Cả xuất khẩu và GDP của Việt Nam đều tăng 200 Đôla<br>
+Đâu là ví dụ về một khoản thanh toán chuyển giao?<br>
+ Bạn chuyển 100 triệu đồng từ tài khoản ngân hàng của bạn sang một quỹ đầu tư<br>
+ Chính phủ chuyển tiền lương hưu cho ông của bạn<br>
+ Ngân hàng chuyển 1 triệu tiền lãi hàng tháng cho khoản tiết kiệm của bạn<br>
+B<br>
+
+ Chủ doanh nghiệp tự động chuyển 100000₫ mỗi tháng cho dịch vụ y tế từ tiền lương của bạn<br>
+Nếu Chính phủ Việt Nam trả cho một nhân viên y tế 10 triệu đồng tiền lương vào năm 2019 và 4 triệu đồng tiền trợ cấp hưu trí trong năm 2020 thì<br>
+ Các khoản thanh toán này đều thuộc chi tiêu chính phủ và được tính vào GDP của các năm tương ứng<br>
+ Tiền lương thuộc chi tiêu chính phủ và được tính vào GDP năm 2019, tiền trợ cấp hưu trí không được tính vào GDP năm 2020<br>
+ Tiền lương thuộc chi tiêu chính phủ và được tính vào GDP năm 2019, tiền trợ cấp hưu trí được tính vào GDP năm 2020 dưới dạng thanh toán chuyển giao của Chính phủ<br>
+B<br>
+
+ Tiền lương thuộc chi tiêu của Chính phủ phải được tính vào GDP năm 2019, tiền trợ cấp hưu trí năm 2020 được phân bổ cho GDP của các năm trước theo khối lượng công việc được thực hiện mỗi năm. Để khuyến khích việc thành lập các doanh nghiệp nhỏ, chính phủ có thể cung cấp trợ cấp kinh doanh. Khoản trợ cấp này sẽ<br>
+ Được tính vào GDP vì nó là một phần của chi tiêu chính phủ<br>
+ Được tính vào GDP vì nó là một phần của đầu tư<br>
+ Không được tính vào GDP vì nó là khoản thanh toán chuyển giao<br>
+ Không được tính vào GDP vì chính phủ phải tăng thuế để trả cho các doanh nghiệp<br>
+C<br>
+
+Nếu một nền kinh tế có tiêu dùng là 3 nghìn đô la, đầu tư là 2 nghìn đô la, chi tiêu chính phủ là 1.500 đô-la, xuất khẩu là 500 đôla, nhập khẩu là 600 đôla, thuế là 1200 đô la, thanh toán chuyển giao là 400 đô la và khấu hao là 300 đôla thì GDP sẽ bằng<br>
+ 6400 đô la<br>
+ 7000 đôla<br>
+ 7600 Đôla<br>
+ 8900 Đôla<br>
+A<br>
+
+Nếu tổng chi tiêu của nền kinh tế tăng so với năm trước thì có nghĩa là<br>
+ Nền kinh tế phải sản xuất nhiều hàng hóa và dịch vụ hơn<br>
+ Giá cả hàng hóa và dịch vụ phải cao hơn<br>
+ Nền kinh tế phải sản xuất nhiều hàng hóa và dịch vụ hơn, hoặc giá cả hàng hóa và dịch vụ phải cao hơn, hoặc cả hai<br>
+ Lao động và năng suất phải tăng<br>
+C<br>
+
+Biểu nào sau đây về GDP là đúng<br>
+ GDP danh nghĩa được tính theo mức giá của năm hiện hành trong khi GDP thực được tính theo mức giá của năm cơ sở<br>
+ GDP danh nghĩa được tính theo mức giá của năm cơ sở trong khi GDP thực được tính theo mức giá của năm hiện hành<br>
+ GDP danh nghĩa được tính theo giá thị trường trong khi GDP thực được tính theo chi phí của các nguồn lực sử dụng trong quá trình sản xuất<br>
+ GDP danh nghĩa luôn đánh giá thấp giá trị sản xuất trong khi GDP thực luôn đánh giá cao giá trị sản xuất<br>
+A<br>
+
+Nếu GDP danh nghĩa là 10 nghìn tỷ đô la và GDP thực và 8 nghìn tỷ đô la thì chỉ số hiệu chỉnh GDP là<br>
+ 0,8<br>
+ 1,25<br>
+80<br>
+125<br>
+D<br>
+
+Nếu GDP thực tăng gấp đôi, chỉ số hiệu chỉnh GDP tăng gấp đôi thì GDP danh nghĩa là<br>
+ Không thay đổi<br>
+ Tăng gấp đôi<br>
+ Giảm một nửa<br>
+ Tăng gấp 4<br>
+D<br>
+
+Đây là thông tin về GDP của một nền kinh tế (Lần lượt là GDP danh nghĩa và Chỉ số hiệu chỉnh GDP): 2016 là 4000 và 100; 2017 là 4100 và 105; 2018 là 4200 và 110.Từ thông tin này chúng ta có thể kết luận rằng GDP thực cao hơn trong năm<br>
+ 2018 so với năm 2017 và GDP thực trong năm 2017 cao hơn so với năm 2016<br>
+ 2017 so với năm 2016 và GDP thực trong năm 2017 cao hơn so với năm 2018<br>
+ 2016 so với năm 2017 và GDP thực trong năm 2017 cao hơn so với năm 2018<br>
+ 2016 so với năm 2018 và GDP thực trong năm 2017 cao hơn so với năm 2016<br>
+C<br>
+
+Nếu một nước báo cáo GDP danh nghĩa là 100 tỷ đôla trong năm 2016 và 75 tỷ đô la trong năm 2015, chỉ số hiệu chỉnh GDP là 125 trong năm 2016 và 102 trong năm 2015 thì từ 2015 đến 2016 sản lượng thực<br>
+ Và giá cả đều tăng<br>
+ Tăng và giá cả giảm<br>
+ Giảm và giá cả tăng<br>
+ Và giá cả đều giảm<br>
+A<br>
+
+Nếu một nước báo cáo GDP danh nghĩa là 200 tỷ đôla trong năm 2016 và 180 tỷ đô la trong năm 2015, chỉ số hiệu chỉnh đô la là 125 trong năm 2016 và 105 trong năm 2015 thì từ 2015 đến 2016 sản lượng thực<br>
+ Và giá cả đều tăng<br>
+ Tăng và giá cả giảm<br>
+ Giảm và giá cả tăng<br>
+ Và giá cả đều giảm<br>
+C<br>
+
+Khi các nhà kinh tế nói về tăng trưởng của nền kinh tế, họ đo lường tăng trưởng đó bằng<br>
+ Sự thay đổi tuyệt đối của GDP danh nghĩa<br>
+ Phần trăm thay đổi của GDP thực<br>
+ Sự thay đổi tuyệt đối của GDP thực<br>
+ Phần trăm thay đổi của GDP danh nghĩa<br>
+B<br>
+
+Giả sử 25 năm trước đây, một nước có GDP là 1.000 tỷ đôla, chỉ số hiệu chỉnh GDP là 200 và dân số là 100 triệu người . Ngày hôm nay, họ có GDP danh nghĩa là 3 nghìn tỷ đôla, chỉ số hiệu chỉnh GDP là 400 và dân số là 150 triệu người. GDP thực bình quân đầu người của nước này đã thay đổi như thế nào?<br>
+ Tăng hơn gấp đôi<br>
+ Tăng ít hơn gấp đôi<br>
+ Không thay đổi<br>
+ Giảm<br>
+C<br>
+
+Thông tin sau đây được báo cáo bởi ngân hàng thế giới: GDP danh nghĩa năm 2000 (đơn vị: triệu đô-la): Nhật là 4.800.000, Thụy Sỹ là 240.000, Mỹ là 9.800.000. Trong khi đó, dân số của ba nước này (Đơn vị: triệu) trong cùng năm đó lần lượt là 127, 7.2, 280. Dựa vào thông tin này Hãy xác định thứ tự đúng về GDP bình quân đầu người từ lớn nhất đến nhỏ nhất<br>
+ Nhật, Thụy Sỹ, Mỹ<br>
+ Nhật, Mỹ, Thụy Sỹ<br>
+ Mỹ, Thụy Sỹ, Nhật<br>
+ Mỹ, Nhật, Thụy Sỹ<br>
+B<br>
+
+Giả sử một nền kinh tế trong năm nay chỉ sản xuất ra 3 loại hàng hóa Ô tô, thép và nhà ở mới. Lượng của 3 loại hàng hóa này lần lượt là 10, 50, 2. Giá của 3 loại hàng hóa này lần lượt là 15, 1, 100. Biết rằng một nửa lượng thép được sử dụng để sản xuất ô tô, nửa còn lại được sử dụng để xây nhà mới GDP danh nghĩa của nền kinh tế này là<br>
+300<br>
+350<br>
+400<br>
+450<br>
+B<br>
+
+Giả sử một nền kinh tế trong năm nay chỉ sản xuất ra 3 loại hàng hóa Ô tô, thép và nhà ở mới. Lượng của 3 loại hàng hóa này lần lượt là 10, 50, 2. Giá của 3 loại hàng hóa này lần lượt là 15, 1, 100. Biết rằng một nửa lượng thép được sử dụng để sản xuất ô tô, nửa còn lại được sử dụng để xây nhà mới Biết rằng so với năm gốc, giá của ô tô đã tăng 50% trong khi giá nhà ở mới không thay đổi. GDP thực của nền kinh tế này là<br>
+300<br>
+350<br>
+400<br>
+450<br>
+A<br>
+
+Có nhiều giá trị mà xã hội quan tâm như chất lượng sức khỏe, chất lượng giáo dục, cơ hội thư giãn nghỉ ngơi, các giá trị tinh thần,... không được tính vào GDP<br>
+ Do đó, GDP không phải là thước đo hữu ích về phúc lợi xã hội<br>
+ Tuy nhiên, GDP vẫn là thước đo hữu ích về phúc lợi xã hội bởi vì việc cung ứng các giá trị này thuộc về trách nhiệm của chính phủ<br>
+ Tuy nhiên GDP vẫn là một thước đo hữu ích về phúc lợi xã hội vì nó đo lường khả năng của một quốc gia trong việc mua các yếu tố đầu vào để sản xuất ra những thứ đóng góp cho phúc lợi<br>
+ Tuy nhiên, GDP vẫn là thước đo tốt nhất cho phúc lợi xã hội vì những giá trị này thực sự không thể đo lường được<br>
+C<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
