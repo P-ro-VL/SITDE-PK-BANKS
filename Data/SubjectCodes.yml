@@ -34,6 +34,13 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: 'deKHMA1101_C4.txt'
+      deKHMA1101_C5:
+        Name: 'Chương 5 - Thất nghiệp'
+        Style: 'NORMAL'
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: 'deKHMA1101_C5.txt'
   KHMI1101:
     Name: 'Kinh tế vi mô'
     Enable: true
