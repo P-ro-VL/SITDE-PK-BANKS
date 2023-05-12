@@ -90,7 +90,7 @@ Available:
         HasExplanation: false
         FileName: 'deKHMI1101_bank.txt'
   LLNL1105:
-    Name: 'Triết học Mác-Lênin'
+    Name: 'Triết học Mác Lênin'
     Enable: true
     Type: 'DC'
     Theory: 'https://docs.google.com/document/d/1W_VQKlTZ4NROW6Ka2cNB_QESkoSPQo8Qa_XdD0iZkV8/view'
