@@ -89,6 +89,26 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: 'deKHMI1101_bank.txt'
+  LLNL1105:
+    Name: 'Triết học Mác-Lênin'
+    Enable: true
+    Type: 'DC'
+    Theory: 'https://docs.google.com/document/d/1W_VQKlTZ4NROW6Ka2cNB_QESkoSPQo8Qa_XdD0iZkV8/view'
+    Questions:
+      deLLNL1105_C1:
+        Name: 'Chương 1 - Triết học và vai trò trong đời sống xã hội'
+        Style: 'NORMAL'
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: 'deLLNL1105_C1.txt'
+      deLLNL1105_C2:
+        Name: 'Chương 2 - Chủ nghĩa duy vật biện chứng'
+        Style: 'NORMAL'
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: 'deLLNL1105_C2.txt'
   LUCS1129:
     Name: 'Pháp luật đại cương'
     Enable: true
