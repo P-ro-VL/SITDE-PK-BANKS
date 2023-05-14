@@ -194,35 +194,35 @@ Thu nhập cá nhân khả dụng là thu nhập mà<br>
  Hộ gia đình và doanh nghiệp có được sau khi nộp thuế và thực hiện các nghĩa vụ đóng góp khác cho chính phủ<br>
 C<br>
 
-Cho nền kinh tế có các số liệu sau:; Thu nhập kiếm được bởi các công dân nước ngoài: 5 đô la; Thu nhập mà người nước ngoài kiếm được trong nước: 15 đô la; Khấu hao: 4 đô la; Thuế gián thu: 6 đô la; Trợ cấp kinh doanh: 2 đô la; Sai số thống kê: 0 đô la; Lợi nhuận giữ lại: 5 đô la; Thuế thu nhập doanh nghiệp: 6 đô la; Đóng góp bảo hiểm xã hội: 10 đô la; Thanh toán chuyển giao cho các hộ gia đình từ Chính phủ: 15 đô la; Thuế thu nhập cá nhân: 30 đô la; Các khoản đóng góp khác đối với Chính phủ: 5 đô la\nGNP của nền kinh tế này là<br>
+Cho nền kinh tế có các số liệu sau: GDP: 110 đô la; Thu nhập kiếm được bởi các công dân nước ngoài: 5 đô la; Thu nhập mà người nước ngoài kiếm được trong nước: 15 đô la; Khấu hao: 4 đô la; Thuế gián thu: 6 đô la; Trợ cấp kinh doanh: 2 đô la; Sai số thống kê: 0 đô la; Lợi nhuận giữ lại: 5 đô la; Thuế thu nhập doanh nghiệp: 6 đô la; Đóng góp bảo hiểm xã hội: 10 đô la; Thanh toán chuyển giao cho các hộ gia đình từ Chính phủ: 15 đô la; Thuế thu nhập cá nhân: 30 đô la; Các khoản đóng góp khác đối với Chính phủ: 5 đô la\nGNP của nền kinh tế này là<br>
  96 đô la<br>
  100 đô la<br>
  105 đô la<br>
  110 đôla<br>
 B<br>
 
-Cho nền kinh tế có các số liệu sau:; Thu nhập kiếm được bởi các công dân nước ngoài: 5 đô la; Thu nhập mà người nước ngoài kiếm được trong nước: 15 đô la; Khấu hao: 4 đô la; Thuế gián thu: 6 đô la; Trợ cấp kinh doanh: 2 đô la; Sai số thống kê: 0 đô la; Lợi nhuận giữ lại: 5 đô la; Thuế thu nhập doanh nghiệp: 6 đô la; Đóng góp bảo hiểm xã hội: 10 đô la; Thanh toán chuyển giao cho các hộ gia đình từ Chính phủ: 15 đô la; Thuế thu nhập cá nhân: 30 đô la; Các khoản đóng góp khác đối với Chính phủ: 5 đô la\nNNP của nền kinh tế này là<br>
+Cho nền kinh tế có các số liệu sau: GDP: 110 đô la; Thu nhập kiếm được bởi các công dân nước ngoài: 5 đô la; Thu nhập mà người nước ngoài kiếm được trong nước: 15 đô la; Khấu hao: 4 đô la; Thuế gián thu: 6 đô la; Trợ cấp kinh doanh: 2 đô la; Sai số thống kê: 0 đô la; Lợi nhuận giữ lại: 5 đô la; Thuế thu nhập doanh nghiệp: 6 đô la; Đóng góp bảo hiểm xã hội: 10 đô la; Thanh toán chuyển giao cho các hộ gia đình từ Chính phủ: 15 đô la; Thuế thu nhập cá nhân: 30 đô la; Các khoản đóng góp khác đối với Chính phủ: 5 đô la\nNNP của nền kinh tế này là<br>
  100 đô la<br>
  96 đô la<br>
  90 đôla<br>
  88 đôla<br>
 B<br>
 
-Cho nền kinh tế có các số liệu sau:; Thu nhập kiếm được bởi các công dân nước ngoài: 5 đô la; Thu nhập mà người nước ngoài kiếm được trong nước: 15 đô la; Khấu hao: 4 đô la; Thuế gián thu: 6 đô la; Trợ cấp kinh doanh: 2 đô la; Sai số thống kê: 0 đô la; Lợi nhuận giữ lại: 5 đô la; Thuế thu nhập doanh nghiệp: 6 đô la; Đóng góp bảo hiểm xã hội: 10 đô la; Thanh toán chuyển giao cho các hộ gia đình từ Chính phủ: 15 đô la; Thuế thu nhập cá nhân: 30 đô la; Các khoản đóng góp khác đối với Chính phủ: 5 đô la\nThu nhập quốc dân của nền kinh tế này là<br>
+Cho nền kinh tế có các số liệu sau: GDP: 110 đô la; Thu nhập kiếm được bởi các công dân nước ngoài: 5 đô la; Thu nhập mà người nước ngoài kiếm được trong nước: 15 đô la; Khấu hao: 4 đô la; Thuế gián thu: 6 đô la; Trợ cấp kinh doanh: 2 đô la; Sai số thống kê: 0 đô la; Lợi nhuận giữ lại: 5 đô la; Thuế thu nhập doanh nghiệp: 6 đô la; Đóng góp bảo hiểm xã hội: 10 đô la; Thanh toán chuyển giao cho các hộ gia đình từ Chính phủ: 15 đô la; Thuế thu nhập cá nhân: 30 đô la; Các khoản đóng góp khác đối với Chính phủ: 5 đô la\nThu nhập quốc dân của nền kinh tế này là<br>
  96 đô la<br>
  92 Đôla<br>
  90 đôla<br>
  88 Đôla<br>
 B<br>
 
-Cho nền kinh tế có các số liệu sau:; Thu nhập kiếm được bởi các công dân nước ngoài: 5 đô la; Thu nhập mà người nước ngoài kiếm được trong nước: 15 đô la; Khấu hao: 4 đô la; Thuế gián thu: 6 đô la; Trợ cấp kinh doanh: 2 đô la; Sai số thống kê: 0 đô la; Lợi nhuận giữ lại: 5 đô la; Thuế thu nhập doanh nghiệp: 6 đô la; Đóng góp bảo hiểm xã hội: 10 đô la; Thanh toán chuyển giao cho các hộ gia đình từ Chính phủ: 15 đô la; Thuế thu nhập cá nhân: 30 đô la; Các khoản đóng góp khác đối với Chính phủ: 5 đô la\nThu nhập cá nhân của nền kinh tế này là<br>
+Cho nền kinh tế có các số liệu sau: GDP: 110 đô la; Thu nhập kiếm được bởi các công dân nước ngoài: 5 đô la; Thu nhập mà người nước ngoài kiếm được trong nước: 15 đô la; Khấu hao: 4 đô la; Thuế gián thu: 6 đô la; Trợ cấp kinh doanh: 2 đô la; Sai số thống kê: 0 đô la; Lợi nhuận giữ lại: 5 đô la; Thuế thu nhập doanh nghiệp: 6 đô la; Đóng góp bảo hiểm xã hội: 10 đô la; Thanh toán chuyển giao cho các hộ gia đình từ Chính phủ: 15 đô la; Thuế thu nhập cá nhân: 30 đô la; Các khoản đóng góp khác đối với Chính phủ: 5 đô la\nThu nhập cá nhân của nền kinh tế này là<br>
  86 đô la<br>
  81 đô la<br>
  80 đô la<br>
  51 Đôla<br>
 A<br>
 
-Cho nền kinh tế có các số liệu sau:; Thu nhập kiếm được bởi các công dân nước ngoài: 5 đô la; Thu nhập mà người nước ngoài kiếm được trong nước: 15 đô la; Khấu hao: 4 đô la; Thuế gián thu: 6 đô la; Trợ cấp kinh doanh: 2 đô la; Sai số thống kê: 0 đô la; Lợi nhuận giữ lại: 5 đô la; Thuế thu nhập doanh nghiệp: 6 đô la; Đóng góp bảo hiểm xã hội: 10 đô la; Thanh toán chuyển giao cho các hộ gia đình từ Chính phủ: 15 đô la; Thuế thu nhập cá nhân: 30 đô la; Các khoản đóng góp khác đối với Chính phủ: 5 đô la\nThu nhập cá nhân khả dụng của nền kinh tế này là<br>
+Cho nền kinh tế có các số liệu sau: GDP: 110 đô la; Thu nhập kiếm được bởi các công dân nước ngoài: 5 đô la; Thu nhập mà người nước ngoài kiếm được trong nước: 15 đô la; Khấu hao: 4 đô la; Thuế gián thu: 6 đô la; Trợ cấp kinh doanh: 2 đô la; Sai số thống kê: 0 đô la; Lợi nhuận giữ lại: 5 đô la; Thuế thu nhập doanh nghiệp: 6 đô la; Đóng góp bảo hiểm xã hội: 10 đô la; Thanh toán chuyển giao cho các hộ gia đình từ Chính phủ: 15 đô la; Thuế thu nhập cá nhân: 30 đô la; Các khoản đóng góp khác đối với Chính phủ: 5 đô la\nThu nhập cá nhân khả dụng của nền kinh tế này là<br>
  51 đô la<br>
  46 đô la<br>
  45 đôla<br>
@@ -236,49 +236,50 @@ Khi tính GDP, đầu tư là chi tiêu cho<br>
  Thiết bị máy móc, hàng tồn kho, cơ sở hạ tầng, không bao gồm chi mua nhà ở mới của hộ gia đình<br>
 C<br>
 
-Một doanh nghiệp sản xuất hàng tiêu dùng và để trong kho trong quý<br>
+Một doanh nghiệp sản xuất hàng tiêu dùng và để trong kho trong quý.
 Trong quý 4 doanh nghiệp này bán được lượng hàng tồn trong kho thông qua các cửa hàng bán lẻ. Hoạt động này sẽ làm thay đổi những thành phần nào của GDP thực trong quý 4?<br>
  Chỉ có đầu tư thay đổi và nó giảm đi<br>
  Chỉ có tiêu dùng và nó tăng lên<br>
  Đầu tư giảm còn tiêu dùng tăng<br>
+ Không phải các đáp án trên<br>
 C<br>
 
- Không phải các đáp án trên<br>
 Nhà xuất bản Đại học Kinh Tế Quốc Dân mua một máy in mới từ Nhật. Hoạt động này làm<br>
  Tăng đầu tư và GDP<br>
  Tăng nhập khẩu và giảm GDP<br>
  Tăng đầu tư và nhập khẩu nhưng không làm thay đổi GDP<br>
+  Không phải các đáp án trên<br>
 C<br>
 
- Không phải các đáp án trên<br>
 Nếu một công dân Việt Nam mua một chiếc tivi sản xuất bởi LG ở Hàn Quốc thì<br>
  Cả xuất khẩu ròng và GDP của Việt Nam đều giảm<br>
  Xuất khẩu ròng của Việt Nam không bị ảnh hưởng và GDP của Việt Nam giảm<br>
  xuất khẩu ròng hay GDP của Việt Nam đều không bị ảnh hưởng<br>
+  xuất khẩu ròng của Việt Nam giảm nhưng GDP của Việt Nam không bị ảnh hưởng<br>
 D<br>
 
- xuất khẩu ròng của Việt Nam giảm nhưng GDP của Việt Nam không bị ảnh hưởng<br>
 Nếu một hộ gia đình Việt Nam mua một chiếc túi xách tay từ Ý trị giá 200 đô la thì tiêu dùng của Việt Nam sẽ tăng 200 đô la và<br>
  Nhập khẩu của Việt Nam tăng 200 Đôla và GDP của Việt Nam tăng 200 Đôla<br>
  Nhập khẩu của Việt Nam tăng 200 đô la nhưng GDP của Việt Nam không bị ảnh hưởng<br>
  Cả nhập khẩu và GDP của Việt Nam đều không bị ảnh hưởng<br>
+  Cả xuất khẩu và GDP của Việt Nam đều tăng 200 Đôla<br>
 B<br>
 
- Cả xuất khẩu và GDP của Việt Nam đều tăng 200 Đôla<br>
 Đâu là ví dụ về một khoản thanh toán chuyển giao?<br>
  Bạn chuyển 100 triệu đồng từ tài khoản ngân hàng của bạn sang một quỹ đầu tư<br>
  Chính phủ chuyển tiền lương hưu cho ông của bạn<br>
  Ngân hàng chuyển 1 triệu tiền lãi hàng tháng cho khoản tiết kiệm của bạn<br>
+  Chủ doanh nghiệp tự động chuyển 100000₫ mỗi tháng cho dịch vụ y tế từ tiền lương của bạn<br>
 B<br>
 
- Chủ doanh nghiệp tự động chuyển 100000₫ mỗi tháng cho dịch vụ y tế từ tiền lương của bạn<br>
 Nếu Chính phủ Việt Nam trả cho một nhân viên y tế 10 triệu đồng tiền lương vào năm 2019 và 4 triệu đồng tiền trợ cấp hưu trí trong năm 2020 thì<br>
  Các khoản thanh toán này đều thuộc chi tiêu chính phủ và được tính vào GDP của các năm tương ứng<br>
  Tiền lương thuộc chi tiêu chính phủ và được tính vào GDP năm 2019, tiền trợ cấp hưu trí không được tính vào GDP năm 2020<br>
  Tiền lương thuộc chi tiêu chính phủ và được tính vào GDP năm 2019, tiền trợ cấp hưu trí được tính vào GDP năm 2020 dưới dạng thanh toán chuyển giao của Chính phủ<br>
+ Tiền lương thuộc chi tiêu của Chính phủ phải được tính vào GDP năm 2019, tiền trợ cấp hưu trí năm 2020 được phân bổ cho GDP của các năm trước theo khối lượng công việc được thực hiện mỗi năm.<br>
 B<br>
 
- Tiền lương thuộc chi tiêu của Chính phủ phải được tính vào GDP năm 2019, tiền trợ cấp hưu trí năm 2020 được phân bổ cho GDP của các năm trước theo khối lượng công việc được thực hiện mỗi năm. Để khuyến khích việc thành lập các doanh nghiệp nhỏ, chính phủ có thể cung cấp trợ cấp kinh doanh. Khoản trợ cấp này sẽ<br>
+ Để khuyến khích việc thành lập các doanh nghiệp nhỏ, chính phủ có thể cung cấp trợ cấp kinh doanh. Khoản trợ cấp này sẽ<br>
  Được tính vào GDP vì nó là một phần của chi tiêu chính phủ<br>
  Được tính vào GDP vì nó là một phần của đầu tư<br>
  Không được tính vào GDP vì nó là khoản thanh toán chuyển giao<br>
