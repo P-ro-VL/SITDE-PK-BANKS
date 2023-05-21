@@ -1,0 +1,625 @@
+﻿Kết quả của đoạn chương trình sau là gì?
+
+#include <stdio.h>
+#include <conio.h>
+void main()
+{
+            clrscr();
+            int i;
+            for (i=1; i<=24; i++);
+            printf(“\n%d”,i);
+            getch();
+            return;
+}<br>
+In ra màn hình các số từ 1 đến 24 mỗi số một dòng<br>
+Lỗi khi xây dựng chương trình<br>
+Kết quả khác<br>
+In ra màn hình các số từ 1 đến 24<br>
+c<br>
+
+Kết quả đầu ra của chương trình này là gì?
+
+#include <stdio.h>
+int main()
+{
+   int a=500, b=100, c;
+   if (!a>=400)
+   b=300;
+   c=200;
+   printf(“b=%d c=%d”, b, c);
+   return 0;
+}<br>
+b=300 c=garbage<br>
+b=100 c=200<br>
+b=300 c=200<br>
+b=100 c=garbage<br>
+b<br>
+
+Đầu ra vòng lặp của chương trình sau thực hiện bao nhiều lần?
+
+#include <stdio.h>
+int main()
+{
+   int i=0;
+   for(;i<=5;i++)
+    {
+        printf(“%d”,i);
+     }
+   printf(“ Day la chuong trinh C.”);
+   return 0;
+}<br>
+5<br>
+6<br>
+4<br>
+3<br>
+b<br>
+
+Đoạn chương trình sau sẽ in những gì ra màn hình?
+
+int i=0; char c=’c’;
+for (i=0; i<6; i=i+2) {
+   c=c+i;  printf (“%c  ”,c);
+}<br>
+c e i o<br>
+c e i<br>
+e i o<br>
+Tất cả các đáp án trên đều sai<br>
+b<br>
+
+Hãy cho biết kết quả in ra màn hình của đoạn chương trình sau?
+
+void main (){
+  int a=1, n=0;
+  while (n<10)   {a++;}
+  printf (“a=%d”,a);
+}<br>
+a=10<br>
+Chương trình lặp vô hạn và không dừng<br>
+a=a<br>
+a=1<br>
+b<br>
+
+Cụm từ “Bo mon CNTT” được in ra bao nhiêu lần trong chương trình sau:
+
+#include <stdio.h>
+int main()
+{
+   int x;
+   for (x=-1; x<=10; x++)
+   {
+       if (x<5) continue;
+       else
+           break;
+       printf(“Bo mon CNTT”);
+    }
+   return 0;
+}<br>
+11 lần<br>
+Không xác định<br>
+0 lần<br>
+10 lần<br>
+c<br>
+
+Cho một đoạn chương trình viết bằng ngôn ngữ lập trình C sau:
+
+int P=10;
+switch (P) {
+     case 10: printf(“Case 1”);
+     case 20: printf(“Case 2”); break;
+     case P: printf(“Case 2”); break;
+}
+
+Hãy chỉ ra lỗi cú pháp của đoạn chương trình nếu có?<br>
+Không có nhãn default<br>
+Nhãn case P sử dụng một giá trị không phải là một hằng số<br>
+Đoạn chương trình trên không có lỗi cú pháp<br>
+Không có câu lệnh break cuối mỗi nhãn case<br>
+b<br>
+
+Điền vào chỗ trống để hoàn thành chương trình sau:
+  
+#include <stdio.h>
+void main()
+{
+      int a, b, max;
+      printf (“Nhap gia tri cua a va b: ”);
+      scanf(“%d %d”, &a, &b);
+      if (.....) max=a;
+      else   max=b;
+      printf(“So lon nhat trong 2 so %d va %d la %d”, a, b, max);
+}<br>
+a<b<br>
+a>b<br>
+a!=b<br>
+a=b<br>
+b<br>
+
+Kết quả đầu ra của chương trình sẽ như thế nào?
+
+#include <stdio.h>
+int main()
+{
+   short int i=0;
+   for(i<=5 && i>=-1;++i;i>0)
+   printf(“%u”,i);
+   return 0;
+}<br>
+0, 1, 2, 3, 4, 5<br>
+Không có đầu ra<br>
+1234…..65535<br>
+Lỗi cú pháp biểu thức<br>
+c<br>
+
+Kết quả đầu ra của chương trình là gì?
+
+#include <stdio.h>
+int main()
+{
+   unsigned int i=65535;
+   while (i++ != 0)
+   printf(“%d”,++i);
+   printf(“”);
+   return 0;
+}<br>
+Không có đầu ra<br>
+0 1 2 … 32767 -32766 -32765 … -1 0<br>
+Vòng lặp vô hạn<br>
+0 1 2 …. 65535<br>
+c<br>
+
+Kết quả của chương trình sau là gì?
+
+#include <stdio.h>
+void main()
+{
+            int i=1, k=0;
+            for (; i<5; i++) k++;
+            printf(“%d”,k);
+}<br>
+Vòng lặp vô hạn<br>
+5<br>
+4<br>
+0<br>
+c<br>
+
+Kết quả của chương trình sau là gì?
+
+#include <stdio.h>
+void main()
+{
+            int i,j;
+            for (i=1; i<4; i++)
+            j=i;
+            printf(“%3d”,j);
+}<br>
+1 2 3 4<br>
+3<br>
+Kết quả khác<br>
+4<br>
+b<br>
+
+Cho một đoạn chương trình viết bằng ngôn ngữ lập trình C như sau:
+  
+  char ch;
+  x=0;
+  while(x<=255){
+      printf(“Ma ASCII cua ki tu %c la %d\n”, x, x);
+      x++;
+}
+
+Phát biểu nào sau đây đúng về đoạn chương trình trên?<br>
+Đoạn chương trình trên in ra các kí tự và mã ASCII của chúng<br>
+Đoạn chương trình trên có lỗi cú pháp sử dụng cấu trúc while<br>
+Đoạn chương trình trên lặp vô hạn<br>
+Đoạn chương trình trên có lỗi cú pháp không khai báo x<br>
+d<br>
+
+Kết quả đầu ra của chương trình này là gì?
+
+#include <stdio.h>
+int main()
+{
+   char j=1;
+   while (j<5)
+    {
+         printf(“%d,”,j);
+         j=j+1;
+     }
+   printf(“ “);
+   return 0;
+}<br>
+1 2 3 … 127 128 0 1 2 3 …. lần vô hạn<br>
+1 2 3 … 127<br>
+1,2,3,4,<br>
+1 2 3 … 255<br>
+c<br>
+
+Kết quả đầu ra của chương trình này là gì?
+
+#include <stdio.h>
+int main()
+{
+   int a=300, b, c;
+   if (a>=400)
+   b=300;
+   c=200;
+   printf(“%d, %d, %d”,a, b, c);
+   return 0;
+}<br>
+300, garbage, 200<br>
+300, 300, garbage<br>
+garbage, 300, 200<br>
+300, 300, 200<br>
+a<br>
+
+Kết quả của chương trình sau là gì?
+
+#include <stdio.h>
+void main()
+{
+            int a=40, b=4;
+            while(a!=b)
+            if (a>b) a=a-b;
+            else b=b-a;
+            printf(“%d”,a);
+}<br>
+4<br>
+Kết quả khác<br>
+16<br>
+2<br>
+a<br>
+
+Kết quả đầu ra của chương trình này là gì?
+
+#include <stdio.h>
+int main()
+{
+   char ch;
+   if(ch=printf(“”))
+         printf(“Quan trong”);
+   else
+         printf(“Khong thanh van de”);
+   return 0;
+}<br>
+Khong thanh van de<br>
+Van de<br>
+Quan trong<br>
+Không có đầu ra<br>
+a<br>
+
+Kết quả đầu ra của chương trình này là gì?
+
+#include <stdio.h>
+int main()
+{
+   int x=3;
+   float y=3.0;
+   if (x==y)
+   printf(“x va y bang nhau”);
+   else
+   printf(“x va y khong bang nhau”);
+   return 0;
+}<br>
+x va y bang nhau<br>
+x va y khong bang nhau<br>
+Không thể đoán trước được<br>
+Không có đầu ra<br>
+a<br>
+
+Kết quả của chương trình sau là gì?
+
+#include <stdio.h>
+void main()
+{
+            int i,k;
+            for(i=1; ; i++) k=5;
+            printf(“%d”,i);
+}<br>
+Kết quả khác<br>
+5<br>
+0<br>
+Vòng lặp vô hạn<br>
+d<br>
+
+Giá trị cuối cùng của x là bao nhiêu khi đoạn mã sau chạy?
+
+int x;
+for (x=0; x<10; x++) {}<br>
+1<br>
+9<br>
+0<br>
+10<br>
+d<br>
+
+Cho hàm: 
+void print() 
+{Printf(“Hello SITDE”);} 
+Lệnh nào sau đây là hợp lệ để gọi hàm trên?<br>
+print();<br>
+print;<br>
+int print();<br>
+print x, y;<br>
+a<br>
+
+Lệnh nào sau đây là lệnh gọi hàm hợp lệ (giả sử hàm tồn tại)?<br>
+funct x, y;<br>
+int funct();<br>
+funct;<br>
+funct();<br>
+d<br>
+
+Đâu KHÔNG phải là một nguyên mẫu hợp lệ?<br>
+double funct(char x)<br>
+void funct();<br>
+char x();<br>
+int funct(char x, char y);<br>
+a<br>
+
+Nếu hàm được gọi trước khi nó định nghĩa thì điều kiện là gì:<br>
+Kiểu đầu vào của hàm phải là kiểu void<br>
+Trước khi gọi hàm nó phải được khai báo<br>
+Hàm chỉ trả về kiểu dữ liệu boolean<br>
+Kiểu trả về của hàm phải là kiểu void<br>
+b<br>
+
+Cho khai báo hàm: 
+void showValue(int quatity);
+Câu lệnh nào nên được sử dụng để gọi hàm showValue () với tham số 5?<br>
+showValue(5);<br>
+showValue(int 5);<br>
+quantity = showValue(int 5);<br>
+quantity = showValue(5);<br>
+a<br>
+
+Khai báo hàm tính tổng các phần tử trong một mảng các số nguyên (int) dưới đây, khai báo nào đúng?<br>
+void Sum(int a[]);<br>
+long Sum (int *a);<br>
+void Sum(int a[], int n);<br>
+Cả 3 phương án đều sai<br>
+d<br>
+
+Chọn một khẳng định SAI khi nói về hàm?<br>
+Một hàm có nhiều nhất một giá trị được trả về<br>
+Cặp dấu ngoặc () là bắt buộc theo sau tên hàm, cho dù hàm có đối số hay không<br>
+Phải có dấu chấm phẩy sau định nghĩa hàm<br>
+Một chương trình có thể có nhiều hơn một hàm<br>
+c<br>
+
+Các tham số sử dụng trong lời khai báo hàm được gọi là gì?<br>
+Tham số hình thức<br>
+Tham số hình thức và tham số thực<br>
+Tham số thực<br>
+Tham số hình thức hoặc tham số thực<br>
+a<br>
+
+Kiểu trả về của hàm với nguyên mẫu: int func (char x, float v, double t); là gì?<br>
+int<br>
+float<br>
+double<br>
+char<br>
+a<br>
+
+Nếu một hàm có nhiều tham số thì các tham số đó phải được phân cách với nhau bằng dấu gì?<br>
+Dấu cách (space)<br>
+Dấu hai chấm (:)<br>
+Dấu chấm phẩy (;)<br>
+Dấu phẩy (,)<br>
+d<br>
+
+Khai báo hàm tìm giá trị lớn nhất trong một mảng các số thực (long) dưới đây, khai báo nào đúng?<br>
+void Max(long a[], int n);<br>
+long Max(long *a, int n);<br>
+void Max(long  *a);<br>
+long Max(long *a[]);<br>
+b<br>
+
+Khi không khai báo kiểu dữ liệu trả về của hàm thì chương trình dịch của C sẽ ngầm hiểu rằng kiểu dữ liệu trả về của hàm là kiểu nào?<br>
+Kiểu void<br>
+Kiểu double<br>
+Kiểu int<br>
+Kiểu long<br>
+c<br>
+
+Chọn một khẳng định ĐÚNG khi nói về hàm?<br>
+Một hàm có duy nhất một giá trị được trả về<br>
+Một hàm có ít nhất một giá trị được trả về<br>
+Một hàm có nhiều nhất một giá trị được trả về<br>
+Một hàm có thể có nhiều giá trị được trả về<br>
+c<br>
+
+Chọn một khẳng định SAI?<br>
+Một hàm có thể có một, nhiều hoặc không có tham số nào cả<br>
+Một hàm có thể có nhiều tham số<br>
+Một hàm có thể không có tham số nào<br>
+Một hàm tối thiểu phải có 1 tham số<br>
+d<br>
+
+Các tham số được cung cấp cho hàm trong quá trình thực hiện được gọi là gì?<br>
+Tham số hình thức và tham số thực<br>
+Tham số hình thức và tham số thực<br>
+Tham số thực<br>
+Tham số hình thức hoặc tham số thực<br>
+c<br>
+
+Điều nào sau đây là một hàm đầy đủ?<br>
+void funct(int) {printf( "Hello");<br>
+void funct(x) {printf( "Hello" )};<br>
+int funct();<br>
+void funct(x) {printf( "Hello" )};<br>
+d<br>
+
+Biến được khai báo bên trong một hàm được gọi là gì?<br>
+Tham số hình thức<br>
+Biến toàn cục<br>
+Tham số thực<br>
+Biến cục bộ<br>
+d<br>
+
+Biến được khai báo bên ngoài tất cả các hàm được gọi là gì?<br>
+Biến toàn cục<br>
+Biến cục bộ<br>
+Tham số thực<br>
+Tham số hình thức <br>
+a<br>
+
+Đâu là một tên hàm KHÔNG hợp lệ?<br>
+_giai_thua<br>
+giai thua<br>
+giai_thua<br>
+giaithua<br>
+b<br>
+
+Để khai báo 1 hàm kiểm tra một mảng là tăng hay không ta dùng khai báo nào dưới đây?<br>
+long CheckAsc(int *S);<br>
+int CheckAsc(int *a, int n);<br>
+double CheckAsc(int S[], int n);<br>
+void CheckAsc(int a[], int n);<br>
+b<br>
+
+Chọn phương án đúng để điền vào khẳng định sau: Hàm là một khối lệnh….....<br>
+chỉ chạy khi nó được gọi<br>
+luôn chạy bất kể có được gọi hay không<br>
+có thể chạy mà không cần được gọi<br>
+không chạy nếu được gọi bên trong hàm khác<br>
+a<br>
+
+void func(int a)
+Giá trị mà hàm trên trả về là: <br>
+Một số nguyên<br>
+Một số thực<br>
+Một kí tự<br>
+Hàm không trả về giá trị nào<br>
+d<br>
+
+Chọn phương án đúng nhất để điền vào câu:
+Trong C, kiểu dữ liệu trả về của hàm….. <br>
+có thể là kiểu dữ liệu bất kì, trừ kiểu dữ liệu mảng<br>
+có thể là kiểu dữ liệu bất kì<br>
+phải là kiểu dữ liệu có sẵn<br>
+có thể là kiểu dữ liệu có sẵn hoặc kiểu dữ liệu do người dùng tự định nghĩa<br>
+a<br>
+
+Tham số của hàm….....<br>
+Chứa dữ liệu vào cung cấp cho hàm<br>
+Chứa dữ liệu ra mà hàm tính toán được<br>
+Cả A và B đúng<br>
+Không có đáp án đúng<br>
+c<br>
+
+Kết quả của đoạn chương trình sau là gì?
+
+#include <stdio.h>
+void swap(int *a, int *b)
+{
+     int temp;
+     temp = *a;
+     *a = *b;
+     *b = temp;
+}
+void main()
+{
+     int x,y;
+     x=10; y=50;
+     printf("Truoc khi doi cho x = %d, y = %d\n, x,y);
+     printf("Sau khi doi cho x = %d, y = %d", x,y);
+}<br>
+Truoc khi doi cho x = 10, y = 50
+Sau khi doi cho x = 50, y = 10<br>
+Truoc khi doi cho x = 10, y = 50
+Sau khi doi cho x = 10, y = 50<br>
+Truoc khi doi cho x = 50, y = 10
+Sau khi doi cho x = 50, y = 10<br>
+Truoc khi doi cho x = 50, y = 10
+Sau khi doi cho x = 10, y = 50<br>
+a<br>
+
+Kết quả của đoạn chương trình sau là gì?
+
+#include <stdio.h>
+void swap(int a, int b)
+{
+     int temp;
+     temp = a;
+     a = b;
+     b = temp;
+}
+void main()
+{
+     int x,y;
+     x=10; y=50;
+     printf("Truoc khi doi cho x = %d, y = %d\n, x,y);
+     printf("Sau khi doi cho x = %d, y = %d", x,y);
+}<br>
+Truoc khi doi cho x = 10, y = 50
+Sau khi doi cho x = 50, y = 10<br>
+Truoc khi doi cho x = 10, y = 50
+Sau khi doi cho x = 10, y = 50<br>
+Truoc khi doi cho x = 50, y = 10
+Sau khi doi cho x = 50, y = 10<br>
+Truoc khi doi cho x = 50, y = 10
+Sau khi doi cho x = 10, y = 50<br>
+b<br>
+
+Kết quả của đoạn chương trình sau là gì?
+
+#include <stdio.h>
+void main()
+{
+     {
+          int a = 1;
+          printf("a = %d", a);
+          {
+                int a = 2;
+                printf("\na = %d", a);
+           }
+          printf("\na = %d", a);
+      }
+      {
+          int a = 3;
+          printf("\na = %d", a);
+      }
+}<br>
+a = 1
+a = 2
+a = 1
+a = 3<br>
+a = 1
+a = 1
+a = 1
+a = 1<br>
+Chương trình lỗi do có nhiều biến trùng tên<br>
+a = 1
+a = 1
+a = 1
+a = 3<br>
+a<br>
+
+Có n lần gọi tới một hàm thì có bao nhiêu lần thoát ra khỏi hàm đó?<br>
+n - 1<br>
+n + 1<br>
+n<br>
+n!<br>
+c<br>
+
+Khi dùng phương pháp đệ quy, nếu bài toán dễ dàng giải quyết trong một số trường hợp riêng ứng với các giá trị đặc biệt của tham số, thì ta gọi đó là:<br>
+Trường hợp đặc biệt<br>
+Trường hợp suy biến<br>
+Trường hợp tổng quát<br>
+Tham số đặc biệt<br>
+b<br>
+
+Nếu bài toán có thể quy về một bài toán cùng dạng nhưng giá trị tham số bị thay đổi, và sau một số hữu hạn bước biến đổi đệ quy dẫn tới trường hợp suy biến, thì được gọi là:<br>
+Trường hợp đặc biệt<br>
+Trường hợp suy biến<br>
+Trường hợp tổng quát<br>
+Tham số biến thiên<br>
+c<br>
+
+Trong bài toán Tháp Hà Nội (Tower of Hanoi), với số đĩa là n, bài toán có thể được giải với số bước tối thiểu là bao nhiêu?<br>
+2^n<br>
+2^n + 1<br>
+n!<br>
+2^n - 1<br>
+d<br>
+
+
