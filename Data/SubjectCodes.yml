@@ -301,3 +301,16 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: 'deTOCB1107_C5.txt'
+  CNTT1128:
+    Name: 'Cơ sở lập trình'
+    Enable: true
+    Type: 'CSN'
+    Theory: ''
+    Questions:
+      deCNTT1128_C6:
+        Name: 'Chương 6 - Hàm trong C'
+        Style: 'NORMAL'
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: 'deCNTT1128_C6.txt'
