@@ -172,7 +172,7 @@ Câu này không có giải thích.<br>
 Backspace<br>
 BS<br>
 Xuống dòng<br>
-Di chuyển con trỏ sang trái ` ký tự<br>
+Di chuyển con trỏ sang trái ký tự<br>
 a<br>
 Câu này không có giải thích.<br>
 Ý nghĩa của ký tự điều khiển \f là gì<br>
