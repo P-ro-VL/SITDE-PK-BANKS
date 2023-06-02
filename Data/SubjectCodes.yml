@@ -113,7 +113,7 @@ Available:
     Name: 'Pháp luật đại cương'
     Enable: true
     Type: 'DC'
-    Theory: ''
+    Theory: 'https://drive.google.com/file/d/1WDntw9Z61JRp3c1RbG2vN6-IKQCCfNl1/view?fbclid=IwAR2o94rVWBga1n7RU-9m3MFG-qWfg9TK4QfgxOFdY879z2FTsQru9UW3LGg'
     Questions:
       deLUCS1129_C1:
         Name: 'Chương 1 - Những vấn đề cơ bản về Nhà nước, Nhà nước CHXHCN Việt Nam'
