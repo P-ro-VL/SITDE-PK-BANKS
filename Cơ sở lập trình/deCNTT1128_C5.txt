@@ -1,0 +1,519 @@
+﻿Lệnh nào trong các lệnh sau cho phép đã chuyển tới một nơi nào đó đã được gán nhãn?<br>
+break<br>
+continue<br>
+exit<br>
+goto<br>
+d<br>
+
+Sau từ khóa case và giá trị sẽ là gì?<br>
+-<br>
+{<br>
+:<br>
+;<br>
+c<br>
+
+Lệnh nào trong các lệnh sau cho phép dừng câu lệnh điều khiển?<br>
+break<br>
+continue<br>
+goto<br>
+Cả 3 phương án trên<br>
+d<br>
+
+Các giá trị sau từ khóa case phải là:<br>
+mảng<br>
+biểu thức hằng<br>
+lời gọi hàm<br>
+biến số<br>
+b<br>
+
+Câu lệnh nào dưới đây kiểm tra xem biến kí tự ch có phải là kí tự chữ cái?<br>
+if((('A' <= ch) || (ch <= 'Z')) && (('a' <=ch) || (ch <= 'z')))<br>
+if(('A'<= ch) && (ch <= 'z'))<br>
+if((('A'<= ch) && (ch <= 'Z')) &&  (('a' <=ch) && (ch <= 'z')))<br>
+if((('A' <= ch) && (ch <= 'Z')) ||  (('a' <=ch) && (ch <= 'z')))<br>
+d<br>
+
+Phát biểu nào sau đây là SAI với cấu trúc if… else?<br>
+Tất cả các câu lệnh sử dụng cấu trúc if ... else đều có thể thay thế bằng biểu thức điều kiện<br>
+Sau biểu thức điều kiện đi cùng với từ khóa if cho phép sử dụng khối lệnh<br>
+Các cấu trúc if...else có thể lồng nhau<br>
+Sau từ khoá else cho phép sử dụng khối lệnh<br>
+a<br>
+
+Mệnh đề nào dưới đây là đúng?<br>
+Lệnh while thực hiện vòng lặp trước rồi mới kiểm tra điều kiện vòng lặp<br>
+Lệnh do...while kiểm tra điều kiện vòng lặp trước rồi mới thực hiện lệnh<br>
+Cấu trúc while và do...while được dùng để thực hiện lặp đi lặp lại một công việc với số lần xác định<br>
+Lệnh while kiểm tra điều kiện vòng lặp trước rồi mới thực hiện lện<br>
+d<br>
+
+Khi nào khối mã lệnh sau while (x<100) thực thi?<br>
+Khi x bằng 100<br>
+Khi x nhỏ hơn 100<br>
+Khi x lớn hơn 100<br>
+Tất cả các phương án trên đều sai<br>
+b<br>
+
+Cần phải làm gì để tránh rơi từ trường hợp này sang trường hợp khác?<br>
+end;<br>
+break;<br>
+stop;<br>
+; (dấu chấm phẩy)<br>
+b<br>
+
+Lệnh nào trong các lệnh sau cho phép nhảy ra khỏi vòng lặp đến vị trí bất kì mong muốn?<br>
+goto<br>
+continue<br>
+break<br>
+Không có phương án nào đúng<br>
+a<br>
+
+Đâu không phải cấu trúc lặp?<br>
+repeat until<br>
+while<br>
+for<br>
+do while<br>
+a<br>
+
+Câu nào trình bày đúng cú pháp của câu lệnh if?<br>
+if biểu thức <br>
+if (biểu thức)<br>
+if {biểu thức}<br>
+biểu thức if<br>
+b<br>
+
+Từ khóa nào bao hàm các khả năng chưa được xử lí?<br>
+contingency<br>
+all<br>
+default<br>
+other<br>
+c<br>
+
+Vòng lặp do...while được thực hiện ít nhất bao nhiêu lần?<br>
+Vô hạn<br>
+1<br>
+0<br>
+Biến đổi<br>
+b<br>
+
+Phát biểu nào sau đây sai về vòng lặp for?<br>
+Vòng lặp for thực hiện nhanh hơn vòng lặp while<br>
+Mọi lệnh sử dụng vòng lặp for có thể thay thế bởi vòng lặp while và ngược lại<br>
+for ( ; ; ) là một vòng lặp vô tận<br>
+Các câu lệnh trong vòng lặp for có thể không được thực hiện lần nào<br>
+a<br>
+
+Cho đoạn chương trình sau:
+int a = 5;
+switch(a): {
+     case 1: printf("Hello");
+     case 2: printf("Hi");
+     case 3+2: printf("How are you?");
+     case 5: printf("Good bye"); break;
+}
+Chỉ ra lỗi cú pháp trong đoạn chương trình trên nếu có?<br>
+Không có câu lệnh break cuối mỗi nhãn case<br>
+Nhãn case không được phép sử dụng biểu thức 3+2<br>
+Hai nhãn case có cùng giá trị là 5<br>
+Đoạn chương trình trên không có lỗi cú pháp<br>
+c<br>
+
+Sau khi đoạn chương trình sau được thực hiện thì biến c có giá trị bằng bao nhiêu?
+int a = 10, b = 20, c = 1;
+switch (a>b) {
+     case 0: c=a; break;
+     case 1: c=b; break;
+}<br>
+0<br>
+20<br>
+1<br>
+10<br>
+d<br>
+
+Đoạn chương trình sau hiển thị ra màn hình kết quả gì?
+int a = 10;
+a = a/2;
+switch (a) {
+     case 3: a+=2;
+     case 4: a++; break;
+     default: a--;
+printf("%d",a);
+}<br>
+5<br>
+4<br>
+6<br>
+7<br>
+b<br>
+
+Sau khi đoạn chương trình sau được thực hiện thì biến a mang giá trị là bao nhiêu?
+int i, a = 0;
+for (i=0; i<10; i+=2) 
+     a=a+2;<br>
+9<br>
+10<br>
+18<br>
+20<br>
+b<br>
+
+Cho biết giá trị của biến S khi thực hiện đoạn chương trình sau: 
+int S, i;
+for (i=0; i<10; i++) S+=i;<br>
+0<br>
+45<br>
+55<br>
+Không xác định<br>
+b<br>
+
+Đoạn chương trình sau hiển thị kết quả gì ra màn hình?
+int a;
+for (a=65; a<69; a++)
+     printf("%c ", a);<br>
+65 66 67 68<br>
+A B C D<br>
+a a a a<br>
+a b c d<br>
+b<br>
+
+Đoạn mã sau hiển thị gì trên màn hình?
+int i = 0;
+while (++i+1<=5) printf("%d",i);<br>
+12345<br>
+01234<br>
+123456<br>
+1234<br>
+d<br>
+
+Đoạn chương trình sau hiển thị kết quả gì ra màn hình?
+int i = 0;
+while (++i<=5)
+     printf("%d, ",i);<br>
+0, 1, 2, 3, 4, 5,<br>
+1, 2, 3, 4, 5,<br>
+1, 2, 3, 4, 5<br>
+1, 2, 3, 4, 5, 6<br>
+b<br>
+
+Cho biết kết quả thực hiện đoạn chương trình sau:
+int S = 0, d = 0;
+while (d<10) {
+     S+=d;
+     d+=2;
+}
+printf("%d",S);<br>
+0<br>
+10<br>
+20<br>
+45<br>
+c<br>
+
+Viết chương trình yêu cầu người dùng nhập một số n (0<= n <=100). Nếu người dùng nhập sai thì đưa ra thông báo yêu cầu nhập lại cho đến khi nào đúng.
+int n;
+do {
+     printf("Nhap gia tri n thoa man 0<= n <=100: ");
+     scanf("%d", &n);
+     }
+….....................
+Cần điền đáp án nào vào chỗ trống (........) để chương trình thực hiện yêu cầu?<br>
+if (n<0 || n>100);<br>
+while ((n<0)&&(n>100));<br>
+while (n>=0 || n<=100);<br>
+while (n<0 || n>100);<br>
+d<br>
+
+Khi đoạn chương trình sau được thực hiện, biến A có giá trị bao nhiêu?
+int i, A = 0;
+for (i=0; i<100; i+=13) {
+     A = A + 100;
+     break;
+}<br>
+0<br>
+100<br>
+760<br>
+10000<br>
+b<br>
+
+Cho biết kết quả hiển thị trên màn hình của đoạn chương trình sau:
+int i = 'a';
+while (i<='z')
+{
+     if (i=='a') continue;
+     printf("%c",i);
+     i+=1;
+}<br>
+Chương trình lặp vô hạn<br>
+In ra màn hình từ a đến z<br>
+In ra màn hình từ b đến z<br>
+Các phương án khác đều sai<br>
+d<br>
+
+Cho biết kết quả hiển thị trên màn hình sau khi đoạn chương trình sau được thực hiện:
+int i = 0;
+while (i<10)
+{
+     i=i+2;
+     continue;
+     printf("%d",i);
+}<br>
+%d %d %d %d %d<br>
+i i i i i<br>
+0 2 4 6 8<br>
+Không có kết quả nào được đưa ra màn hình<br>
+d<br>
+
+Cho biết kết quả hiển thị trên màn hình sau khi đoạn chương trình sau được thực hiện:
+int i = 0;
+while (i<10)
+{
+     i++;
+     if (i%2==0) break;
+     printf("%d ",i);
+}<br>
+0 1 2 3 4 5 6 7 8 9 <br>
+0 2 4 6 8<br>
+1 3 5 7 9<br>
+1<br>
+d<br>
+
+Khi đoạn chương trình sau được thực hiện, kết quả hiển thị trên màn hình là:
+int i;
+for (i=10; i>1; --i) {
+     if (i%2) continue;
+     printf("%3d",i);
+     if (i==0) break;
+}<br>
+ 10  8  6  4 25<br>
+  2  6 10 16 24<br>
+ 10  8  6  4  2<br>
+ 16  6  8 10 25<br>
+c<br>
+
+Cho đoạn chương trình sau:
+char ch;
+x = 0;
+while (x<=255) {
+     printf("Ma ASCII cua ki tu %c la %d\n", x,x);
+     x++;
+}
+Phát biểu nào sau đây đúng về đoạn chương trình trên?<br>
+Đoạn chương trình trên lặp vô hạn<br>
+Đoạn chương trình trên in ra các kí tự và mã ASCII của chúng<br>
+Đoạn chương trình trên có lỗi cú pháp không khai báo x<br>
+Đoạn chương trình trên có lỗi cú pháp sử dụng cấu trúc while<br>
+c<br>
+
+Kết quả in ra màn hình của chương trình sau là gì?
+#include <stdio.h>
+void main()
+{
+    int i;
+    for (i=2; i<=4; i+=2)
+    printf("%3d",i);
+}<br>
+  1  2  3  4<br>
+  2  3  4<br>
+  2  4<br>
+Chương trình không chạy được<br>
+c<br>
+
+Kết quả in ra màn hình của chương trình sau là gì?
+#include <stdio.h>
+void main()
+{
+    int i;
+    for (i=2; ; i++)
+    printf("%3d",i);
+}<br>
+Vòng lặp vô hạn<br>
+  2<br>
+  1  2<br>
+Kết quả khác<br>
+a<br>
+
+Kết quả của chương trình sau là gì?
+#include <stdio.h>
+void main()
+{
+    int i,j;
+    for (i=1;i<4; i++)
+    j=i;
+    printf("%3d",j);
+}<br>
+  1  2  3  4<br>
+  4<br>
+  3<br>
+Kết quả khác<br>
+c<br>
+
+Cho đoạn chương trình sau:
+int n = 0;
+for (int i = 0; i<10; i+=4) n+=i;
+Giá trị của biến n là?<br>
+8<br>
+12<br>
+16<br>
+20<br>
+b<br>
+
+Phát biểu nào đúng về đoạn chương trình dưới đây?
+#include <stdio.h>
+int main()
+{
+    int i=10, j=20;
+    if (i=5) && if (j=10)
+    printf("Have a nice day");
+    return 0;
+}<br>
+Hiển thị: Have a nice day<br>
+Không có đầu ra<br>
+Lỗi cú pháp biểu thức<br>
+Lỗi không khai báo<br>
+c<br>
+
+Dưới đây là chương trình in ra màn hình các số tự nhiên lẻ và nhỏ hơn 100, mỗi dòng hiển thị 10 số.
+#include <stdio.h>
+void main()
+{
+     int i;
+     for (i=1; i<100; i++)
+     {
+          if (i%2 == 0)
+               ....................
+          printf("%5d",i);
+          if ((i+1)%20 == 0)
+               printf("\n");
+Cần điền câu lệnh nào vào chỗ trống (........) để chương trình thực hiện yêu cầu?<br>
+continue;<br>
+break;<br>
+return;<br>
+goto;<br>
+a<br>
+
+Dưới đây là chương trình in ra màn hình các số tự nhiên lẻ và nhỏ hơn 100, mỗi dòng hiển thị 10 số.
+#include <stdio.h>
+void main()
+{
+     int i;
+     for (i=1; i<100; i++)
+     {
+          if (i%2 == 0)
+               continue;
+          printf("%5d",i);
+          if ((i+1)%...... == 0)
+               printf("\n");
+Cần điền số bao nhiêu vào chỗ trống (........) để chương trình thực hiện yêu cầu?<br>
+20<br>
+21<br>
+19<br>
+10<br>
+a<br>
+
+Kết quả của chương trình sau là gì?
+#include <stdio.h>
+void main()
+{
+     int a = 40, b = 4;
+     while (a!=b)
+     {
+          if (a>b) a = a - b;
+          else b = b - a;
+     }
+     printf("%d",a);
+}<br>
+2<br>
+16<br>
+4<br>
+Kết quả khác<br>
+c<br>
+
+Kết quả của chương trình sau là gì?
+#include <stdio.h>
+void main()
+{
+    int a = 40, b = 64;
+    while (a!=b)
+    {
+        if (a>b) a = a - b;
+        else b = b - a;
+    }
+    printf("%d",a);
+}<br>
+8<br>
+10<br>
+12<br>
+Kết quả khác<br>
+a<br>
+
+Đâu là cấu trúc lặp với số lần xác định?<br>
+if<br>
+for<br>
+while<br>
+do while<br>
+b<br>
+
+Trong các lệnh thay đổi cấu trúc lập trình sau đây, lệnh nào vi phạm đến quy luật của một ngôn ngữ lập trình cấu trúc và làm giảm độ tin cậy của chương trình, khiến chương trình khó bảo?<br>
+break<br>
+goto<br>
+return<br>
+continue<br>
+b<br>
+
+Những lệnh thay đổi cấu trúc lập trình nào có thể dùng ở vị trí bất kì trong chương trình?<br>
+return và continue<br>
+break và continue<br>
+return và goto<br>
+goto và break<br>
+c<br>
+
+Những lệnh thay đổi cấu trúc lập trình nào được sử dụng kết hợp với các câu lệnh vòng lặp?<br>
+return và continue<br>
+break và continue<br>
+return và goto<br>
+goto và break<br>
+b<br>
+
+Phát biểu nào sau đây là ĐÚNG về lệnh return?<br>
+Bắt buộc phải có biểu thức sau lệnh return<br>
+Hàm sẽ trở về khi gặp lệnh return cuối cùng<br>
+Lệnh return có thể có nhiều giá trị đi kèm với nó<br>
+Lệnh return có thể có một giá trị đi kèm với nó<br>
+d<br>
+
+Lệnh break KHÔNG được sử dụng để:<br>
+Kết thúc một mệnh đề case trong câu lệnh switch<br>
+Kết thúc ngang giữa vòng lặp<br>
+Bỏ qua việc thực hiện các câu lệnh nằm sau nó trong thân vòng lặp và bắt đầu thực hiện lần lặp kế tiếp của vòng lặp<br>
+Kết thúc ngay vòng lặp và chuyển điều khiển đến lệnh kế tiếp bên ngoài vòng lặp<br>
+c<br>
+
+Lệnh continue được sử dụng để:<br>
+Kết thúc một mệnh đề case trong câu lệnh switch<br>
+Kết thúc ngang giữa vòng lặp<br>
+Bỏ qua việc thực hiện các câu lệnh nằm sau nó trong thân vòng lặp và bắt đầu thực hiện lần lặp kế tiếp của vòng lặp<br>
+Kết thúc ngay vòng lặp và chuyển điều khiển đến lệnh kế tiếp bên ngoài vòng lặp<br>
+c<br>
+
+Dưới đây là chương trình nhập vào 1 số nguyên n, in ra màn hình n dòng với n sao (*) tương ứng với số dòng (Ví dụ: dòng 1 có 1 sao, dòng 2 có 2 sao,... dòng n có n sao):
+#include <stdio.h>
+void main()
+{
+    int i,j,k;
+    i=0;
+    printf("Cho biet so dong: "); scanf("%d",&i);
+    (1);
+    for (j=0; j<i; j++)
+    {
+        for (k=0; k<=j; k++)
+            printf("*");
+        (2)
+    }
+    (3)
+}
+(4)
+Câu lệnh printf("\n") cần được thêm vào vị trí nào trong 4 vị trí (1), (2), (3), (4) để chương trình thực hiện đúng theo yêu cầu?<br>
+(1)<br>
+(2)<br>
+(3)<br>
+(4)<br>
+b<br>
+
+

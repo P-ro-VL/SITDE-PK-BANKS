@@ -321,6 +321,13 @@ Available:
         Count: 40
         HasExplanation: true
         FileName: 'deCNTT1128_C4.txt'
+      deCNTT1128_C5:
+        Name: 'Chương 5: Các cấu trúc lập trình trong C'
+        Style: 'NORMAL'
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: 'deCNTT1128_C5.txt'
       deCNTT1128_C6:
         Name: 'Chương 6 - Hàm trong C'
         Style: 'NORMAL'
