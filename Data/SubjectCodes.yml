@@ -335,3 +335,10 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: 'deCNTT1128_C6.txt'
+      deCNTT1128_C7:
+        Name: 'Chương 7 - Con trỏ trong C'
+        Style: 'NORMAL'
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: 'deCNTT1128_C7.txt'
