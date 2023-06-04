@@ -116,40 +116,19 @@ Available:
     Theory: 'https://drive.google.com/file/d/1WDntw9Z61JRp3c1RbG2vN6-IKQCCfNl1/view?fbclid=IwAR2o94rVWBga1n7RU-9m3MFG-qWfg9TK4QfgxOFdY879z2FTsQru9UW3LGg'
     Questions:
       deLUCS1129_C1:
-        Name: 'Chương 1 - Những vấn đề cơ bản về Nhà nước, Nhà nước CHXHCN Việt Nam'
+        Name: 'Chương 1 - Đại cương về Nhà nước'
         Style: 'NORMAL'
         Time: 3600
         Count: 40
         HasExplanation: false
         FileName: 'deLUCS1129_C1.txt'
       deLUCS1129_C2:
-        Name: 'Chương 2 - Những vấn đề cơ bản về pháp luật'
+        Name: 'Chương 2 - Đại cương về Pháp luật'
         Style: 'NORMAL'
         Time: 3600
-        Count: 30
+        Count: 40
         HasExplanation: false
         FileName: 'deLUCS1129_C2.txt'
-      deLUCS1129_C3:
-        Name: 'Chương 3 - Quy phạm pháp luật và hệ thống pháp luật'
-        Style: 'NORMAL'
-        Time: 3600
-        Count: 30
-        HasExplanation: false
-        FileName: 'deLUCS1129_C3.txt'
-      deLUCS1129_C4:
-        Name: 'Chương 4 - Quan hệ pháp luật'
-        Style: 'NORMAL'
-        Time: 3600
-        Count: 30
-        HasExplanation: false
-        FileName: 'deLUCS1129_C4.txt'
-      deLUCS1129_C5:
-        Name: 'Chương 5 - Thực hiện pháp luật, vi phạm pháp luật và trách nhiệm pháp lý'
-        Style: 'NORMAL'
-        Time: 3600
-        Count: 30
-        HasExplanation: false
-        FileName: 'deLUCS1129_C5.txt'
       deLUCS1129_C7:
         Name: 'Chương 7 - Các ngành luật trong hệ thống pháp luật Việt Nam'
         Style: 'NORMAL'
