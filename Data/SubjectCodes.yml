@@ -321,3 +321,16 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: 'deCNTT1128_C7.txt'
+  CNTT1182:
+    Name: 'Phương pháp tính'
+    Enable: true
+    Type: 'CSN'
+    Theory: ''
+    Questions:
+      deCNTT1182_C1:
+        Name: 'Chương 1 - Một số khái niệm cơ bản'
+        Style: 'SIMPLE_SELECT'
+        Time: 3600
+        Count: 10
+        HasExplanation: false
+        FileName: 'deCNTT1182_C1.txt'
