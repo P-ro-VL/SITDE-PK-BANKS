@@ -334,3 +334,16 @@ Available:
         Count: 10
         HasExplanation: false
         FileName: 'deCNTT1182_C1.txt'
+  TIKT1130:
+    Name: 'Cơ sở dữ liệu'
+    Enable: true
+    Type: 'CSN'
+    Theory: ''
+    Questions:
+      deTIKT1130_C1:
+        Name: 'Chương 1 - Tổng quan về cơ sở dữ liệu'
+        Style: 'NORMAL'
+        Time: 3600
+        Count: 30
+        HasExplanation: false
+        FileName: 'deTIKT1130_C1.txt'
