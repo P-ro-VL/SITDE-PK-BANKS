@@ -338,7 +338,7 @@ Available:
     Name: 'Cơ sở dữ liệu'
     Enable: true
     Type: 'CSN'
-    Theory: ''
+    Theory: 'https://drive.google.com/file/d/1nmjITGB8cpBmy4gJ7EIIPLF3x5fFweJK/view?fbclid=IwAR3yfcPkMCvZBd9-qqSaSTM_Y_vGPc64UZxicywpnoBzjppkr5fcnWIrwRc'
     Questions:
       deTIKT1130_C1:
         Name: 'Chương 1 - Tổng quan về cơ sở dữ liệu'
