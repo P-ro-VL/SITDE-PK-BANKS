@@ -321,6 +321,13 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: 'deCNTT1128_C7.txt'
+      deCNTT1128_C8:
+        Name: 'Chương 8 - Cấu trúc trong C'
+        Style: 'NORMAL'
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: 'deCNTT1128_C8.txt'
   CNTT1182:
     Name: 'Phương pháp tính'
     Enable: true
