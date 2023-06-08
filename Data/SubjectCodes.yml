@@ -323,7 +323,7 @@ Available:
         FileName: 'deCNTT1128_C7.txt'
       deCNTT1128_C8:
         Name: 'Chương 8 - Cấu trúc trong C'
-        Style: 'NORMAL'
+        Style: 'IMAGE_QUESTION'
         Time: 3600
         Count: 40
         HasExplanation: false
