@@ -323,7 +323,7 @@ Available:
         FileName: 'deCNTT1128_C7.txt'
       deCNTT1128_C8:
         Name: 'Chương 8 - Cấu trúc trong C'
-        Style: 'NORMAL'
+        Style: 'SIMPLE_SELECT'
         Time: 3600
         Count: 40
         HasExplanation: false
@@ -341,6 +341,13 @@ Available:
         Count: 10
         HasExplanation: false
         FileName: 'deCNTT1182_C1.txt'
+      deCNTT1182_C6:
+        Name: 'Chương 6 - Tính gần đúng nghiệm của hệ pt tuyến tính'
+        Style: 'SIMPLE_SELECT'
+        Time: 3600
+        Count: 10
+        HasExplanation: false
+        FileName: 'deCNTT1182_C6.txt'
   TIKT1130:
     Name: 'Cơ sở dữ liệu'
     Enable: true
