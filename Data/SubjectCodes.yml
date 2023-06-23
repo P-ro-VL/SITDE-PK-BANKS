@@ -341,8 +341,15 @@ Available:
         Count: 10
         HasExplanation: false
         FileName: 'deCNTT1182_C1.txt'
+      deCNTT1182_C2:
+        Name: 'Chương 2 - Nội suy hàm đa thức'
+        Style: 'SIMPLE_SELECT'
+        Time: 3600
+        Count: 10
+        HasExplanation: false
+        FileName: 'deCNTT1182_C2.txt'
       deCNTT1182_C6:
-        Name: 'Chương 6 - Tính gần đúng nghiệm của hệ pt tuyến tính'
+        Name: 'Chương 6 - Tính gần đúng nghiệm của hệ tuyến tính'
         Style: 'SIMPLE_SELECT'
         Time: 3600
         Count: 10
