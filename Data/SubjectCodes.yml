@@ -355,6 +355,13 @@ Available:
         Count: 10
         HasExplanation: false
         FileName: 'deCNTT1182_C2.txt'
+      deCNTT1182_C5:
+        Name: 'Chương 5 - Giải gần đúng phương trình'
+        Style: 'SIMPLE_SELECT'
+        Time: 3600
+        Count: 10
+        HasExplanation: false
+        FileName: 'deCNTT1182_C5.txt'
       deCNTT1182_C6:
         Name: 'Chương 6 - Tính gần đúng nghiệm của hệ tuyến tính'
         Style: 'SIMPLE_SELECT'
