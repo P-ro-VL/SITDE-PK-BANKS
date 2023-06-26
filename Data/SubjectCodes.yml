@@ -98,15 +98,15 @@ Available:
       deLLNL1105_C1:
         Name: 'Chương 1 - Triết học và vai trò trong đời sống xã hội'
         Style: 'NORMAL'
-        Time: 3600
-        Count: 40
+        Time: 3000
+        Count: 60
         HasExplanation: false
         FileName: 'deLLNL1105_C1.txt'
       deLLNL1105_C2:
         Name: 'Chương 2 - Chủ nghĩa duy vật biện chứng'
         Style: 'NORMAL'
-        Time: 3600
-        Count: 40
+        Time: 3000
+        Count: 80
         HasExplanation: false
         FileName: 'deLLNL1105_C2.txt'
   LUCS1129:
