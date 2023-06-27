@@ -335,6 +335,13 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: 'deCNTT1128_C8.txt'
+      deCNTT1128_C9:
+        Name: 'Chương 9 - Thao tác trên tệp tin'
+        Style: 'SIMPLE_SELECT'
+        Time: 3600
+        Count: 30
+        HasExplanation: false
+        FileName: 'deCNTT1128_C9.txt'
   CNTT1182:
     Name: 'Phương pháp tính'
     Enable: true
