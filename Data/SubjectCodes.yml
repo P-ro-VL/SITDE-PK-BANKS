@@ -341,6 +341,13 @@ Available:
         Count: 10
         HasExplanation: false
         FileName: 'deCNTT1182_C1.txt'
+      deCNTT1182_C3:
+        Name: 'Chương 3 - Xấp xỉ hàm số bằng phương pháp bình phương tối thiểu'
+        Style: 'SIMPLE_SELECT'
+        Time: 3600
+        Count: 10
+        HasExplanation: false
+        FileName: 'deCNTT1182_C3.txt'
       deCNTT1182_C6:
         Name: 'Chương 6 - Tính gần đúng nghiệm của hệ pt tuyến tính'
         Style: 'SIMPLE_SELECT'
