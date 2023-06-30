@@ -98,15 +98,15 @@ Available:
       deLLNL1105_C1:
         Name: 'Chương 1 - Triết học và vai trò trong đời sống xã hội'
         Style: 'NORMAL'
-        Time: 3600
-        Count: 40
+        Time: 3000
+        Count: 60
         HasExplanation: false
         FileName: 'deLLNL1105_C1.txt'
       deLLNL1105_C2:
         Name: 'Chương 2 - Chủ nghĩa duy vật biện chứng'
         Style: 'NORMAL'
-        Time: 3600
-        Count: 40
+        Time: 3000
+        Count: 80
         HasExplanation: false
         FileName: 'deLLNL1105_C2.txt'
   LUCS1129:
@@ -129,6 +129,13 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: 'deLUCS1129_C2.txt'
+      deLUCS1129_C3:
+        Name: 'Chương 3 - Hình thức pháp luật và hệ thống pháp luật Việt Nam'
+        Style: 'NORMAL'
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: 'deLUCS1129_C3.txt'
       deLUCS1129_C7:
         Name: 'Chương 7 - Các ngành luật trong hệ thống pháp luật Việt Nam'
         Style: 'NORMAL'
@@ -328,6 +335,13 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: 'deCNTT1128_C8.txt'
+      deCNTT1128_C9:
+        Name: 'Chương 9 - Thao tác trên tệp tin'
+        Style: 'SIMPLE_SELECT'
+        Time: 3600
+        Count: 30
+        HasExplanation: false
+        FileName: 'deCNTT1128_C9.txt'
   CNTT1182:
     Name: 'Phương pháp tính'
     Enable: true
@@ -341,6 +355,13 @@ Available:
         Count: 10
         HasExplanation: false
         FileName: 'deCNTT1182_C1.txt'
+      deCNTT1182_C2:
+        Name: 'Chương 2 - Nội suy hàm đa thức'
+        Style: 'SIMPLE_SELECT'
+        Time: 3600
+        Count: 10
+        HasExplanation: false
+        FileName: 'deCNTT1182_C2.txt'
       deCNTT1182_C3:
         Name: 'Chương 3 - Xấp xỉ hàm số bằng phương pháp bình phương tối thiểu'
         Style: 'SIMPLE_SELECT'
@@ -348,8 +369,15 @@ Available:
         Count: 10
         HasExplanation: false
         FileName: 'deCNTT1182_C3.txt'
+      deCNTT1182_C5:
+        Name: 'Chương 5 - Giải gần đúng phương trình'
+        Style: 'SIMPLE_SELECT'
+        Time: 3600
+        Count: 10
+        HasExplanation: false
+        FileName: 'deCNTT1182_C5.txt'
       deCNTT1182_C6:
-        Name: 'Chương 6 - Tính gần đúng nghiệm của hệ pt tuyến tính'
+        Name: 'Chương 6 - Tính gần đúng nghiệm của hệ tuyến tính'
         Style: 'SIMPLE_SELECT'
         Time: 3600
         Count: 10
