@@ -41,6 +41,41 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: 'deKHMA1101_C5.txt'
+      deKHMA1101_C6:
+        Name: 'Chương 6 - Tiền tệ và chính sách tiền tệ'
+        Style: 'NORMAL'
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: 'deKHMA1101_C6.txt'
+      deKHMA1101_C7:
+        Name: 'Chương 7 - Tiền tệ và lạm phát'
+        Style: 'NORMAL'
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: 'deKHMA1101_C7.txt'
+      deKHMA1101_C8:
+        Name: 'Chương 8 - Kinh tế vĩ mô của nền kinh tế mở'
+        Style: 'NORMAL'
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: 'deKHMA1101_C8.txt'
+      deKHMA1101_C9:
+        Name: 'Chương 9 - Mô hình tổng cung, tổng cầu'
+        Style: 'NORMAL'
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: 'deKHMA1101_C9.txt'
+      deKHMA1101_C10:
+        Name: 'Chương 10 - Sự đánh đổi giữa lạm phát và thất nghiệp'
+        Style: 'NORMAL'
+        Time: 3600
+        Count: 40
+        HasExplanation: false
+        FileName: 'deKHMA1101_C10.txt'
   KHMI1101:
     Name: 'Kinh tế vi mô'
     Enable: true
