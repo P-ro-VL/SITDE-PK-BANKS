@@ -381,7 +381,7 @@ Available:
     Name: 'Phương pháp tính'
     Enable: true
     Type: 'CSN'
-    Theory: ''
+    Theory: 'https://docs.google.com/document/d/130_MekTJ9H5hVXH8qskUawx47lHh7wVE/view'
     Questions:
       deCNTT1182_C1:
         Name: 'Chương 1 - Một số khái niệm cơ bản'
