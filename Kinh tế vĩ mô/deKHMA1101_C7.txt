@@ -1,0 +1,365 @@
+﻿Lạm phát được đo lường bằng<br>
+mức thay đổi của chỉ số giá tiêu dùng.<br>
+phần trăm thay đổi của mức giá chung.<br>
+phần trăm thay đổi giá của một hàng hóa cụ thể.<br>
+mức thay đổi giá của một hàng hóa.<br>
+B<br>
+
+Khi mức giá chung giảm, các nhà kinh tế nói nền kinh tế có<br>
+giảm phát.<br>
+thiểu phát.<br>
+suy thoái kinh tế. .<br>
+lạm phát hợp lý.<br>
+A<br>
+
+Nếu chỉ số giá chung tăng từ 120 lên 144, tỷ lệ lạm phát sẽ là<br>
+24%<br>
+25%<br>
+20%<br>
+17%<br>
+C<br>
+
+Nếu chỉ số giá chung năm trước là 180, năm nay là 176, khi đó nền kinh tế có<br>
+lạm phát 4%.<br>
+lạm phát 2,3%,<br>
+giảm phát 2,2%,<br>
+giảm phát 4%.<br>
+C<br>
+
+Năm trước, tiền công được trả là 10 đô-la 1 giờ và chỉ số giá chung là 120. Năm nay, tiền công tăng lên 11 đô-la 1 giờ nhưng lại không mua được lượng hàng hoá bằng năm ngoái. Điều này chỉ có thể xảy ra nếu chỉ số giá chung của nền kinh tế năm nay là<br>
+135<br>
+132<br>
+125<br>
+121<br>
+A<br>
+
+Tính trung tính của tiền hàm ý khi lượng tiền tăng lên sẽ làm<br>
+tăng số lượng việc làm.<br>
+tăng mức giá chung.<br>
+tăng tính hấp dẫn của việc tiết kiệm.<br>
+không có ảnh hưởng gì tới mức giá chung.<br>
+B<br>
+
+Các biến kinh tế được đo lường bằng đơn vị hiện vật được gọi là<br>
+biến thực.<br>
+bị biến danh nghĩa.<br>
+biến cổ điển.<br>
+biến trung tính.<br>
+A<br>
+
+Lãi suất mà một ngân hàng thương mại niêm yết trên website của họ là<br>
+biến danh nghĩa.<br>
+biến thực.<br>
+lãi suất đã điều chỉnh theo lạm phát.<br>
+lãi suất sau thuế.<br>
+B<br>
+
+Theo sự phân đôi cổ điển, khi cung tiền tăng gấp đôi, giá trị nào sau đây sẽ tăng gấp đôi?<br>
+Mức giá chung.<br>
+Tiền lương danh nghĩa.<br>
+C. GDP danh nghĩa,<br>
+Tất cả các đáp án trên đều đúng.<br>
+D<br>
+
+Tốc độ lưu chuyển của tiền là<br>
+số lần NHTƯ bơm tiền cho nền kinh tế,<br>
+tỷ lệ tăng trưởng cung tiền trong dài hạn.<br>
+bằng tỷ lệ cung tiền so với GDP danh nghĩa.<br>
+số lần trung bình mà một đơn vị tiền tệ thực hiện trao đổi trong khoảng thời gian 1 năm.<br>
+D<br>
+
+Tốc độ lưu chuyển của tiền được tính bằng công thức:<br>
+(PxY) ÷M<br>
+(PxM) ÷Y<br>
+(YxM) ÷P<br>
+(YxM) ÷V<br>
+A<br>
+
+Theo phương trình số lượng, nếu P = 12, Y = 6, M = 8 thì V bằng <br>
+16<br>
+9<br>
+4<br>
+Không phải các đáp án trên.<br>
+B<br>
+
+Nếu V và M không đổi, Y tăng gấp đôi, phương trình số lượng cho biết mức giá<br>
+giảm và bằng một nửa mức giá ban đầu.<br>
+không thay đổi.<br>
+C. tăng nhiều hơn gấp đôi.<br>
+tăng gấp đôi.<br>
+A<br>
+
+Nếu Y và V không đổi, M tăng gấp đôi, theo phương trình số lượng, mức giá sẽ tăng<br>
+ít hơn gấp đôi.<br>
+gấp đôi.<br>
+C. nhiều hơn gấp đôi.<br>
+200%<br>
+B<br>
+
+Một nền kinh tế có tốc độ lưu chuyển của tiền ổn định. Năm 2018, cung tiền là 100 tỷ đồng, GDP danh nghĩa là 500 tỷ đồng. Năm 2020, cung tiền là 105 tỷ đồng, GDP thực không thay đổi so với năm 2019 và lãi suất thực là 3%. Lãi suất danh nghĩa của năm 2020 là khoảng<br>
+3%.<br>
+5%.<br>
+8%.<br>
+11%<br>
+C<br>
+
+Theo phương trình số lượng, điều nào sau đây là không đúng?<br>
+Nếu tốc độ lưu chuyển của tiển ổn định, cung tiền tăng sẽ làm GDP danh nghĩa tăng tương ứng.<br>
+Nếu tốc độ lưu chuyển của tiền ổn định và tiền là trung tính, cung tiền tăng sẽ làm mức giá chung tăng tương ứng.<br>
+Nếu cung tiền và sản lượng không đổi, sự gia tăng tốc độ lưu chuyển của tiền sẽ gây ra sự gia tăng tương ứng của mức giá.<br>
+Nếu cung tiền và tốc độ lưu chuyển của tiền là không đổi, sự gia tăng sản lượng sẽ làm mức giá tăng tương ứng.<br>
+D<br>
+
+Nếu tiền là trung tính và tốc độ lưu chuyển của tiền ổn định, sự gia tăng cung tiền sẽ gây ra sự thay đổi tương ứng trong<br>
+sản lượng thực.<br>
+sản lượng danh nghĩa,<br>
+mức giá chung.<br>
+Cả (b) và (c) đều đúng.<br>
+D<br>
+
+Chính phủ thích sử dụng thuế lạm phát hơn các loại thuế khác vì<br>
+đánh thuế lạm phát dễ hơn cả.<br>
+lạm phát sẽ giảm.<br>
+thuế này chỉ đánh vào những người có thu nhập cao.<br>
+chính phủ có thể giảm chi phí của các khoản chi tiêu.<br>
+A<br>
+
+Việc tài trợ thâm hụt ngân sách bằng cách in tiền<br>
+sẽ làm tăng giá trị thực của tiền.<br>
+sẽ đánh thuế vào những người nắm giữ tiền mặt.<br>
+là cách thức phổ biến để chính phủ Việt Nam tài trợ chi tiêu.<br>
+Không phải các đáp án trên.<br>
+B<br>
+
+Thuế lạm phát<br>
+chuyển của cải từ chính phủ sang cho các hộ gia đình.<br>
+là phần cộng thêm vào thuế thu nhập do nền kinh tế có giảm phát.<br>
+là một loại thuế đánh vào những người nắm giữ tiền mặt.<br>
+Tất cả các đáp án trên đều đúng.<br>
+C<br>
+
+Mọi người có thể tránh thuế lạm phát bằng cách<br>
+giảm tiết kiệm.<br>
+giảm lượng tiền mặt nắm giữ.<br>
+không kê khai thuế.<br>
+Không phải các đáp án trên.<br>
+B<br>
+
+Nếu lãi suất danh nghĩa là 8% và lãi suất thực là 3%, tỷ lệ lạm phát khi đó sẽ là<br>
+8%.<br>
+5%.<br>
+11%.<br>
+3%<br>
+B<br>
+
+Linh gửi tiền vào tài khoản ngân hàng, sau một năm số tiền được lấy về nhiều hơn trước 5% và số hàng hóa mua được tăng 6% so với trước khi gửi ngân hàng. Trong tình huống này:<br>
+lãi suất danh nghĩa là 11% và tỷ lệ lạm phát là 5%.<br>
+lãi suất danh nghĩa là 6% và tỷ lệ lạm phát là 5%.<br>
+lãi suất danh nghĩa là 5% và tỷ lệ lạm phát là -1%.<br>
+Không phải các đáp án trên.<br>
+C<br>
+
+Nếu bạn vay ngân hàng một khoản tín dụng với lãi suất cố định, nhưng trong thời gian vay chỉ số giá chung của nền kinh tế lại tăng nhanh hơn so với mức dự kiến ban đầu. Khi đó, lãi suất thực mà bạn phải trả cho khoản vay là<br>
+cao hơn dự kiến ban đầu và giá trị thực của khoản vay tăng.<br>
+cao hơn dự kiến ban đầu và giá trị thực của khoản vay giảm.<br>
+thấp hơn dự kiến ban đầu và giá trị thực của khoản vay tăng.<br>
+thấp hơn dự kiến ban đầu và giá trị thực của khoản vay giảm.<br>
+D<br>
+
+Khi hiện tượng giảm phát xảy ra<br>
+lãi suất danh nghĩa sẽ lớn hơn lãi suất thực.<br>
+lãi suất thực lớn hơn lãi suất danh nghĩa.<br>
+lãi suất thực và lãi suất danh nghĩa bằng nhau.<br>
+Không phải các đáp án trên.<br>
+B<br>
+
+Hiệu ứng Fisher nói rằng<br>
+lãi suất danh nghĩa điều chỉnh theo tỷ lệ 1:1 với tỷ lệ lạm phát.<br>
+tốc độ tăng trưởng cung tiền quyết định tỷ lệ lạm phát.<br>
+lãi suất thực chịu ảnh hưởng lớn từ hoạt động của hệ thống tiền tệ.<br>
+Tất cả các đáp án trên đều đúng.<br>
+A<br>
+
+Trong dài hạn khi tiền là trung tính, biến nào sau đây sẽ tăng khi cung tiền tăng?<br>
+Tỷ lệ tiền lương danh nghĩa so với mức giá.<br>
+Sản lượng thực.<br>
+Lãi suất danh nghĩa.<br>
+Không phải các đáp án trên,<br>
+C<br>
+
+Trong dài hạn, biến số nào sau đây sẽ tăng khi cung tiền tăng?<br>
+Tỷ lệ tiền lương danh nghĩa so với mức giá.<br>
+Sản lượng thực,<br>
+Lãi suất thực.<br>
+Không phải các đáp án trên.<br>
+D<br>
+
+Trong dài hạn, khi cung tiền tăng sẽ làm tăng<br>
+tỷ lệ lạm phát, lãi suất danh nghĩa và lãi suất thực.<br>
+tỷ lệ lạm phát, lãi suất danh nghĩa, nhưng không ảnh hưởng đến lãi suất thực.<br>
+C. tỷ lệ lạm phát, lãi suất thực, nhưng không ảnh hưởng đến lãi suất danh nghĩa.<br>
+lãi suất danh nghĩa, lãi suất thực, nhưng không ảnh hưởng đến tỷ lệ lạm phát.<br>
+B<br>
+
+Nếu tốc độ tăng trưởng cung tiền tăng từ 5% lên 25%, theo hiệu ứng Fisher thì chúng ta có thể kỳ vọng rằng lãi suất danh nghĩa và lạm phát đều tăng<br>
+nhiều hơn 20 điểm phần trăm<br>
+20 điểm phần trăm.<br>
+ít hơn 20 điểm phần trăm.<br>
+Không phải các đáp án trên.<br>
+B<br>
+
+Nếu tốc độ tăng trưởng cung tiền tăng từ 3% lên 13%, theo hiệu ứng Fisher thì chúng ta có thể kỳ vọng rằng<br>
+lạm phát sẽ tăng 10% và lãi suất danh nghĩa tăng ít hơn 10%,<br>
+lạm phát tăng ít hơn 10% và lãi suất danh nghĩa tăng nhiều hơn 10%.<br>
+cả lạm phát và lãi suất danh nghĩa tăng 10%.<br>
+cả lạm phát và lãi suất danh nghĩa tăng 10 điểm phần trăm.<br>
+D<br>
+
+Giả sử tốc độ lưu chuyển của tiền và sản lượng là không đổi, lý thuyết số lượng tiền và hiệu ứng Fisher là đúng. Nếu lãi suất danh nghĩa là 6% và lạm phát là 2,5%, thì khi đó<br>
+tốc độ tăng trưởng cung tiền là 2,5%.<br>
+lãi suất thực là 8,5%.<br>
+lãi suất thực là 2,5%.<br>
+tốc độ tăng trưởng cung tiền là 6%.<br>
+A<br>
+
+Giả sử tốc độ lưu chuyển của tiền và sản lượng là không đổi, nếu lý thuyết số lượng tiền và hiệu ứng Fisher là đúng, thì lãi suất thực sẽ là bao nhiêu nếu lãi suất danh nghĩa là 5% và tốc độ tăng trưởng cung tiền là 3%?<br>
+5%.<br>
+3%<br>
+2%.<br>
+8%.<br>
+C<br>
+
+Mọi người phải tìm mọi cách để giảm lượng tiền mặt mà họ nắm giữ khi nền kinh tế có lạm phát cao. Trong trường hợp đó, mọi người phải gánh chịu khoản chi phí nào sau đây?<br>
+Chi phí thực đơn<br>
+Chi phí mòn giày.<br>
+Chi phí do biến động giá tương đối.<br>
+Tăng gánh nặng về nghĩa vụ nộp thuế.<br>
+B<br>
+
+Chi phí thay đổi bảng giá niêm yết được gọi là<br>
+chi phí thực đơn<br>
+chi phí mòn giày.<br>
+chi phí do biến động giá tương đối.<br>
+chi phí cơ hội.<br>
+A<br>
+
+Chi phí thực đơn đề cập tới<br>
+sự tiêu tốn các nguồn lực để làm giảm lượng tiền mặt nắm giữ khi nền kinh tế có lạm phát cao.<br>
+sự phân bố sai lệch các nguồn lực bị gây ra bởi sự bất ổn trong giá tương đối,<br>
+tác động bóp méo của thuế.<br>
+chi phí điều chỉnh giá cả liên tục do lạm phát cao.<br>
+D<br>
+
+Nếu tiền lương của bạn tăng 6% trong khi giá cả tăng 2%, thì tiền lương thực bạn nhận được sẽ tăng<br>
+4%.<br>
+4,8%.<br>
+5,8%.<br>
+8%.<br>
+A<br>
+
+Năm trước, tiền lương của một người lao động có thể mua được 200 đơn vị sản phẩm với mức giá 1 đô-la, năm nay khi giá sản phẩm tăng lên 1,5 đô-la, tiền lương mua được 180 sản phẩm. Trong trường hợp này<br>
+cả thu nhập danh nghĩa và thu nhập thực đều giảm.<br>
+cả thu nhập danh nghĩa và thu nhập thực đều tăng.<br>
+thu nhập danh nghĩa giảm và thu nhập thực tăng.<br>
+thu nhập danh nghĩa tăng và thu nhập thực giảm.<br>
+D<br>
+
+Mẹ của bạn phàn nàn rằng thu nhập năm nay tăng 6% nhưng lại không mua được lượng hàng hoá giống như mức thu nhập của năm ngoái. Điều này cho bạn biết<br>
+cả thu nhập danh nghĩa và thu nhập thực của mẹ bạn đều giảm,<br>
+cả thu nhập danh nghĩa và thu nhập thực của mẹ bạn đều tăng.<br>
+thu nhập danh nghĩa của mẹ bạn tăng nhưng thu nhập thực của mẹ bạn giảm<br>
+thu nhập danh nghĩa của mẹ bạn giảm nhưng thu nhập thực của mẹ bạn tăng.<br>
+C<br>
+
+Nếu lãi suất danh nghĩa là 8%, trường hợp nào sau đây có lãi suất thực sau thuế lớn nhất?<br>
+Lạm phát 5% và thuế suất 20%.<br>
+Lạm phát 4% và thuế suất 30%.<br>
+Lạm phát 3% và thuế suất 40%.<br>
+Tất cả các trường hợp trên đều có lãi suất thực sau thuế giống nhau.<br>
+C<br>
+
+Nếu tài khoản tiền gửi của bạn được trả lãi suất 5%, nền kinh tế có lạm là phát 3% và thuế suất là 20%, thì lãi suất thực sau thuế của tài khoản tiền gửi của bạn là<br>
+3,4%.<br>
+1,6%<br>
+1%.<br>
+Không phải các đáp án trên.<br>
+C<br>
+
+Nếu tài khoản tiền gửi của bạn có lãi suất thực là 4%, tỷ lệ lạm phát là 2% và bạn phải đóng thuế với tỷ lệ 20%, khi đó lãi suất thực sau thuế của bạn là<br>
+1,2%.<br>
+2,8%.<br>
+C. 4,8%.<br>
+Không phải các đáp án trên.<br>
+B<br>
+
+Minh gửi tiền vào ngân hàng với lãi suất là 8%, tỷ lệ lạm phát kỳ vọng là 5%. Nếu thuế thu nhập từ tiền lãi là 20%, lãi thực sau thuế mà Minh nhận được sẽ là<br>
+1,4% nếu lạm thực tế là 5%, và nhiều hơn thế nếu lạm phát thực tế lớn hơn dự kiến ban đầu.<br>
+1,4% nếu lạm phát thực tế là 5%, và ít hơn thế nếu lạm phát thực tế lớn hơn dự kiến ban đầu.<br>
+2,4% nếu lạm phát thực tế là 5%, và nhiều hơn thế nếu lạm phát thực tế lớn hơn dự kiến ban đầu.<br>
+2,4% nếu lạm phát thực tế là 5%, và ít hơn thế nếu lạm phát thực tế lớn hơn dự kiến ban đầu.<br>
+B<br>
+
+Năm 2000, bạn mua một thửa đất với giá 20 tỷ đồng và khi đó chỉ số giá là 100. Đến năm 2020, bạn bán thửa đất đó với giá 100 tỷ đồng và chỉ số giá của nền kinh tế là 600. Nếu tiền lãi vốn bị đánh thuế 20%, thì số tiền lãi thực sau thuế (tính theo giá trị tiền của năm 2020) mà bạn kiếm được là<br>
+64 tỷ đồng.<br>
+-36 tỷ đồng.<br>
+-16 tỷ đồng.<br>
+-3,333 tỷ đồng.<br>
+B<br>
+
+Năm 1999, bạn mua một thửa đất với giá 10.000 đô-la và khi đó chỉ số giá là 100. Đến năm 2020, bạn bán thửa đất đó với giá 100.000 đô-la và chỉ số giá của nền kinh tế là 500. Nếu tiền lãi vốn bị đánh thuế 20% thì số tiền lãi thực sau thuế (tính theo giá trị tiền của năm 2020) mà bạn kiếm được là<br>
+72.000 đô-la.<br>
+62.000 đô-la.<br>
+32.000 đô-la.<br>
+6.400 đô-la.<br>
+C<br>
+
+Khi đưa ra quyết định tiết kiệm, mọi người thường quan tâm nhất tới<br>
+lãi suất danh nghĩa sau thuế.<br>
+lãi suất thực sau thuế.<br>
+lãi suất danh nghĩa trước thuế.<br>
+lãi suất thực trước thuế.<br>
+B<br>
+
+Ngay cả khi lạm phát thực tế bằng lạm phát dự kiến thì chi phí nào sau đây của lạm phát vẫn xảy ra?<br>
+Chi phí thực đơn.<br>
+Chi phí mòn giày.<br>
+Thuế lạm phát.<br>
+Tất cả các đáp án trên đều đúng.<br>
+D<br>
+
+Của cải sẽ bị phân phối từ người cho vay sang người đi vay khi lạm phát<br>
+cao và dự kiến trước.<br>
+thấp và dự kiến trước.<br>
+cao hơn dự kiến ban đầu.<br>
+thấp hơn dự kiến ban đầu.<br>
+C<br>
+
+Nếu lạm phát cao hơn mức dự kiến ban đầu thì<br>
+lãi suất thực thực hiện cao hơn lãi suất thực dự kiến.<br>
+lãi suất thực thực hiện thấp hơn lãi suất thực dự kiến.<br>
+lãi suất thực thực hiện đúng bằng với lãi suất thực dự kiến.<br>
+Không phải các đáp án trên.<br>
+B<br>
+
+Lạm phát cao và không dự kiến được xảy ra sẽ gây tổn thất lớn hơn đối với<br>
+người đi vay so với người cho vay.<br>
+người nắm giữ ít tiền mặt so với người nắm giữ nhiều tiền mặt.<br>
+người được nhận lương có điều chỉnh theo lạm phát só với người nhận lượng danh nghĩa cố định.<br>
+người tiết kiệm có thu nhập chịu thuế ở bậc thuế cao so với người tiết kiệm có thu nhập chịu thuế ở bậc thuế thấp.<br>
+D<br>
+
+Để ổn định giá cả, NHTƯ nên<br>
+duy trì lãi suất ở mức thấp.<br>
+giữ thất nghiệp ở mức thấp.<br>
+kiểm soát chặt cung tiền.<br>
+bán trái phiếu.<br>
+C<br>
+
+Loại tài sản nào sau đây đảm bảo thu nhập thực cố định trong dài hạn?<br>
+Vàng.<br>
+Cổ phiếu.<br>
+Trái phiếu có lãi suất được điều chỉnh theo lạm phát.<br>
+Không phải các đáp án trên.<br>
+C<br>
+
+
