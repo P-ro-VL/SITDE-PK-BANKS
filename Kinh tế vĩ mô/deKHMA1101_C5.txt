@@ -48,10 +48,10 @@ Thất nghiệp chu kỳ là hệ quả của<br>
 D<br>
 
 Khi nền kinh tế ở trạng thái toàn sử dụng lao động thì<br>
- Sẽ không có thát nghiệp.<br>
- Thất nghiệp chu kỳ bằng<br>
- Thất nghiệp tạm thời bằng<br>
- Thất nghiệp tự nhiên bằng<br>
+ Sẽ không có thất nghiệp.<br>
+ Thất nghiệp chu kỳ bằng 0<br>
+ Thất nghiệp tạm thời bằng 0<br>
+ Thất nghiệp tự nhiên bằng 0<br>
 B<br>
 
 9. Phát biểu nào sau đây đúng?<br>
