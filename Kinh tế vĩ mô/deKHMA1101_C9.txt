@@ -59,7 +59,7 @@ sự dịch phải của đường tổng cầu<br>
 sự dịch trái của đường tổng cầu<br>
 sự dị chuyển sang trái dọc theo đường tổng cầu<br>
 sự dị chuyển sang phải dọc theo đường tổng cầu<br>
-D<br>
+C<br>
 
 Giá cả giảm sẽ làm cho mọi người<br>
 Giữ ít tiền hơn, cho vay ít hơn, và do đó lãi suất tăng<br>
