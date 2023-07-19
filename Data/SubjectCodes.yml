@@ -431,3 +431,24 @@ Available:
         Count: 30
         HasExplanation: false
         FileName: 'deTIKT1130_C1.txt'
+      deTIKT1130_C2:
+        Name: 'Chương 2 - Một số ngôn ngữ khai thác CSDL'
+        Style: 'NORMAL'
+        Time: 3600
+        Count: 30
+        HasExplanation: false
+        FileName: 'deTIKT1130_C2.txt'
+      deTIKT1130_C3:
+        Name: 'Chương 3 - Lý thuyết thiết kế CSDL & phụ thuộc hàm'
+        Style: 'NORMAL'
+        Time: 3600
+        Count: 30
+        HasExplanation: false
+        FileName: 'deTIKT1130_C3.txt'
+      deTIKT1130_C4:
+        Name: 'Chương 4 - Dạng chuẩn của lược đồ quan hệ'
+        Style: 'NORMAL'
+        Time: 3600
+        Count: 30
+        HasExplanation: false
+        FileName: 'deTIKT1130_C4.txt'

@@ -1,0 +1,302 @@
+﻿Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Giá trị các thành phần của khoá ..., Trong dấu "..." là cụm từ nào?<br>
+Không thể nhận giá trị null và chấp nhận các giá trị không xác định<br>
+Có thể nhận giá trị các giá trị không xác định<br>
+Có thể nhận giá trị null hay các giá trị không xác định<br>
+Không thể nhận giá trị null hay các giá trị không xác định<br>
+A<br>
+
+Cơ sở để chuẩn hoá dựa trên các khái niệm:<br>
+Khoá và siêu khoá.<br>
+Phụ thuộc hàm<br>
+Bao đóng các phụ thuộc hàm<br>
+Các thuộc tính, bao đóng các thuộc tính.<br>
+B<br>
+
+Kết quả của các thao tác dữ liệu là:<br>
+Một biểu thức.<br>
+Một quan hệ<br>
+Nhiều quan hệ.<br>
+Một File<br>
+B<br>
+
+Mô hình ngoài là?<br>
+Nội dung thông tin của một phần cơ sở dữ liệu<br>
+Nội dung thông tin của một phần dữ liệu dưới cách nhìn của người sử dụng<br>
+Nội dung thông tin của toàn bộ CSDL<br>
+Nội dung thông tin của toàn bộ CSDL dưới cách nhìn của người sử dụng<br>
+B<br>
+
+Các phép toán trong tổ hợp SELECT- FROM – WHERE<br>
+Kết nối tự nhiên các quan hệ sau mệnh đề SELECT, thoả mãn biểu thức logic sau WHERE và chiếu trên các thuộc tính sau mệnh đề FROM<br>
+Kết nối các quan hệ sau mệnh đề FROM, chiếu các thuộc tính sau SELECT.<br>
+Tich các quan hệ trong mệnh đề FROM, chiếu trong WHERE và chọn trên các thuộc tính sau mệnh đề SELECT.<br>
+Tich các quan hệ trong mệnh đề FROM, chọn theo biểu thức sau WHERE và chiếu trên các thuộc tính sau mệnh đề SELECT.<br>
+D<br>
+
+Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Quan hệ là.......... của một hoặc hữu hạn các miền. Các phần tử của quan hệ là các bộ bộ (a1,a2,a3....,an)n giá trị thành phần, hay được gọi n bộ.<br>
+Một tập con của tích Đề các<br>
+Kết quả của phép chiếu<br>
+Kết quả của phép chiếu và chọn.<br>
+Kết quả của phép hợp.<br>
+A<br>
+
+Liên kết giữa các bảng được dựa trên:<br>
+Ý định ghép các bảng thành một bảng có nhiều thuộc tính hơn<br>
+Các thuộc tính trùng tên nhau giữa các bảng<br>
+Ý định của người quản trị hệ CSDL<br>
+Thuộc tính khóa<br>
+D<br>
+
+Trường khóa chính là trường:<br>
+First Key<br>
+Primary Key<br>
+Single Key<br>
+Unique Key<br>
+B<br>
+
+Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Nếu trong câu lệnh SELECT có chứa GROUP BY, hệ thống sẽ ... và thực hiện các phép gộp nhóm. Trong dấu "..." là gi?<br>
+Thực hiện phép chọn sau mệnh đề WHERE<br>
+Thực hiện việc sắp xếp theo chỉ dẫn sau mệnh đề ORDER BY<br>
+Thực hiện phép chiếu sau mệnh đề SELECT<br>
+Phân hoạch quan hệ thành nhiều nhóm tách biệt nhau<br>
+D<br>
+
+Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Phép chiếu quan hệ, tức là từ quan hệ nguồn .........<br>
+Bỏ đi một số bộ<br>
+Bỏ đi một số bộ thoả mãn biểu thức logic<br>
+Bỏ đi một số thuộc tính<br>
+Bỏ đi một số bộ thoả mãn biểu thức logic<br>
+C<br>
+
+Trong SQL, ngôn ngữ thao tác dữ liệu DML bao gồm các chức năng:<br>
+Tạo, sửa và xóa cấu trúc và đảm bảo bảo mật và quyền truy nhập.<br>
+Bảo mật và quyền truy nhập.<br>
+Tạo, sửa và xóa cấu trúc quan hệ.<br>
+Truy vấn thông tin, thêm, sửa, xoá dữ liệu<br>
+D<br>
+
+Kết nối bằng nhau các quan hệ theo thuộc tính là:<br>
+Thực hiện tích Đề Các và phép chọn<br>
+Thực hiện phép chiếu và chia<br>
+Thực hiện phép chiếu và phép chọn<br>
+Thực hiện tích Đề Các và phép chiếu<br>
+A<br>
+
+Hệ tiên đề Armstrong cho các phụ thuộc hàm gồm các quy tắc:<br>
+Phản xạ, gia tăng, bắc cầu.<br>
+Phản xạ, gia tăng, hợp và tách.<br>
+Phản xạ, bắc cầu, hợp và tách.<br>
+Phản xạ, hợp và tách.<br>
+A<br>
+
+Mô hình thực thể - liên kết cơ bản bao gồm các lớp đối tượng:<br>
+Các mối quan hệ<br>
+Môi trường và ranh giới môi trường<br>
+Thực thể và thuộc tính<br>
+Thực thể, mối quan hệ và thuộc tính.<br>
+D<br>
+
+Các bước thực hiện đúng trong câu lệnh SELECT:<br>
+Tích Đề các, phép toán chọn, theo nhóm, phép chiếu và sắp xếp<br>
+Phép toán chọn, tích Đề các, theo nhóm, phép chiếu và sắp xếp<br>
+Phép toán chọn, tích Đề các, theo nhóm, sắp xếp và phép chiếu<br>
+Tích Đề các, phép toán chọn, theo nhóm, sắp xếp và phép chiếu<br>
+D<br>
+
+Người quản trị CSDL là:<br>
+Xác định chiến lược lưu trữ, sao chép, phục hồi dữ liệu.<br>
+Cho phép người sử dụng những quyền truy nhập cơ sở dữ liệu<br>
+Một người hay một nhóm người có khả năng chuyên môn cao về tin học, có trách nhiệm quản lý và điều khiển toàn bộ hoạt động của các hệ CSDL<br>
+Quyết định cấu trúc lưu trữ & chiến lược truy nhập<br>
+C<br>
+
+Thực thể là?<br>
+Các mối liên kết giữa các đối tượng<br>
+Các quan hệ<br>
+Các đối tượng dữ liệu<br>
+Các đối tượng và mối liên kết giữa các đối tượng<br>
+C<br>
+
+Hãy chọn phương án đúng. Hai bảng trong một CSDL quan hệ liên kết với nhau thông qua:<br>
+Tên trường<br>
+Thuộc tính của các trường được chọn (không nhất thiết phải là khóa)<br>
+Thuộc tính khóa<br>
+Địa chỉ của các bảng<br>
+A<br>
+
+Phép toán tập hợp trong mệnh đề WHERE bao gồm?<br>
+Các phép đại số quan hệ<br>
+Các phép so sánh<br>
+Các phép số học và các phép so sánh<br>
+Biểu thức đại số<br>
+C<br>
+
+Hãy cho biết ý kiến nào là đúng. Với một bảng dữ liệu, hệ QTCSDL cho phép:<br>
+Xem mối liên kết giữa bảng đó với các bảng khác<br>
+Xem một số trường của mỗi bản ghi<br>
+Xem nội dung các bản ghi<br>
+Tất cả đều đúng<br>
+D<br>
+
+Thứ tự đúng các mức trong mô hình kiến trúc cơ sở dữ liệu:<br>
+Mức ngoài, mức quan niệm và mức mô hình.<br>
+Mức ngoài, mức quan niệm và mức trong.<br>
+Mức trong, mức mô hình dữ liệu và mức ngoài.<br>
+Mức quan niệm, mức trong và mức ngoài.<br>
+B<br>
+
+Chọn một khẳng định nào sau đây là đúng nhất :<br>
+CREATE TABLE mô tả các thuộc tính.<br>
+CREATE TABLE mô tả quan hệ<br>
+CREATE TABLE mô tả quan hệ và các thuộc tính.<br>
+CREATE TABLE mô tả các phụ thuộc hàm.<br>
+C<br>
+
+Khẳng định nào là phụ thuộc hàm<br>
+Họ và tên -> Số chứng minh thư<br>
+Số chứng minh thư -> Họ và tên<br>
+Họ và tên -> Số điện thoại nhà riêng<br>
+Họ và tên -> Địa chỉ<br>
+B<br>
+
+Các phép toán gộp nhóm được sử dụng sau mệnh đề?<br>
+SELECT<br>
+GROUP BY<br>
+FROM<br>
+WHERE<br>
+B<br>
+
+Khẳng định nào sau đây về CSDL quan hệ là đúng?<br>
+Cơ sở dữ liệu được xây dựng trên mô hình dữ liệu quan hệ<br>
+Cơ sở dữ liệu mà giữa các dữ liệu có quan hệ với nhau<br>
+Tập hợp các bảng dữ liệu<br>
+Cơ sở dữ liệu được tạo ra từ hệ QTCSDL Access<br>
+A<br>
+
+Hệ quản trị CSDL - HQTCSDL (DataBase Management System - DBMS) là:<br>
+Phần mềm điều khiển các chiến lược truy nhập CSDL.<br>
+Các phần mềm hệ thống.<br>
+Hệ điều hành<br>
+Các phần mềm ứng dụng.<br>
+A<br>
+
+Mô hình quan niệm là:<br>
+Cách nhìn dữ liệu một cách tổng quát của người sử dụng.<br>
+Cách nhìn dữ liệu ở mức ngoài.<br>
+Nội dung thông tin của một phần dữ liệu dưới cách nhìn của người sử dụng.<br>
+Nội dung thông tin của một phần dữ liệu.<br>
+A<br>
+
+Nếu A -> B và A -> C thì suy ra?<br>
+A -> AB<br>
+AB -> AC<br>
+AC -> AB<br>
+A -> BC<br>
+D<br>
+
+Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Cơ sở dữ liệu quan hệ được biểu diễn........., các cột là thuôc tính và các hàng là tập n giá trị của thực thể, đối tượng.<br>
+Dưới dạng các bảng<br>
+Cấu trúc hình mạng<br>
+Dưới dạng các File dữ liệu<br>
+Cấu trúc hình cây.<br>
+A<br>
+
+Các thuộc tính khóa là :<br>
+Các thuộc tính không khóa.<br>
+Các thuộc tính khoá<br>
+Các phần tử của khóa.<br>
+Các thuộc tính không được chứa trong khóa<br>
+C<br>
+
+Phép chọn được thực hiện sau mệnh đề nào trong SELECT - FROM - WHERE?<br>
+WHERE<br>
+FROM<br>
+GROUP BY HAVING<br>
+SELECT<br>
+D<br>
+
+Phép kết nối JOIN là phép toán:<br>
+Tạo một quan hệ mới, kêt nối nhiều quan hệ trên miền thuộc tính chung<br>
+Tạo một quan hệ mới<br>
+Tạo một quan hệ mới, thoả mãn một tân từ xác định.<br>
+Tạo một quan hệ mới, các thuộc tính là các thuộc tính quan hệ nguồn.<br>
+A<br>
+
+Câu nào sai trong các câu dưới đây?<br>
+Việc xác định khóa phụ thuộc vào quan hệ logic của các dữ liệu chứ không phụ thuộc vào giá trị các dữ liệu<br>
+Trong một bảng có thể có nhiều khóa chính<br>
+Mỗi bảng có ít nhất một khóa<br>
+Nên chọn khóa chính là khóa có ít thuộc tính nhất<br>
+A<br>
+
+Chọn một khẳng định nào sau đây là đúng nhất khi nói về phép giao:<br>
+Thuộc tính của quan hệ giao là giao các thuộc tính của các quan hệ nguồn<br>
+Giao của các quan hệ khả hợp là một quan hệ khả hợp<br>
+Các bộ của quan hệ giao là giao các bộ của các quan hệ nguồn<br>
+Giao của các quan hệ là một quan hệ<br>
+B<br>
+
+Thứ tự đúng trong câu lệnh SELECT là?<br>
+SELECT, FROM, GROUP BY HAVING, ORDER BY<br>
+SELECT, FROM, GROUP BY HAVING, WHERE, ORDER BY<br>
+SELECT, FROM, WHERE, GROUP BY HAVING, ORDER BY<br>
+SELECT, FROM, GROUP BY HAVING, ORDER BY<br>
+C<br>
+
+Các bước chính để tạo CSDL:<br>
+Tạo bảng; Chọn khóa chính cho bảng; Đặt tên bảng; Tạo liên kết bảng<br>
+Tạo bảng; Chọn khóa chính cho bảng; Lưu cấu trúc bảng; Tạo liên kết bảng; cập nhật và khai thác CSDL<br>
+Tạo bảng; Chọn khóa chính cho bảng; Đặt tên bảng và lưu cấu trúc bảng; Tạo liên kết bảng<br>
+Tạo bảng; Chọn khóa chính cho bảng; Đặt tên bảng và lưu cấu trúc bảng<br>
+C<br>
+
+Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Trong biểu thức quan hệ các toán hạng là .........<br>
+Các quan hệ trong một CSDL<br>
+Các thuộc tính.<br>
+Các phần tử<br>
+Các phụ thuộc hàm.<br>
+A<br>
+
+Ngôn ngữ thao tác dữ liệu là?<br>
+Một tập các quy tắc biểu diễn dữ liệu<br>
+Một tập các phép toán dùng để cập nhật, bổ sung trên các hệ cơ sở dữ liệu<br>
+Một tập các ký hiệu biểu diễn dữ liệu<br>
+Một tập các phép toán dùng để thao tác trên các hệ cơ sở dữ liệu<br>
+B<br>
+
+Mô hình quan niệm là:<br>
+Cách nhìn dữ liệu ở mức ngoài.<br>
+Nội dung thông tin của một phần dữ liệu dưới cách nhìn của người sử dụng.<br>
+Nội dung thông tin của một phần dữ liệu.<br>
+Cách nhìn dữ liệu một cách tổng quát của người sử dụng.<br>
+D<br>
+
+Trong các mệnh đề sau mệnh đề nào đúng?<br>
+Một bảng bắt buộc phải có ít nhất một khóa chính<br>
+Không thể liên kết giữa các bảng trong một cơ sở dữ liệu quan hệ<br>
+Câu lệnh SELECT có thể nằm cuối cùng<br>
+Tất cả đều đúng<br>
+A<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
