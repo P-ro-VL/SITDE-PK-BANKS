@@ -236,7 +236,7 @@ tăng 12 triệu tỷ đồng.<br>
 Không phải các đáp án trên.<br>
 C<br>
 
-Một hệ thống ngân hàng có tổng dự trữ 0,5 triệu tỷ đồng, không có dự trữ dư thừa. Dân chúng không nắm giữ tiền mặt. NHTỰ quy định tỷ lệ dự trữ bắt buộc là 10%, Nếu NHTƯ đồng thời điều chỉnh tăng tỷ lệ dự trữ bắt buộc lên 12,5% và thực hiện mua 0,1 triệu tỷ đồng mệnh giá trái phiếu chính phủ, cung tiền khi đó<br>
+Một hệ thống ngân hàng có tổng dự trữ 0,5 triệu tỷ đồng, không có dự trữ dư thừa. Dân chúng không nắm giữ tiền mặt. NHTỰ quy định tỷ lệ dự trữ bắt buộc là 10%, Nếu NHTƯ đồng thời điều chỉnh tăng tỷ lệ dự trữ bắt buộc lên 12,5% và thực hiện bán 0,1 triệu tỷ đồng mệnh giá trái phiếu chính phủ, cung tiền khi đó<br>
 giảm 0,2 triệu tỷ đồng.<br>
 giảm 1,1 triệu tỷ đồng.<br>
 giảm 1,8 triệu tỷ đồng.<br>
