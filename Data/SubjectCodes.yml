@@ -171,20 +171,13 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: 'deLUCS1129_C3.txt'
-      deLUCS1129_C5:
-        Name: 'Chương 5 - Luật Hình sự Việt Nam'
-        Style: 'NORMAL'
-        Time: 3600
-        Count: 40
-        HasExplanation: false
-        FileName: 'deLUCS1129_C5.txt'
-      deLUCS1129_C7:
-        Name: 'Chương 7 - Các ngành luật trong hệ thống pháp luật Việt Nam'
+      deLUCS1129_C4:
+        Name: 'Chương 4, 5, 6 - Các ngành luật trong hệ thống pháp luật Việt Nam'
         Style: 'NORMAL'
         Time: 3600
         Count: 30
         HasExplanation: false
-        FileName: 'deLUCS1129_C7.txt'
+        FileName: 'deLUCS1129_C4.txt'
   TOCB1101:
     Name: 'Đại số'
     Enable: true
