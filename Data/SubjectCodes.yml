@@ -326,7 +326,7 @@ Available:
     Name: 'Cơ sở lập trình'
     Enable: true
     Type: 'CSN'
-    Theory: ''
+    Theory: 'https://drive.google.com/file/d/1Ij8Oj5Il08eLglzuomU5PP9i_s7HUute/view'
     Questions:
       deCNTT1128_C1_3:
         Name: 'Chương 1 - 3 - Lập trình C cơ bản'
@@ -381,7 +381,7 @@ Available:
     Name: 'Phương pháp tính'
     Enable: true
     Type: 'CSN'
-    Theory: 'https://docs.google.com/document/d/130_MekTJ9H5hVXH8qskUawx47lHh7wVE/view'
+    Theory: 'https://drive.google.com/file/d/1bZwdUxvSajfNsZPE3vb7aGjC2asf3Z1W/view'
     Questions:
       deCNTT1182_C1:
         Name: 'Chương 1 - Một số khái niệm cơ bản'
