@@ -425,6 +425,13 @@ Available:
         Count: 10
         HasExplanation: false
         FileName: 'deCNTT1182_C6.txt'
+      deCNTT1182_C7:
+        Name: 'Chương 7 - Giải gần đúng phương trình vi phân'
+        Style: 'SIMPLE_SELECT'
+        Time: 3600
+        Count: 10
+        HasExplanation: false
+        FileName: 'deCNTT1182_C7.txt'
   TIKT1130:
     Name: 'Cơ sở dữ liệu'
     Enable: true
