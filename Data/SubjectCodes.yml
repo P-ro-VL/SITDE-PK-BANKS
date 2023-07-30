@@ -404,6 +404,13 @@ Available:
         Count: 10
         HasExplanation: false
         FileName: 'deCNTT1182_C3.txt'
+      deCNTT1182_C4:
+        Name: 'Chương 4 - Tính gần đúng đạo hàm và tích phân xác định'
+        Style: 'SIMPLE_SELECT'
+        Time: 3600
+        Count: 10
+        HasExplanation: true
+        FileName: 'deCNTT1182_C4.txt'
       deCNTT1182_C5:
         Name: 'Chương 5 - Giải gần đúng phương trình'
         Style: 'SIMPLE_SELECT'
