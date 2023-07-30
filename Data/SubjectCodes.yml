@@ -171,13 +171,13 @@ Available:
         Count: 40
         HasExplanation: false
         FileName: 'deLUCS1129_C3.txt'
-      deLUCS1129_C7:
-        Name: 'Chương 7 - Các ngành luật trong hệ thống pháp luật Việt Nam'
+      deLUCS1129_C4:
+        Name: 'Chương 4, 5, 6 - Các ngành luật trong hệ thống pháp luật Việt Nam'
         Style: 'NORMAL'
         Time: 3600
         Count: 30
         HasExplanation: false
-        FileName: 'deLUCS1129_C7.txt'
+        FileName: 'deLUCS1129_C4.txt'
   TOCB1101:
     Name: 'Đại số'
     Enable: true
@@ -326,7 +326,7 @@ Available:
     Name: 'Cơ sở lập trình'
     Enable: true
     Type: 'CSN'
-    Theory: ''
+    Theory: 'https://drive.google.com/file/d/1Ij8Oj5Il08eLglzuomU5PP9i_s7HUute/view'
     Questions:
       deCNTT1128_C1_3:
         Name: 'Chương 1 - 3 - Lập trình C cơ bản'
@@ -381,7 +381,7 @@ Available:
     Name: 'Phương pháp tính'
     Enable: true
     Type: 'CSN'
-    Theory: 'https://docs.google.com/document/d/130_MekTJ9H5hVXH8qskUawx47lHh7wVE/view'
+    Theory: 'https://drive.google.com/file/d/1bZwdUxvSajfNsZPE3vb7aGjC2asf3Z1W/view'
     Questions:
       deCNTT1182_C1:
         Name: 'Chương 1 - Một số khái niệm cơ bản'
@@ -438,3 +438,24 @@ Available:
         Count: 30
         HasExplanation: false
         FileName: 'deTIKT1130_C1.txt'
+      deTIKT1130_C2:
+        Name: 'Chương 2 - Một số ngôn ngữ khai thác CSDL'
+        Style: 'NORMAL'
+        Time: 3600
+        Count: 30
+        HasExplanation: false
+        FileName: 'deTIKT1130_C2.txt'
+      deTIKT1130_C3:
+        Name: 'Chương 3 - Lý thuyết thiết kế CSDL & phụ thuộc hàm'
+        Style: 'NORMAL'
+        Time: 3600
+        Count: 30
+        HasExplanation: false
+        FileName: 'deTIKT1130_C3.txt'
+      deTIKT1130_C4:
+        Name: 'Chương 4 - Dạng chuẩn của lược đồ quan hệ'
+        Style: 'NORMAL'
+        Time: 3600
+        Count: 30
+        HasExplanation: false
+        FileName: 'deTIKT1130_C4.txt'

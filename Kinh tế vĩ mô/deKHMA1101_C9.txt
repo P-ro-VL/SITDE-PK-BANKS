@@ -1,4 +1,4 @@
-﻿1. Một giai đoạn ngắn trong đó thu nhập giảm và thất nghiệp tăng được gọi là<br>
+﻿Một giai đoạn ngắn trong đó thu nhập giảm và thất nghiệp tăng được gọi là<br>
 Tăng trưởng nóng<br>
 Suy thoái<br>
 Mở rộng<br>
@@ -59,7 +59,7 @@ sự dịch phải của đường tổng cầu<br>
 sự dịch trái của đường tổng cầu<br>
 sự dị chuyển sang trái dọc theo đường tổng cầu<br>
 sự dị chuyển sang phải dọc theo đường tổng cầu<br>
-D<br>
+C<br>
 
 Giá cả giảm sẽ làm cho mọi người<br>
 Giữ ít tiền hơn, cho vay ít hơn, và do đó lãi suất tăng<br>
@@ -267,8 +267,8 @@ B<br>
 Để triệt tiêu ảnh hưởng đối với sản lượng do suy thoái kinh tế gây ra bởi sự thay đổi của tổng cung, các nhà hoạch định chính sách sẽ sử dụng chính sách tiền tệ và chính sách tài khoá để làm dịch chuyển<br>
 Tổng cung sang phải<br>
 Tổng cung sang trái<br>
-Tổng cầu sang trái<br>
 Tổng cầu sang phải<br>
+Tổng cầu sang trái<br>
 C<br>
 
 Điều nào sau đây sẽ gây hiện tượng đình lạm<br>

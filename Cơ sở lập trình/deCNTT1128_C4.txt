@@ -55,9 +55,9 @@ d<br>
 Câu này không có giải thích.<br>
 Cách nhập số nguyên N (từ bàn phím) nào sau đây là đúng?<br>
 scanf("%d", N);<br>
-scanf("%d", &amp;N);<br>
-scanf("%c", &amp;N);<br>
-scanf("%c", &amp;N);<br>
+scanf("%d", &N);<br>
+scanf("%c", &N);<br>
+scanf("%c", &N);<br>
 b<br>
 Câu này không có giải thích.<br>
 Dạng tổng quát của hàm printf() là: printf("dãy mã quy cách", dãy mã biểu thức); Trong đó, dãy mã quy cách sẽ là:<br>
@@ -79,7 +79,7 @@ math.h<br>
 conio.h<br>
 string.h<br>
 stdio.h<br>
-d<br>
+b<br>
 Câu này không có giải thích.<br>
 Định dạng nào sau đây dùng trong hàm "printf" để in ra số có kiểu long int?<br>
 "%d"<br>
