@@ -1,0 +1,77 @@
+KHMA1101:
+  Name: 'Kinh tế vĩ mô'
+  Enable: true
+  Type: 'Đại cương'
+  URL:
+    ReviewProposal: 'https://drive.google.com/file/d/1AqncJPdtrdj45bNKrgT-pnXnVABZs58a/view'
+  Chapters:
+    1:
+      Title: 'Chương 1'
+      Name: 'Tổng quan về Kinh tế học'
+      Time: 3600
+      NQuestions: 40
+      HasExplanation: false
+      FileName: 'deKHMA1101_C1.txt'
+    2:
+      Title: 'Chương 2'
+      Name: 'Đo lường sản lượng và mức giá'
+      Time: 3600
+      NQuestions: 40
+      HasExplanation: false
+      FileName: 'deKHMA1101_C2.txt'
+    3:
+      Title: 'Chương 3'
+      Name: 'Sản xuất và tăng trưởng kinh tế'
+      Time: 3600
+      NQuestions: 40
+      HasExplanation: false
+      FileName: 'deKHMA1101_C3.txt'
+    4:
+      Title: 'Chương 4'
+      Name: 'Đầu tư, tiết kiệm và hệ thống tài chính'
+      Time: 3600
+      NQuestions: 40
+      HasExplanation: false
+      FileName: 'deKHMA1101_C4.txt'
+    5:
+      Title: 'Chương 5'
+      Name: 'Thất nghiệp'
+      Time: 3600
+      NQuestions: 40
+      HasExplanation: false
+      FileName: 'deKHMA1101_C5.txt'
+    6:
+      Title: 'Chương 6'
+      Name: 'Tiền tệ và chính sách tiền tệ'
+      Time: 3600
+      NQuestions: 40
+      HasExplanation: false
+      FileName: 'deKHMA1101_C6.txt'
+    7:
+      Title: 'Chương 7'
+      Name: 'Tiền tệ và lạm phát'
+      Time: 3600
+      NQuestions: 40
+      HasExplanation: false
+      FileName: 'deKHMA1101_C7.txt'
+    8:
+      Title: 'Chương 8'
+      Name: 'Kinh tế vĩ mô của nền kinh tế mở'
+      Time: 3600
+      NQuestions: 40
+      HasExplanation: false
+      FileName: 'deKHMA1101_C8.txt'
+    9:
+      Title: 'Chương 9'
+      Name: 'Mô hình tổng cung, tổng cầu'
+      Time: 3600
+      NQuestions: 40
+      HasExplanation: false
+      FileName: 'deKHMA1101_C9.txt'
+    10:
+      Title: 'Chương 10'
+      Name: 'Sự đánh đổi giữa lạm phát và thất nghiệp'
+      Time: 3600
+      NQuestions: 40
+      HasExplanation: false
+      FileName: 'deKHMA1101_C10.txt'
