@@ -2,6 +2,7 @@ KHMA1101:
   Name: 'Kinh tế vĩ mô'
   Enable: true
   Type: 'Đại cương'
+  NCredits: '3'
   URL:
     ReviewProposal: 'https://drive.google.com/file/d/1AqncJPdtrdj45bNKrgT-pnXnVABZs58a/view'
   Chapters:
