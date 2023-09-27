@@ -1,0 +1,351 @@
+﻿Phillips chỉ ra mối quan hệ ngược chiều giữa<br>
+sản lượng và thất nghiệp.<br>
+sản lượng và việc làm.<br>
+lạm phát tiền lương và sản lượng.<br>
+lạm phát tiền lương và thất nghiệp.<br>
+D<br>
+
+Giả sử ngân hàng trung ương tăng cung tiền. Theo đường Phillips, điều này sẽ làm<br>
+giá cả, sản lượng và việc làm tăng.<br>
+giá cả và sản lượng tăng, việc làm giảm.<br>
+giá cả tăng, sản lượng và việc làm giảm.<br>
+giá cả giảm, sản lượng và việc làm tăng.<br>
+A<br>
+
+Nếu lạm phát kỳ vọng tăng lên, đường Phillips ngắn hạn sẽ dịch chuyển sang<br>
+phải, đo đó tỷ lệ thất nghiệp sẽ cao hơn với mọi tỷ lệ lạm phát.<br>
+trái, đo đó tỷ lệ thất nghiệp sẽ cao hơn với mọi tỷ lệ lạm phát.<br>
+phải, do đó tỷ lệ thất nghiệp sẽ thấp hơn với mọi tỷ lệ lạm phát.<br>
+trái, do đó tỷ lệ thất nghiệp sẽ thấp hơn với mọi tỷ lệ lạm phát.<br>
+A<br>
+
+Nếu chính sách của chính phủ di chuyển nền kinh tế lên phía trên dọc theo đường Phillips ngắn hạn, thì chúng ta không kỳ vọng điều nào sau đây xảy ra?<br>
+Hải đọc báo thấy nói răng ngân hàng trung ương tăng cung tiền.<br>
+Bình nhận được nhiều lời mời làm việc hơn.<br>
+Thắng tăng chậm lại giá các mặt hàng ở cửa hàng của anh ta.<br>
+Tiền lương danh nghĩa của Thanh tăng nhanh hơn.<br>
+C<br>
+
+Trường hợp nào dưới đây không liên quan đến cú sốc cung bất lợi?<br>
+Đường Phillips ngắn hạn dịch chuyển sang trái.<br>
+Tỷ lệ thất nghiệp tăng.<br>
+Mức giá chung tăng.<br>
+Sản lượng giảm.<br>
+A<br>
+
+Một cú sốc cung có lợi có thể khiến cho đường Phillips ngắn hạn dịch chuyển sang<br>
+phải vả tỷ lệ thất nghiệp tăng.<br>
+phải và tỷ lệ thất nghiệp giảm.<br>
+trái và tỷ lệ thất nghiệp tăng.<br>
+trái và tỷ lệ thất nghiệp giảm.<br>
+D<br>
+
+Một cú sốc cung bất lợi có thể khiến cho đường Phillips ngắn hạn dịch chuyển sang<br>
+phải và tỷ lệ lạm phát tăng.<br>
+phải và tỷ lệ lạm phát giảm.<br>
+trái và tỷ lệ lạm phát tăng,<br>
+trái và tỷ lệ lạm phát giảm.<br>
+A<br>
+
+Nếu đường Phillips ngắn hạn đang ổn định, điều nào sau đây là bất thường?<br>
+Sự tăng lên của cả tỷ lệ lạm phát và sản lượng.<br>
+Sự giảm xuống của tỷ lệ lạm phát và tăng lên của tỷ lệ thất nghiệp.<br>
+Sự tăng lên của cả tỷ lệ thất nghiệp và lạm phát.<br>
+Sự tăng lên của sản lượng và giảm xuống của tỷ lệ thất nghiệp.<br>
+C<br>
+
+Giả sử cung tiền tăng. Trong ngắn hạn điều này làm tăng tỷ lệ có việc làm dựa theo<br>
+cả đường Phillips ngắn hạn và mô hình tổng cầu — tổng cung.<br>
+không dựa theo đường Phillips ngắn hạn hay mô hình tổng cầu — tổng cung.<br>
+chỉ theo đường Phillips ngắn hạn.<br>
+chỉ theo mô hình tổng cầu — tổng cung.<br>
+A<br>
+
+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4440HS2Y3S0SBedrTntZ8+tOfHvxaOvjd737XXH755c1d73rX5lGPelSz7LLLDtaE0DR/+tOfyvPhdXzYwx7W3Pve926WWWaZwdoQlk723Xff5qUvfWnzb//2b4MlIYQQRvHGN76xedzjHrfUKDDJgVlM/P73v2/e/e53N8997nObH/3oR4OlIdzGd77znWbHHXdszjrrrObWW28dLA0hhBBCCMNEgVlMrLzyys2b3/zmZpdddmn+67/+a7A0hKb5y1/+0lx00UXF0vy6172u+dd//dd4X0IIIYQQJmBGhpB9//vfn5KQL1Hp8Y9/fHO3u92t+eMf/9hcdtllzQ9+8IPye/PNNy9Kwyiuvfba5otf/GL5vtJKK5Vj3P3udy+///73vzcXXHBBc/XVVzePfexjm4c//OFl+VQxOMHXvva15n73u1/zH//xHyVkDI773e9+t/n2t79dQoSWFhff4sIz861vfatZb731SrjJP/3T7XXz/jO14oorNptttlnzL//yL+X3KNzHz3/+881d7nKX5tnPfnbzz//8z4M1k+N1uvLKK5tLLrmk/PaMOtc973nP8nsUv/3tb5svfOEL5Rnxbiy33HKDNePDT3/60/LeKLtrmGp9jeJ//ud/mrPPPrt89/54Vx784AeX3zMRCugVV1zRrLbaas197nOfwdL5Q/399a9/bR7ykIc0d7rTnQZLQ0LIwqLml7/8ZXPxxRc3v/nNb5oVVlihecxjHlP67z7XXXdd6T9EUjzwgQ9s1l9//Wb55ZcfrG1K3+7zgAc8oLT3w+3fn//85+bSSy9tNtxww4VqG0OYjKUthIzAtdh56lOfOvg2mre//e3tox71qPbYY49tzzrrrHbdddelZJXPO9/5zvbUU09td91117ZTUtqbbrqp7HPVVVe1W221VXvccce1G220UfvWt761LB9Fp5y0T3jCE8rxbHvjjTcO1rTl+4Me9KCybvvtt2//9Kc/DdaM5uabb27PPffcwa+2Pe2009p73OMebae8tJ0yNVjatp2CVc7luJtssknbNZqDNYufL33pS+0nPvGJthO82ltvvbU9/vjj266BHqy9jb/97W9tJ5C211xzzWDJkuXyyy9v58yZ0x566KFtp1wMlv6D7bbbrl122WXbPffcs9T1MJ1S0W6xxRal/jvFtP3JT34yWDOaN7zhDW2nBLWdktN+4xvfGCydGOXz6ZSQ8n/TTTct5+o6s/ZnP/vZYKvReJ47Qb08Nx/60IcGS8eLvfbaq9TXKqus0nZK+mDpgtEJCe3LXvay9m53u1t73/vet/3oRz86WHNHvH/e9R122KE977zz2v/7v/8brFk8dEJPe/jhh7cHHHBAe8MNNwyWzj/q7PnPf377kY98ZLFfw0xmn332uV07GsJ08oc//KHdeuuti7zx4Ac/uL3Pfe5T2pL//d//HWzRtldccUW70047tW95y1uKPLL//vu3Bx54YHn3QZ5wDPIK2eZTn/pUWd5H22S9PjeERYW+6MILLxz8mv3MyBAyVvROqGv23nvv5nnPe16xalRYd1/0ohc1b3vb25oXvvCFc60Zq6++etN1/s2WW27ZPP3pT286gbYsHwWr+CMe8YjBr3/ASvKud72r6ZSbphPwm64Raz75yU8Wy/goJOYfdNBBxXpTWXvttZsnP/nJpRy8O+gEkuYDH/hA0wljzec+97ly/jPOOKNYXJcErMTHHHNM8USsueaaxfrfr2Pl5UV61ateVa5xJuB+PfOZz2w+85nPlHyRYQwdyOvWKQ4jB0iwv8ETpoJk+k7JKyMgsQCfcMIJxUo3Cs8G787LX/7y4rUR+uUZWGuttQZbTA5v4CmnnNIcffTRzVFHHdV0wnrz3//934O148FXv/rVck865avpOv/m/e9/f9MpFoO180+nyJV3yP95wYvmXVfv8ocMhrC4YLHthJly/70r/XdofllnnXXKyIyvf/3rm4997GPN3/72t8GaEMKi4vTTTy9h3dp7HvxOYW4++9nPljYf2hP9AI+MNp48svvuu5eQXx+8853vLH0qeYXscfLJJze/+tWvyjpoz3lftFPxvoQwfcxIBYb7a911150wlIKwIuRrzpw5c0M2bGvZne9859IgTSZM2H9UjgEFZoMNNii5KltvvXVz7LHHluOMUmAIaAROQlN/vXIbyq7ThOe6mK2nvJx00knNk570pOYd73hH2W5JKTAEbIoaoYvApAGuda1MX/nKV5oDDjhgxigvoJRQXo877riRoV8S4IUFbr/99iMVmInu+Sh0Wp6BnXfeuXn1q19dnrOJ7pXQoVe+8pUldLEyP+cSkvCGN7yhCK+77bZb+T/VfWcKQqg82zp3OTzu08II4K5fCOBU6sF23tG3v/3tJRR0cdYdZZNBgkDjXV+Yc7sOoSvq7tBDDy3hsCGERcujH/3o0td7f/XR3uWHPvShzde//vWyXjumH2TAqv0KJYScAe03AwYFRx+66qqrlm0tB5nizDPPLIY160II08fYJ/FTMuSqiEkVe8oSrDFhkbecADpVxNsTxnh4CBIXXnhhsaQPC8Qap8MOO6wI/kaM+vCHP9w85SlPab75zW8WL4CybLvtts0Pf/jDsj3BRuP4n//5n2VOA94YeTCEFopOLT9BllDEe0MQv+mmm8r+w9x4443Nc57znLKPfe2jHlw/hYT1h1WcUE9h4rVwXaBMycPhrbKNXAMWJjlE+PKXv9y84hWvKPXIcqRBp3ANwzOlUVYGnjAWLOfbYostynHbti2fP/zhD82nPvWpMvqaa6ecUhLFaao/8HRRBF2T+/aa17ymeCbsD8qD+OODDz64CHfuKQ+djsU2LP+1Dm0zLyu8OjASnDpW17xN9VzWeX7cI+U1prrfoxTiH//4x8Uqx2JHoXVuv/s4npwYwr1zuY56Lp4unaH753kT6+8+OZdtjFq30UYblet6wQteUJ5HdfSsZz2rCLiODfUjp8z1mGNpk002KfuoYwpfvbcV+/Jm2ca9cP2UMNu/733vm1t/ysfK+OIXv7jURX22Hf+QQw4p1+z59z5Q+CgQngUdOYHA/fGeiPu2n/hc99kzueuuuzbXX3/93LqYCOudx3PtHvO8VuXI9f/85z8v1tK99tqr/N9vv/2KMmndz372s3Ie1+j8DAtvetObSvkZH6qQYVs5b+6d6/QM214O25577lmOM4zr9s7JzeDFrDiW955n1r1gkT333HNLXo9zeEcdm6dKe3HggQeWevNOViXde+eZ9l6EEBYd2oa+4YFBVL6igVQgn5aSo19kJJGvKL+RkmNffbj2rrbF2sx6PN/1k47FOBFCmGY6AWGxM68cmGE65aDkE/h0nftg6W3ccsst7c4771zWdUrB3PyHr3/9620nNJb41GHEt3ZCetmn5sDYT+5NJ6y2nUJS8hjuf//7l5jCUTkVnZLQPuIRjyjHEA+LrsFqjz766LLs4Q9/eIlr74TLEsO/6qqrlmN1Ale7+uqrt51QWMoux0ROjH26RrHtBJh2tdVWK7932WWXctxRdEpC2aZrPMs+nWDbLrfccmWZaxPHu95667VdY1rKWevt4osvLtvJJekEyJI3ZJ9OIC3rccQRR5Rl//7v/17if0fx5z//ueQp2G7FFVdsO2Gt7QTV8rsT6kr9qI9O+Wm7DqGUUe6KfZS5E5jLMdTPkUce2d75zncuuThyUzpBtV1nnXXm3jtxx3JR5IqoL/HKd7/73Uu+k/07gbvtOohybrkw/fjlPmKXbdMpCG2nKLVdB1R+qx/l7TqhkivjfsiXUV65Vspi+SjkEzlGJ7C3X/jCFwZL25KLY7mckE5ZaLtOsPz2X+y0c3UCbHlO5Mn8+te/Ls+OunJdcpA8d/a130orrVS+K6t76rvy2e70008v+SKdYlDqR93ax3OgfkbRKWhlGx/vYydEl3uwwgorlHKhU2zK+7D22muX96FTEEqujnhvuVP1PRI3Lk+hU5TLd896PYbtVl555XIeZfccqBPXsO+++458t9ApZOXcztcpfmU/5esEhrZTqso23iXrPHdyyjy3nRJQrsWzDeW4y13uUs7vvnpO733ve5d6Vm9wb90X5XYNnbDS3ute92rXWGONuXHuw5xxxhnlXC95yUvaTlEbLG3bTkEt9aVO5eV5juTUeV/dK++dsjiXd9S9VxZtBNSpe6ktGG7rlkaSAxMWJ9pPubX9vEf99H777Vf6Te/zQQcdVJZV5LY8/elPL224dbVv19ceddRR5fu1117bnnPOOaVt6bcXIUwnyYEZM4x6xPoqB4bVnjUZvBes+VMdvYhX461vfWuxlIq/N/oYCwrvgdyGqcAaw4vTp2vUiqeBV8Rx5b+wyLCYK69Rrqo7Wk6KXIhO+Cm/uaZZfEZhosMKCy4vitAwdI1v85a3vKXE87LqdkpB8YSA14BlnDXYOp4gGEFlflDmOnIbLwLvknwAsJg7vvrj6VGnrN6ujzXLcmFq3OtGX5IzwWKvznmq1A8rOs8Eapl5hTphsFjJWKdZ8B1LHbKCTRUhaELkannVsfKyonH38zrwltTyfu973yvlda75xfMpVE/9wPPAws5rwiPAWl+vW46OuuoUuXIuz1LNA1FXLP7C2tS3OpGDwYsgZ6JTBEoehRnLO0Wh7MMTZptRdAL64FszN1xSWZWvzlPk3tm/U2RLvRshy3PnuVRfvEWeLfXHS+FZUl73pT636rreG/u+5z3vKZ67ru0p+7qvk+EZ9R7z8BhV0H4150xdqQd1yGuknJ5L75V1cJ3eSwjb5E1kPbXeM+YahIvwkgnx4HHVZnhPXQfPyCg8I+6R6+vHtctnElbIc2ZUMl4n7/8jH/nIUg+eVfDgeMY8+x/84AfL+wEWX7lz6neU5yeEsGjwPvO08PTKw61oF+fMmVM8p/Ij9ZXa8IqIDW0Hb682jTyi3eJ51edrm1772teWdsG7fvrpp08YkhxCmDpjr8CAwPa0pz2tNApCYAhdhnQl2E9VsCWkEhgIisI+CE2UohrOs6AQ5CgUBCXhWELNnIOQ1HddgyBLcCLEwPUQTCfD9REsCWpVoaAMOA5XuHM4d3VxC20T7iXXQh3Nr+IyCkIz4bUKxTqCqjC5VmjQ+7hGZRPOREF0Hf17pcxc9QRc9UYYV3YhbwTLhYEC5L6qHygvhcj/888/v9SV8C33yvkoMYTUBXkODMtZ7wWEPzmX66uhdn0BGARyAmwfwrD7TEEgkNdjKGsNqbK8/0wRlofrfRjbC+sjiFdBn3ANx1e+4eO6TxQF+1C2DDetk6dIVcVhFBQIdVGFeNdQyz4RtjVsqfqrxoFbbrml/KdUMQRQtNSXckwmGBBM+gqHsrrnyqAeXWetA7jmYYNEhYFE3VBy6/XA8wL17iMMjYJIQe3j/ReCQlnX1ghTrHiflGuigSNCCNMPw412RN9Y2wjvOMMZAwrZQkgYJUWeLQMIvNsMhowXttGPMygKlWVU1M9ec801RQnaZpttSijaRIalEMLUmRUKDKGOcEs44oGRH0Hgm2gemFFURYHQoTGS1yBfgRegxsMuCAQRx3bcOsKJXAZW5OGRqoYFxUUBwZO3SQ4AQVVju7Ao86hyux7CGWVFvD8vlEafgmVEFsIhgbMqV8MQoAmXyqxjcV/s0xf2ppuqeIlZdq9Y5Nwr+SnzUgbmBx2j65uIYcW1L1j3IZDL2yBEq1vK4FVXXVU6YHkWw4LzKCY6NsGb14RC5Zmh4BP6KfiUe/ecMuN55mXg2ahK9CgmOs+C4n54fuSgyfPiwRpWBvtMdH45OhRw+TTqzpwPBAz5KpSuyXDM/rNf82oILJMxrLD3WdRtQAjh9mjftPXaTIaRiv7AACXkCV4WRhAKiL7TAB4VfZx+zf9qBJNTqH3gsWboYOTRXjumNiaEsHDMCgUGhBCWcg0RYYr1fH7QQBEoCMwaMoIRAZPwKqxmMjRW1Ro+DOWKAuR4jksAtB2BfklYWA0PbbhH5TBcdBWWCNQ+ffymgE1m1Z4MjTe3usEJDFFJyfRfGI+EfwKoeue5qeevH/uyUmvwhdlIzlZvEqP71jGf6UJdEMIhpEiYgHMS3Hmq1MVEKEd9DqaCa6ihXvUa6n/1oV6mgjrcaaedmiOPPLKUWQfsmaXsSb5fGLbYYovSWbsmFkdDfwu7ExKnoyasG3BBYjwvjmT2/vO0qKEk8M4JyzBIBAHCeetnqgi9MwAAIUNooYEihIV4TqvnbJi6fNiLJMwERsSjdHsmeGHnx+Ja2wV1HEJYtNxwww1l0AwRG9pkbYd32sf7LSS1bzQT+inMe9Q7zYBkyGQDrVT0ZdqBfruUdzuEhWfGKzAs0TUMCTW8ZRgWaCP6sNaLse9bUYbRiFRhVMPiO4GRxdk6ApmYVZYXjRshehiNUg2ZIpQLOZL7UYWZelzx7NzGBE35FQRxHiLWco1YbShhe58qBNdjjKJa6Gtji6po1P+W1wazbs/FTSEjlAt3YR2CsCwxus5J6SJga6AJrVzgwzh2Lacy2m9UmRyfJ4O1Sh4JJe75z3/+3LoTa0yRIgxTPoUH8dS4f/I91JsRwdQtF7/y15wkSgWruXM5P/rX3Gcq5aXAUrJ4HdwfQrt7JTSKwDrKYu55U1+e0Y9//OMlr8Wx6j2o56oje/lumf2MGub50EEKlZMPZLkYas9cv8yOZz/nqeWt11zDp4zwpY7N6+MYtY5H0X+n6nn6dQj3Xw4YJUWeiHvnvRAWB+/iaaedVq7NOt7KGkImTFH9Wtc/rusYrpthLFO+ut5/5bO/a6/7ExQYAmwr3twzZp1nRdgman3B/vUDx7XOs+ddcD8cU2ifkJGqzI6CddWz6Zmt9xYUKpZWYSYUSM+P/CK/XUs9t//1OvpYxjrrGZzs/CGEhYexwAiM2jL9ivaTB4URVOiYdpg3XvvivdRm6DsZJYa9s9o+7SHlpi9/8NqQI+yvrebJmZ/okBDCaO50mHFOFzOEYkLsvNCAEPhZlFlCIMTDd5YSwl4fuQ2UCUPNsqpOFIrhuIQKAhohS9gLC7IcAwI0wVjyrrASoU4EkmEIL4R8ZSN8CqsRu846LT6ewEWw4TFgmSZIEeYJSCzFhtUlCFJ86qSZGlGCMouyBtI+GkLJyX3hWUNryF5CNgFMWWwvlEYj6pqUmeJQc1ysJ3QRos4777xSBg0rz5WEZHVnmFzn852yIC+I5eklL3nJHUKDWJjrsJKuk/Va3G9t5ClnYvxZtgnBvBnCfCgD9lX3wtconkLp/CYE6zxcEy8RD4Dr1mHIh1G/llE2ldk1Gg5YCBMvjTokjCrz8KSVhHoWdeVVP8pLuOyXV75CTVR3/Z4THdyzn/3somhRWoexH4VQPXseeEM8g66bIO1cyuNcOjGCK4VH3a+xxhol7NEzRAHxbHh2hau5B94TCptrchz32T2l6Hg2PP/irE1K6hnikSDEq2PbeS55sYbzODyHPDY6UyiT8tfEdO+ATtj9OvHEE4ty6944rg8FUyfsmXCt7o/30b2wr/I5L4um/ZXJOTyb3kmKvGfd/XIvh++VZ8H9d5yqWHnvlYGAbxlPh3voeRGSQZhwfjlVfnv/eT695+rVM6U+fOTNqE9llTyvHoRUuk7Ker1Oz7/r8DwM4/1xT90n7359P1yPd1gdez/dc8+EpH7fKYOeKe8MpUaZ++2YMnhOJf9SqJZ2S633wrtXleYQpgvtNm+rpHrvq3eeEcZHG6QdpsDoE/Tp+mV9mbZSeKnw6Pruat8oOdr24egPYbyOp392HsfVXo3qT0JYGPRf+r3JDPiziWW6jn3qsRbThIR7QsS8IKQRMoYhkLEuDzcABKQjjjiiWEEnu4HDxyVEVy8L4YcngoBDsCKgTARhiiBGKLO//xqqCoGToGM5gUX5VDcBpwomBKq+Bddy564QjGzfV8Y0loRjgh2cx6d/HHVkOx+oK2Wxj2t3nY5BONPoqgN1SmFQRkKz4zm/9f3zoyoLFefrn58w73jmIWG1d76KY9lemJN75Xz9+lEW53RNUB/OpbNQF4Rs9V7LbL19K+qw3s/KVMpLIXL97iuvCAGagmEEqYk6G+Wt55+sPP176jqUz7ncH+UilPvt+hxHHVmu3BX72b7ed2X2fJqU1Lwj/TqGOjRnDiNAX0h2LvVXj+O8rq96BJzbcSkMvGDV41VRd7wLlCC4tvpMK6+Pc/vt+fa+VYbr3fOlzvq4v/2wzeHy+a7+PB+Or04cwzW6Lvv7bT+/6zvgumzTL4/nn6Ii1HF4xDH1ywBh5LTheYDUHSMCBZOQTWGqqF/3Tjnqva7lp0D3odzWZ8sxJQILuWQB5hEefu+WNvbdd98i8JlvJ4TppPYjtV3pow3WH9T3T5vRf6e1L7V/gn5Au6fN6Le1sE6boK3SJtW2K4TpxqiXDNUM8ksDM1qBmQqENtZ33hLCJisIl/CCNhAs8qz8QkNYwFlIZxsETkNGU/aE27GSszRPNwQyVmr3hIVe4w5KnnAr3i1enJkIS7kwItbfUSF0MwUdI++L+6nRqs+994JlUR3zQlAo5hfXTfk0kk7d3/lYKgmUPG792PBxRe4QzymjR/W2UnoMCOJ6hTDWfKU+lFzeSR5Sytyw4DK/8ASZCFRIJYWUAri0EwUmhBCmxtKmwIy9D1OYBiGLMEWQk8OwMNYNghprK8tsFWZmG+pHDK5rdK2LSlCiwMgJYbWSFM1iTbkUHiMcTG7QTEX53H+hUjMZyqhhhNU1r4g6lgvmPRD6YIQyXo8FwftEkXcsArVjC4fioiZkjwqtGkfk0VDWhIIZpMB18sjIQaHgTzQKoWeDcig8khGg7+GbX+Ry8bwIYzRnUJSXEEIIYWLG3gNDgGMpN6HdC17wghLyEWYGHi1WajkQhqQm4AmXkRshd4NgWMNnwoJDyTA/gVwPYYEUFl4B+TTybBYU4RViviXEiwGn+BLqKZ7DeSvjDG8Vb4uBB+TzeCarkkYBnBf2p+zJc1lQT6ZBErRl8tCqpzLEAxNCCFMlIWSLARXMOhxCCCFMBMMH5WW2ePtCCGFRYRAbYflRYBYhRuk4+eSTB79CCCGEO/K6172ueNYXxpMYQghLAwZNkrcdBWYRMp0hZGHpxkhh8mwkYBvueGETqUMIM4eEkIUQwtRIEn8IYwLdmyfPaHFCTJJPE0IIIYQw+4nEF8YW84lIeDasr5HNFmb0uRBCCCGEMB7MyBAyE+idffbZg18TY0SkXXbZpUwMZZIoM4d/5StfKZNMmZ9horCDyy+/vMyUDrHVQhTqkMmG/DWvjKFVzYTNHTcvzGtiGGcza8MIRoYLHmfUg9ncjUIFs+YbCnkmDS1t1ChzzJirZaqzlrv3RtQyCtqC4F4bscpoUZNNchpCWHgSQhYWB4xhF110UZn3iTGsj2Vf+MIXygf6DqOd9sOVjbRpQlvz0c2ZM6dMhNnHJJdm+H/uc5+7wMPahzAvEkI2A/jRj35UZqzeYYcdiiLwwx/+sDnppJPKR0LnXnvtVYaJJcAaehS/+tWvirC94447lu3PO++8snwU5m8wU7rjsd73Zzs3qZ1zGpbWw9CfEXwiCPWGrL3qqqvKMTVU04G5PShSZ5555mDJ1HANHmJzStSZwgn6U+GLX/xiqRPhWBSDa665plwThbNfT4sT91KZKnRuuS9HH310mRDTJI5mU58M99vs5u6pCU8XFPf6lltuaXbbbbfmW9/6VilLCCGE8cTQ6UZuMscV42kfio1+w1QNv/zlL8t8UYymtrcOhkA/5phjyjxSZJJTTjmlGAArJsXVT+krkqMZwvQxIxUY1m0TxPnPm3H3u999sOY25WOttdYqVrl99tln7jqelNNOO61MRGmeCjNaT4R9VlhhhcGvf2CeEp4UVj8KDA+P/xqgyRC6tNpqqzUrrbTSYMn0YGbuV7/61WWivPnBSBSGqdZY7rnnns0rXvGKKU3ISPEziR/lcZlllimTXC7pmdavv/76MoniddddN1hym2LH4uWaKK1mm5+Xkme9e0s5XWeddQZL5x/3+vnPf36z7rrrluevX64QQgjjBRlj7733LsYpfUsfSos2X//hwxio7afUmOMMIjbWXHPNZsstt2y23nrroqz84he/KOtgsu0bbrihRJ4kTzOE6WNGvk2PeMQjyqhSk6FRMdEchYW1w0fj88AHPrB53vOeN3f5cIM0GfIphJ69/OUvL0KuGf4pUYT5UbCoOH49z7A13u9aNp/+9v3f/vf39d3khAcccEAJV7Jt3W54f5+6vq7bfffdixKjYaWAaXjXXnvtufv738fvb3/722UGcF6kepxh6v713MPL6vL+b9/rx7pR6+ux+limLMr0ne9853bHcD/c+yOOOKIosxS0yRRWXqTDDz+83EuhcHCc4TL0z1HX+fhdl1nvOXnGM55RJo086qijmj//+c/lmCGEEMYPIV+rr7764Nc/YMATnlyNkyuuuGLzspe9rCgvJrBl7BMNIIwdyy+/fDGEVu+MqAWG1ac+9akJOQ5hmhl7c8Cb3vSm4k2h0GhkCPz3vOc9ywzaGh9KwFTR8Jx11lklvnWLLbYoAjLB9U53utNgi39AmOVuJkhvsskmRenRkPUheG+66aalbMokHGy//fYrMbCWcUNvsMEGxcvS9/IIh2PhMbu3+NvTTz+9efGLX1wEem5uHiSjbgmhetWrXlW+H3jggc273vWuovgJ/RLSJtTJ+cyabobwt73tbSVGVx31ESb3mte8prjHhVpRfng1+miQlUMjr74NXawOzNYubE8D7pre8Y53NB/4wAf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<br>
+Đường tổng cầu dịch phải.<br>
+Tỷ lệ thất nghiệp tự nhiên giảm.<br>
+Đường tổng cung ngắn hạn dịch phải.<br>
+Đường tổng cung ngắn hạn dịch trái.<br>
+D<br>
+
+Nền kinh tế sẽ di chuyển dọc theo đường Phillips đến điểm có tỷ lệ thất nghiệp cao hơn nếu<br>
+tỷ lệ lạm phát tăng.<br>
+chính phủ tăng chỉ tiêu.<br>
+ngân hàng trung ương giảm cung tiền:<br>
+Không phải các đáp án trên.<br>
+C<br>
+
+Để di chuyển dọc theo đường Phillips đến điểm mà tỷ lệ thất nghiệp thấp hơn, thì<br>
+tỷ lệ lạm phát phải giảm.<br>
+chính phủ cắt giảm chỉ tiêu.<br>
+ngân hàng trung ương giảm cung tiền.<br>
+không phải các đáp án trên.<br>
+D<br>
+
+Nếu đường Phillips ngắn hạn đang ổn định, điều nào sau đây không thể xảy ra đồng thời?<br>
+Sự tăng lên của chỉ tiêu chính phủ và giảm xuống của tỷ lệ thất nghiệp.<br>
+Sự tăng lên của tỷ lệ lạm phát và giảm xuống của sản lượng.<br>
+Sự giảm xuống của tỷ lệ lạm phát và tăng lên của tỷ lệ thất nghiệp.<br>
+Sự giảm xuống của sản lượng và tăng lên của tỷ lệ thất nghiệp.<br>
+B<br>
+
+Nguyên nhân nào sau đây gây ra lạm phát do cầu kéo?<br>
+Chính phủ sử dụng chính sách tài khóa mở rộng.<br>
+Chính phủ tăng thuế thu nhập cá nhân.<br>
+Các doanh nghiệp cắt giảm chỉ tiêu cho đầu tư.<br>
+Tất cả các đáp án trên đều đúng.<br>
+A<br>
+
+Lạm phát do cầu kéo làm cho<br>
+giá cả tăng và tỷ lệ thất nghiệp giảm.<br>
+giá cả tăng và tỷ lệ thất nghiệp tăng.<br>
+cả giá cả và tỷ lệ thất nghiệp đều tăng.<br>
+cả giá cả và tỷ lệ thất nghiệp đều giảm.<br>
+A<br>
+
+Khi lạm phát do cầu kéo xảy ra thì<br>
+đường tổng cầu dịch chuyển sang phải và có hiện tượng di chuyển dọc lên trên đường Phillips ngắn hạn.<br>
+đường tổng cầu dịch chuyển sang trái và có hiện tượng di chuyển dọc xuống dưới đường Phillips ngắn hạn.<br>
+đường tổng cầu dịch chuyển sang phải và đường Phillips ngắn hạn dịch chuyển sang trái.<br>
+cả đường tổng cầu và đường Phillips ngắn hạn dịch chuyển sang phải.<br>
+A<br>
+
+Nguyên nhân nào dưới đây gây ra lạm phát do chi phí đẩy?<br>
+Ngân hàng trung ương sử dụng chính sách tiền tệ thắt chặt.<br>
+Chi phí mua nguyên liệu nhập khẩu tăng do thuế nhập khẩu tăng.<br>
+Các doanh nghiệp cắt giảm chỉ tiêu cho đầu tư.<br>
+Tất cả các đáp án trên đều đúng.<br>
+B<br>
+
+Lạm phát do chi phí đẩy làm cho<br>
+giá cả giảm và tỷ lệ thất nghiệp tăng.<br>
+giá cả tăng và tỷ lệ thất nghiệp giảm.<br>
+cả giá cả và tỷ lệ thất nghiệp đều tăng.<br>
+cả giá cả và tỷ lệ thất nghiệp đều giảm.<br>
+C<br>
+
+Khi lạm phát do chi phí đẩy xảy ra thì<br>
+đường tổng cung ngắn hạn dịch chuyển sang phải và đường Phillips ngắn hạn dịch chuyển sang trái.<br>
+đường tổng cung ngắn hạn dịch chuyển sang trái và đường Phillips ngắn hạn dịch chuyển sang phải.<br>
+cả đường tổng cung ngắn hạn và đường Phillips ngắn hạn dịch chuyển sang trái.<br>
+cả đường tổng cung ngắn bạn và đường Phillips ngắn hạn dịch chuyển sang phải.<br>
+B<br>
+
+Giả sử một cú sốc cung bất lợi xảy ra. Đường nào dưới đây sẽ dịch chuyển sang trái?<br>
+Cả đường tổng cung và đường Phillips.<br>
+Chỉ có đường tổng cung.<br>
+Chỉ có đường Phillips.<br>
+Không phải đường Phillips hay đường tổng cung.<br>
+B<br>
+
+Điều nào dưới đây sẽ xảy ra sau một cú sốc cung bất lợi?<br>
+Đường tổng cung và đường Phillips đều dịch chuyển sang phải.<br>
+Đường tổng cung và đường Phillips đều dịch chuyển sang trái.<br>
+Đường tổng cung dịch chuyển sang phải và đường Phillips dịch chuyển sang trái.<br>
+Đường tổng cung dịch chuyển sang trái và đường Phillips dịch chuyển sang phải.<br>
+D<br>
+
+Giả sử một nền kinh tế có lạm phát cao quyết định cắt giảm tốc độ tăng ban đầu thất nghiệp tăng, cuối cùng lạm phát kỳ vọng tăng và đường cung tiền. Ảnh hưởng của hành động này là<br>
+Phillips ngắn hạn dịch chuyển sang phải.<br>
+ban đầu thất nghiệp tăng, cuối cùng lạm phát kỳ vọng giảm và đường Phillips ngắn hạn dịch chuyển sang trái.<br>
+ban đầu thất nghiệp giảm, cuối cùng lạm phát kỳ vọng tăng và đường Phillips ngắn hạn dịch chuyển sang phải.<br>
+ban đầu thất nghiệp giảm, cuối cùng lạm phát kỳ vọng giảm và đường Phillips ngắn hạn dịch chuyển sang trái.<br>
+B<br>
+
+Giả sử ngân hàng trung ương giảm tốc độ tăng cung tiền. Điều gì sau đây sẽ giảm trong dài hạn?<br>
+Cả tỷ lệ thất nghiệp tự nhiên và tỷ lệ lạm phát.<br>
+Tỷ lệ thất nghiệp tự nhiên, nhưng tỷ lệ lạm phát thì không.<br>
+Tỷ lệ lạm phát, nhưng tỷ lệ thất nghiệp tự nhiên thì không.<br>
+Tỷ lệ thất nghiệp tự nhiên hay tỷ lệ lạm phát đều không giảm.<br>
+C<br>
+
+Trong những năm gần đây, tỷ lệ lạm phát kỳ vọng giảm. Điều này làm đường Phillips dịch chuyển<br>
+sang trái, nghĩa là ứng với mỗi mức lạm phát, tỷ lệ thất nghiệp trong ngắn hạn thấp hơn.<br>
+sang phải, nghĩa là ứng với mỗi mức lạm phát, tỷ lệ thất nghiệp trong ngắn hạn thấp hơn.<br>
+sang phải, nghĩa là ứng với mỗi mức lạm phát, tỷ lệ thất nghiệp trong ngắn hạn cao hơn.<br>
+sang trái, nghĩa là ứng với mỗi mức lạm phát, tỷ lệ thất nghiệp trong ngắn hạn cao hơn.<br>
+A<br>
+
+Giả sử tỷ lệ lạm phát kỳ vọng là 12% và tỷ lệ thất nghiệp là 5%. Nếu tỷ lệ lạm phát kỳ vọng tăng lên 13% thì<br>
+đường Phillips ngắn hạn dịch phải.<br>
+tỷ lệ thất nghiệp tự nhiên tăng.<br>
+đường Phillips ngắn hạn dịch trái.<br>
+có sự di chuyển dọc theo đường Phillips ngắn hạn.<br>
+A<br>
+
+Hầu hết các nhà kinh tế học tin rằng sự đánh đổi giữa lạm phát và thất nghiệp tồn tại<br>
+chỉ trong ngắn hạn.<br>
+chỉ trong dài hạn.<br>
+trong cả ngắn hạn và dài hạn.<br>
+không trong ngắn hạn hay dài hạn.<br>
+A<br>
+
+Phát biểu nào dưới đây về đường Phillips dài hạn là đúng?<br>
+Vị trí của đường Phillips dài hạn được xác định chủ yếu bởi các yếu tố tiền tệ.<br>
+Nếu đường Phillips dài hạn địch phải, đường tổng cung dài hạn cũng dịch phải.<br>
+Đường Phillips dài hạn không thể thay đổi bởi bất kỳ chính sách nào của chính phủ.<br>
+Vị trí của đường Phillips dài hạn phụ thuộc vào tỷ lệ thất nghiệp tự nhiên.<br>
+D<br>
+
+Đường nào dưới đây có độ dốc âm?<br>
+Cả đường Phillips ngắn hạn và dài hạn.<br>
+Không phải đường Phillips ngắn hạn hay dài hạn.<br>
+Chi có đường Phillips dài hạn.<br>
+Chỉ có đường Phillips ngắn hạn.<br>
+D<br>
+
+Trong dài hạn, điều nào dưới đây làm dịch chuyển đường Phillips dài hạn sang phải?<br>
+Tăng tiền lương tối thiểu.<br>
+Tăng cung tiền.<br>
+Giảm cung tiền.<br>
+Giảm thuế.<br>
+A<br>
+
+Trong dài hạn, việc cắt giảm tốc độ tăng cung tiền sẽ làm<br>
+dịch chuyển cả đường Phillips ngắn hạn và dài hạn sang phải.<br>
+dịch chuyển đường Phillips dài hạn sang trái và đường Phillips ngắn hạn sang phải.<br>
+dịch chuyển đường Phillips dài hạn sang phải và đường Phillips ngắn hạn sang trái.<br>
+Không phải các đáp án trên.<br>
+D<br>
+
+Sự gia tăng tỷ lệ lạm phát kỳ vọng sẽ làm dịch chuyển<br>
+chỉ đường Phillips ngắn hạn sang phải.<br>
+chỉ đường Phillips ngắn hạn sang trái.<br>
+cả đường Phillips ngắn hạn và dài hạn sang phải.<br>
+cá đường Phillips ngắn hạn và dài hạn sang trái.<br>
+A<br>
+
+Nếu nền kinh tế ở giao điểm giữa đường Phillips ngắn hạn với đường Phillips dài hạn, thì<br>
+thất nghiệp băng thất nghiệp tự nhiên, và lạm phát thực tế bằng lạm phát kỳ vọng.<br>
+thất nghiệp lớn hơn thất nghiệp tự nhiên, và lạm phát thực tế bằng lạm phát kỳ vọng.<br>
+thất nghiệp bằng thất nghiệp tự nhiên, và lạm phát thực tế nhỏ hơn lạm phát kỳ vọng.<br>
+Không phải các đáp án trên.<br>
+A<br>
+
+Theo Friedman và Phelps, bất kê ngân hàng trung ương thay đổi cung tiền theo chiều hướng nào, thì trong dài hạn<br>
+nền kinh tế có tỷ lệ lạm phát bằng<br>
+B. tỷ lệ thất nghiệp có xu hướng tiến đến tỷ lệ thất nghiệp tự nhiên.<br>
+tỷ lệ lạm phát có xu hướng tiến đến tỷ lệ lạm phát tự nhiên.<br>
+nền kinh tế có tỷ lệ thất nghiệp bằng 0.<br>
+B<br>
+
+Theo Friedman và Phelps, thất nghiệp thấp hơn so với thất nghiệp tự nhiên khi lạm phát thực tế<br>
+lớn hơn so với lạm phát kỳ vọng.<br>
+bằng tỷ lệ lạm phát kỳ vọng.<br>
+nhỏ hơn so với lạm phát kỳ vọng.<br>
+đang ở mức thấp.<br>
+A<br>
+
+Friedman và Phelps cho rằng<br>
+khi kỳ vọng về lạm phát của mọi người là ổn định, việc tăng cung tiền có thể không làm thay đổi sản lượng của nền kinh tế trong ngắn hạn hay dài hạn.<br>
+khi kỳ vọng về lạm phát của mọi người là ổn định, việc giảm cung tiền có thể làm thay đổi sản lượng của nền kinh tế cả trong ngắn hạn và dài hạn.<br>
+khi cung tiền thay đổi, mọi người cuối cùng sẽ điều chỉnh kỳ vọng lạm phát của họ, do đó bất kỳ sự thay đổi nào của thất nghiệp gây ra bởi sự thay đổi của cung tiền chỉ mang tính tạm thời.<br>
+Không phải các đáp án trên.<br>
+C<br>
+
+Trong dài hạn,<br>
+tỷ lệ thất nghiệp tự nhiên chủ yếu phụ thuộc vào đường tổng cầu.<br>
+tỷ lệ lạm phát chủ yếu phụ thuộc vào tốc độ tăng cung tiền.<br>
+có sự đánh đổi giữa tỷ lệ lạm phát và thất nghiệp tự nhiên.<br>
+Tất cả các đáp án trên đều đúng<br>
+B<br>
+
+Sự tăng lên của tổng cầu khi nền kinh tế ở trạng thái toàn dụng lao động sẽ làm cho<br>
+đường Phillips dài hạn dịch chuyển sang phải.<br>
+đường Phillips ngắn hạn dịch chuyển sang trái.<br>
+đường Phillips ngắn hạn dịch chuyển sang phải.<br>
+có hiện tượng di truyền dọc theo đường Phillips ngắn hạn.<br>
+D<br>
+
+Giả sử chính phủ được quyền điều hành chính sách tiền tệ. Chính phủ quyết định tăng mạnh chỉ tiêu của mình và tài trợ cho khoản chỉ này bằng cách in tiền. Nếu kỳ vọng thuần túy là duy lý, một người có thể kỳ vọng sự thay đổi của lạm phát sẽ<br>
+giảm tỷ lệ thất nghiệp đáng kê trong ngắn hạn nhưng không ảnh hưởng trong dài hạn.<br>
+có thể không tác động nhiều đến tỷ lệ thất nghiệp trong ngắn hạn hay dài hạn<br>
+giảm tỷ lệ thất nghiệp đáng kể trong ngắn hạn và dài hạn.<br>
+chỉ giảm tỷ lệ thất nghiệp trong dài hạn vì nó có thể được dự báo.<br>
+B<br>
+
+Vào nửa cuối những năm 1990 và đầu 2000, Canada và các nước châu Âu có tỷ lệ thất nghiệp bình quân cao hơn so với Mỹ. Điều này hàm ý các nước nảy<br>
+có tỷ lệ lạm phát trung bình cao hơn so với Mỹ.<br>
+có đường Phillips dài hạn nằm bên phải so với đường Phillips của Mỹ.<br>
+có thẻ có mức lương tối thiểu thấp hơn so với Mỹ.<br>
+Tất cả các đáp án trên đều đúng.<br>
+B<br>
+
+Nền kinh tế đang ở trạng thái cân bằng dài hạn. Một nhà kinh tế cho rằng ngân hàng trung ương nên điều hành chính sách theo hướng giảm thất nghiệp. Ông ta lập luận rằng nếu ngân hàng trung ương tăng cung tiền, nhiều công nhân sẽ tìm được việc làm. Lập luận này<br>
+hoàn toàn đúng.<br>
+hoàn toàn sai.<br>
+đúng trong ngắn hạn nhưng không đúng trong dài hạn.<br>
+đúng trong dài hạn nhưng không đúng trong ngắn hạn.<br>
+C<br>
+
+Giả sử cung tiền tăng. Trong dài hạn, điều này sẽ làm tăng tỷ lệ việc làm<br>
+theo cả đường Phillips dài hạn và mô hình tổng cầu — tổng cung.<br>
+không phải theo đường Phillips dài hạn hay mô hình tổng cầu — tổng cung.<br>
+chỉ theo đường Phillips dài hạn.<br>
+chỉ theo mô hình tổng cầu — tổng cung.<br>
+B<br>
+
+Một chính sách làm thay đổi tỷ lệ thất nghiệp tự nhiên sẽ<br>
+làm thay đổi cả đường Phillips dài hạn và đường tổng cung dài hạn.<br>
+không làm thay đổi đường Phillips dài hạn hay đường tổng cung dài hạn.<br>
+làm thay đổi đường Phillips dài hạn, nhưng không ả ảnh hưởng đến đường tổng cung dài hạn.<br>
+làm thay đổi đường tổng cung dài hạn, nhưng không ảnh hưởng đến đường Phillips dài hạn.<br>
+A<br>
+
+Nếu tiền lương hiệu quả trở nên phổ biến hơn thì<br>
+đường Phillips dài hạn dịch chuyển sang phải.<br>
+đường Phillips dài hạn dịch chuyển sang trái.<br>
+đường Phillips dài hạn không thay đổi.<br>
+đường Phillips dài hạn có thể dịch chuyển sang trái, sang phải, hoặc không thay đổi.<br>
+A<br>
+
+Vị trí của đường Phillips dài hạn và đường tổng cung dài hạn đều phụ thuộc vào<br>
+tỷ lệ thất nghiệp tự nhiên và tăng trưởng cung tiền.<br>
+tỷ lệ thất nghiệp tự nhiên, nhưng không phụ thuộc vào tăng trưởng cung tiền.<br>
+tỷ lệ tăng trưởng cung tiền, nhưng không phụ thuộc vào tỷ lệ thất nghiệp tự nhiên.<br>
+không phụ thuộc vào tăng trưởng cung tiền hay tỷ lệ thất nghiệp tự nhiên.<br>
+B<br>
+
+Nếu đường Phillips dài hạn dịch chuyển sang phải, với bất kỳ tốc độ tăng trưởng cung tiền và tỷ lệ lạm phát nào thì nền kinh tế sẽ có<br>
+tỷ lệ thất nghiệp cao hơn và sản lượng thấp hơn.<br>
+tỷ lệ thất nghiệp cao hơn và sản lượng cao hơn.<br>
+tỷ lệ thất nghiệp thấp hơn và sản lượng thấp hơn.<br>
+tỷ lệ thất nghiệp thấp hơn và sản lượng cao hơn.<br>
+A<br>
+
+Trong dài hạn, sự cắt giảm cung tiền sẽ làm<br>
+tăng tỷ lệ lạm phát và dịch chuyển đường Phillips ngắn hạn sang phải.<br>
+tăng tỷ lệ lạm phát và dịch chuyển đường Phillips ngắn hạn sang trái.<br>
+giảm tỷ lệ lạm phát và dịch chuyển đường Phillips ngắn hạn sang phải.<br>
+giảm tỷ lệ lạm phát và dịch chuyển đường Phillips ngắn hạn sang trái.<br>
+D<br>
+
+Khi thị trường lao động linh hoạt hơn thì<br>
+cả đường Phillips dài hạn và đường tổng cung dài hạn dịch chuyển sang phải.<br>
+cả đường Phillips dài hạn và đường tổng cung dài hạn dịch chuyển sang trái.<br>
+đường Phillips dài hạn dịch chuyển sang phải và đường tổng cung dài hạn dịch chuyển sang trái.<br>
+đường Phillips dài hạn dịch chuyển sang trái và đường tổng cung dài hạn dịch chuyển sang phải.<br>
+D<br>
+
+Nếu mức lương tối thiểu giảm, thì tại mọi mức lạm phát<br>
+cả sản lượng và tỷ lệ thất nghiệp đều tăng.<br>
+sản lượng hay tỷ lệ thất nghiệp đều không tăng.<br>
+sản lượng tăng và tỷ lệ thất nghiệp giảm.<br>
+sản lượng giảm và tỷ lệ thất nghiệp tăng.<br>
+C<br>
+
+Trong dài hạn, nếu ngân hàng trung ương tăng cung tiền, thì<br>
+tỷ lệ lạm phát sẽ tăng.<br>
+tỷ lệ thất nghiệp sẽ giảm.<br>
+GDP thực sẽ giảm.<br>
+Tất cả các đáp án trên đều đúng.<br>
+A<br>
+
+Điều nào dưới đây làm dịch chuyển đường Phillips dài hạn sang phải?<br>
+sự gia tăng cung tiền.<br>
+sự gia tăng tỷ lệ lạm phát.<br>
+sự gia tăng trợ cấp thất nghiệp.<br>
+Tất cả các đáp án trên đều đúng<br>
+C<br>
+
+

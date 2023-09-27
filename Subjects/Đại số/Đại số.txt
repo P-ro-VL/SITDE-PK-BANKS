@@ -1,0 +1,618 @@
+{img}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<br>
+162<br>
+18<br>
+6<br>{img}
+20<br>
+A<br>
+https://i.imgur.com/OnSEGvD.png<br>
+A. dòng 2 và cột 2 của C bằng 0<br>{img}
+B. dòng 3 và cột 3 của C bằng 0<br>
+C. dòng 2 và cột 3 của C bằng 0<br>
+D. dòng 3 và cột 2 của C bằng 0<br>
+C<br>{img}
+https://i.imgur.com/Yx17jul.png<br>
+m = 1<br>
+m = 11<br>
+m = 7<br>{img}
+m = 3<br>
+D<br>
+https://i.imgur.com/vSM1mMH.png<br>
+A. Nếu m = n và (1) có duy nhất nghiệm thì (2) có duy nhất nghiệm.<br>{img}
+B. Nếu (1) có duy nhất nghiệm thì (2) có nghiệm<br>
+C. Nếu (1) có vô số nghiệm thì chưa chắc (2) có nghiệm<br>
+D. Nếu (2) có vô số nghiệm thì (1) có vô số nghiệm<br>
+B<br>{img}
+https://i.imgur.com/bYVEP04.png<br>
+C^-1 = (21/20). (At)^-1.B^-1<br>
+C^-1 = (21/20).B^-1.(A^-1)t<br>
+C^-1 = (21/20).(Bt)^-1.A^-1<br>{img}
+C^-1 = (20/21).B^-1.(A^-1)t<br>
+C<br>
+https://i.imgur.com/Tq1mR5c.png<br>
+Hệ có nghiệm<br>{img}
+Hệ vô nghiệm<br>
+Hệ có vô số nghiệm<br>
+Hệ có nghiệm duy nhất<br>
+A<br>{img}
+https://i.imgur.com/qzZAlYC.png<br>
+a = -1<br>
+a = 3<br>
+a = -1 hoặc a = 3<br>{img}
+a khác -1 và a khác 3<br>
+C<br>
+https://i.imgur.com/fXG31bH.png<br>
+(0 3)<br>{img}
+(2 -1)<br>
+(-2 1)<br>
+(2 9)<br>
+B<br>{img}
+https://i.imgur.com/Ra9kEbv.png<br>
+(d1; d2) = (130; 100)<br>
+(d1; d2) = (130; 220)<br>
+(d1; d2) = (130; 120)<br>{img}
+(d1; d2) = (120; 130)<br>
+C<br>
+https://i.imgur.com/X3vSt0L.png<br>
+|3A| = 3|A|<br>{img}
+|-A| = |A|<br>
+Nếu |A| = 0 thì có 1 vecto cột của A là tổ hợp tuyến tính của các vecto còn lại<br>
+Các câu trên đều sai<br>
+D<br>{img}
+https://i.imgur.com/YBqmpWP.png<br>
+Tập nghiệm của (1) là không gian con của Rn<br>
+Hạng ma trận hệ số >= Hạng ma trận mở rộng<br>
+Hệ vô nghiệm<br>{img}
+Các câu kia đều sai<br>
+D<br>
+https://i.imgur.com/eMi8PWk.png<br>
+m khác 2 và m khác -1<br>{img}
+m = 2 hoặc m = -1<br>
+m = 2<br>
+m = -1<br>
+B<br>{img}
+https://i.imgur.com/9U8Qgoh.png<br>
+4<br>
+3<br>
+5<br>{img}
+2<br>
+C<br>
+https://i.imgur.com/5SjMyld.png<br>
+m khác 6<br>{img}
+m khác 3<br>
+m khác 8<br>
+m = 8<br>
+B<br>{img}
+https://i.imgur.com/8JKPORP.png<br>
+Cả 3 câu đều sai<br>
+m khác 1<br>
+m khác 2<br>{img}
+m = 3<br>
+B<br>
+https://i.imgur.com/rkn6b8Z.png<br>
+k = -5<br>{img}
+Mọi k<br>
+Không tồn tại k<br>
+k = -1<br>
+B<br>{img}
+https://i.imgur.com/QMYw04y.png<br>
+Không tồn tại k<br>
+k = 1<br>
+k khác 1<br>{img}
+Mọi k<br>
+D<br>
+https://i.imgur.com/XKC1cIu.png<br>
+{-1, 0, 2} là con của M<br>{img}
+{6, -2, 2} là con của M<br>
+{6, -1, 0} là con của M<br>
+{6, 1, 3} là con của M<br>
+C<br>{img}
+https://i.imgur.com/cwG1tJ8.png<br>
+3<br>
+2<br>
+4<br>{img}
+5<br>
+A<br>
+https://i.imgur.com/bPSsEcg.png<br>
+11<br>{img}
+8<br>
+14<br>
+Ba câu đều sai<br>
+C<br>{img}
+https://i.imgur.com/GTPERxL.png<br>
+k = 2<br>
+k = 1<br>
+Các câu kia sai<br>{img}
+k = 3<br>
+D<br>
+https://i.imgur.com/RGZOJI7.png<br>
+13<br>{img}
+10<br>
+7<br>
+Các câu kia sai<br>
+A<br>{img}
+https://i.imgur.com/28uxsib.png<br>
+Các câu kia sai<br>
+27<br>
+35<br>{img}
+97<br>
+D<br>
+https://i.imgur.com/GukTxiv.png<br>
+13<br>{img}
+15<br>
+Các câu kia sai<br>
+19<br>
+D<br>{img}
+https://i.imgur.com/QINiSLy.png<br>
+n = 2<br>
+n = 4<br>
+n = 3<br>{img}
+n = -1<br>
+C<br>
+https://i.imgur.com/9JU4eL8.png<br>
+153<br>{img}
+104<br>
+223<br>
+216<br>
+A<br>{img}
+https://i.imgur.com/5JKKDZx.png<br>
+k = 0<br>
+k = 2<br>
+k = 3<br>{img}
+k = 4<br>
+C<br>
+https://i.imgur.com/ysqqA9w.png<br>
+2^99.B<br>{img}
+2^100.B<br>
+2^199.B<br>
+2^200.B<br>
+C<br>{img}
+https://i.imgur.com/BkQLyyK.png<br>
+80<br>
+70<br>
+46<br>{img}
+65<br>
+B<br>
+https://i.imgur.com/jfCo3hd.png<br>
+m = 1<br>{img}
+Ba câu đều sai<br>
+m = -2<br>
+m = 2<br>
+B<br>{img}
+https://i.imgur.com/TqeJeY4.png<br>
+9 15
+7 12
+-1 6<br>
+10 -16
+9 -18
+-10 19<br>
+3 câu kia sai<br>{img}
+10 7
+-8 16
+0 12<br>
+B<br>
+https://i.imgur.com/VQBaZxM.png<br>
+3 câu kia sai<br>{img}
+4100<br>
+6200<br>
+2100<br>
+A<br>{img}
+https://i.imgur.com/gkurnYW.png<br>
+m = 10<br>
+m = 5<br>
+m = 6<br>{img}
+m = 4<br>
+D<br>
+https://i.imgur.com/uk6wMzc.png<br>
+x = -10<br>{img}
+x = 4<br>
+x = 0<br>
+x = -4<br>
+A<br>{img}
+https://i.imgur.com/kqudP4x.png<br>
+53<br>
+14<br>
+20<br>{img}
+47<br>
+A<br>
+https://i.imgur.com/ftHaoCt.png<br>
+m = -1<br>{img}
+m = 1<br>
+m = 0<br>
+m = 2<br>
+D<br>{img}
+https://i.imgur.com/efobUNn.png<br>
+m = 5<br>
+m = 4<br>
+m = 10<br>{img}
+3 câu kia sai<br>
+D<br>
+https://i.imgur.com/lh5UjlG.png<br>
+|A| = 4<br>{img}
+|A| = 0<br>
+|A| = -3<br>
+|A| = -7<br>
+D<br>{img}
+https://i.imgur.com/hPdmrzl.png<br>
+2<br>
+4<br>
+3<br>{img}
+7<br>
+B<br>
+https://i.imgur.com/uv5ouey.png<br>
+x = 5<br>{img}
+x = 1/3<br>
+3 câu kia sai<br>
+x = 10/3<br>
+D<br>{img}
+https://i.imgur.com/cUdx5Vg.png<br>
+64<br>
+512<br>
+37<br>{img}
+8<br>
+A<br>
+https://i.imgur.com/Q1vyjSs.png<br>
+1/20<br>{img}
+1/5<br>
+4/5<br>
+7/20<br>
+B<br>{img}
+https://i.imgur.com/nBB24bI.png<br>
+4<br>
+1<br>
+-2<br>{img}
+3<br>
+D<br>
+https://i.imgur.com/nECAb7J.png<br>
+det(A) = (a + b + c).abc<br>{img}
+det(A) = (a + b)(b + c)(c + a)<br>
+det(A) = abc<br>
+det(A) = 0<br>
+D<br>{img}
+https://i.imgur.com/BBmEoDT.png<br>
+-250.(1 + i)<br>
+-250<br>
+250<br>{img}
+250.(1 + i)<br>
+B<br>
+https://i.imgur.com/zIxF7Bz.png<br>
+|A| = 12<br>{img}
+|A| = 3 + m<br>
+|A| = 2 - m<br>
+|A| = 16<br>
+A<br>{img}
+https://i.imgur.com/p7GvFVm.png<br>
+0<br>
+1<br>
+i<br>{img}
+-1<br>
+A<br>
+https://i.imgur.com/L68oDOS.png<br>
+6<br>{img}
+1/24<br>
+2/3<br>
+8/3<br>
+B<br>{img}
+https://i.imgur.com/XLKoT0I.png<br>
+A.B = A<br>
+B = -2A<br>
+B = 2A<br>{img}
+Cả ba đáp án đều sai<br>
+C<br>
+https://i.imgur.com/L0GIOfY.png<br>
+Các câu kia sai<br>{img}
+Với mọi a phương trình đều vô số nghiệm<br>
+Với a = 2 phuơng trình có vô số nghiệm<br>
+Với a khác 2 phương trình có vô số nghiệm<br>
+C<br>{img}
+https://i.imgur.com/A3zeHOq.png<br>
+m = 4<br>
+m = 3<br>
+m = -4<br>{img}
+m = -3<br>
+B<br>
+https://i.imgur.com/79pvOxJ.png<br>
+Bậc 3<br>{img}
+Không đáp án nào đúng<br>
+Bậc 4<br>
+Bậc 5<br>
+B<br>{img}
+https://i.imgur.com/T4joQdU.png<br>
+m = 0<br>
+m = 26<br>
+m = 20<br>{img}
+m = -26<br>
+B<br>
+https://i.imgur.com/yWTpez5.png<br>
+0<br>{img}
+2011<br>
+1<br>
+-1<br>
+D<br>{img}
+https://i.imgur.com/p9ppMqD.png<br>
+-16<br>
+18<br>
+5<br>{img}
+-4<br>
+A<br>
+https://i.imgur.com/wtgvTfT.png<br>
+-24<br>{img}
+-1/14<br>
+-8/3<br>
+-2/3<br>
+C<br>{img}
+https://i.imgur.com/RFEEDTp.png<br>
+12<br>
+-48<br>
+-72<br>{img}
+Ba câu kia sai<br>
+D<br>
+https://i.imgur.com/RJeRLIL.png<br>
+|A| = 4 + i<br>{img}
+Ba câu kia sai<br>
+|A| = 12 - 14i<br>
+|A| = 1 + 4i<br>
+C<br>{img}
+https://i.imgur.com/gRKkhuf.png<br>
+Ba câu kia sai<br>
+0<br>
+1<br>{img}
+-2<br>
+B<br>
+https://i.imgur.com/eGwRD1k.png<br>
+1/3<br>{img}
+-1/[3^(2n+1)]<br>
+-1/3<br>
+Ba câu kia sai<br>
+C<br>{img}
+https://i.imgur.com/YNdFj7w.png<br>
+Bậc 2<br>
+Bậc 3<br>
+Bậc 4<br>{img}
+Bậc 5<br>
+B<br>
+https://i.imgur.com/l0vIERR.png<br>
+-45<br>{img}
+Các câu kia sai<br>
+20<br>
+15<br>
+A<br>{img}
+https://i.imgur.com/60kPpQD.png<br>
+Mọi m<br>
+m = 23<br>
+Không tồn tại m<br>{img}
+m = 1<br>
+B<br>
+https://i.imgur.com/KIq45pY.png<br>
+3 câu kia sai<br>{img}
+Hệ A.X = 0 có nghiệm khác không<br>
+Hệ A.X = 0 vô nghiệm<br>
+Hệ A.X = 0 có nghiệm duy nhất<br>
+B<br>{img}
+https://i.imgur.com/OcEGoRD.png<br>
+m khác -1<br>
+m = 3<br>
+m khác 3<br>{img}
+m = -1<br>
+C<br>
+https://i.imgur.com/CkOdcPK.png<br>
+Không tồn tại m<br>{img}
+m = 4<br>
+m = -1<br>
+m = 1<br>
+B<br>{img}
+https://i.imgur.com/AGqmyee.png<br>
+m = 5<br>
+m = 14/3<br>
+Không tồn tại m<br>{img}
+m = 3<br>
+B<br>
+https://i.imgur.com/tHFDyEw.png<br>
+(-8, 4, -1)<br>{img}
+(16, -6, 1)<br>
+Ba câu kia sai<br>
+(-20, 9, 1)<br>
+C<br>{img}
+https://i.imgur.com/VZj3Jga.png<br>
+m khác 2<br>
+Không tồn tại m<br>
+3 câu kia sai<br>{img}
+m = 2<br>
+B<br>
+https://i.imgur.com/EjfF5WA.png<br>
+m = 2<br>{img}
+m khác 0<br>
+m = 0<br>
+m = -1<br>
+C<br>{img}
+https://i.imgur.com/o5r2Z7d.png<br>
+m = -2<br>
+Với mọi m<br>
+Không tồn tại m<br>{img}
+m = 1<br>
+C<br>
+https://i.imgur.com/NYo4ZH3.png<br>
+(2, -4, -3, 0)<br>{img}
+(3, -4, 2, 0)<br>
+(4, -2, -2, 0)<br>
+(5, -3, -3, 0)<br>
+C<br>{img}
+https://i.imgur.com/rfL2vCj.png<br>
+x = y = 3a, z = a; a thuộc C<br>
+x = 2a + b, y = a, z = b; a, b thuộc C<br>
+x = 2a - 3b, y = a, z = b; a, b thuộc C<br>{img}
+x = -a, y = z = a; a thuộc C<br>
+C<br>
+https://i.imgur.com/lzkpvUT.png<br>
+m = 2; m = -2<br>{img}
+Không tồn tại m<br>
+m = -2<br>
+m khác 2; m khác -2<br>
+A<br>{img}
+https://i.imgur.com/nfNwskW.png<br>
+m = 1<br>
+Không tồn tại m<br>
+Với mọi m<br>{img}
+3 câu kia sai<br>
+C<br>
+https://i.imgur.com/SINjNc7.png<br>
+3 câu kia đều sai<br>{img}
+m khác 4<br>
+m khác 3<br>
+Không tồn tại m<br>
+D<br>{img}
+https://i.imgur.com/3yIstGB.png<br>
+m = 4<br>
+m khác 4<br>
+m = 0<br>{img}
+m = 3<br>
+A<br>
+https://i.imgur.com/XvBG5TI.png<br>
+m khác 1<br>{img}
+3 câu kia sai<br>
+Không tồn tại m<br>
+m = 1<br>
+A<br>{img}
+https://i.imgur.com/9Zjg61d.png<br>
+m khác 1<br>
+m = 1; m = -1<br>
+m = 3<br>{img}
+m = -1<br>
+A<br>
+https://i.imgur.com/xVYu0o1.png<br>
+(-3, 2, 1, 0)<br>{img}
+(-3/11, 2, 1/11, -10,11)<br>
+(-3, 2, 1, -10)<br>
+(-12/5, 2, 4/5, -1/5)<br>
+B<br>{img}
+https://i.imgur.com/cE6NFx2.png<br>
+m = 7<br>
+Không tồn tại m<br>
+m khác 5<br>{img}
+m khác 7<br>
+B<br>
+https://i.imgur.com/FoY89qL.png<br>
+m = 2<br>{img}
+m = -1<br>
+m = 0<br>
+m = 1<br>
+B<br>{img}
+https://i.imgur.com/RX4hKjJ.png<br>
+m khác -2<br>
+m khác 0<br>
+m khác -4<br>{img}
+m khác -1<br>
+C<br>
+https://i.imgur.com/mwhr5oL.png<br>
+m = 2<br>{img}
+m = -2<br>
+m khác 2; m khác -2<br>
+m = 2; m = -2<br>
+D<br>{img}
+https://i.imgur.com/iIxxj4s.png<br>
+m = 14/3<br>
+m = 3<br>
+m = 5<br>{img}
+m = 12/3<br>
+A<br>
+https://i.imgur.com/YHIp5sI.png<br>
+m khác 1<br>{img}
+m khác -1/2<br>
+Với mọi m<br>
+m = -2<br>
+B<br>{img}
+https://i.imgur.com/hWzGxq5.png<br>
+m = -2<br>
+m khác 2; m khác -2<br>
+m khác 2<br>{img}
+m = 2; m = -2<br>
+A<br>
+https://i.imgur.com/EEADuSf.png<br>
+Không đáp án nào đúng<br>{img}
+m = 0<br>
+m = 1<br>
+m = 19/2<br>
+A<br>{img}
+https://i.imgur.com/9XERSzn.png<br>
+m khác -3<br>
+m = 3<br>
+m khác 2<br>{img}
+Không đáp án nào đúng<br>
+D<br>
+https://i.imgur.com/K7ajGbB.png<br>
+m khác 2; m khác -2<br>{img}
+m = 2; m = -2<br>
+m = 2<br>
+Không tồn tại m<br>
+D<br>{img}
+https://i.imgur.com/S4rvkSz.png<br>
+m khác 1/3<br>
+m = 0<br>
+m khác 3<br>{img}
+m khác 11/3<br>
+D<br>
+https://i.imgur.com/5eRFoZN.png<br>
+-16<br>{img}
+16<br>
+32<br>
+-32<br>
+A<br>{img}
+https://i.imgur.com/A8bCRfi.png<br>
+-30<br>
+30<br>
+15<br>{img}
+-15<br>
+A<br>
+https://i.imgur.com/aZkcFow.png<br>
+m < 2<br>{img}
+m > 0<br>
+m < 1<br>
+m > 2<br>
+A<br>{img}
+https://i.imgur.com/BTR7r6j.png<br>
+A = 7a + 21<br>
+A = 7a + 21b<br>
+A = 7a - 2b<br>{img}
+A = -7a - 21<br>
+A<br>
+https://i.imgur.com/RrllNHj.png<br>
+6<br>{img}
+54<br>
+1/54<br>
+1/6<br>
+C<br>{img}
+https://i.imgur.com/nBYf7uA.png<br>
+16<br>
+88<br>
+32<br>{img}
+Không có đáp án nào đúng<br>
+D<br>
+https://i.imgur.com/RsFYE88.png<br>
+x = 2; x = -1<br>{img}
+x = 2; x = 3<br>
+x = 3; x = -1<br>
+Cả 3 đáp án đều sai<br>
+A<br>{img}
+https://i.imgur.com/2ZpatrV.png<br>
+1<br>
+2<br>
+3<br>{img}
+4<br>
+B<br>
+https://i.imgur.com/Baacfvj.png<br>
+A = -2 + 7i<br>{img}
+A = 2 + 7i<br>
+A = 7 - 2i<br>
+A = -7 + 2i<br>
+A<br>{img}
+https://i.imgur.com/LbfHa0s.png<br>
+Phương trình vô nghiệm<br>
+Phương trình có 3 nghiệm a, b, c<br>
+Phương trình có 3 nghiệm a+b, b+c, c+a<br>{img}
+Phương trình có 1 nghiệm x = a<br>
+B<br>
+https://i.imgur.com/LSqk8ZR.png<br>
+det(3A) = -72<br>{img}
+det(3A) = 41<br>
+det(3A) = 14<br>
+det(3A) = 27<br>
+A<br>{img}

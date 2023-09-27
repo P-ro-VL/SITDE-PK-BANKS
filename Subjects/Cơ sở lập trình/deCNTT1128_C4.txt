@@ -1,0 +1,421 @@
+﻿Định dạng nào sau đây trong hàm "printf" dùng để in ra một xâu kí tự?<br>
+"%c"<br>
+"%f"<br>
+"%x"<br>
+"%s"<br>
+d<br>
+<br>
+Kết quả của đoạn chương trình sau là gì?
+
+#include <stdio.h>
+void main()
+{
+    printf("%d",2<8 && 9>5);
+}<br>
+TRUE<br>
+FALSE<br>
+0<br>
+1<br>
+d<br>
+Câu này không có giải thích.<br>
+Hàm nào dưới đây để in một kí tự ra màn hình mà không cần mã định dạng?<br>
+putchar()<br>
+pust()<br>
+printf()<br>
+Cả 3 phương án trên<br>
+a<br>
+Câu này không có giải thích.<br>
+Định dạng nào sau đây có thể sử dụng trong hàm “printf” để in số nguyên không dấu ?<br>
+%i<br>
+%d<br>
+%u<br>
+%unsigned<br>
+c<br>
+Câu này không có giải thích.<br>
+Định dạng nào sau đây dùng trong hàm "printf" để in ra một kí tự:<br>
+"%x"<br>
+"%f"<br>
+"%c"<br>
+"%s"<br>
+c<br>
+Câu này không có giải thích.<br>
+Câu lệnh nào in kí hiệu \n ra màn hình?<br>
+printf("\\n");<br>
+printf("n");<br>
+printf("\n");<br>
+printf("n\");<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong các hàm sau, hàm nào để nhập một kí tự từ bàn phím ngay sau khi gõ, không chờ nhấn Enter và không hiện ra màn hình:<br>
+getche();<br>
+scanf();<br>
+getchar();<br>
+getch();<br>
+d<br>
+Câu này không có giải thích.<br>
+Cách nhập số nguyên N (từ bàn phím) nào sau đây là đúng?<br>
+scanf("%d", N);<br>
+scanf("%d", &N);<br>
+scanf("%c", &N);<br>
+scanf("%c", &N);<br>
+b<br>
+Câu này không có giải thích.<br>
+Dạng tổng quát của hàm printf() là: printf("dãy mã quy cách", dãy mã biểu thức); Trong đó, dãy mã quy cách sẽ là:<br>
+Dãy các mã định dạng dữ liệu hiển thị<br>
+Con trỏ của xâu kí tự<br>
+Các xâu kí tự mang tính chất thông báo<br>
+Cả 3 phương án trên<br>
+a<br>
+Câu này không có giải thích.<br>
+Định dạng nào sau đây trong hàm "printf" dùng để in ra số thực với độ chính xác đơn?<br>
+"%f"<br>
+"%u"<br>
+"%e"<br>
+"%o"<br>
+a<br>
+Câu này không có giải thích.<br>
+Hàm getch() nằm trong thư viện nào?<br>
+math.h<br>
+conio.h<br>
+string.h<br>
+stdio.h<br>
+b<br>
+Câu này không có giải thích.<br>
+Định dạng nào sau đây dùng trong hàm "printf" để in ra số có kiểu long int?<br>
+"%d"<br>
+"%u"<br>
+"%f"<br>
+"%ld"<br>
+d<br>
+Câu này không có giải thích.<br>
+Hàm nào đọc kí tự từ bàn phím ngay sau khi gõ, không chờ nhấn Enter. Các kí tự có hiện ra màn hình:<br>
+getch();<br>
+scanf();<br>
+getche();<br>
+getchar();<br>
+c<br>
+Câu này không có giải thích.<br>
+Kết quả của đoạn chương trình sau là gì?
+
+#include <stdio.h>
+void main()
+{
+    int i, ch;
+    for (i=0, ch='A'; i<3; i++, ch++)
+        putchar(ch);
+}<br>
+abc<br>
+656667<br>
+ABC<br>
+Tất cả các kết quả đều sai<br>
+c<br>
+Câu này không có giải thích.<br>
+Định dạng nào sau đây trong hàm "printf" dùng để in ra một số nguyên?<br>
+"%d"<br>
+"%u"<br>
+"%p"<br>
+"%e"<br>
+a<br>
+Câu này không có giải thích.<br>
+Cho biết kết quả của đoạn chương trình sau:
+
+#include <stdio.h>
+void main()
+{
+    int x;
+    float y;
+    y=x=7.5;
+    printf("x=%d y=%f",x,y);
+}<br>
+Kết quả khác<br>
+x=7; y=7.000000<br>
+x=7; y=7.500000<br>
+x=5; y=7.500000<br>
+b<br>
+Câu này không có giải thích.<br>
+Định dạng nào sau đây trong hàm "printf" dùng để in ra số thực dạng mũ?<br>
+"%e"<br>
+"%u"<br>
+"%f"<br>
+"%o"<br>
+a<br>
+Câu này không có giải thích.<br>
+Định dạng nào sau đây trong hàm "printf" dùng để in ra một số nguyên không dấu trong hệ đếm cơ số 8?<br>
+"%e"<br>
+"%u"<br>
+"%f"<br>
+"%o"<br>
+d<br>
+Câu này không có giải thích.<br>
+Định dạng nào sau đây trong hàm "printf" dùng để in ra một số thực dưới dạng ngắn gọn hơn trong 2 dạng dấu phẩy tĩnh và dấu phẩy động?<br>
+"%f"<br>
+"%g"<br>
+"%e"<br>
+"%s"<br>
+b<br>
+Câu này không có giải thích.<br>
+Định dạng nào sau đây trong hàm "printf" dùng để in ra số nguyên có dấu hệ đếm thập phân?<br>
+"%c"<br>
+"%g"<br>
+"%s"<br>
+"%i"<br>
+d<br>
+Câu này không có giải thích.<br>
+Ý nghĩa của ký tự điều khiển \a là gì<br>
+BEL<br>
+Phát ra tiếng chuông<br>
+Trở về đầu dòng<br>
+Sang trang<br>
+b<br>
+Câu này không có giải thích.<br>
+Ý nghĩa của ký tự điều khiển \b là gì<br>
+Backspace<br>
+BS<br>
+Xuống dòng<br>
+Di chuyển con trỏ sang trái ký tự<br>
+a<br>
+Câu này không có giải thích.<br>
+Ý nghĩa của ký tự điều khiển \f là gì<br>
+Sang trang<br>
+Ép kiểu thành số thực<br>
+Xóa dữ liệu bộ nhớ đệm<br>
+FF<br>
+a<br>
+Câu này không có giải thích.<br>
+Ý nghĩa của ký tự điều khiển \r là gì<br>
+CR<br>
+Trở về đầu dòng<br>
+Sang trang<br>
+Quay lại<br>
+b<br>
+Câu này không có giải thích.<br>
+Muốn in ký tự phần trăm (%) ra màn hình, trong hàm printf() ta cần nhập:<br>
+/%<br>
+\%<br>
+%%<br>
+%\<br>
+c<br>
+Câu này không có giải thích.<br>
+Kết quả hiển thị của đoạn chương trình sau là:
+
+#include <conio.h>
+#include <stdio.h>
+void main()
+{
+     int a = 5;
+     float x = 1.234;
+     printf("\nHien thi so nguyen %d va so thuc %f",a,x);
+     getch();
+}<br>
+Hien thi so nguyen 5 va so thuc 1.234000<br>
+5
+1.234<br>
+Hien thi so nguyen 5 va so thuc 1.234<br>
+5
+1.234000<br>
+a<br>
+Câu này không có giải thích.<br>
+Chương trình sau sẽ hiển thị như thế nào?
+
+#include <stdio.h>
+void main()
+{
+     float b = 24.67892345;
+     printf("%f",b);
+}<br>
+24.678923<br>
+24.6789235<br>
+24<br>
+24.000000<br>
+a<br>
+Câu này không có giải thích.<br>
+Câu lệnh sau hiển thị ra màn hình kết quả gì?
+printf("[%-010d]\n",555);<br>
+[555]<br>
+[555       ]<br>
+[       555]<br>
+[5550000000]<br>
+b<br>
+Câu này không có giải thích.<br>
+Câu lệnh sau hiển thị ra màn hình kết quả gì?
+printf("[%010.3f]\n",555.55);<br>
+[555.550000]<br>
+[0000555.55]<br>
+[000555.550]<br>
+[555.55    ]<br>
+c<br>
+Câu này không có giải thích.<br>
+Khi gặp dấu nào sau đây thì scanf() vẫn coi là đang nhập dữ liệu cho một số?<br>
+Dấu chấm (.)<br>
+Dấu tab<br>
+Dấu xuống dòng (Enter)<br>
+Dấu cách (Space bar)<br>
+a<br>
+Câu này không có giải thích.<br>
+Kết quả hiển thị của đoạn chương trình sau là gì (với đầu vào nhập từ bàn phím là 2 số 1223 và 3.142325):
+
+#include <stdio.h>
+void main()
+{
+     int n;
+     float x;
+     printf("Nhap vao so nguyen va so thuc: ");
+     scanf("%2d%5f", &n, &x);
+     printf("\nSo nguyen vua nhap: %d",n);
+     printf("\nSo thuc vua nhap: %f",x);
+}<br>
+Nhap vao so nguyen va so thuc: 1223 3.142325
+So nguyen vua nhap: 12
+So thuc vua nhap: 23.000000<br>
+Nhap vao so nguyen va so thuc: 1223 3.142325
+So nguyen vua nhap: 1223
+So thuc vua nhap: 3.142325<br>
+Nhap vao so nguyen va so thuc: 1223 3.142325
+So nguyen vua nhap: 12
+So thuc vua nhap: 3.1423<br>
+Nhap vao so nguyen va so thuc: 1223 3.142325
+So nguyen vua nhap: 1223
+So thuc vua nhap: 3.1423<br>
+a<br>
+Câu này không có giải thích.<br>
+Kết quả hiển thị của đoạn chương trình sau là gì (với đầu vào nhập từ bàn phím là 2 số 1234 và 3.12345):
+
+#include <stdio.h>
+void main()
+{
+     int n;
+     float x;
+     printf("Nhap vao so nguyen va so thuc: ");
+     scanf("%2d%5f", &n, &x);
+     printf("\nSo nguyen vua nhap: %d",n);
+     printf("\nSo thuc vua nhap: %f",x);
+}<br>
+Nhap vao so nguyen va so thuc: 1224 3.12345
+So nguyen vua nhap: 12
+So thuc vua nhap: 24.00000<br>
+Nhap vao so nguyen va so thuc: 1224 3.12345
+So nguyen vua nhap: 1224
+So thuc vua nhap: 3.12345<br>
+Nhap vao so nguyen va so thuc: 1224 3.12345
+So nguyen vua nhap: 12
+So thuc vua nhap: 3.1234<br>
+Nhap vao so nguyen va so thuc: 1224 3.12345
+So nguyen vua nhap: 1224
+So thuc vua nhap: 3.1234<br>
+a<br>
+Câu này không có giải thích.<br>
+Bổ từ cho độ chính xác trong hàm printf() KHÔNG được dùng với kiểu dữ liệu nào?<br>
+float<br>
+double<br>
+int<br>
+string<br>
+c<br>
+Câu này không có giải thích.<br>
+Câu lệnh sau hiển thị kết quả gì ra màn hình?
+printf("[%-d]",555);<br>
+[555]<br>
+[   555] (3 khoảng trống)<br>
+[555   ] (3 khoảng trống)<br>
+[-555]<br>
+a<br>
+Câu này không có giải thích.<br>
+Câu lệnh sau hiển thị kết quả gì ra màn hình?
+printf([%-d],555);<br>
+[-555]<br>
+[555]<br>
+[555    ]<br>
+Chương trình báo lỗi<br>
+d<br>
+Câu này không có giải thích.<br>
+Đâu là cách sử dụng đúng bổ từ '-' (căn lề trái) trong hàm printf()?<br>
+printf("-%5d", 5);<br>
+printf("%-10d", a);<br>
+printf("d-", n);<br>
+printf(%-d, 11);<br>
+b<br>
+Câu này không có giải thích.<br>
+Ý nghĩa của bổ từ "-" trong hàm printf() là gì?<br>
+Lấy giá trị đối của phần tử dữ liệu số được truyền vào trong hàm<br>
+Căn lề phải phần tử dữ liệu được truyền vào trong hàm<br>
+Căn lề trái phần tử dữ liệu được truyền vào trong hàm<br>
+Giảm đi một giá trị của phần tử dữ liệu được truyền vào trong hàm<br>
+c<br>
+Câu này không có giải thích.<br>
+Câu lệnh sau hiển thị kết quả gì ra màn hình?
+printf("[%0d]",555);<br>
+[   555] (3 khoảng trống)<br>
+[555   ] (3 khoảng trống)<br>
+[000555]<br>
+[555]<br>
+d<br>
+Câu này không có giải thích.<br>
+Câu lệnh sau hiển thị kết quả gì ra màn hình?
+printf("[%010d]",555);<br>
+[0000000555]<br>
+[       555] (7 khoảng trống)<br>
+[5550000000]<br>
+[555       ] (7 khoảng trống)<br>
+a<br>
+Câu này không có giải thích.<br>
+Câu lệnh sau hiển thị kết quả gì ra màn hình?
+printf("[%-010d]",555);<br>
+[0000000555]<br>
+[       555] (7 khoảng trống)<br>
+[5550000000]<br>
+[555       ] (7 khoảng trống)<br>
+d<br>
+Ở đây, trong hàm printf() đang có bổ từ căn trái ("-"), nếu thêm số 0 vào thì chỉ có thể thêm vào bên phải số 555, nhưng làm vậy đồng nghĩa sẽ làm thay đổi giá trị của số 555 thành số 5550000000. Vậy nên bổ từ "0" trong hàm này chỉ thêm khoảng trống vào trường dữ liệu in ra chứ không thêm số 0 vào trường đó.<br>
+Câu lệnh sau hiển thị kết quả gì ra màn hình?
+printf("[%4s]", "Good day my dear friend.");<br>
+Good<br>
+Good day my dear friend.<br>
+[Good]<br>
+[Good day my dear friend.]<br>
+d<br>
+Câu này không có giải thích.<br>
+Câu lệnh sau hiển thị kết quả gì ra màn hình?
+printf("[%30s]", "Good day my dear friend.");<br>
+[      Good day my dear friend.]<br>
+[Good day my dear friend.      ]<br>
+Chương trình báo lỗi<br>
+[Good                              ] (26 khoảng trống)           <br>
+a<br>
+Câu này không có giải thích.<br>
+Câu lệnh sau hiển thị kết quả gì ra màn hình?
+printf("[%30.4s]", "Good day my dear friend.");<br>
+[      Good day my dear friend.]<br>
+[Good day my dear friend.      ]<br>
+Chương trình báo lỗi<br>
+[                              Good] (26 khoảng trống)           <br>
+d<br>
+Câu này không có giải thích.<br>
+Câu lệnh sau hiển thị kết quả gì ra màn hình?
+printf("[%-30.4s]", "Good day my dear friend.");<br>
+[      Good day my dear friend.]<br>
+[Good day my dear friend.      ]<br>
+Chương trình báo lỗi<br>
+[Good                              ] (26 khoảng trống)           <br>
+d<br>
+Câu này không có giải thích.<br>
+Đối số của một hàm putchar() KHÔNG là:<br>
+Một hằng ký tự đơn<br>
+Một mã định dạng<br>
+Một chuỗi ký tự<br>
+Một biến ký tự<br>
+c<br>
+Câu này không có giải thích.<br>
+Chọn khẳng định SAI khi nói về hàm scanf():<br>
+Chuỗi định dạng phải đặt trong cặp dấu nháy kép ("").<br>
+Các biến (địa chỉ biến) phải cách nhau bởi dấu chấm phẩy (;).<br>
+Có bao nhiêu biến thì phải có bấy nhiêu định dạng.<br>
+Thứ tự của các định dạng phải phù hợp với thứ tự của các biến.<br>
+b<br>
+Câu này không có giải thích.<br>
+Chọn câu đúng nhất khi nói về chức năng của hàm gets():<br>
+Hàm gets dùng để nhập vào một ký tự<br>
+Hàm gets dùng để nhập vào một xâu ký tự<br>
+Hàm gets dùng để nhập vào một xâu ký tự có chứa cả dấu cách<br>
+Hàm gets dùng để nhập vào một mảng số thực<br>
+c<br>
+Câu này không có giải thích.<br>
+

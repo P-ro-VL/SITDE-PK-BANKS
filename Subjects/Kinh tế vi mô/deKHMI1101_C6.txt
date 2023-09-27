@@ -1,0 +1,1567 @@
+Khi nghiên cứu sản xuất ngắn hạn (SR) chúng ta sẽ giả định rằng:<br>
+ Chỉ có lượng sản xuất là biến thiên, các yếu tố khác không đổi<br>
+ Chỉ có lượng đầu vào lao động là thay đổi, lượng tư bản sử dụng cố định<br>
+ Chỉ có lượng đầu vào lao động là thay đổi, các yếu tố khác centeris paribus<br>
+ Chỉ có lượng sản xuất là biến thiên, lượng tư bản sử dụng cố định<br>
+B<br>
+
+Khi nghiên cứu sản xuất ngắn hạn (SR), mệnh đề nào sau đây đúng:<br>
+ Giả định rằng lượng sản xuất là thay đổi, lượng tư bản sử dụng cố định<br>
+ Sản lượng Q phụ thuộc vào các yếu tố biến đổi như công nghệ, vốn, ...<br>
+ Hàm số theo L được biểu thị là: Q = f(L)<br>
+ Các đáp án trên đều đúng<br>
+C<br>
+
+Năng suất bình quân là:<br>
+ Số sản phẩm trung bình mà một đơn vị đầu vào nào đó tạo ra.<br>
+ Số sản phẩm trung bình mà một đơn vị đầu vào nào đó tạo ra trong một khoảng thời gian nhất định<br>
+ Tổng sản phẩm chia đầu người tham gia sản xuất của một đơn vị đầu vào<br>
+ Tổng sản phẩm chia đầu người tham gia sản xuất của một đơn vị đầu vào trong một khoảng thời gian nhất định<br>
+A<br>
+
+Công thức tính sản phẩm bình quân là:<br>
+ Sản phẩm bình quân = Tổng sản lượng / Số lượng lao động tham gia sản xuất<br>
+ Sản phẩm bình quân = Tổng sản lượng / Số lượng đầu vào<br>
+ Sản phẩm bình quân = Tổng sản lượng / Thời gian sản xuất<br>
+ Sản phẩm bình quân = Tổng sản lượng / Tổng cơ sở vật chất đầu vào<br>
+B<br>
+
+Kí hiệu của năng suất bình quân/sản phẩm bình quân của lao động là:<br>
+ ADL<br>
+ ADP<br>
+ ADE<br>
+ APL<br>
+D<br>
+
+Công thức tính sản phẩm bình quân của lao động là:<br>
+ Sản phẩm bình quân của lao động = Tổng sản lượng / Số lượng lao động sử dụng<br>
+ Sản phẩm bình quân của lao động = Tổng sản lượng / Số lượng đầu vào<br>
+ Sản phẩm bình quân của lao động = Tổng sản lượng / Thời gian sản xuất<br>
+ Sản phẩm bình quân của lao động = Tổng sản lượng / Tổng cơ sở vật chất đầu vào<br>
+A<br>
+
+Công thức tổng quát để tính sản phẩm bình quân của lao động là:<br>
+ APL = Q / L<br>
+ APL = Q / K<br>
+ APL = Q / f(L)<br>
+ APL = Q / P<br>
+A<br>
+
+Công thức tổng quát để tính sản phẩm bình quân của tư bản là:<br>
+ APK = Q / L<br>
+ APK = Q / K<br>
+ APK = Q / f(L)<br>
+ APK = Q / P<br>
+B<br>
+
+Để nghiên cứu năng suất cận biên chẳng hạn của lao động, chúng ta hãy:<br>
+ Bỏ qua các yếu tố sản xuất khác mà giả định chỉ để ý đến các yếu tố đầu vào và lao động tham gia sản xuất<br>
+ Bỏ qua các yếu tố sản xuất khác mà giả định chỉ xem xét mối quan hệ giữa lao động tăng thêm và số lượng sản phẩm sản xuất ra.<br>
+ Chỉ xét các yếu tố sản xuất khác mà bỏ qua các yếu tố đầu vào và lao động tham gia sản xuất<br>
+ Chỉ xét các yếu tố sản xuất khác mà bỏ qua mối quan hệ giữa lao động tăng thêm và số lượng sản phẩm sản xuất ra.<br>
+B<br>
+
+Sản phẩm cận biên/Năng suất cận biên (MP) phản ánh:<br>
+ Số sản phẩm giảm đi do một đơn vào bổ sung mang lại<br>
+ Số sản phẩm giảm đi khi một nhân tố bất kì của sản xuất đầu vào bị ảnh hưởng, các nhân tố khác không đổi<br>
+ Số sản phẩm tăng lên do một đơn vị vào bổ sung mang lại<br>
+ Số sản phẩm tăng lên khi một nhân tố bất kì của sản xuất đầu vào bị ảnh hưởng, các nhân tố khác không đổi<br>
+A<br>
+
+Công thức tính sản phẩm cận biên (MP) là:<br>
+ MP = Thay đổi của tổng sản lượng / Thay đổi của lượng cầu thị trường<br>
+ MP = Thay đổi của tổng sản lượng / Thay đổi giá thị trường<br>
+ MP = Thay đổi của tổng sản lượng / Thay đổi của các yếu tố sản xuất<br>
+ MP = Thay đổi của tổng sản lượng / Thay đổi của lượng đầu vào<br>
+D<br>
+
+Công thức tính sản phẩm cận biên của lao động (MPL) là :<br>
+ MPL = ∆Q / ∆S<br>
+ MPL = ∆Q / ∆K<br>
+ MPL = ∆Q / ∆P<br>
+ MPL = ∆Q / ∆L<br>
+D<br>
+
+Công thức tính năng suất cận biên/sản phẩm cận biên của tư bản (MPK) là:<br>
+ MPK = ∆Q / ∆S<br>
+ MPK = ∆Q / ∆K<br>
+ MPK = ∆Q / ∆P<br>
+ MPK = ∆Q / ∆L<br>
+B<br>
+
+Đối với hầu hết các quá trình sản xuất, sản phẩm cận biên của lao động:<br>
+ Tăng dần ở một thời điểm nhất định<br>
+ Tăng dần khi một yếu tố thay đổi, các yếu tố khác centeris paribus<br>
+ Giảm dần ở một thời điểm nhất định<br>
+ Giảm dần khi một yếu tố thay đổi, các yếu tố khác centeris paribus<br>
+C<br>
+
+Đối với hầu hết các quá trình sản xuất, sản phẩm cận biên của lao động giảm dần ở một thời điểm nhất định. Điều này có đúng với sản phẩm cận biên của các đầu vào khác không ? Vì sao ?<br>
+ Không. Do với các đầu vào khác nhau thì năng suất cận biên của lao động khác nhau. Do đó sản phẩm cận biên của lao động khác nhau.<br>
+ Có. Do điều này là cố định với mọi đầu vào sản xuất<br>
+ Không. Do sự tỉ lệ của các đầu vào, nên khi một đầu vào có sản phẩm cận biên của lao động giảm thì sẽ tồn tại một đầu vào khác có sản phẩm cận biên của lao động tăng<br>
+ Có. Do điều này được tính dựa trên vào các công thức cố định, nên nó không biến thiên trong suốt quá trình sản xuất<br>
+B<br>
+
+Quy luật năng suất cận biên giảm dần phát biểu rằng:<br>
+ Năng suất cận biên của một đầu vào biến đổi sẽ giảm dần khi sử dụng ngày càng nhiều hơn đầu vào đó trong quá trình sản xuất (Với điều kiện giữ nguyên lượng sử dụng các đầu vào cố định khác)<br>
+ Năng suất cận biên của một đầu vào cố định sẽ giảm dần khi sử dụng ngày càng nhiều hơn đầu vào đó trong quá trình sản xuất (Với điều kiện giữ nguyên lượng sử dụng các đầu vào cố định khác)<br>
+ Năng suất cận biên của một đầu vào biến đổi sẽ tăng dần khi sử dụng ngày càng nhiều hơn đầu vào đó trong quá trình sản xuất (Với điều kiện giữ nguyên lượng sử dụng các đầu vào cố định khác)<br>
+ Năng suất cận biên của một đầu vào cố định sẽ tăng dần khi sử dụng ngày càng nhiều hơn đầu vào đó trong quá trình sản xuất (Với điều kiện giữ nguyên lượng sử dụng các đầu vào cố định khác)<br>
+A<br>
+
+Tại sao tồn tại quy luật năng suất cận biên giảm dần?<br>
+ Vì khi các đơn vị đầu vào biến đổi thì số lượng yếu tố cố định bị lép vế<br>
+ Vì khi cố định một số yếu tố mà không tận dụng được các yếu tố khác vào sản xuất thì năng suất giảm dần<br>
+ Vì khi càng nhiều đơn vị đầu vào biến đổi được sử dụng thì các yếu tố cố định không còn nữa<br>
+ Vì khi các đơn vị đầu vào biến đổi thì các yếu tố cố định không thể đáp ứng được<br>
+C<br>
+
+Quy luật năng suất cận biên giảm dần cho biết điều gì?<br>
+ Mỗi một đơn vị đầu vào biến đổi tăng thêm được sử dụng trong quá trình sản xuất sẽ đem lại lượng sản phẩm bổ sung (MP) nhiều hơn đơn vị đầu vào trước đó<br>
+ Sản phẩm cận biên của đầu vào biến đổi bắt đầu giảm tại một mức đầu vào biến đổi nhất định và có thể bằng không hoặc âm.<br>
+ Khi một yếu tố đầu vào sản xuất thay đổi thì các yếu tố cố định không đủ đáp ứng được nhu cầu sản xuất<br>
+ Cả A và B<br>
+B<br>
+
+Quy luật "Năng suất cận biên giảm dần" chỉ áp dụng được khi:<br>
+ Tất cả các đầu vào khác giữ nguyên.<br>
+ Các yếu tố cố định giữ nguyên<br>
+ Các yếu tố đầu vào thay đổi<br>
+ Một trong các yếu tố sản xuất như con người, công nghệ, đất đai... thay đổi, các yếu tố khác centeris paribus<br>
+A<br>
+
+Quy luật "Năng suất cận biên giảm dần" chỉ có thể áp dụng trong:<br>
+ Dài hạn<br>
+ Ngắt quãng<br>
+ Ngắn hạn<br>
+ Khi các yếu tố đầu vào thay đổi<br>
+C<br>
+
+Đường tổng sản lượng mô tả:<br>
+ Sự thay đổi của đầu ra khi lao động được sử dụng trong quá trình sản xuất tăng lên có dạng hình chuông tăng, đạt giá trị lớn nhất và giảm xuống<br>
+ Sự thay đổi của đầu ra khi lượng đầu vào biến đổi được sử dụng trong quá trình sản xuất giảm xuống có dạng hình chuông giảm, đạt giá trị nhỏ nhất và tăng lên<br>
+ Sự thay đổi của đầu ra khi lao động được sử dụng trong quá trình sản xuất tăng lên có dạng hình chuông tăng<br>
+ Sự thay đổi của đầu ra khi lượng đầu vào biến đổi được sử dụng trong quá trình sản xuất giảm xuống có dạng hình chuông giảm<br>
+A<br>
+
+Khi có sự thay đổi (như cải tiến công nghệ) thì đường tổng sản lượng:<br>
+ Dịch chuyển xuống dưới<br>
+ Dịch chuyển lên trên<br>
+ Dịch chuyển sang trái<br>
+ Dịch chuyển sang phải<br>
+B<br>
+
+Độ dốc của đường tổng sản lượng giảm đến 0 khi:<br>
+ P là lớn nhất<br>
+ L là lớn nhất<br>
+ Q là lớn nhất<br>
+ K là lớn nhất<br>
+C<br>
+
+Nếu mỗi lao động tăng thêm làm ra được nhiều sản phẩm hơn những đơn vị lao động trước thì:<br>
+ Năng suất bình quân của lao động tăng lên<br>
+ Năng suất bình quân của lao động giảm xuống<br>
+ Năng suất bình quân tăng lên<br>
+ Năng suất bình quân giảm xuống<br>
+C<br>
+
+Nếu năng suất cận biên tăng thì:<br>
+ Năng suất bình quân của lao động tăng lên<br>
+ Năng suất bình quân của lao động giảm xuống<br>
+ Năng suất bình quân tăng lên<br>
+ Năng suất bình quân giảm xuống<br>
+C<br>
+
+Trên đường sản phẩm bình quân, khi năng suất cận biên lớn hơn năng suất bình quân thì:<br>
+ Đẩy năng suất bình quân lên<br>
+ Đẩy năng suất bình quân xuống<br>
+ Đẩy năng suất cận biên lên<br>
+ Đẩy năng suất cận biên xuống<br>
+A<br>
+
+Trên đường sản phẩm bình quân, khi năng suất cận biên nhỏ hơn năng suất bình quân thì:<br>
+ Đẩy năng suất bình quân lên<br>
+ Đẩy năng suất bình quân xuống<br>
+ Đẩy năng suất cận biên lên<br>
+ Đẩy năng suất cận biên xuống<br>
+B<br>
+
+Trên đường sản phẩm bình quân, khi năng suất cận biên bằng năng suất bình quân thì:<br>
+ Đẩy năng suất bình quân lên<br>
+ Đẩy năng suất bình quân xuống<br>
+ Đẩy năng suất cận biên lên<br>
+ Năng suất bình quân không đổi (Ở điểm lớn nhất)<br>
+D<br>
+
+Hàm sản xuất biểu hiện:<br>
+ Mối quan hệ kỹ thuật giữa các yếu tố sản xuất - đầu vào của quá trình sản xuất và sản lượng đầu ra được tạo ra từ quá trình này<br>
+ Mối quan hệ giữa các yếu tố sản xuất - đầu vào của quá trình sản xuất, quá trình sản xuất và sản lượng đầu ra được tạo ra từ quá trình này<br>
+ Mối quan hệ giữa các chủ thể kinh tế trong đó nhà sản xuất là người đóng vai trò quyết định, dựa trên đầu vào sản xuất, quá trình sản xuất và sản lượng đầu ra được tạo ra từ quá trình này<br>
+ Không đáp án nào đúng<br>
+A<br>
+
+Cụ thể, hàm sản xuất cho biết điều gì ?<br>
+ Sản lượng hàng hóa có thể tạo ra<br>
+ Năng suất trung bình của lao động<br>
+ Sản lượng hàng hóa tối đa có thể tạo ra<br>
+ Năng suất trung bình của tư bản<br>
+C<br>
+
+Trong các yếu tố của hàm sản xuất, yếu tố không đổi là:<br>
+ Lao động<br>
+ Vốn<br>
+ Đất đai<br>
+ Công nghệ<br>
+D<br>
+
+Để nghiên cứu lý thuyết hành vi người sản xuất, cần có giả định gì để đơn giản hóa?<br>
+ Tất cả những người lao động đều cung cấp những dịch vụ lao động giống nhau<br>
+ Các hãng có hành vi là tối đa hóa lợi nhuận trong kinh tế thị trường<br>
+ A và B<br>
+ Không có đáp án nào đúng<br>
+C<br> 
+
+Hàm sản xuất tuyến tính có dạng:<br>
+ Q = aK + bL<br>
+ Q / L = a.(K.L) + b<br>
+ Q = a(K + L)<br>
+ Q / K = a.(K.L) + b<br>
+A<br>
+
+Hàm sản xuất Leontief có dạng:<br>
+ Q = max(aK, bL)<br>
+ Q = min(aK, bL)<br>
+ Q = max(a(K + L), b(K / L))<br>
+ Q = min(a(K + L), b(K / L))<br>
+B<br>
+
+Hàm sản xuất Cobb-Douglass có dạng:<br>
+ Q = A.(K^a).(L^b)
+ A > 0;  0 < a, b < 1<br>
+ Q = A.(K^a) + B.(L^b)
+ A > 0;  0 < a, b < 1<br>
+ Q = A.(K.L)^a
+ A > 0;  0 < a, b < 1<br>
+ Q = A.(K.L)^b
+ A > 0;  0 < a, b < 1<br>
+A<br>
+
+Dạng tuyến tính của hàm sản xuất Cobb-Douglass là:<br>
+ ln(Q) = (ln(A) / a.ln(K)) + (ln(A) / b.ln(L))<br>
+ ln(Q) = ln(A) + a.(ln(K) + ln(L))<br>
+ ln(Q) = ln(A) + a.ln(K) + b.ln(L)<br>
+ ln(Q) = ln(A) / ln(K)<br>
+C<br>
+
+Cho hàm sản xuất Cobb-Douglass:
+ Q = f(K, L) = A.(K^a).(L^b)
+Giả sử cố định K, năng suất cận biên của lao động được tính bằng công thức:<br>
+ MPL = A.(K^a)/(L^b)<br>
+ MPL = A.(K.L)/a<br> 
+ MPL = A.(K^a).b.L^(b-1)<br>
+ MPL = A.a.K^(a-1).L^b<br>
+C<br>
+
+Cho hàm sản xuất Cobb-Douglass:
+ Q = f(K, L) = A.(K^a).(L^b)
+Để xét mối quan hệ giữa năng suất cận biên của lao động (MPL) và yếu tố biến đổi K, ta tính bằng công thức:<br>
+ MPL = A.(K^a)/(L^b)<br>
+ MPL = A.(K.L)/a<br>
+ MPL = A.(K^a).b.L^(b-1)<br>
+ MPL = A.(K^a).b.(b-1).L^(b-2)<br>
+D<br>
+
+Khi xét mối quan hệ giữa năng suất cận biên của lao động và yếu tố biến đổi K. Quy luật năng suất cận biên giảm dần được thể hiện qua yếu tố nào?<br>
+ MPL nghịch biến theo L<br>
+ MPL nghịch biến theo a, b<br>
+ MPL đồng biến tăng dần theo L<br>
+ MPL đồng biến tăng dần theo a, b<br>
+A<br>
+
+Công cụ để phân tích sản xuất dài hạn là:<br>
+ Đường giới hạn khả năng sản xuất (PPF)<br>
+ Đường cung cầu thị trường<br>
+ Đường đồng sản lượng (Isoquant)<br>
+ Đường chi phí cơ hội gia tăng<br>
+C<br>
+
+Nhận xét nào sau đây đúng về đường đồng sản lượng (Isoquant) ?<br>
+ Cho thấy mối liên hệ giữa các yếu tố sản xuất đầu vào với sản lượng đầu ra của một đầu vào sản xuất<br>
+ Biểu thị tất cả những kết hợp yếu tố đầu vào khác nhau để hãng có thể sản xuất ra cùng một mức sản lượng Q<br>
+ Biểu diễn mối quan hệ giữa các nhân tố cố định và các nhân tố có thể thay đổi trong đầu vào sản xuất, quá trình sản xuất và sản lượng của đầu vào đó<br>
+ A và B<br>
+B<br>
+
+Đường đồng lượng có dạng:<br>
+ Dốc xuống về phía bên phải<br>
+ Dốc xuống về phía bên trái<br>
+ Thẳng đứng<br>
+ Nằm ngang<br>
+A<br>
+
+Trong một họ các đồng đồng lượng, khi thực hiện dịch chuyển từ đường đồng lượng này đến đường đồng lượng khác thì yếu tố không đổi là:<br>
+ Các yếu tố đầu vào<br>
+ Sản lượng sản phẩm sản xuất ra<br>
+ Năng suất trung bình<br>
+ Công nghệ<br>
+D<br>
+
+Khi vận động dọc theo đường sản lượng, nhận xét nào sau đây đúng?<br>
+ Mức sản lượng giữ nguyên nhưng lượng tư bản và lao động cần thiết để sản xuất ra mức sản lượng đó sẽ thay đổi<br>
+ Mức sản lượng thay đổi nhưng lượng tư bản và lao động cần thiết để sản xuất ra mức sản lượng đó sẽ giữ nguyên<br>
+ Mức sản lượng giữ nguyên nhưng lượng yếu tố đầu vào để sản xuất ra mức sản lượng đó sẽ thay đổi<br>
+ Mức sản lượng thay đổi nhưng lượng yếu tố đầu vào để sản xuất ra mức sản lượng đó sẽ giữ nguyên<br>
+A<br>
+
+Với một mức đầu ra cho trước, nếu sử dụng ngày càng nhiều hơn đầu vào này thì đầu vào kia sẽ:<br>
+ Được sử dụng nhiều hơn và ngược lại<br>
+ Được sử dụng ít hơn và ngược lại<br>
+ Số lượng sử dụng cố định (không đổi)<br>
+ Tăng giảm tùy thuộc vào mức độ sử dụng và năng suất lao động<br>
+B<br>
+
+Tỉ lệ thay thế kĩ thuật cận biên (MRTS) là:<br>
+ Tỷ lệ chênh lệch giữa các yếu tố sản xuất và sản lượng đầu ra sao cho khi cố định các yếu tố sản xuất thì sản lượng đầu ra không đổi<br>
+ Tỷ lệ phần trăm chênh lệch giữa các yếu tố sản xuất và sản lượng đầu ra sao cho khi cố định các yếu tố sản xuất thì sản lượng đầu ra không đổi<br> 
+ Tỷ lệ thay thế giữa các yếu tố sản xuất nhưng vẫn đảm bảo tạo ra một mức sản lượng không đổi<br>
+ Tỷ lệ thay thế phần trăm giữa các yếu tố sản xuất nhưng vẫn đảm bảo tạo ra một mức sản lượng không đổi<br>
+C<br>
+
+Ý nghĩa cụ thể của tỷ lệ thay thế kĩ thuật cận biên MRTS là:<br>
+ Lượng tư bản phải giảm đi bao nhiêu khi sử dụng thêm một đơn vị lao động để vẫn tạo ra được mức sản lượng như cũ<br>
+ Lượng tư bản phải tăng thêm bao nhiêu khi sử dụng thêm một đơn vị lao động để vẫn tạo ra được mức sản lượng như cũ<br>
+ Để tăng thêm 1 đơn vị sản lượng đầu ra thì lượng tư bản phải tăng thêm bao nhiêu khi sử dụng thêm một đơn vị lao động<br>
+ Để tăng thêm 1 đơn vị sản lượng đầu ra thì lượng tư bản phải giảm thêm bao nhiêu khi sử dụng thêm một đơn vị lao động<br>
+A<br>
+
+Trên đường đồng sản lượng, tỉ lệ thay thế kĩ thuật (MRTS) được biểu diễn bởi:<br>
+ Các điểm trên đường đồng sản lượng<br>
+ Độ dốc<br>
+ Độ dài<br>
+ Số giao điểm của đường này với đường khác<br>
+B<br>
+
+Công thức tính MRTS là:<br>
+ MRTS = ∆K/∆L<br>
+ MRTS = -∆K/∆L<br>
+ MRTS = ∆K.∆L<br>
+ A và B<br>
+D<br>
+
+Để biết rằng khi vận động dọc theo đường đồng sản lượng thì việc thay thế lao động cho tư bản thay đổi thế nào để giữ nguyên sản lượng, ta dựa vào biểu thức nào:<br>
+ MPL / MPK = ∆L / ∆K<br>
+ MPL.∆L + MPK.∆K = 0<br>
+ MPL.∆L / MPK.∆K = 1<br>
+ MPL.∆K - MPK.∆L = 0<br>
+B<br>
+
+Khi đầu vào là thay thế hoàn hảo, điều nào sau đây SAI?<br>
+ Các đường đồng lượng là các đường thẳng<br>
+ MRTS là một hằng số<br>
+ Các đường đồng lượng có độ dốc lớn<br>
+ Các đường Q1, Q2, ... Qn song song với nhau<br>
+C<br>
+
+Khi đầu vào là bổ sung hoàn hảo, điều nào sau đây đúng?<br>
+ Các đường đồng sản lượng có dạng đường tuyến tính<br>
+ Chỉ có một kết hợp lao động và tư bản có thể được sử dụng để sản xuất một sản lượng nhất định<br>
+ MRTS là một hằng số<br>
+ Các đường Q1, Q2, ... Qn song song với nhau<br>
+B<br>
+
+Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu rKhi đó ta có:<br>
+ 𝝀Q = f(hK, hL)<br>
+ 𝝀Q = f(K, L)<br>
+ 𝝀Q = f(hK / hL)<br>
+ 𝝀Q = f(hL / hK)<br>
+A<br>
+
+Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu rKhi nào thì hiệu suất tăng theo quy mô?<br>
+ 𝝀/h > 1<br>
+ 𝝀/h < 1<br>
+ 𝝀/h = 1<br>
+ 𝝀/h = 0<br>
+A<br>
+
+Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu rKhi nào thì hiệu suất giảm theo quy mô?<br>
+ 𝝀/h > 1<br>
+ 𝝀/h < 1<br>
+ 𝝀/h = 1<br>
+ 𝝀/h = 0<br>
+B<br>
+
+Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu rKhi nào thì hiệu suất không đổi theo quy mô?<br>
+ 𝝀/h > 1<br>
+ 𝝀/h < 1<br>
+ 𝝀/h = 1<br>
+ 𝝀/h = 0<br>
+C<br>
+
+Đối với hàm sản xuất Cobb-Douglass, hiệu suất giảm theo quy mô khi:<br>
+ α + β < 1<br>
+ α + β > 1<br>
+ α + β = 1<br>
+ α + β = 0<br>
+A<br>
+
+Đối với hàm sản xuất Cobb-Douglass, hiệu suất tăng theo quy mô khi:<br>
+ α + β < 1<br>
+ α + β > 1<br>
+ α + β = 1<br>
+ α + β = 0<br>
+B<br>
+
+Đối với hàm sản xuất Cobb-Douglass, hiệu suất không đổi theo quy mô khi:<br>
+ α + β < 1<br>
+ α + β > 1<br>
+ α + β = 1<br>
+ α + β = 0<br>
+C<br>
+
+Ngắn hạn là gì?<br>
+ Là khoảng thời gian trong đó có nhiều nhất một đầu vào của doanh nghiệp là cố định<br>
+ Là khoảng thời gian được dự tính trước sao cho các yếu tố đầu vào sản xuất của doanh nghiệp có thể sản xuất ra được một sản lượng Q cố định<br>
+ Là khoảng thời gian được chưa biết trước sao cho các yếu tố đầu vào sản xuất của doanh nghiệp có thể sản xuất ra được một sản lượng Q cố định<br>
+ Là khoảng thời gian trong đó có ít nhất một đầu vào của doanh nghiệp là cố định<br>
+D<br>
+
+Dài hạn là gì?<br>
+ Là khoảng thời gian trong đó doanh nghiệp dự trù trước lượng yếu tố sản xuất đầu vào để thay đổi năng suất lao động cho phù hợp<br>
+ Là khoảng thời gian trong đó doanh nghiệp có thể thay đổi tất cả các đầu vào sử dụng trong quá trình sản xuất<br>
+ Là khoảng thời gian mà khi cố định ít nhất một yếu tố đầu vào thì sản lượng đầu ra của doanh nghiệp không đổi<br>
+ A và B<br>
+B<br>
+
+Hàm sản xuất trong ngắn hạn giả sử rằng:<br>
+ Số lượng vốn là không đổi<br>
+ Các yếu tố công nghệ đầu vào là không đổi<br>
+ Số lượng lao động đầu vào là không đổi<br>
+ Vốn, con người, và đất đai không đổi<br>
+A<br>
+
+Chi phí tài nguyên là gì?<br>
+ Là chi phí các nguồn nhân lực tính bằng hiện vật để sản xuất ra sản phẩm<br>
+ Là chi phí các nguồn nhân lực mà nhà sản xuất sẵn có để sản xuất ra sản phẩm<br>
+ Là tổng chi phí mà nhà sản xuất phải trả để có được các nguyên liệu và yếu tố đầu vào để sản xuất ra sản phẩm<br>
+ Là tổng chi phí mà nhà sản xuất phải trả cho các nguồn nhân lực có sẵn để tạo ra sản phẩm<br>
+A<br>
+
+Đâu là cơ sở khoa học của việc nghiên cứu và xác định chi phí bằng tiền ?<br>
+ Nghiên cứu hàm sản xuất chi<br>
+ Nghiên cứu chi phí về tài nguyên<br>
+ Nghiên cứu sự biến đổi của các yếu tố đầu vào<br>
+ A và B<br>
+D<br>
+
+Chi phí kinh tế là gì ?<br>
+ Là giá trị toàn bộ các nguồn tài nguyên sử dụng để sản xuất ra hàng hóa dịch vụ<br>
+ Là chi phí các nguồn nhân lực tính bằng hiện vật để sản xuất ra sản phẩm<br>
+ Là chi phí bằng tiền mà hãng đã thực sự bỏ ra để sản xuất các hàng hóa dịch vụ<br>
+ Là chi phí mà nhà sản xuất cần trả cho các yếu tố đầu vào để tạo ra một sản lượng Q cố định<br>
+A<br>
+
+Chi phí tính toán/kế toán là gì ?<br>
+ Là giá trị toàn bộ các nguồn tài nguyên sử dụng để sản xuất ra hàng hóa dịch vụ<br>
+ Là chi phí các nguồn nhân lực tính bằng hiện vật để sản xuất ra sản phẩm<br>
+ Là chi phí bằng tiền mà hãng đã thực sự bỏ ra để sản xuất các hàng hóa dịch vụ<br>
+ Là chi phí mà nhà sản xuất cần trả cho các yếu tố đầu vào để tạo ra một sản lượng Q cố định<br>
+C<br>
+
+Mệnh đề nào sau đây đúng?<br>
+ Chi phí kinh tế là chi phí không cần thiết đối với thị trường cạnh tranh hoàn hảo<br>
+ Chi phí kinh tế lớn hơn chi phí kế toán<br>
+ Chi phi kinh tế là cơ sở cho các nhà sản xuất độc quyền xác định giá trị Q và P cho sản phẩm sao cho đạt được doanh thu lớn nhất<br>
+ Chi phi kinh tế là cơ sở cho các nhà sản xuất độc quyền xác định giá trị Q và P cho sản phẩm sao cho đạt được lợi nhuận lớn nhất<br>
+B<br>
+
+Vấn đề nào sau đây có ý nghĩa kinh tế quan trọng?<br>
+ Bao nhiêu nguồn tài nguyên đã được sử dụng làm yếu tố đầu vào để sản xuất ra một sản lượng Q cố định<br>
+ Bao nhiêu nguồn tài nguyên đã được sử dụng làm yếu tố đầu vào để sản xuất ra hàng hóa<br>
+ Bao nhiêu nguồn tài nguyên xã hội đã được sử dụng trong sản xuất ra hàng hóa và dịch vụ<br>
+ Bao nhiêu nguồn tài nguyên xã hội đã được sử dụng làm yếu tố đầu vào để sản xuất ra một sản lượng Q cố định<br>
+C<br>
+
+Chi phí chìm là:<br>
+ Chi phí cơ hội mà nhà sản xuất không lường trước được<br>
+ Khoản tiền mà nhà sản xuất bỏ ra để tiến hành cải thiện các yếu tố đầu vào<br>
+ Những khoản chi tiêu đã được thực hiện và không thể thu hồi được<br>
+ Chi phí của những cơ hội tốt nhất đã bị bỏ qua trong quá trình cải thiện các yếu tố đầu vào<br>
+C<br>
+
+Chi phí cố định (FC) là:<br>
+ Những chi phí không thay đổi khi sản lượng thay đổi<br>
+ Những chi phí phụ thuộc vào các mức sản lượng, tăng giảm cùng việc tăng giảm của sản lượng<br>
+ Chi phí mà nhà sản xuất chi trả cho các yếu tố đầu vào để sản xuất ra một sản lượng Q cố định<br>
+ Không có đáp án nào đúng<br>
+A<br>
+
+Chi phí biến đổi (VC) là:<br>
+ Những chi phí không thay đổi khi sản lượng thay đổi<br>
+ Những chi phí phụ thuộc vào các mức sản lượng, tăng giảm cùng việc tăng giảm của sản lượng<br>
+ Chi phí mà nhà sản xuất chi trả cho các yếu tố đầu vào để sản xuất ra một sản lượng Q cố định<br>
+ Không có đáp án nào đúng<br>
+A<br>
+
+Đâu là công thức chính xác để tính tổng chi phí (TC) ?<br>
+ TC = TR - TB<br>
+ TC = FC + VC<br>
+ TC = TR - P*Q<br>
+ TC = P*Q - FC<br>
+B<br>
+
+Chi phí cố định bình quân (AFC) là:<br>
+ Là tổng chỉ phí cố định trên 1 sản phẩm<br>
+ Là tổng chi phí cố định của yếu tố sản xuất đầu vào trên 1 đơn vị sản lượng<br>
+ Là tỉ lệ chỉ phí cố định trên 1 sản phẩm<br>
+ Là tỉ lệ chi phí cố định của yếu tố sản xuất đầu vào trên 1 đơn vị sản lượng<br>
+A<br>
+
+Chi phí biến đổi bình quân (AVC) là:<br>
+ Là tổng chi phí biến đổi tính trên một đơn vị sản phẩm<br>
+ Là tổng chi phí biến đổi của yếu tố sản xuất đầu vào trên 1 đơn vị sản lượng<br>
+ Là tỉ lệ chỉ phí biến đổi trên 1 sản phẩm<br>
+ Là tỉ lệ chi phí biến đổi của yếu tố sản xuất đầu vào trên 1 đơn vị sản lượng<br>
+A<br>
+
+Tổng chi phí bình quân (ATC) có công thức tính là:<br>
+ ATC = (AFC + AVC) / 2<br>
+ ATC = (AFC + AVC) / (FC + VC)<br>
+ ATC = AFC + AVC<br>
+ ATC = AFC.AVC<br>
+C<br>
+
+Đẳng thức nào sau đây là phương trình của đường đồng chi phí (Isocost) ?<br>
+TC = r.K + w.L<br>
+TC = P(K).K + P(L).L<br>
+TC = (PL / L) + (PK / K)<br>
+Cả A và B<br>
+D<br>
+
+Giả sử hãng muốn tối thiểu hóa chi phí với mức sản lượng nhất định thì yếu tố nào sau đây KHÔNG phải là điều kiện để kết hợp tối ưu giữa vốn và lao động:<br>
+Nó phải nằm trên đường đòng sản lượng Q<br>
+Nằm ở đường đồng chi phí thấp nhất có thể<br>
+Độ dốc của đường đồng chi phí phải là nhỏ nhất<br>
+Nằm ở tiếp điểm giữa đường đồng sản lượng và đường chi phí thấp nhất có thể<br>
+C<br>
+
+Điều kiện để lựa chọn đầu vào tối ưu của hãng đạt được xác định bằng biểu thức nào sau đây:<br>
+w.MPL = MPL.r<br>
+MPL / L = MPK / K<br>
+MPL / K = MPK / L<br>
+r.MPL = MPK.w<br>
+D<br>
+
+Công thức tính chi phí bình quân dài hạn (LAC) là:<br>
+MPL/Q<br>
+LTC/Q<br>
+LMC/Q<br>
+MPK/Q<br>
+B<br>
+
+Nhận xét nào sau đây KHÔNG đúng về lợi nhuận?<br>
+Là mục tiêu kinh tế quan trọng nhất<br>
+Là điều kiện tồn tại và phát triển của hãng<br>
+Là mục tiêu duy nhất đối với hành vi của hãng<br>
+Là động lực thúc đẩy các hãng phát triển sản xuất kinh doanh<br>
+C<br>
+
+Đâu là công thức cơ bản để tính lợi nhuận?<br>
+Pi = TR - TC<br>
+Pi = MR - MC<br>
+Pi = P*Q<br>
+Cả A và C<br>
+A<br>
+
+Biểu thức toán học để tính lợi nhuận π là:<br>
+π = TB - TC<br>
+π = Q.(P - ATC)<br>
+π = TR - VC<br>
+π = PS - VC<br>
+B<br>
+
+Biểu thức toán học để tính lợi nhuận π dựa trên thặng dư PS là:<br>
+π = PS - TC<br>
+π = PS - FC<br>
+π = PS - VC<br>
+π = PS - MC<br>
+B<br>
+
+Lợi nhuận kinh tế là:<br>
+Phần chênh lệch giữa tổng doanh thu và tổng chi phí kinh tế<br>
+Phần chênh lệch giữa tổng doanh thu và tổng chi phí tính toán<br>
+Phần chênh lệnh giữa tổng chi phí của lượng sản phẩm bán ra với tổng chi phí dùng cho các yếu tố sản xuất đầu vào để tạo ra sản phẩm đó<br>
+Không có đáp án đúng<br>
+A<br>
+
+Lợi nhuận tính toán là:<br>
+Phần chênh lệch giữa tổng doanh thu và tổng chi phí kinh tế<br>
+Phần chênh lệch giữa tổng doanh thu và tổng chi phí tính toán<br>
+Phần chênh lệnh giữa tổng chi phí của lượng sản phẩm bán ra với tổng chi phí dùng cho các yếu tố sản xuất đầu vào để tạo ra sản phẩm đó<br>
+Không có đáp án đúng<br>
+<br>
+
+Đâu KHÔNG phải là một nhân tố tác động đến lợi nhuận<br>
+Quy mô sản xuất hàng hóa, dịch vụ<br>
+Giá và chất lượng của các đầu vào<br>
+Quá trình tiêu thụ và thu hồi tư bản<br>
+Giá bán hàng hóa dịch vụ cùng các hoạt động như marketing, công tác tài chính.<br>
+C<br>
+
+Biểu thức nào sau đây KHÔNG phải biểu thức để tối đa hóa lợi nhuận:<br>
+π' = 0<br>
+MR = MC<br>
+TR' - TC' = 0<br>
+MPL = MPK<br>
+D<br>
+
+Thuế sản lượng là gì?<br>
+Là tiền thuế phải nộp được tính trên sản lượng sản phẩm bán ra<br>
+Là tiền thuế phải nộp cố định với mỗi doanh nghiệp, không phụ thuộc sản phẩm bán ra<br>
+Là tiền thuế phải nộp tỉ lệ với số lượng các yếu tố đầu vào để sản xuất một lượng đầu ra Q cố định<br>
+A và C<br>
+A<br>
+
+Thuế khoán là gì?<br>
+Là tiền thuế phải nộp được tính trên sản lượng sản phẩm bán ra<br>
+Là tiền thuế phải nộp cố định với mỗi doanh nghiệp, không phụ thuộc sản phẩm bán ra<br>
+Là tiền thuế phải nộp tỉ lệ với số lượng các yếu tố đầu vào để sản xuất một lượng đầu ra Q cố định<br>
+A và C<br>
+B<br>
+
+Hiệu suất không đổi theo quy mô có nghĩa là:<br>
+Tăng 𝝀 lần các đầu vào sẽ làm giảm 𝝀 lần sản lượng<br>
+Tăng 𝝀 lần các đầu vào sẽ làm tăng 𝝀 lần sản lượng<br>
+Sản lượng đầu ra không đổi khi tăng 𝝀 lần các yếu tố đầu vào<br>
+Sản lượng đầu ra không đổi khi giảm 𝝀 lần các yếu tố đầu vào<br>
+B<br>
+
+Hiệu suất tăng theo quy mô xảy ra khi nào?<br>
+Sản lượng tăng hơn gấp 𝝀 lần khi các đầu vào tăng 𝝀 lần<br>
+Sản lượng tăng lên chưa đến 𝝀 lần khi các đầu vào tăng 𝝀 lần<br>
+Quy mô tăng lên 𝝀 lần khiến hiệu suất tăng lên 𝝀%<br>
+Các yếu tố đầu vào được tăng lên 𝝀 lần<br>
+A<br>
+
+Hiệu suất giảm theo quy mô khi nào?<br>
+Sản lượng tăng hơn gấp 𝝀 lần khi các đầu vào tăng 𝝀 lần<br>
+Sản lượng tăng lên chưa đến 𝝀 lần khi các đầu vào tăng 𝝀 lần<br>
+Quy mô tăng lên 𝝀 lần khiến hiệu suất tăng lên 𝝀%<br>
+Các yếu tố đầu vào được tăng lên 𝝀 lần<br>
+B<br>
+
+Ngoài phát sinh từ mối quan hệ sản xuất kĩ thuật, nguồn gốc tính kinh tế của quy mô KHÔNG phát sinh từ:<br>
+Sự tồn tại của khả năng không chia được của các đầu vào<br>
+Chuyên môn hóa và phân công lao động<br>
+Sự hiện đại và kịp thời của các lao động<br>
+Ảnh hưởng rút kinh nghiệm<br>
+C<br>
+
+Đâu KHÔNG phải một phương pháp ước lượng tính kinh tế của quy mô?<br>
+Ước lượng thống kê<br>
+Phương pháp kĩ thuật, công nghệ<br>
+Kĩ thuật điều tra các doanh nghiệp sống sót<br>
+Không có đáp án đúng<br>
+D<br>
+
+Sản phẩm cận biên của vốn là<br>
+Sự thay đổi trong tổng sản phẩm do sử dụng thêm một đơn vị lao động, với lượng vốn không đổi<br>
+Sự thay đổi trong tổng sản phẩm do sản phẩm do sử dụng thêm một đơn vị vốn, với lượng lao động không đổi<br>
+Tổng sản phẩm chia cho tổng số vốn sử dụng, với lao động không đổi<br>
+Tổng sản phẩm chia cho tổng số lao động, với số vốn không đổi<br>
+B<br>
+
+Khi sản phẩm cận biên của lao động lớn hơn sản phẩm trung bình của lao động<br>
+Sản phẩm trung bình của lao động đang tăng<br>
+Sản phẩm cận biên của lao động đang giảm<br>
+Đường tổng sản phẩm có độ dốc âm<br>
+Hãng đang có năng suất cận biên giảm dần<br>
+A<br>
+
+Đường tổng sản phẩm là đồ thị của<br>
+Chi phí tối thiểu để sản xuất một số lượng nhất định đầu ra sử dụng những công nghệ khác nhau<br>
+Lợi nhuận tối đa đạt được từ mỗi đơn vị sản phẩm bán ra<br>
+Sản lượng tối đa đạt được từ mỗi số lượng đầu vào biến đổi được sử dụng<br>
+Sản lượng tối thiểu đạt được từ mỗi số lượng đầu vào được biến đổi được sử dụng<br>
+C<br>
+
+Đường tổng sán phẩm càng dốc<br>
+Mức sản lượng càng cao<br>
+Đường sản phẩm cận biên càng thấp<br>
+Đường tổng chi phí càng cao<br>
+Đường sán phẩm cận biên càng cao<br>
+D<br>
+
+Giả định công ty Xuân Thu có một lượng tài sản cố định dưới hình thức máy dệt. Công ty chỉ có thay đổi sản lượng bằng cách thay đổi lượng lao động. Đây là ví dụ về:<br>
+Các ràng buộc thị trường<br>
+B.Hiệu quả kinh tế<br>
+Sản xuất ngắn hạn<br>
+D.Sản xuất dài hạn<br>
+C<br>
+
+Một hãng sử dụng phương pháp sản xuất tối thiểu hóa chi phí; sản phẩm cận biện của vốn là 10, giá của một đơn vị vốn là 40 và giá của một đơn vị lao động là 16. Sản phẩm cận biện của lao động là bao nhiêu<br>
+8<br>
+2<br>
+10<br>
+4<br>
+D<br>
+
+Hàm sản xuất nào dưới đây cho biết hiệu suất tăng dần theo quy mô<br>
+Q= 2K+3L<br>
+Q= 0,5KL<br>
+Q= 0,5(K^0,5)(l^0,5)<br>
+Q= 0,5(K^0,4)(l^0,4)<br>
+B<br>
+
+Khi hãng tăng lượng đầu vào từ (2L,2K) lên (3L,6K) thì sản lượng đầu ra tăng từ 25 lên 35 . Hàm sản xuất của hãng cho biết<br>
+Hiệu suất tăng theo quy mô<br>
+Hiệu suất giảm theo quy mô<br>
+Hiệu suất không đổi theo quy mô<br>
+Không câu nào đúng<br>
+B<br>
+
+Hàm sản xuất nào dưới đây cho biết hiệu suất giảm dần theo quy mô<br>
+Q= 2K+3L<br>
+Q= 0,5KL<br>
+Q= 0,5(K^0,5)(l^0,5)<br>
+Q= 0,5(K^0,4)(l^0,4)<br>
+D<br>
+
+Nếu chi phí lao động là 50$ một ngày và chi phí thuê máy là 100$ một ngày, kết hợp vốn và lao động nào hãng có thể thuê với 900$?<br>
+10 máy móc và 4 lao động<br>
+9 máy móc và 7 lao động<br>
+8 máy móc và 8lao động<br>
+4 máy móc và 10 lao động<br>
+D<br>
+
+Tỷ lệ lãi suất là 10% / năm. Bạn đầu tư 150 triệu đồng tiền riêng của mình vào một công việc kinh doanh và kiếm được lợi nhuận tính toán 40 triệu đồng sau một năm. Giả định các yếu tố khác không đổi thì lợi nhuận kinh tế bạn thu được là<br>
+20 triệu đồng<br>
+25 triệu đồng<br>
+5 triệu đồng<br>
+2 triệu đồng<br>
+B<br>
+
+Khi hãng tăng lượng đầu vào từ (2L,2K) lên (4L,4K) thì sản lượng đầu ra tăng từ 20 lên 45 . Hàm sản xuất của hãng cho biết<br>
+Hiệu suất tăng theo quy mô<br>
+Hiệu suất giảm theo gia mô<br>
+Hiệu suất không đổi theo quy mô<br>
+Không câu nào đúng<br>
+A<br>
+
+Giả sử tăng thêm 1 đơn vị lao động, từ 2 lên 3 công nhân , sản lượng tăng từ 10 đến 18 áo len. Sản  phẩm cận biên của người công nhân thứ 3 là:<br>
+1<br>
+3<br>
+4<br>
+8<br>
+D<br>
+
+Hàm sản xuất nào dưới đây cho biết hiệu suất không đổi theo quy mô<br>
+Q= 2K+3L<br>
+Q= 0,5KL<br>
+Q= 0,5(K^0,5)(l^0,5)<br>
+Cả A và C<br>
+D<br>
+
+Trong những tuyên bố đề cập đến chi phí ngắn hạn dưới đây, tuyên bố nào là sai?<br>
+Tổng chi phí trung bình và chi phí biến đổi trung bình có dạng chữ U<br>
+Khoảng cách giữa tổng chi phí trung bình và chi phí biến đổi trung bình thu hẹp dần là chi phí cận biên<br>
+Khoảng cách giữa tổng chi phí trung bình và chi phí biến đổi trung bình thu hẹp dần khi sản lượng tăng<br>
+Đường chi phí cận biên cắt đường chi phí biến đổi trung bình ở điểm cực tểu của chi phí biến đổi trung bình<br>
+B<br>
+
+Nếu đường MC nằm phía trên đường AVC thì khi sản lượng tăng lên điều nào dưới đây là đúng:<br>
+ATC không đổi<br>
+AFC tăng lên<br>
+AVC giảm xuống<br>
+AVC tăng lên<br>
+D<br>
+
+Khoảng cách theo chiều thẳng đứng giữa TC và VC là:<br>
+Giảm xuống khi sản lượng tăng lên<br>
+AFC<br>
+FC<br>
+MC<br>
+C<br>
+
+Chi phí cận biên MC cắt<br>
+ATC, AVC và AFC tại điểm cực tiểu của chúng<br>
+ATC, AFC tại điểm cực tiểu của chúng<br>
+AVC và AFC tại điểm cực tiểu của chúng<br>
+ATC và AVC tại điểm cực tiểu của chúng<br>
+D<br>
+
+
+
+
+
+
+Phát biểu nào sau đây không phải là một đặc điểm của thị trường cạnh tranh hoàn hảo?<br>
+ Có vô số người mua và người bán trên thị trường<br>
+ Sản phẩm đồng nhất và người mua có đầy thông tin về sản phẩm<br>
+ Thông tin trên thị trường là hoàn hảo<br>
+ Việc xâm nhập và rút khỏi thị trường phải được thị trường xác nhận<br>
+D<br>
+
+Đâu là đặc trưng của hành vi cạnh tranh hoàn hảo ?<br>
+ Hãng cạnh tranh hoàn hảo là người chấp nhận giá thị trường<br>
+ Hãng cạnh tranh hoàn hảo có thể bán tất cả sản lượng của mình ở mức giá thị trường<br>
+ Hãng cạnh tranh hoàn hảo đặt ra một mức giá ban đầu và để thị trường tự cân bằng mức giá đó<br>
+ Hãng cạnh tranh hoàn hảo không có sức mạnh thị trường<br>
+C<br>
+
+Mục đích ngắn hạn của một nhà sản xuất là:<br>
+ Xác định được sản lượng mang lại lợi nhuận tối đa<br>
+ Tối đa hoá doanh thu sao cho tổng chi phí là thấp nhất<br>
+ Tối đa hoá doanh thu bằng việc cải thiện và đầu tư cho các yếu tố đầu vào để sản lượng sản xuất được giữ ở một mức Q cố định<br>
+ Cả 3 đáp án trên<br>
+A<br>
+
+Mọi hãng sản xuất đều tìm kiếm mức sản lượng mà tại đó<br>
+ TR max<br>
+ MR – MC = 0<br>
+ MR max<br>
+ TC min<br>
+B<br>
+
+Quy tắc lựa chọn sản phẩm mang lại lợi nhuận tối đa với hãng cạnh tranh hoàn hảo là<br>
+ MC = P<br>
+ MC = MR<br>
+ MC = 0<br>
+ MR = 0<br>
+A<br>
+
+Hãng cạnh tranh hoàn hảo đối mặt với đường cầu<br>
+ Dốc về bên phải<br>
+ Dốc về bên trái<br>
+ Nằm ngang<br>
+ Thẳng đứng<br>
+C<br>
+
+Lợi nhuận đơn vị được tính bằng công thức:<br>
+ P – ATC<br>
+ P – AFC<br>
+ P – AVC<br>
+ P*Q – ATC<br>
+A<br>
+
+Điểm hoà vốn (break-even) là điểm mà tại đó:<br>
+ P = ATC min<br>
+ TR = TC<br>
+ TR max, TC min<br>
+ A và B<br>
+ D<br>
+
+Điểm đóng cửa là điểm mà tại đó:<br>
+ P < AVC min<br>
+ P < ATC min<br>
+ P <= ATC min<br>
+ P <= AVC min<br>
+D<br>
+
+Hãng nên đóng cửa sản xuất trong trường hợp nào sau đây<br>
+ TR <= VC<br>
+ TR <= FC<br>
+ TR <= AVC<br>
+ TC <= ATC<br>
+A<br>
+
+Đường cung của hãng cạnh tranh hoàn hảo là:<br>
+ Đường chi phí cận biên<br>
+ Đường chi phí cận biên, phần nằm bên trên điểm đóng cửa<br>
+ Đường chi phí cận biên, phần nằm bên dưới điểm đóng cửa<br>
+ Đường chi phí cận biên, đi qua điểm đóng cửa<br>
+B<br>
+
+Đường cung trong thị trường cạnh tranh hoàn hảo là<br>
+ Tổng hợp các đường cung của hãng theo chiều dọc<br>
+ Tổng hợp các đường cung của hãng theo đường chéo<br>
+ Tổng hợp các đường cung của hãng theo chiều ngang<br>
+ Tổng hợp trung bình của các đường cung thị trường đang có trên đồ thị sao cho đường ấy đi qua điểm cân bằng thị trường<br>
+C<br>
+
+Đường cung ngắn hạn của các hãng cạnh tranh hoàn hảo dốc lên do quy luật nào sau đây:<br>
+ Quy luật chi phí cơ hội tăng dần<br>
+ Quy luật chi phí cận biên giảm dần<br>
+ Quy luật năng suất cận biên giảm dần<br>
+ B và C<br>
+C<br>
+
+Công thức nào sau đây dùng để tính thặng dư sản xuất?<br>
+ PS = TR – VC<br>
+ PS = MR – MC<br>
+ PS = Lợi nhuận – ATC<br>
+ PS = Lợi nhuận – AVC<br>
+A<br>
+
+Lợi nhuận kinh tế càng cao khi<br>
+ Doanh thu càng cao<br>
+ Thặng dư sản xuất càng cao<br>
+ Chi phí dành cho lao động càng thấp<br>
+ Các yếu tố đầu vào đáp ứng vừa đủ hoặc hơn để sản xuất một lượng Q cố định<br>
+B<br>
+
+Điều kiện cân bằng dài hạn của hãng là:<br>
+ MC = ATC = P<br>
+ MR = ATC = P<br>
+ MC = AVC = P<br>
+ MR = AVC = P<br>
+A<br>
+ 
+Hiệu quả sản xuất đạt được khi nào<br>
+ ATC min<br>
+ AVC min<br>
+ TR max<br>
+ Lợi nhuận max<br>
+A<br>
+
+Giá thị trường của sản phẩm bị ảnh hưởng thế nào nếu thuế chỉ đánh vào sản lượng của một hãng ?<br>
+ Giá thị trường giảm xuống<br>
+ Giá thị trường tăng lên<br>
+ Giá thị trường không đổi<br>
+ Giá thị trường thay đổi lên xuống tuỳ thuộc vào mức độ co giãn của sản phẩm<br>
+C<br>
+
+Giả sử đánh một lượng thuế t vào sản lượng của một hãng thì đường chi phí cận biên của hãng dịch chuyển thế nào?<br>
+ Dịch chuyển lên trên một khoảng t / 2<br>
+ Dịch chuyển lên trên một khoảng t<br>
+ Dịch chuyển xuống dưới một khoảng t / 2<br>
+ Dịch chuyển xuống dưới một khoảng t<br>
+B<br>
+ 
+Giá thị trường bị ảnh hưởng thế nào nếu đánh một lượng thuế t vào tất cả các hãng trong thị trường<br>
+ Giá tăng một khoảng t<br>
+ Giá tăng một khoảng nhỏ hơn t<br>
+ Giá tăng một khoảng lớn hơn t<br>
+ Giá tăng một khoảng t/2<br>
+B<br>
+
+Hãng thị trường cạnh tranh lựa chọn sản lượng trong điều kiện giả định là:<br>
+ Cầu hoàn toàn co giãn và đường cầu trùng đường MR<br>
+ Cầu ít co giãn và đường cầu trùng đường MR<br>
+ Cầu hoàn toàn không co giãn và đường cầu trùng đường MR<br>
+ Cầu co giãn đơn vị và đường cầu trùng đường MR<br>
+A<br>
+
+Điều nào sau đây SAI về sự can thiệp của chính phủ vào thị trường cạnh tranh hoàn hảo?<br>
+ Các chính sách của chính phủ có thể được phân tích bằng các mô hình đơn giản về cung cầu<br>
+ Chính phủ áp đặt thuế sẽ khiến giá thị trường thường không tăng hay giảm bằng lượng thuế<br>
+ Sự can thiệp của chính phủ thường làm lợi ích ròng của xã hội bị mất đi<br>
+ Chính phủ có thể dùng thặng dư tiêu dùng và thặng dư sản xuất để phân tích quá trình biến đổi của thị trường, từ đó áp đặt các chính sách sao cho hiệu quả<br>
+D<br>
+
+
+
+
+
+Một nhà độc quyền sẽ tăng mức giá tối đa hóa lợi nhuận khi<br>
+ Chi phí cố định tăng<br>
+ Chi phí cận biên tăng<br>
+ Chi phí cố định trung bình giảm<br>
+ Chi phí biến đổi giảm<br>
+B<br>
+ 
+Khi nhà độc quyền nâng lượng bán từ 7 đến 8 sản phẩm thì giá của sản phẩm bị tụt từ 7 triệu đồng xuống 6 triệu đồng. Doanh thu cận biên của sản phẩm cuối là bao nhiêu<br>
+ 48 triệu đồng<br>
+ 6 triệu đồng<br>
+ 1 triệu đồng<br>
+ -1 triệu đồng<br>
+D<br>
+ 
+Giả sử rằng chi phí cố định của nhà độc quyền tăng gấp đôi. Điều này dẫn đến<br>
+ Tăng gấp đôi mức giá tối đa hóa lợi nhuận do nhà độc quyền đặt ra<br>
+ Lợi nhuận giảm đi một nửa so với mức nhà độc quyền thu được trước khi chi phí tăng<br>
+ Đóng cửa sản xuất nếu giá không thay đổi tương ứng<br>
+ Không có sự thay đổi trong mức giá tối đa hóa lợi nhuận do nhà độc quyền đặt ra nếu nó không đóng cửa sản xuất<br>
+D<br>
+
+Nhà độc quyền đối diện với đường cầu dốc xuống, doanh thu cận biên không bao giờ lớn hơn giá vì<br>
+ Người sản xuất sản phẩm thay thế duy trì giá thấp<br>
+ Nhà độc quyền phải giảm giá để bán thêm sản phẩm trong bất kì giai đoạn nào<br>
+ Nhà độc quyền sẽ là một tập đoàn lớn hơn với chi phí cố định cao hơn<br>
+ Nhà độc quyền phải chấp nhận doanh thu cận biên vì nó được suy ra từ đường cầu thị trường<br>
+B<br>
+ 
+Để một nhà độc quyền có thể thực hiện phân biệt giá<br>
+ Nhà độc quyền phải có khả năng phân đoạn thị trường theo những mức giá khác nhau mà người tiêu dùng sẵn sàng trả<br>
+ Nhà độc quyền phải là người chấp nhận giá<br>
+ Nhà độc quyền phải có chi phí cận biên khác nhau cho những mức sản lượng khác nhau<br>
+ Nhà độc quyền phải giảm chi phí biến đổi trung bình<br>
+A<br>
+ 
+Một nhà độc quyền sẽ đóng cửa trong ngắn hạn khi<br>
+ Giá không đủ bù đắp doanh thu cận biên<br>
+ Giá không đủ bù đắp tổng chi phí trung bình<br>
+ Lợi nhuận nhỏ hơn lợi nhuận thông thường<br>
+ Giá không đủ bù đắp được chi phí biến đổi trung bình<br>
+D<br>
+ 
+Một hãng độc quyền hiện đang ở vị trí tối đa hóa lợi nhuận. Giả định chi phí đầu vào biến đổi giảm, sẽ dẫn đến hãng độc quyền<br>
+ Bán hàng hóa của mình ở mức giá thấp hơn, bán số lượng lớn hơn, và thu lợi nhuận lớn hơn trước đây<br>
+ Bán hàng hóa của mình ở mức giá thấp hơn, bán số lượng lớn hơn, và thu lợi nhuận nhỏ hơn trước đây<br>
+ Bán hàng hóa của mình ở mức giá như cũ, bán số lượng lớn hơn, và thu lợi nhuận lớn hơn trước đây<br>
+ Bán hàng hóa của mình ở mức giá cao hơn, bán số lượng thấp hơn, và thu lợi nhuận lớn hơn trước đây<br>
+A<br>
+ 
+Nhà độc quyền thường thu lợi nhuận kinh tế dương vì<br>
+ Họ nhận được trợ cấp chính phủ<br>
+ Khả năng định giá đảm bảo lợi nhuận kinh tế dương<br>
+ Các rào cản gia nhập ngăn chặn sự giảm giá<br>
+ Việc nắm giữ rủi ro độc quyền đảm bảo lợi nhuận kinh tế<br>
+C<br>
+ 
+Khi doanh thu cận biên tại mức sản lượng nào đó là số âm thì<br>
+ Nhà độc quyền phải tăng sản lượng<br>
+ Cầu tại mức sản lượng đó là không co giãn<br>
+ Cầu tại mức sản lượng đó là co giãn<br>
+ Nhà độc quyền phải đóng cửa sản xuất<br>
+B<br>
+ 
+Một nhà độc quyền sẽ giảm mức giá tối đa hóa lợi nhuận khi<br>
+ Chi phí cố định giảm xuống<br>
+ Chi phí cận biên giảm<br>
+ Tổng chi phí trung bình giảm<br>
+ Chi phí cố định trung bình giảm<br>
+B<br>
+ 
+Đối với một nhà độc quyền sự thay đổi tổng doanh thu do bán thêm một đơn vị sản phẩm<br>
+ Bằng giá sản phẩm<br>
+ Lớn hơn giá sản phẩm<br>
+ Lớn hơn chi phí cận biên<br>
+ Nhỏ hơn giá sản phẩm<br>
+D<br>
+ 
+Đường cung của độc quyền bán<br>
+ Là đường chi phí cận biên<br>
+ Là đường chi phí cận biên phía trên chi phí biến đổi trung bình<br>
+ Là đường doanh thu cận biên<br>
+ Trong độc quyền không có đường cung<br>
+D<br>
+ 
+Phân biệt giá hoàn hảo là có lợi vì<br>
+ Giá có thể đặt ra thấp hơn cho những người mua có cầu không co giãn<br>
+ Giá có thể đặt ra thấp hơn cho những người mua có cầu co giãn<br>
+ Cầu là co giãn hoàn toàn<br>
+ Người bán có thể đặt giá cao hơn cho những người mua có cầu co giãn<br>
+B<br>
+ 
+Đối với một hãng độc quyền tự nhiên, đường tổng chi phí trung bình<br>
+ Luôn giảm khi hãng tăng sản lượng<br>
+ Không đổi khi hãng tăng sản lượng<br>
+ Luôn tăng khi hãng tăng sản lượng<br>
+ Có thể giảm hoặc tăng khi hãng tăng sản lượng<br>
+A<br>
+
+Với một nhà độc quyền bán, điều nào dưới đây sai<br>
+ Không có mối quan hệ một - một duy nhất giữa giá và lượng bán<br>
+ Với bất kì mức sản lượng nào lơn hơn 0, MR = AR<br>
+ Đường cầu của ngành là đường cầu của nhà độc quyền<br>
+ Tổng doanh thu cực đại khi MR = 0<br>
+B<br>
+ 
+Hãng độc quyền bán không bao giờ hoạt động<br>
+ Ở phần co giãn của đường cầu<br>
+ Ở phần đường cầu co giãn đơn vị<br>
+ Ở phần không co giãn của đường cầu<br>
+ Không câu nào đúng<br>
+C<br>
+ 
+Nếu doanh thu cận biên dương ở mức sản lượng nhất định, khi đó<br>
+ Một hãng độc quyền tối đa hóa lợi nhuận sẽ giảm sản lượng<br>
+ Cầu co giãn ở mức sản lượng đó<br>
+ Cầu không co giãn ở mức sản lượng đó<br>
+ Một hãng tối đa hóa lợi nhuận sẽ tăng sản lượng<br>
+B<br>
+ 
+Một hãng độc quyền tối đa hóa lợi nhuận sẽ không bao giờ sản xuất ở mức sản lượng<br>
+ Mà hãng sẽ bị thua lỗ<br>
+ Mà doanh thu cận biên nhỏ hơn giá<br>
+ Mà chi phí trung bình lớn hơn chi phí cận biên<br>
+ Trong miền không co giãn của đường cầu<br>
+D<br>
+
+Doanh thu cận biên của một hãng độc quyền bán là<br>
+ Sự thay đổi tổng doanh thu khi bán thêm một đơn vị sản phẩm<br>
+ Giá mà nhà độc quyền đặt cho sản phẩm<br>
+ Lợi nhuận nhà độc quyền thu được vượt hơn so với lợi nhuận của một hãng trong ngành cạnh tranh<br>
+ Thường lớn hơn giá<br>
+A<br>
+ 
+Nhà độc quyền tối đa hóa lợi nhuận bằng cách<br>
+ Sản xuất số lượng sản phẩm tại mức doanh thu cận biên bằng chi phí cận biên<br>
+ Sản xuất mức sản lượng tại chi phí cận biên bằng giá<br>
+ Đặt giá bằng chi phí cận biên<br>
+ Đặt mức giá cao nhất mà thị trường có thể chấp nhận<br>
+A<br>
+
+Trong các nguyên nhân dưới đây, đâu không phải nguyên nhân hình thành thị trường độc quyền?<br>
+ Sở hữu về phát minh sáng chế, giấy phép kinh doanh, luật bản quyền,...<br>
+ Kiểm soát toàn bộ các yếu tố đầu vào<br>
+ Tính kinh tế của quy mô: Độc quyền tự nhiên: ATC tăng khi Q tăng<br>
+ Quy định của chính phủ<br>
+C<br>
+
+Trong các giả định dưới đây, đâu không phải giả định của thị trường độc quyền?<br>
+ Chỉ có một hãng duy nhất cung cấp trên thị trường<br>
+ Sản phẩm không có hàng hóa thay thế gần gũi<br>
+ Hoàn toàn không có sự gia nhập thị trường<br>
+ Có sự gia nhập thị trường<br>
+D<br>
+
+Trong các ý dưới đây, đâu là đặc điểm của hãng độc quyền?<br>
+ Hãng độc quyền là người chấp nhận giá, giá do cung - cầu quyết định<br>
+ Đường cầu của hãng độc quyền chính là đường cầu thị trường, và cũng chính là đường doanh thu bình quân, có dạng là đường dốc xuống<br>
+ Doanh thu cận biên của hãng độc quyền luôn lớn hơn giá bán hàng hóa<br>
+ Đường MR luôn nằm dưới đường cầu<br>
+B<br>
+
+Lợi nhuận tối đa của hãng độc quyền được tính theo công thức nào?<br>
+ π = Q * (P - ATC)<br>
+ π = Q * (ATC - P)<br>
+ π = Q * (ATC + P)<br>
+ π = Q * P - ATC<br>
+A<br>
+
+Sự khác nhau cơ bản giữa doanh nghiệp cạnh tranh hoàn hảo và doanh nghiệp độc quyền bán nằm ở<br>
+ Quy mô thị trường<br>
+ Lợi nhuận kinh tế<br>
+ Sức mạnh thị trường<br>
+ Lượng cầu tiêu dùng<br>
+C<br>
+
+Sức mạnh của hãng độc quyền càng lớn khi<br>
+ Chênh lệch giữa giá và chi phí cận biên càng nhỏ<br>
+ Chênh lệch giữa giá và chi phí cận biên càng lớn<br>
+ Giá và chi phí cận biên không có sự chênh lệch<br>
+ Không có đáp án đúng<br>
+B<br>
+
+So với thị trường cạnh tranh hoàn hảo, thị trường độc quyền<br>
+ có mức sản lượng và mức giá thấp hơn<br>
+ có mức sản lượng cao hơn và mức giá thấp hơn<br>
+ có mức sản lượng và mức giá cao hơn<br>
+ có mức sản lượng thấp hơn và mức giá cao hơn<br>
+D<br>
+
+Nếu đường cầu có dạng P = a - b * Q thì MR của hãng độc quyền có dạng<br>
+ MR = a - 2b * Q<br>
+ MR = a + 2b * Q<br>
+ MR = a - b * Q<br>
+ MR = a + b * Q<br>
+A<br>
+
+Để đo sức mạnh thị trường của thị trường độc quyền, ta dùng chỉ số Lerner. Trong những công thức dưới đây, đâu là công thức của chỉ số Lerner?<br>
+ L = (P + MC)/P với 0 < L < 1<br>
+ L = 1 - MC/P với 0 < L < 1<br>
+ L = (P - MC)/P với 0 < L < 1<br>
+ Cả B và C đều đúng<br>
+D<br>
+
+Trong công thức chỉ số Lerner, sức mạnh của nhà độc quyền càng lớn<br>
+ Khi L càng gần 0<br>
+ Khi L càng gần 1<br>
+ Khi L càng lớn hơn 1<br>
+ Khi L càng nhỏ hơn 0<br>
+B<br>
+
+Một nhà độc quyền có hàm chi phí TC = Q^2 + 2Q + 100 và đối diện với hàm cầu là P = 122 - Q. Trong đó Q là số lượng sản phẩm, giá và chi phí tính bằng $. Để tối đa hóa lợi nhuận, nhà độc quyền quyết định như thế nào?<br>
+ Sản xuất 50 sản phẩm và bán với mức giá $72/đvsp<br>
+ Sản xuất 30 sản phẩm và bán với mức giá $92/đvsp<br>
+ Sản xuất 40 sản phẩm và bán với mức giá $84/đvsp<br>
+ Sản xuất 30 sản phẩm và bán với mức giá $62/đvsp<br>
+B<br>
+
+Một nhà độc quyền gặp đường cầu P = 55 - 2Q. Hàm tổng chi phí là ($) TC = Q^2 - 5Q + 100. Thặng dư tiêu dùng (CS) và thặng dư sản xuất (PS) do nhà độc quyền gây ra lần lượt là<br>
+ PS = CS = 225 (đvt)<br>
+ CS = 225 và PS = 218,75 (đvt) <br>
+ CS = 218,75 và PS = 225 (đvt) <br>
+ CS = 450 và PS = 6,25 (đvt) <br>
+B<br> 
+ 
+Một nhà độc quyền gặp phải đường cầu P = 30 - 0,5Q. Nhà độc quyền này có chi phí bình quân không đổi và bằng $14. Giá và sản lượng tối đa hóa lợi nhuận của nhà độc quyền lần lượt là<br>
+ Giá $22/đvsp, sản lượng 16 sản phẩm <br>
+ Giá $16/đvsp, sản lượng 22 sản phẩm <br>
+ Giá $128/đvsp, sản lượng 16 sản phẩm <br>
+ Giá $128/đvsp, sản lượng 22 sản phẩm <br>
+A<br>
+
+* Một nhà độc quyền gặp phải đường cầu P = 30 - 0,5Q. Nhà độc quyền này có chi phí bình quân không đổi và bằng 14$. Tính phần mất không của xã hội nếu nhà độc quyền này chỉ bán 24 sản phẩm<br>
+ 8<br>
+ 16<br>
+ 24<br>
+ 32<br>
+B<br>
+
+Một nhà độc quyền sản xuất với chi phí TC = 100 - 5Q + Q^2 và hàm cầu P = 55 - 2Q. Tính phần mất không của xã hội (DWL)<br>
+ DWL = 50<br>
+ DWL = 0<br>
+ DWL = 312,5<br>
+ DWL = 84,375<br>
+A<br>
+
+Có 70 người tiêu dùng 1 loại sản phẩm trên thị trường. Hàm cầu của mỗi người tiêu dùng giống nhau và được cho bởi: ($)P = 280 - 70Q/4. Sản phẩm này do 1 hãng sản xuất với hàm chi phí sản xuất VC = Q^2/6 + 30Q và FC = 15000. Xác định mức sản lượng và lợi nhuận thu được khi chính phủ đánh thuế 20$/đơn vị sản phẩm<br>
+ 276 sản phẩm, lợi nhuận tối đa $16740 <br>
+ 300 sản phẩm, lợi nhuận tối đa $16500 <br>
+ 200 sản phẩm, lợi nhuận tối đa $16500 <br>
+ 376 sản phẩm, lợi nhuận tối đa $16740 <br>
+A<br>
+
+Một nhà độc quyền có đường cầu P = 60 - Q (Trong đó Q tính bằng nghìn sản phẩm, P tính bằng nghìn đồng/sản phẩm) và chi phí cố định là 300 nghìn đồng, chi phí cận biên không đổi là 10 nghìn đồng/sản phẩm. Tính chỉ số Lerner và EDP tại mức giá đó của nhà độc quyền?<br>
+ L = 5/7 và EDP = 7/5 <br>
+ L = -5/7 và EDP = 7/5 <br>
+ L = 5/7 và EDP = -7/5 <br>
+ L = -5/7 và EDP = -7/5 <br>
+C<br>
+
+Doanh nghiệp toàn quyền hành động trên thị trường, hàm cầu thị trường của sản phẩm có dạng Q = -3P + 14400, hàm chi phí: TC = 1/3Q^2 + 200Q + 5000. Tính sức mạnh của thị trường<br>
+ L = 25/73<br>
+ L = 23/75<br>
+ L = 73/23<br>
+ L = 23/73<br>
+D<br>
+
+Một doanh nghiệp độc quyền bán có hàm tổng doanh thu và chi phí biến đổi như sau: TR = 32Q - 0,6Q^2 và VC = 4Q + 0,4Q^2. Viết phương trình đường cầu và đường doanh thu biên của doanh nghiệp<br>
+ P = 32 - (3/5)*Q và MR = (-6/5)*Q + 32<br>
+ P = -32 - (3/5)*Q và MR = (-6/5)*Q - 32<br>
+ P = -35 - (3/2)*Q và MR = (-2/5)*Q + 32<br>
+ P = 32 - (5/3)*Q và MR = (-5/6)*Q + 32<br>
+A<br>
+
+Một doanh nghiệp độc quyền bán có hàm tổng doanh thu và chi phí biến đổi như sau: TR = 32Q - 0,6Q^2 và VC = 4Q + 0,4Q^2. Với mức thuế t = 4/đơn vị sản phẩm, sản lượng và lợi nhuận của doanh nghiệp thay đổi như thế nào?<br>
+ Q tăng 2,5 và P tăng 1,5<br>
+ Q giảm 2,5 và P tăng 1,5<br>
+ Q giảm 2,5 và P giảm 1,5<br>
+ Q tăng 2,5 và P giảm 1,5<br>
+B<br>
+
+Một nhà độc quyền gặp đường cầu P = 30- 0,5Q; chi phí bình quân ATC = $14. Tính thặng dư tiêu dùng (CS) và thặng dư sản xuất (PS) trong điều kiện doanh nghiệp là người chấp nhận giá thị trường<br>
+ CS = 0 và PS = 256 (đvt) <br>
+ CS = 265 và PS = 35 (đvt)<br>
+ CS = 256 và PS = 0 (đvt) <br>
+ CS = 265 và PS = 0 (đvt) <br>
+C<br>
+
+Theo hãng nghiên cứu thị trường iSupply, trong năm 2009, chi phí cận biên của Apple cho một chiếc iPod Shuffle (1) là $21,77, cho một chiếc iPhone 4 16GB (2) là $187,51 và một chiếc iPad Wifi (3) là $229,35. Giá bán lẻ của các sản phẩm trên lần lượt là $79, $600 và $499. Tính hệ số Lerner trên mỗi thị trường (1),(2),(3)<br>
+ L1 = 0,79 ; L2 = 0,82 ; L3 = 0,64<br>
+ L1 = 0,72 ; L2 = 0,54 ; L3 = 0,69<br>
+ L1 = 0,82 ; L2 = 0,79 ; L3 = 0,64<br>
+ L1 = 0,72 ; L2 = 0,69 ; L3 = 0,54<br>
+D<br>
+
+Một nhà độc quyền có đường cầu P = 15 - 5Q, hàm tổng chi phí TC = 2,5Q^2 + 3Q + 1. Tính lợi ích ròng của xã hội (NSB) gây ra bởi nhà độc quyền <br>
+ NSB = 6,4<br>
+ NSB = 1,6<br>
+ NSB = 4,8<br>
+ NSB = 0,8<br>
+A<br>
+
+
+
+
+Cạnh tranh độc quyền là<br>
+ Một cấu trúc thị trường trung gian giữa thị trường cạnh tranh hoàn hảo và thị trường độc quyền thuần tuý<br>
+ Một cấu trúc thị trường trung gian giữa thị trường cạnh tranh không hoàn hảo và thị trường độc quyền duy nhất<br>
+ Một cấu trúc thị trường trung gian giữa thị trường cạnh tranh hoàn hảo và thị trường độc quyền duy nhất<br>
+ Một cấu trúc thị trường trung gian giữa thị trường cạnh tranh không hoàn hảo và thị trường độc quyền thuần tuý<br>
+A<br>
+
+Ngành là một tập hợp các doanh nghiệp sản xuất các sản phẩm được coi là<br>
+ Thay thế gần gũi cho nhau<br>
+ Bổ sung gần gũi cho nhau<br>
+ Gần như thay thế cho nhau<br>
+ Gần như bổ sung cho nhau<br>
+A<br>
+
+Đường cầu của kem đánh răng PS<br>
+ Dốc xuống nhưng tương đối không co giãn<br>
+ Dốc xuống nhưng tương đối co giãn<br>
+ Thoải xuống và tương đối co giãn<br>
+ Là đường nằm ngang<br>
+B<br>
+
+Trong thị trường cạnh tranh độc quyền, mỗi doanh nghiệp tìm cách làm cho sản phẩm của mình phân biệt sản phẩm của mình với sản phẩm của doanh nghiệp khác thì đường cầu về sản phẩm của nó càng<br>
+ Ít co dãn<br>
+ Co dãn<br>
+ Không co dãn<br>
+ Không thay đổi<br>
+A<br>
+
+Cấu trúc ngành cạnh tranh độc quyền bao gồm các yếu tố<br>
+ Cạnh tranh,thay thế<br>
+ Cạnh tranh,duy nhất<br>
+ Cạnh tranh, độc quyền<br>
+ Cạnh tranh, độc quyền, thay thế<br>
+D<br>
+
+Trong mô hình chi tiết về nghành cạnh tranh độc quyền, nhiều vấn đề phụ thuộc vào<br>
+ Số lượng doanh nghiệp kinh doanh các mặt hàng thay thế<br>
+ Giá thành của sản phẩm, nhu cầu của người tiêu dùng, mức độ cạnh tranh của thị trường<br>
+ Các chi tiết của sản phẩm và công nghệ,bản chất của sự lựa chọn công nghệ của doanh nghiệp<br>
+ Cả ba ý trên<br>
+C<br>
+
+Chúng ta có thể mô tả trạng thái cân bằng của ngành theo cách nào<br>
+ Mỗi doanh nghiệp đang bán sản phẩm với kết hợp giá và sản lượng trên đường cầu của mình<br>
+ Mỗi doanh nghiệp đang tối đa hoá lợi nhuận của mình với đường cầu nhất định mà nó đối mặt<br>
+ Sự gia nhập ngành của các doanh nghiệp mới buộc lợi nhuận của ngành giảm xuống bằng 0<br>
+ Cả ba ý trên<br>
+D<br>
+
+Thị trường cạnh tranh độc quyền có một đặc trưng then chốt<br>
+ Các hãng cạnh tranh với nhau bằng cách bản những sản phẩm giống nhau, không thể thay thế cho nhau<br>
+ Các hãng cạnh tranh với nhau bằng cách bán những sản phẩm giống nhau, có thể thay thế nhau<br>
+ Các hãng cạnh tranh với nhau bằng cách bán những sản phẩm khác biệt, không thể thay thế được cho nhau<br>
+ Các hãng cạnh tranh với nhau bằng cách bán những sản phẩm khác biệt,có thể thay thế được cho nhau ở mức độ cao<br>
+D<br>
+
+Thị trường cạnh tranh độc quyền có một đặc trưng<br>
+ Tự do gia nhập ngành và rút lui khỏi ngành<br>
+ Tự do gia nhập ngành nhưng không được rút lui ra khỏi ngành<br>
+ Gia nhập ngành và rút lui ra khỏi ngành cần sự cho phép<br>
+ Không có các đặc trưng trên<br>
+A<br>
+
+Thị trường ô tô là<br>
+ Thị trường cạnh tranh độc quyền<br>
+ Thị trường độc quyền tập đoàn<br>
+ Thị trường cạnh tranh tập đoàn<br>
+ Cả ba ý trên sai<br>
+B<br>
+
+Xà phòng thơm, dầu gội đầu,nước xịt thơm, kem cạo râu,…..,mặt hàng trong các hiệu thuốc, xe đạp và các hàng hoá thể thao khác và các doanh nghiệp bán lẻ là các ví dụ về thị trường cạnh tranh độc quyền là đúnh hay sai<br>
+ Đúng<br>
+ Sai<br>
+ Cả đúng cả sai<br>
+ Không đúng không sai<br>
+A<br>
+
+Phần lớn các doanh nghiệp bán lẻ giống như cạnh tranh độc quyền vì hàng hoá ở các cửa hàng bán lẻ khác nhau sẽ cạnh tranh với nhau bằng sự khác biệt về<br>
+ Phục vụ phù hợp với địa điểm<br>
+ Sự sẵn có về tín dụng<br>
+ Nghiệp vụ của người bán<br>
+ Cả ba ý trên<br>
+D<br>
+
+Trong thị trường cạnh tranh độc quyền, nếu lợi nhuận cao ở lân cận vì có một cửa hàng thì các cửa hàng khác sẽ<br>
+ Rút khỏi thị trường<br>
+ Gia nhập thị trường<br>
+ Ở lại thị trường<br>
+ Thay đổi quy mô<br>
+B<br>
+
+Thị trường nhà hàng của bất kì thành phố nào có đặc tính của<br>
+ Thị trường cạnh tranh độc quyền<br>
+ Thị trường độc quyền tập đoàn<br>
+ Thị trường cạnh tranh tập đoàn<br>
+ Cả ba í trên sai<br>
+A<br>
+
+Tại sao việc gia nhập thị trường kinh doanh nhà hàng lại tương đối dễ dàng<br>
+ Mỗi nhà hàng bán các món ăn khác nhau, có các quảng cáo khác nhau<br>
+ Mỗi nhà hàng có địa điểm, thực đơn khác nhau<br>
+ Mỗi nhà hàng lại phù hợp cho nhiều tầng lớp khác nhau<br>
+ Cả ba ý trên đúng<br>
+D<br>
+
+Ở thành phố Hotlelis, Hoa Kì có một lối đi bộ trải dài dọc trên bãi biển. Một số người bán kem bằng xe đẩy muốn bán kem trên lối đi bộ. Nếu chỉ có một người bán kem trên lối đi bộ thì anh ta sẽ chọn địa điểm nào<br>
+ Tại 1/3 quãng đường đi bộ<br>
+ Tại 1/2 quãng đường đi bộ<br>
+ Tại 3/4  quãng đường đi bộ<br>
+ Tại đầu hoặc cuối quãng đường đi  bộ<br>
+B<br>
+
+Ở thành phố Hotlelis, Hoa Kì có một lối đi bộ trải dài dọc trên bãi biển. Một số người bán kem bằng xe đẩy muốn bán kem trên lối đi bộ. Nếu có 2 người bán kem trên lỗi đi bộ thì trạng thái cân bằng duy nhất của 2 người này là ở đâu <br>
+ Tại 1/3 quãng đường đi bộ<br>
+ Tại 1/2 quãng đường đi bộ<br>
+ Tại 3/4  quãng đường đi bộ<br>
+ Tại đầu hoặc cuối quãng đường đi  bộ<br>
+B<br>
+
+Ở thành phố Hotlelis, Hoa Kì có một lối đi bộ trải dài dọc trên bãi biển. Một số người bán kem bằng xe đẩy muốn bán kem trên lối đi bộ. Giả sử có 2 người bán kem trên lối đi bộ đang đứng tại điểm cân bằng duy nhất và bạn là người bán kem bên trái.Nếu bạn chuyển địa điểm một chút xang bên phải thì<br>
+ Thị phần bán kem của bạn sẽ giảm xuống do bị mất khách hàng từ phía bên phải<br>
+ Thị phần bán kem của bạn sẽ giảm xuống do bị mất khách hàng từ phía bên trái<br>
+ Thị phần bán kem của bạn sẽ tăng lên do ăn cắp được thêm khách hàng từ phía bên phải<br>
+ Thị phần bán kem của bạn sẽ tănh lên do ăn cắp được thêm khách hàng từ phía bên trái<br>
+C<br>
+
+Tại một kênh chúng ta có nhạc cổ điển và kênh còn lại là nhạc rốc cực mạnh. Nếu kênh nhạc cổ điển phát nhạc gần trung tâm hơn và kênh nhạc rốc cũng làm như vậy thì số lượng thính giả mỗi kênh sẽ tăng lên. Như vậy trong trạng thái cân bằng, cả hai đài sẽ phát chương trình giống nhau và người có thị hiếu cực đoan sẽ<br>
+ Chọn 1 trong hai kênh để nghe<br>
+ Cảm thấy bất hạnh khi nghe bất cứ chương trình ca nhạc nào<br>
+ Không nghe kênh nào cả<br>
+ Cả ba ý trên sai<br>
+B<br>
+
+Cạnh tranh độc quyền giống cạnh tranh hoàn hảo ở chỗ<br>
+Không có sự tự do gia nhập<br>
+Có sự tự do gia nhập<br>
+Không được dùng chiến dịch quảng cáo<br>
+Khó khăn gia nhập<br>
+A<br>
+
+Đâu là 1 quyết định sản xuất của hãng cạnh tranh độc quyền<br>
+ Cân bằng trung bình<br>
+ Cân bằng dài hạn<br>
+ Cân bằng trạng thái<br>
+ Cân bằng độc quyền<br>
+B<br>
+
+Đường cầu theo giá và sản lượng cân bằng của doanh nghiệp cạnh tranh độc quyền trong ngắn hạn như thế nào so với thị dài hạn<br>
+ Thoải hơn<br>
+ Dốc hơn<br>
+ Như nhau<br>
+ Không xác định được<br>
+B<br>
+
+Trong ngắn hạn,doanh nghiệp cạnh tranh độc quyền thực hiện tối đa hoá lợi nhuận.Khi đó doanh nghiệp có lợi nhuận kinh tế<br>
+ Âm<br>
+ Dương<br>
+ Bằng 0<br>
+ Bằng vô cùng<br>
+B<br>
+
+Trong dài hạn, lợi nhuận dương sẽ<br>
+ Kích thích doanh nghiệp mở rộng quy mô<br>
+ Làm hạn chế thu nhập các ngành cạnh tranh<br>
+ Kích thích các doanh nghiệp mới gia nhập thị trường<br>
+ Tất cả đáp án trên<br>
+C<br>
+
+Khi các doanh nghiệp mới gia nhập vào thị trường cạnh tranh độc quyền thì các doanh nghiệp đang ở trong ngành sẽ<br>
+ Mất đi một phần thị trường và doanh thu sẽ giảm,đường cầu vẫn dốc xuống<br>
+ Mất đi một phần thị trường và doanh thu sẽ giảm, đường cầu dốc lên<br>
+ Mất đi một phần thị trường và doanh thu sẽ giảm, đường cầu nằm ngang<br>
+ Không bị ảnh hưởng gì cả<br>
+A<br>
+
+Trong dài hạn, khi các doanh nghiệp mới gia nhập, các đường chi phí trung bình và đường chi phí cận biên của doanh nghiệp đang ở trong nhành được giả định là không đổi và đường cầu dài hạn sẽ tiếp xúc với đường nào và doanh thu doanh nghiệp là bao nhiêu<br>
+ Đường chi phí trung bình và bằng 0<br>
+ Đường chi phí cận biên và bằng vô cùng<br>
+ Cả hai đường trên và bằng 0<br>
+ Không đường nào cả và bằng vô cùng<br>
+A<br>
+
+Vì sao các thị trường cạnh tranh độc quyền là mong muốn<br>
+ Có quy mô lớn và có mặt hàng sản xuất lad duy nhất<br>
+ Có lợi nhuận cao khi càng nhiều doanh nghiệp gia nhập thị trường<br>
+ Có hiệu quả kinh tế khi mà không có ngoại ứng và không có gì ngăn cản hoạt động của thị trường khiến tổng thặng dư của người tiêu dùng và người sản xuất là lớn nhất<br>
+ Cả ba í trên<br>
+C<br>
+
+Trong thị trường cạnh tranh độc quyền, lợi ích cận biên như thế nào so với chi phí cận biên để sản xuất chúng<br>
+ Cao hơn<br>
+ Thấp hơn<br>
+ Bằng nhau<br>
+ Không thể so sánh<br>
+A<br>
+
+Phần mất không (DWL) đối với xã hội của thị trường độc quyền<br>
+ Bằng thị trường cạnh tranh hoàn hảo<br>
+ Ít hơn thị trường cạnh trạnh hoàn hảo<br>
+ Bằng thị trường độc quyền<br>
+ Ít hơn thị trường độc quyền<br>
+D<br>
+
+Các hãng cạnh tranh độc quyền<br>
+ Hoạt động với mức công suất dư thừa nhưng sản lượng lại thấp hơn sản lượng ở mức chi phí trung bình tối thiểu<br>
+ Hoạt động với mức công suấy thiếu hụt nên sản lượng thấp hơn sản lượng ở mức trung bình tối thiểu<br>
+ Hoạt động ở mức công suất dư thừa nên sản lượng nhiều hơn sản lượng ở mức chi phí trung bình tối thiểu<br>
+ Hoạt động ở mức công suất thiếu hụt nhưng sản lượng lại nhiều hơn sản lượng ở mức cân bằng tối thiểu<br>
+A<br>
+
+Trong thị trường cạnh tranh độc quyền, điểm lợi nhuận bằng 0 nằm ở<br>
+ Bên phải điểm chi phí cân bằng tối thiểu<br>
+ Bên trái điểm chi phí cân bằng tối thiểu<br>
+ Trùng điểm chi phí cân bằng tối thiểu<br>
+ Không xác định được<br>
+B<br>
+
+Thặng dư tiêu dùng trong thị trường cạnh tranh độc quyền thấp hơn trong thị trường cạnh tranh hoàn hảo vì<br>
+ Mức sản lượng thấp hơn<br>
+ Giá bán ra thấp hơn<br>
+ Giá bán ra cao hơn<br>
+ Cả A và C<br>
+C<br>
+
+Tại sao các hãng cạnh tranh độc quyền lại bị sản xuất với công xuất dư thừa<br>
+ Vì chi phí sản xuất thấp nên mở rộng quy mô sản xuất là điều dễ hiểu<br>
+ Vì nhu cầu của khách hàng lớn( do trung thành với cac thương hiệu)<br>
+ Vì trong ngành có nhiều sản phẩm dễ thay thế cho nhau nên đối với 1 sản phẩm cụ thể của hãng, cầu sẽ giảm dần và sản phẩm không được tiêu thụ trên thị trường<br>
+ Cả ba í trên<br>
+C<br>
+
+Trong hầu hết thị trường cạnh tranh độc quyền, sức mạnh độc quyền là<br>
+ Tương đối lớn<br>
+ Tương đối nhỏ<br>
+ Là tuyệt đối<br>
+ Là hằng số<br>
+B<br>
+
+Thị trường cạnh tranh độc quyền có<br>
+ Đường cầu tương đối co dãn, công suất dư thừa lớn<br>
+ Đường cầu tương đối không co giãn, công suất dư thừa nhỏ<br>
+ Đường cầu tương đối co giãn, công suất dư thừa nhỏ<br>
+ Đường cầu tương đôi không co giãn, công suất dư thừa lớn<br>
+C<br>
+
+Đâu là một lợi ích rất quan trọng của khách hàng trong thị trường cạnh tranh độc quyền<br>
+ Giá thành sản phẩm thấp<br>
+ Số lượng sản phẩm nhiều<br>
+ Chất lượng sản phẩm cao<br>
+ Sự đa dạng hoá sản phẩm<br>
+D<br>
+
+Điển hình của thị trường cạnh tranh độc quyền<br>
+ Mức độ co giãn của đường cầu lớn<br>
+ Mức độ trung thành của khách hàng không cao<br>
+ Các thương hiệu có mức độ độc quyền nhỏ<br>
+ Cả ba ý trên<br>
+D<br>
+
+Các đặc điểm của thị trường cạnh tranh độc quyền<br>
+ Các hãng cạnh tranh với nhau bằng việc bán các sản phẩm khác biệt và có độ thay thế nhau cao<br>
+ Các hãng mới có thể gia nhạp hoặc rút lui thị trường một cách dễ dàng<br>
+ Sức mạnh độc quyền của các hãng là nhỏ<br>
+ Cả ba ý trên<br>
+D<br>
+
+
+Một hãng cạnh tranh độc quyền gặp đường cầu về sản phẩm của mình là P = 9 – Q. Tổng chi phí ngắn hạn STC = 2 + 3Q + Q^2, đường chi phí bình quân dài hạn LAC = 5Q - Q2. Tìm giá, sản lượng cho hãng trong ngắn hạn<br>
+ Q = 1,75; P = 7,75 <br>
+ Q = 1,5 ; P = 7,75 <br>
+ Q = 1,75 ; P = 7,5 <br>
+ Q = 1,5 ; P = 7,5 <br>
+D<br>
+
+Một hãng cạnh tranh độc quyền gặp đường cầu về sản phẩm của mình là P = 9 – Q. Tổng chi phí ngắn hạn STC = 2 + 3Q + Q^2, đường chi phí bình quân dài hạn LAC = 5Q - Q2. Tìm giá, sản lượng cho hãng trong dài hạn<br>
+ Q = 3,5; P = 6,5 <br>
+ Q = 3 ; P = 6 <br>
+ Q = 3,75 ; P = 6 <br>
+ Q = 3,5 ; P = 6 <br>
+B<br>
+
+Một hãng cạnh tranh độc quyền gặp đường cầu về sản phẩm của mình là P = 9 – Q. Tổng chi phí ngắn hạn STC = 2 + 3Q +Q2, đường chi phí bình quân dài hạn LAC = 5Q -Q2.Tìm lợi nhuận cho hãng trong ngắn hạn<br>
+ 2,5<br>
+ 2,75<br>
+ 3,5<br>
+ 3,75<br>
+A<br>
+
+Một hãng cạnh tranh độc quyền gặp đường cầu về sản phẩm của mình là P = 9 – Q. Tổng chi phí ngắn hạn STC = 2 + 3Q +Q2, đường chi phí bình quân dài hạn LAC = 5Q -Q2. Tìm lợi nhuận cho hãng trong dài hạn<br>
+ 4<br>
+ 7<br>
+ 0<br>
+ 5<br>
+C<br>
+
+Hàm cầu của một dịch vụ sửa xe máy là Q = 240 -20P có mức sản lượng tối ưu là 80 xe máy được sửa và  ATC = 10$ , AVC = 6$.Hãng sẽ lỗ(lãi) bao nhiêu<br>
+ Lãi 160$<br>
+ Lãi 200$<br>
+ Lỗ 160$<br>
+ Lỗ 200$<br>
+C<br>
+
+Ở Thái Nguyên thị trường chè là thị trường cạnh tranh độc quyền. Hàm cầu cho lượng người mua hàng ngày và chi phí trung bình dài hạn là : P = 9 – 0.9Q  ; AC = 10 – 0.06Q + 0.0001Q2. Tính mức giá doanh nghiệp chè sẽ đặt trong dài hạn<br>
+ 5<br>
+ 4<br>
+ 5,5<br>
+ 4,5<br>
+A<br>

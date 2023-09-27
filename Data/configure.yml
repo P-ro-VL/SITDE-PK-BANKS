@@ -1,79 +1,476 @@
-KHMA1101:
-  Name: 'Kinh tế vĩ mô'
-  Enable: true
-  Type: 'Đại cương'
-  NCredits: '3'
-  URL:
-    Thumbnail: 'https://www.fisdom.com/wp-content/uploads/2022/12/Macroeconomics.jpg'
-    ReviewProposal: 'https://drive.google.com/file/d/1AqncJPdtrdj45bNKrgT-pnXnVABZs58a/view'
+CNTT1116:
   Chapters:
     1:
-      Title: 'Chương 1'
-      Name: 'Tổng quan về Kinh tế học'
-      Time: 3600
-      NQuestions: 40
+      FileName: deCNTT1116_C1.txt
       HasExplanation: false
-      FileName: 'deKHMA1101_C1.txt'
+      NQuestions: 50
+      Name: 'Tổng quan về Công nghệ thông tin '
+      Time: 3600
+      Title: C1
     2:
-      Title: 'Chương 2'
-      Name: 'Đo lường sản lượng và mức giá'
-      Time: 3600
-      NQuestions: 40
+      FileName: deCNTT1116_C2.txt
       HasExplanation: false
-      FileName: 'deKHMA1101_C2.txt'
+      NQuestions: 50
+      Name: 'Biểu diễn dữ liệu và tổ chức của hệ thống máy tính '
+      Time: 3600
+      Title: C2
     3:
-      Title: 'Chương 3'
-      Name: 'Sản xuất và tăng trưởng kinh tế'
+      FileName: deCNTT1116_C3.txt
+      HasExplanation: true
+      NQuestions: 50
+      Name: Phần mềm máy tính thông dụng
       Time: 3600
-      NQuestions: 40
-      HasExplanation: false
-      FileName: 'deKHMA1101_C3.txt'
+      Title: C3
     4:
-      Title: 'Chương 4'
-      Name: 'Đầu tư, tiết kiệm và hệ thống tài chính'
+      FileName: deCNTT1116_C4.txt
+      HasExplanation: true
+      NQuestions: 50
+      Name: Lập trình cơ bản
       Time: 3600
-      NQuestions: 40
+      Title: C4
+  Enable: true
+  Name: Nhập môn Công nghệ thông tin
+  Type: Đại cương
+  URL:
+    ReviewProposal: https://drive.google.com/file/d/1UgZe1yPhnlv1rqnCCP988SCGM3OZIHu7/view
+CNTT1128:
+  Chapters:
+    1:
+      FileName: deCNTT1128_C1_3.txt
       HasExplanation: false
-      FileName: 'deKHMA1101_C4.txt'
+      NQuestions: 40
+      Name: Lập trình C cơ bản
+      Time: 3600
+      Title: Chương 1
+    2:
+      FileName: deCNTT1128_C4.txt
+      HasExplanation: true
+      NQuestions: 40
+      Name: Vào ra dữ liệu trong C
+      Time: 3600
+      Title: Chương 4
+    3:
+      FileName: deCNTT1128_C5.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Các cấu trúc lập trình trong C
+      Time: 3600
+      Title: Chương 5
+    4:
+      FileName: deCNTT1128_C6.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Hàm trong C
+      Time: 3600
+      Title: Chương 6
     5:
-      Title: 'Chương 5'
-      Name: 'Thất nghiệp'
-      Time: 3600
-      NQuestions: 40
+      FileName: deCNTT1128_C7.txt
       HasExplanation: false
-      FileName: 'deKHMA1101_C5.txt'
+      NQuestions: 40
+      Name: Con trỏ trong C
+      Time: 3600
+      Title: Chương 7
     6:
-      Title: 'Chương 6'
-      Name: 'Tiền tệ và chính sách tiền tệ'
-      Time: 3600
-      NQuestions: 40
+      FileName: deCNTT1128_C8.txt
       HasExplanation: false
-      FileName: 'deKHMA1101_C6.txt'
+      NQuestions: 40
+      Name: Cấu trúc trong C
+      Time: 3600
+      Title: Chương 8
     7:
-      Title: 'Chương 7'
-      Name: 'Tiền tệ và lạm phát'
-      Time: 3600
-      NQuestions: 40
+      FileName: deCNTT1128_C9.txt
       HasExplanation: false
-      FileName: 'deKHMA1101_C7.txt'
+      NQuestions: 30
+      Name: Thao tác trên tệp tin
+      Time: 3600
+      Title: Chương 9
+  Enable: true
+  Name: Cơ sở lập trình
+  Type: Cơ sở ngành
+  URL:
+    ReviewProposal: https://drive.google.com/file/d/1Ij8Oj5Il08eLglzuomU5PP9i_s7HUute/view
+CNTT1182:
+  Chapters:
+    1:
+      FileName: deCNTT1182_C1.txt
+      HasExplanation: false
+      NQuestions: 10
+      Name: Một số khái niệm cơ bản
+      Time: 3600
+      Title: Chương 1
+    2:
+      FileName: deCNTT1182_C2.txt
+      HasExplanation: false
+      NQuestions: 10
+      Name: Nội suy hàm đa thức
+      Time: 3600
+      Title: Chương 2
+    3:
+      FileName: deCNTT1182_C3.txt
+      HasExplanation: false
+      NQuestions: 10
+      Name: Xấp xỉ hàm số bằng phương pháp bình phương tối thiểu
+      Time: 3600
+      Title: Chương 3
+    4:
+      FileName: deCNTT1182_C4.txt
+      HasExplanation: false
+      NQuestions: 10
+      Name: Tính gần đúng đạo hàm và tích phân xác định
+      Time: 3600
+      Title: Chương 4
+    5:
+      FileName: deCNTT1182_C5.txt
+      HasExplanation: false
+      NQuestions: 10
+      Name: Giải gần đúng phương trình
+      Time: 3600
+      Title: Chương 5
+    6:
+      FileName: deCNTT1182_C6.txt
+      HasExplanation: false
+      NQuestions: 10
+      Name: Tính gần đúng nghiệm của hệ tuyến tính
+      Time: 3600
+      Title: Chương 6
+    7:
+      FileName: deCNTT1182_C7.txt
+      HasExplanation: false
+      NQuestions: 10
+      Name: Giải gần đúng phương trình vi phân
+      Time: 3600
+      Title: Chương 7
+  Enable: true
+  Name: Phương pháp tính
+  Type: Cơ sở ngành
+  URL:
+    ReviewProposal: https://drive.google.com/file/d/1bZwdUxvSajfNsZPE3vb7aGjC2asf3Z1W/view
+CNTT1191:
+  Chapters:
+    1:
+      FileName: de_CNTT1191_1.txt
+      HasExplanation: true
+      NQuestions: 40
+      Name: Điện trường tĩnh
+      Time: 3600
+      Title: Chương 1
+    2:
+      FileName: de_CNTT1191_3.txt
+      HasExplanation: true
+      NQuestions: 40
+      Name: Vật dẫn
+      Time: 3600
+      Title: Chương 2
+    3:
+      FileName: de_CNTT1191_C3.txt
+      HasExplanation: true
+      NQuestions: 40
+      Name: Điện môi
+      Time: 3600
+      Title: Chương 3
+    4:
+      FileName: de_CNTT1191_C4.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Từ trường
+      Time: 3600
+      Title: Chương 4
+    5:
+      FileName: de_CNTT1191_C6.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Vật liệu từ
+      Time: 3600
+      Title: Chương 6
+    6:
+      FileName: de_CNTT1191_C7.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Trường điện từ
+      Time: 3600
+      Title: Chương 7
+    7:
+      FileName: de_CNTT1191_C8.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Dao động điện từ
+      Time: 3600
+      Title: Chương 8
     8:
-      Title: 'Chương 8'
-      Name: 'Kinh tế vĩ mô của nền kinh tế mở'
-      Time: 3600
+      FileName: de_CNTT1191_C9.txt
+      HasExplanation: true
       NQuestions: 40
+      Name: Sóng điện từ
+      Time: 3600
+      Title: Chương 9
+  Enable: true
+  Name: Vật lý đại cương
+  Type: Đại cương
+  URL:
+    ReviewProposal: https://docs.google.com/document/d/1-ebSFs2OucLue6q_fhQ5wlmaK0d0eRtX/
+KHMA1101:
+  Chapters:
+    1:
+      FileName: deKHMA1101_C1.txt
       HasExplanation: false
-      FileName: 'deKHMA1101_C8.txt'
+      NQuestions: 40
+      Name: Tổng quan về Kinh tế học
+      Time: 3600
+      Title: Chương 1
+    2:
+      FileName: deKHMA1101_C2.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Đo lường sản lượng và mức giá
+      Time: 3600
+      Title: Chương 2
+    3:
+      FileName: deKHMA1101_C3.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Sản xuất và tăng trưởng kinh tế
+      Time: 3600
+      Title: Chương 3
+    4:
+      FileName: deKHMA1101_C4.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Đầu tư, tiết kiệm và hệ thống tài chính
+      Time: 3600
+      Title: Chương 4
+    5:
+      FileName: deKHMA1101_C5.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Thất nghiệp
+      Time: 3600
+      Title: Chương 5
+    6:
+      FileName: deKHMA1101_C6.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Tiền tệ và chính sách tiền tệ
+      Time: 3600
+      Title: Chương 6
+    7:
+      FileName: deKHMA1101_C7.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Tiền tệ và lạm phát
+      Time: 3600
+      Title: Chương 7
+    8:
+      FileName: deKHMA1101_C8.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Kinh tế vĩ mô của nền kinh tế mở
+      Time: 3600
+      Title: Chương 8
     9:
-      Title: 'Chương 9'
-      Name: 'Mô hình tổng cung, tổng cầu'
-      Time: 3600
-      NQuestions: 40
+      FileName: deKHMA1101_C9.txt
       HasExplanation: false
-      FileName: 'deKHMA1101_C9.txt'
+      NQuestions: 40
+      Name: Mô hình tổng cung, tổng cầu
+      Time: 3600
+      Title: Chương 9
     10:
-      Title: 'Chương 10'
-      Name: 'Sự đánh đổi giữa lạm phát và thất nghiệp'
-      Time: 3600
-      NQuestions: 40
+      FileName: deKHMA1101_C10.txt
       HasExplanation: false
-      FileName: 'deKHMA1101_C10.txt'
+      NQuestions: 40
+      Name: Sự đánh đổi giữa lạm phát và thất nghiệp
+      Time: 3600
+      Title: Chương 10
+  Enable: true
+  Name: Kinh tế vĩ mô
+  Type: Đại cương
+  URL:
+    ReviewProposal: https://drive.google.com/file/d/1AqncJPdtrdj45bNKrgT-pnXnVABZs58a/view
+KHMI1101:
+  Chapters:
+    1:
+      FileName: deKHMI1101_C1_4.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: '4'
+      Time: 3600
+      Title: Chương 1
+    2:
+      FileName: deKHMI1101_C5.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Sản xuất, chi phí, lợi nhuận
+      Time: 3600
+      Title: Chương 5
+    3:
+      FileName: deKHMI1101_C6.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Cấu trúc thị trường
+      Time: 3600
+      Title: Chương 6
+    4:
+      FileName: deKHMI1101_C7.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Thương mại quốc tế
+      Time: 3600
+      Title: Chương 7
+    5:
+      FileName: deKHMI1101_C8.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Thất bại của thị trường
+      Time: 3600
+      Title: Chương 8
+    6:
+      FileName: deKHMI1101_bank.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: NGÂN HÀNG 10.000 CÂU HỎI VI MÔ
+      Time: 3600
+      Title: NGÂN HÀNG 10.000 CÂU HỎI VI MÔ
+  Enable: true
+  Name: Kinh tế vi mô
+  Type: Đại cương
+  URL:
+    ReviewProposal: https://drive.google.com/file/d/19Or3aD1nxTZjRB5ioQpKOFqJOOANiIsD/view
+LLNL1105:
+  Chapters:
+    1:
+      FileName: deLLNL1105_C1.txt
+      HasExplanation: false
+      NQuestions: 60
+      Name: Triết học và vai trò trong đời sống xã hội
+      Time: 3000
+      Title: Chương 1
+    2:
+      FileName: deLLNL1105_C2.txt
+      HasExplanation: false
+      NQuestions: 80
+      Name: Chủ nghĩa duy vật biện chứng
+      Time: 3000
+      Title: Chương 2
+  Enable: true
+  Name: Triết học Mác Lênin
+  Type: Đại cương
+  URL:
+    ReviewProposal: https://docs.google.com/document/d/1W_VQKlTZ4NROW6Ka2cNB_QESkoSPQo8Qa_XdD0iZkV8/view
+LUCS1129:
+  Chapters:
+    1:
+      FileName: deLUCS1129_C1.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Đại cương về Nhà nước
+      Time: 3600
+      Title: Chương 1
+    2:
+      FileName: deLUCS1129_C2.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Đại cương về Pháp luật
+      Time: 3600
+      Title: Chương 2
+    3:
+      FileName: deLUCS1129_C3.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Hình thức pháp luật và hệ thống pháp luật Việt Nam
+      Time: 3600
+      Title: Chương 3
+    4:
+      FileName: deLUCS1129_C4.txt
+      HasExplanation: false
+      NQuestions: 30
+      Name: Các ngành luật trong hệ thống pháp luật Việt Nam
+      Time: 3600
+      Title: Chương 4, 5, 6
+  Enable: true
+  Name: Pháp luật đại cương
+  Type: Đại cương
+  URL:
+    ReviewProposal: https://drive.google.com/file/d/1WDntw9Z61JRp3c1RbG2vN6-IKQCCfNl1/view?fbclid=IwAR2o94rVWBga1n7RU-9m3MFG-qWfg9TK4QfgxOFdY879z2FTsQru9UW3LGg
+TIKT1130:
+  Chapters:
+    1:
+      FileName: deTIKT1130_C1.txt
+      HasExplanation: false
+      NQuestions: 30
+      Name: Tổng quan về cơ sở dữ liệu
+      Time: 3600
+      Title: Chương 1
+    2:
+      FileName: deTIKT1130_C2.txt
+      HasExplanation: false
+      NQuestions: 30
+      Name: Một số ngôn ngữ khai thác CSDL
+      Time: 3600
+      Title: Chương 2
+    3:
+      FileName: deTIKT1130_C3.txt
+      HasExplanation: false
+      NQuestions: 30
+      Name: Lý thuyết thiết kế CSDL & phụ thuộc hàm
+      Time: 3600
+      Title: Chương 3
+    4:
+      FileName: deTIKT1130_C4.txt
+      HasExplanation: false
+      NQuestions: 30
+      Name: Dạng chuẩn của lược đồ quan hệ
+      Time: 3600
+      Title: Chương 4
+  Enable: true
+  Name: Cơ sở dữ liệu
+  Type: Cơ sở ngành
+  URL:
+    ReviewProposal: https://drive.google.com/file/d/1nmjITGB8cpBmy4gJ7EIIPLF3x5fFweJK/view?fbclid=IwAR3yfcPkMCvZBd9-qqSaSTM_Y_vGPc64UZxicywpnoBzjppkr5fcnWIrwRc
+TOCB1101:
+  Chapters:
+    1:
+      FileName: Đại số.txt
+      HasExplanation: false
+      NQuestions: 20
+      Name: Ma trận, định thức, hệ phương trình tuyến tính
+      Time: 3600
+      Title: Chương 2
+    2:
+      FileName: deTOCB1101_C5.txt
+      HasExplanation: true
+      NQuestions: 20
+      Name: Không gian vectơ N chiều
+      Time: 3600
+      Title: Chương 5
+  Enable: true
+  Name: Đại số
+  Type: Đại cương
+  URL:
+    ReviewProposal: https://drive.google.com/file/d/1IW62cGnyXJTYG0IXChq46t6rAUpaXfwE/view
+TOCB1107:
+  Chapters:
+    1:
+      FileName: Toán rời rạc.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Bài toán đếm
+      Time: 3600
+      Title: Chương 1
+    2:
+      FileName: deTOCB1107_C4.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Lý thuyết đồ thị
+      Time: 3600
+      Title: Chương 4
+    3:
+      FileName: deTOCB1107_C5.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Cây
+      Time: 3600
+      Title: Chương 5
+  Enable: true
+  Name: Toán rời rạc
+  Type: Cơ sở ngành
+  URL:
+    ReviewProposal: https://drive.google.com/file/d/1dC1C-JLQCGsKLP656BlgSRme1aEd5N3W/view
