@@ -31,6 +31,7 @@ CNTT1116:
   Enable: true
   Name: Nhập môn Công nghệ thông tin
   Type: Đại cương
+  NCredits: '3'
   URL:
     ReviewProposal: https://drive.google.com/file/d/1UgZe1yPhnlv1rqnCCP988SCGM3OZIHu7/view
 CNTT1128:
@@ -87,6 +88,7 @@ CNTT1128:
   Enable: true
   Name: Cơ sở lập trình
   Type: Cơ sở ngành
+  NCredits: '3'
   URL:
     ReviewProposal: https://drive.google.com/file/d/1Ij8Oj5Il08eLglzuomU5PP9i_s7HUute/view
 CNTT1182:
@@ -143,6 +145,7 @@ CNTT1182:
   Enable: true
   Name: Phương pháp tính
   Type: Cơ sở ngành
+  NCredits: '3'
   URL:
     ReviewProposal: https://drive.google.com/file/d/1bZwdUxvSajfNsZPE3vb7aGjC2asf3Z1W/view
 CNTT1191:
@@ -206,6 +209,7 @@ CNTT1191:
   Enable: true
   Name: Vật lý đại cương
   Type: Đại cương
+  NCredits: '3'
   URL:
     ReviewProposal: https://docs.google.com/document/d/1-ebSFs2OucLue6q_fhQ5wlmaK0d0eRtX/
 KHMA1101:
