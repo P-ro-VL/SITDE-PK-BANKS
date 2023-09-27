@@ -283,6 +283,7 @@ KHMA1101:
   Enable: true
   Name: Kinh tế vĩ mô
   Type: Đại cương
+  NCredits: '3'
   URL:
     ReviewProposal: https://drive.google.com/file/d/1AqncJPdtrdj45bNKrgT-pnXnVABZs58a/view
 KHMI1101:
@@ -332,6 +333,7 @@ KHMI1101:
   Enable: true
   Name: Kinh tế vi mô
   Type: Đại cương
+  NCredits: '3'
   URL:
     ReviewProposal: https://drive.google.com/file/d/19Or3aD1nxTZjRB5ioQpKOFqJOOANiIsD/view
 LLNL1105:
@@ -353,6 +355,7 @@ LLNL1105:
   Enable: true
   Name: Triết học Mác Lênin
   Type: Đại cương
+  NCredits: '3'
   URL:
     ReviewProposal: https://docs.google.com/document/d/1W_VQKlTZ4NROW6Ka2cNB_QESkoSPQo8Qa_XdD0iZkV8/view
 LUCS1129:
@@ -388,6 +391,7 @@ LUCS1129:
   Enable: true
   Name: Pháp luật đại cương
   Type: Đại cương
+  NCredits: '3'
   URL:
     ReviewProposal: https://drive.google.com/file/d/1WDntw9Z61JRp3c1RbG2vN6-IKQCCfNl1/view?fbclid=IwAR2o94rVWBga1n7RU-9m3MFG-qWfg9TK4QfgxOFdY879z2FTsQru9UW3LGg
 TIKT1130:
@@ -423,6 +427,7 @@ TIKT1130:
   Enable: true
   Name: Cơ sở dữ liệu
   Type: Cơ sở ngành
+  NCredits: '3'
   URL:
     ReviewProposal: https://drive.google.com/file/d/1nmjITGB8cpBmy4gJ7EIIPLF3x5fFweJK/view?fbclid=IwAR3yfcPkMCvZBd9-qqSaSTM_Y_vGPc64UZxicywpnoBzjppkr5fcnWIrwRc
 TOCB1101:
@@ -444,6 +449,7 @@ TOCB1101:
   Enable: true
   Name: Đại số
   Type: Đại cương
+  NCredits: '3'
   URL:
     ReviewProposal: https://drive.google.com/file/d/1IW62cGnyXJTYG0IXChq46t6rAUpaXfwE/view
 TOCB1107:
@@ -472,5 +478,6 @@ TOCB1107:
   Enable: true
   Name: Toán rời rạc
   Type: Cơ sở ngành
+  NCredits: '3'
   URL:
     ReviewProposal: https://drive.google.com/file/d/1dC1C-JLQCGsKLP656BlgSRme1aEd5N3W/view
