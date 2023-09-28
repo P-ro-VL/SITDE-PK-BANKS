@@ -6,28 +6,28 @@ CNTT1116:
       NQuestions: 50
       Name: 'Tổng quan về Công nghệ thông tin '
       Time: 3600
-      Title: C1
+      Title: Chương 1
     2:
       FileName: deCNTT1116_C2.txt
       HasExplanation: false
       NQuestions: 50
       Name: 'Biểu diễn dữ liệu và tổ chức của hệ thống máy tính '
       Time: 3600
-      Title: C2
+      Title: Chương 2
     3:
       FileName: deCNTT1116_C3.txt
       HasExplanation: true
       NQuestions: 50
       Name: Phần mềm máy tính thông dụng
       Time: 3600
-      Title: C3
+      Title: Chương 3
     4:
       FileName: deCNTT1116_C4.txt
       HasExplanation: true
       NQuestions: 50
       Name: Lập trình cơ bản
       Time: 3600
-      Title: C4
+      Title: Chương 4
   Enable: true
   Name: Nhập môn Công nghệ thông tin
   Type: Đại cương
@@ -336,7 +336,7 @@ KHMI1101:
       FileName: deKHMI1101_bank.txt
       HasExplanation: false
       NQuestions: 40
-      Name: NGÂN HÀNG 10.000 CÂU HỎI VI MÔ
+      Name: TUYỂN TẬP
       Time: 3600
       Title: NGÂN HÀNG 10.000 CÂU HỎI VI MÔ
   Enable: true
