@@ -214,7 +214,7 @@ CNTT1191:
   Type: Đại cương
   NCredits: '3'
   URL:
-    Thumbnail: default
+    Thumbnail: https://t4.ftcdn.net/jpg/02/14/56/75/360_F_214567514_hGbTMUq06pJIGKiXA248l43E3hU9Q08x.jpg
     ReviewProposal: https://docs.google.com/document/d/1-ebSFs2OucLue6q_fhQ5wlmaK0d0eRtX/
 KHMA1101:
   Chapters:
@@ -496,3 +496,19 @@ TOCB1107:
   URL:
     Thumbnail: https://img-b.udemycdn.com/course/480x270/614832_e3b0_4.jpg
     ReviewProposal: https://drive.google.com/file/d/1dC1C-JLQCGsKLP656BlgSRme1aEd5N3W/view
+TIHT1101:
+  Chapters:
+    1:
+      FileName: deTIHT1101_C1.txt
+      HasExplanation: true
+      NQuestions: 40
+      Name: Một số khái niệm cơ bản
+      Time: 3600
+      Title: Chương 1
+  Enable: true
+  Name: Cấu trúc dữ liệu và giải thuật
+  Type: Cơ sở ngành
+  NCredits: '3'
+  URL:
+    Thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1f94aAcEz8RDQqdkGB81EqwI8_3WwEXwgKRuD17Kyc_rpGS102MVlN0QWN6Eo4GigaQU&usqp=CAU
+    ReviewProposal:
