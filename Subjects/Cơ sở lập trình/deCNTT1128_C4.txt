@@ -6,7 +6,7 @@
 d<br>
 <br>
 Kết quả của đoạn chương trình sau là gì?
-
+{br}{code}cpp
 #include <stdio.h>
 void main()
 {
@@ -96,7 +96,7 @@ getchar();<br>
 c<br>
 Câu này không có giải thích.<br>
 Kết quả của đoạn chương trình sau là gì?
-
+{br}{code}cpp
 #include <stdio.h>
 void main()
 {
@@ -118,7 +118,7 @@ Câu này không có giải thích.<br>
 a<br>
 Câu này không có giải thích.<br>
 Cho biết kết quả của đoạn chương trình sau:
-
+{br}{code}cpp
 #include <stdio.h>
 void main()
 {
@@ -197,7 +197,7 @@ Muốn in ký tự phần trăm (%) ra màn hình, trong hàm printf() ta cần 
 c<br>
 Câu này không có giải thích.<br>
 Kết quả hiển thị của đoạn chương trình sau là:
-
+{br}{code}cpp
 #include <conio.h>
 #include <stdio.h>
 void main()
@@ -216,7 +216,7 @@ Hien thi so nguyen 5 va so thuc 1.234<br>
 a<br>
 Câu này không có giải thích.<br>
 Chương trình sau sẽ hiển thị như thế nào?
-
+{br}{code}cpp
 #include <stdio.h>
 void main()
 {
@@ -229,7 +229,7 @@ void main()
 24.000000<br>
 a<br>
 Câu này không có giải thích.<br>
-Câu lệnh sau hiển thị ra màn hình kết quả gì?
+Câu lệnh sau hiển thị ra màn hình kết quả gì?{br}{code}cpp
 printf("[%-010d]\n",555);<br>
 [555]<br>
 [555       ]<br>
@@ -237,7 +237,7 @@ printf("[%-010d]\n",555);<br>
 [5550000000]<br>
 b<br>
 Câu này không có giải thích.<br>
-Câu lệnh sau hiển thị ra màn hình kết quả gì?
+Câu lệnh sau hiển thị ra màn hình kết quả gì?{br}{code}cpp
 printf("[%010.3f]\n",555.55);<br>
 [555.550000]<br>
 [0000555.55]<br>
@@ -253,7 +253,7 @@ Dấu cách (Space bar)<br>
 a<br>
 Câu này không có giải thích.<br>
 Kết quả hiển thị của đoạn chương trình sau là gì (với đầu vào nhập từ bàn phím là 2 số 1223 và 3.142325):
-
+{br}{code}cpp
 #include <stdio.h>
 void main()
 {
@@ -279,7 +279,7 @@ So thuc vua nhap: 3.1423<br>
 a<br>
 Câu này không có giải thích.<br>
 Kết quả hiển thị của đoạn chương trình sau là gì (với đầu vào nhập từ bàn phím là 2 số 1234 và 3.12345):
-
+{br}{code}cpp
 #include <stdio.h>
 void main()
 {
@@ -311,7 +311,7 @@ int<br>
 string<br>
 c<br>
 Câu này không có giải thích.<br>
-Câu lệnh sau hiển thị kết quả gì ra màn hình?
+Câu lệnh sau hiển thị kết quả gì ra màn hình?{br}{code}cpp
 printf("[%-d]",555);<br>
 [555]<br>
 [   555] (3 khoảng trống)<br>
@@ -319,7 +319,7 @@ printf("[%-d]",555);<br>
 [-555]<br>
 a<br>
 Câu này không có giải thích.<br>
-Câu lệnh sau hiển thị kết quả gì ra màn hình?
+Câu lệnh sau hiển thị kết quả gì ra màn hình?{br}{code}cpp
 printf([%-d],555);<br>
 [-555]<br>
 [555]<br>
@@ -341,7 +341,7 @@ Căn lề trái phần tử dữ liệu được truyền vào trong hàm<br>
 Giảm đi một giá trị của phần tử dữ liệu được truyền vào trong hàm<br>
 c<br>
 Câu này không có giải thích.<br>
-Câu lệnh sau hiển thị kết quả gì ra màn hình?
+Câu lệnh sau hiển thị kết quả gì ra màn hình?{br}{code}cpp
 printf("[%0d]",555);<br>
 [   555] (3 khoảng trống)<br>
 [555   ] (3 khoảng trống)<br>
@@ -349,7 +349,7 @@ printf("[%0d]",555);<br>
 [555]<br>
 d<br>
 Câu này không có giải thích.<br>
-Câu lệnh sau hiển thị kết quả gì ra màn hình?
+Câu lệnh sau hiển thị kết quả gì ra màn hình?{br}{code}cpp
 printf("[%010d]",555);<br>
 [0000000555]<br>
 [       555] (7 khoảng trống)<br>
@@ -357,7 +357,7 @@ printf("[%010d]",555);<br>
 [555       ] (7 khoảng trống)<br>
 a<br>
 Câu này không có giải thích.<br>
-Câu lệnh sau hiển thị kết quả gì ra màn hình?
+Câu lệnh sau hiển thị kết quả gì ra màn hình?{br}{code}cpp
 printf("[%-010d]",555);<br>
 [0000000555]<br>
 [       555] (7 khoảng trống)<br>
@@ -365,7 +365,7 @@ printf("[%-010d]",555);<br>
 [555       ] (7 khoảng trống)<br>
 d<br>
 Ở đây, trong hàm printf() đang có bổ từ căn trái ("-"), nếu thêm số 0 vào thì chỉ có thể thêm vào bên phải số 555, nhưng làm vậy đồng nghĩa sẽ làm thay đổi giá trị của số 555 thành số 5550000000. Vậy nên bổ từ "0" trong hàm này chỉ thêm khoảng trống vào trường dữ liệu in ra chứ không thêm số 0 vào trường đó.<br>
-Câu lệnh sau hiển thị kết quả gì ra màn hình?
+Câu lệnh sau hiển thị kết quả gì ra màn hình?{br}{code}cpp
 printf("[%4s]", "Good day my dear friend.");<br>
 Good<br>
 Good day my dear friend.<br>
@@ -373,7 +373,7 @@ Good day my dear friend.<br>
 [Good day my dear friend.]<br>
 d<br>
 Câu này không có giải thích.<br>
-Câu lệnh sau hiển thị kết quả gì ra màn hình?
+Câu lệnh sau hiển thị kết quả gì ra màn hình?{br}{code}cpp
 printf("[%30s]", "Good day my dear friend.");<br>
 [      Good day my dear friend.]<br>
 [Good day my dear friend.      ]<br>
@@ -381,7 +381,7 @@ Chương trình báo lỗi<br>
 [Good                              ] (26 khoảng trống)           <br>
 a<br>
 Câu này không có giải thích.<br>
-Câu lệnh sau hiển thị kết quả gì ra màn hình?
+Câu lệnh sau hiển thị kết quả gì ra màn hình?{br}{code}cpp
 printf("[%30.4s]", "Good day my dear friend.");<br>
 [      Good day my dear friend.]<br>
 [Good day my dear friend.      ]<br>
@@ -389,7 +389,7 @@ Chương trình báo lỗi<br>
 [                              Good] (26 khoảng trống)           <br>
 d<br>
 Câu này không có giải thích.<br>
-Câu lệnh sau hiển thị kết quả gì ra màn hình?
+Câu lệnh sau hiển thị kết quả gì ra màn hình?{br}{code}cpp
 printf("[%-30.4s]", "Good day my dear friend.");<br>
 [      Good day my dear friend.]<br>
 [Good day my dear friend.      ]<br>

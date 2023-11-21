@@ -103,7 +103,7 @@ for ( ; ; ) là một vòng lặp vô tận<br>
 Các câu lệnh trong vòng lặp for có thể không được thực hiện lần nào<br>
 a<br>
 
-Cho đoạn chương trình sau:
+Cho đoạn chương trình sau. Chỉ ra lỗi cú pháp trong đoạn chương trình trên nếu có?{br}{code}cpp
 int a = 5;
 switch(a): {
      case 1: printf("Hello");
@@ -111,14 +111,14 @@ switch(a): {
      case 3+2: printf("How are you?");
      case 5: printf("Good bye"); break;
 }
-Chỉ ra lỗi cú pháp trong đoạn chương trình trên nếu có?<br>
+<br>
 Không có câu lệnh break cuối mỗi nhãn case<br>
 Nhãn case không được phép sử dụng biểu thức 3+2<br>
 Hai nhãn case có cùng giá trị là 5<br>
 Đoạn chương trình trên không có lỗi cú pháp<br>
 c<br>
 
-Sau khi đoạn chương trình sau được thực hiện thì biến c có giá trị bằng bao nhiêu?
+Sau khi đoạn chương trình sau được thực hiện thì biến c có giá trị bằng bao nhiêu?{br}{code}cpp
 int a = 10, b = 20, c = 1;
 switch (a>b) {
      case 0: c=a; break;
@@ -130,7 +130,7 @@ switch (a>b) {
 10<br>
 d<br>
 
-Đoạn chương trình sau hiển thị ra màn hình kết quả gì?
+Đoạn chương trình sau hiển thị ra màn hình kết quả gì?{br}{code}cpp
 int a = 10;
 a = a/2;
 switch (a) {
@@ -145,7 +145,7 @@ printf("%d",a);
 7<br>
 b<br>
 
-Sau khi đoạn chương trình sau được thực hiện thì biến a mang giá trị là bao nhiêu?
+Sau khi đoạn chương trình sau được thực hiện thì biến a mang giá trị là bao nhiêu?{br}{code}cpp
 int i, a = 0;
 for (i=0; i<10; i+=2) 
      a=a+2;<br>
@@ -155,7 +155,7 @@ for (i=0; i<10; i+=2)
 20<br>
 b<br>
 
-Cho biết giá trị của biến S khi thực hiện đoạn chương trình sau: 
+Cho biết giá trị của biến S khi thực hiện đoạn chương trình sau: {br}{code}cpp
 int S, i;
 for (i=0; i<10; i++) S+=i;<br>
 0<br>
@@ -164,7 +164,7 @@ for (i=0; i<10; i++) S+=i;<br>
 Không xác định<br>
 b<br>
 
-Đoạn chương trình sau hiển thị kết quả gì ra màn hình?
+Đoạn chương trình sau hiển thị kết quả gì ra màn hình?{br}{code}cpp
 int a;
 for (a=65; a<69; a++)
      printf("%c ", a);<br>
@@ -174,7 +174,7 @@ a a a a<br>
 a b c d<br>
 b<br>
 
-Đoạn mã sau hiển thị gì trên màn hình?
+Đoạn mã sau hiển thị gì trên màn hình?{br}{code}cpp
 int i = 0;
 while (++i+1<=5) printf("%d",i);<br>
 12345<br>
@@ -183,7 +183,7 @@ while (++i+1<=5) printf("%d",i);<br>
 1234<br>
 d<br>
 
-Đoạn chương trình sau hiển thị kết quả gì ra màn hình?
+Đoạn chương trình sau hiển thị kết quả gì ra màn hình?{br}{code}cpp
 int i = 0;
 while (++i<=5)
      printf("%d, ",i);<br>
@@ -193,7 +193,7 @@ while (++i<=5)
 1, 2, 3, 4, 5, 6<br>
 b<br>
 
-Cho biết kết quả thực hiện đoạn chương trình sau:
+Cho biết kết quả thực hiện đoạn chương trình sau:{br}{code}cpp
 int S = 0, d = 0;
 while (d<10) {
      S+=d;
@@ -206,21 +206,21 @@ printf("%d",S);<br>
 45<br>
 c<br>
 
-Viết chương trình yêu cầu người dùng nhập một số n (0<= n <=100). Nếu người dùng nhập sai thì đưa ra thông báo yêu cầu nhập lại cho đến khi nào đúng.
+Cho chương trình yêu cầu người dùng nhập một số n (0<= n <=100). Nếu người dùng nhập sai thì đưa ra thông báo yêu cầu nhập lại cho đến khi nào đúng. Cần điền đáp án nào vào chỗ trống (........) để chương trình thực hiện yêu cầu?{br}{code}cpp
 int n;
 do {
      printf("Nhap gia tri n thoa man 0<= n <=100: ");
      scanf("%d", &n);
      }
 ….....................
-Cần điền đáp án nào vào chỗ trống (........) để chương trình thực hiện yêu cầu?<br>
+<br>
 if (n<0 || n>100);<br>
 while ((n<0)&&(n>100));<br>
 while (n>=0 || n<=100);<br>
 while (n<0 || n>100);<br>
 d<br>
 
-Khi đoạn chương trình sau được thực hiện, biến A có giá trị bao nhiêu?
+Khi đoạn chương trình sau được thực hiện, biến A có giá trị bao nhiêu?{br}{code}cpp
 int i, A = 0;
 for (i=0; i<100; i+=13) {
      A = A + 100;
@@ -232,7 +232,7 @@ for (i=0; i<100; i+=13) {
 10000<br>
 b<br>
 
-Cho biết kết quả hiển thị trên màn hình của đoạn chương trình sau:
+Cho biết kết quả hiển thị trên màn hình của đoạn chương trình sau:{br}{code}cpp
 int i = 'a';
 while (i<='z')
 {
@@ -246,7 +246,7 @@ In ra màn hình từ b đến z<br>
 Các phương án khác đều sai<br>
 d<br>
 
-Cho biết kết quả hiển thị trên màn hình sau khi đoạn chương trình sau được thực hiện:
+Cho biết kết quả hiển thị trên màn hình sau khi đoạn chương trình sau được thực hiện:{br}{code}cpp
 int i = 0;
 while (i<10)
 {
@@ -260,7 +260,7 @@ i i i i i<br>
 Không có kết quả nào được đưa ra màn hình<br>
 d<br>
 
-Cho biết kết quả hiển thị trên màn hình sau khi đoạn chương trình sau được thực hiện:
+Cho biết kết quả hiển thị trên màn hình sau khi đoạn chương trình sau được thực hiện:{br}{code}cpp
 int i = 0;
 while (i<10)
 {
@@ -274,7 +274,7 @@ while (i<10)
 1<br>
 d<br>
 
-Khi đoạn chương trình sau được thực hiện, kết quả hiển thị trên màn hình là:
+Khi đoạn chương trình sau được thực hiện, kết quả hiển thị trên màn hình là:{br}{code}cpp
 int i;
 for (i=10; i>1; --i) {
      if (i%2) continue;
@@ -287,7 +287,7 @@ for (i=10; i>1; --i) {
  16  6  8 10 25<br>
 c<br>
 
-Cho đoạn chương trình sau:
+Cho đoạn chương trình sau:{br}{code}cpp
 char ch;
 x = 0;
 while (x<=255) {
@@ -301,7 +301,7 @@ Phát biểu nào sau đây đúng về đoạn chương trình trên?<br>
 Đoạn chương trình trên có lỗi cú pháp sử dụng cấu trúc while<br>
 c<br>
 
-Kết quả in ra màn hình của chương trình sau là gì?
+Kết quả in ra màn hình của chương trình sau là gì?{br}{code}cpp
 #include <stdio.h>
 void main()
 {
@@ -315,7 +315,7 @@ void main()
 Chương trình không chạy được<br>
 c<br>
 
-Kết quả in ra màn hình của chương trình sau là gì?
+Kết quả in ra màn hình của chương trình sau là gì?{br}{code}cpp
 #include <stdio.h>
 void main()
 {
@@ -329,7 +329,7 @@ Vòng lặp vô hạn<br>
 Kết quả khác<br>
 a<br>
 
-Kết quả của chương trình sau là gì?
+Kết quả của chương trình sau là gì?{br}{code}cpp
 #include <stdio.h>
 void main()
 {
@@ -344,7 +344,7 @@ void main()
 Kết quả khác<br>
 c<br>
 
-Cho đoạn chương trình sau:
+Cho đoạn chương trình sau:{br}{code}cpp
 int n = 0;
 for (int i = 0; i<10; i+=4) n+=i;
 Giá trị của biến n là?<br>
@@ -354,7 +354,7 @@ Giá trị của biến n là?<br>
 20<br>
 b<br>
 
-Phát biểu nào đúng về đoạn chương trình dưới đây?
+Phát biểu nào đúng về đoạn chương trình dưới đây?{br}{code}cpp
 #include <stdio.h>
 int main()
 {
@@ -369,7 +369,7 @@ Lỗi cú pháp biểu thức<br>
 Lỗi không khai báo<br>
 c<br>
 
-Dưới đây là chương trình in ra màn hình các số tự nhiên lẻ và nhỏ hơn 100, mỗi dòng hiển thị 10 số.
+Dưới đây là chương trình in ra màn hình các số tự nhiên lẻ và nhỏ hơn 100, mỗi dòng hiển thị 10 số. Cần điền câu lệnh nào vào chỗ trống (........) để chương trình thực hiện yêu cầu?{br}{code}cpp
 #include <stdio.h>
 void main()
 {
@@ -381,14 +381,14 @@ void main()
           printf("%5d",i);
           if ((i+1)%20 == 0)
                printf("\n");
-Cần điền câu lệnh nào vào chỗ trống (........) để chương trình thực hiện yêu cầu?<br>
+<br>
 continue;<br>
 break;<br>
 return;<br>
 goto;<br>
 a<br>
 
-Dưới đây là chương trình in ra màn hình các số tự nhiên lẻ và nhỏ hơn 100, mỗi dòng hiển thị 10 số.
+Dưới đây là chương trình in ra màn hình các số tự nhiên lẻ và nhỏ hơn 100, mỗi dòng hiển thị 10 số. Cần điền số bao nhiêu vào chỗ trống (........) để chương trình thực hiện yêu cầu?{br}{code}cpp
 #include <stdio.h>
 void main()
 {
@@ -400,14 +400,14 @@ void main()
           printf("%5d",i);
           if ((i+1)%...... == 0)
                printf("\n");
-Cần điền số bao nhiêu vào chỗ trống (........) để chương trình thực hiện yêu cầu?<br>
+<br>
 20<br>
 21<br>
 19<br>
 10<br>
 a<br>
 
-Kết quả của chương trình sau là gì?
+Kết quả của chương trình sau là gì?{br}{code}cpp
 #include <stdio.h>
 void main()
 {
@@ -425,7 +425,7 @@ void main()
 Kết quả khác<br>
 c<br>
 
-Kết quả của chương trình sau là gì?
+Kết quả của chương trình sau là gì?{br}{code}cpp
 #include <stdio.h>
 void main()
 {
@@ -493,7 +493,8 @@ Kết thúc ngay vòng lặp và chuyển điều khiển đến lệnh kế ti�
 c<br>
 
 Dưới đây là chương trình nhập vào 1 số nguyên n, in ra màn hình n dòng với n sao (*) tương ứng với số dòng (Ví dụ: dòng 1 có 1 sao, dòng 2 có 2 sao,... dòng n có n sao):
-#include <stdio.h>
+Câu lệnh printf("\n") cần được thêm vào vị trí nào trong 4 vị trí (1), (2), (3), (4) để chương trình thực hiện đúng theo yêu cầu?
+{br}{code}cpp#include <stdio.h>
 void main()
 {
     int i,j,k;
@@ -509,7 +510,7 @@ void main()
     (3)
 }
 (4)
-Câu lệnh printf("\n") cần được thêm vào vị trí nào trong 4 vị trí (1), (2), (3), (4) để chương trình thực hiện đúng theo yêu cầu?<br>
+<br>
 (1)<br>
 (2)<br>
 (3)<br>
