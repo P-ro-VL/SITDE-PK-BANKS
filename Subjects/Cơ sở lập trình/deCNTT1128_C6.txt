@@ -1,5 +1,5 @@
 ﻿Kết quả của đoạn chương trình sau là gì?
-{br}{code}cpp
+{br}{code}cpp 
 #include <stdio.h>
 #include <conio.h>
 void main()
@@ -18,7 +18,7 @@ In ra màn hình các số từ 1 đến 24<br>
 c<br>
 
 Kết quả đầu ra của chương trình này là gì?
-{br}{code}cpp
+{br}{code}cpp 
 #include <stdio.h>
 int main()
 {
@@ -36,7 +36,7 @@ b=100 c=garbage<br>
 b<br>
 
 Đầu ra vòng lặp của chương trình sau thực hiện bao nhiều lần?
-{br}{code}cpp
+{br}{code}cpp 
 #include <stdio.h>
 int main()
 {
@@ -55,7 +55,7 @@ int main()
 b<br>
 
 Đoạn chương trình sau sẽ in những gì ra màn hình?
-{br}{code}cpp
+{br}{code}cpp 
 int i=0; char c=’c’;
 for (i=0; i<6; i=i+2) {
    c=c+i;  printf (“%c  ”,c);
@@ -67,7 +67,7 @@ Tất cả các đáp án trên đều sai<br>
 b<br>
 
 Hãy cho biết kết quả in ra màn hình của đoạn chương trình sau?
-{br}{code}cpp
+{br}{code}cpp 
 void main (){
   int a=1, n=0;
   while (n<10)   {a++;}
@@ -80,7 +80,7 @@ a=1<br>
 b<br>
 
 Cụm từ “Bo mon CNTT” được in ra bao nhiêu lần trong chương trình sau:
-{br}{code}cpp
+{br}{code}cpp 
 #include <stdio.h>
 int main()
 {
@@ -101,7 +101,7 @@ Không xác định<br>
 c<br>
 
 Cho một đoạn chương trình viết bằng ngôn ngữ lập trình C sau. Hãy chỉ ra lỗi cú pháp của đoạn chương trình nếu có?:
-{br}{code}cpp
+{br}{code}cpp 
 int P=10;
 switch (P) {
      case 10: printf(“Case 1”);
@@ -117,7 +117,7 @@ Không có câu lệnh break cuối mỗi nhãn case<br>
 b<br>
 
 Điền vào chỗ trống để hoàn thành chương trình sau:
-{br}{code}cpp  
+{br}{code}cpp   
 #include <stdio.h>
 void main()
 {
@@ -135,7 +135,7 @@ a=b<br>
 b<br>
 
 Kết quả đầu ra của chương trình sẽ như thế nào?
-{br}{code}cpp
+{br}{code}cpp 
 #include <stdio.h>
 int main()
 {
@@ -151,7 +151,7 @@ Lỗi cú pháp biểu thức<br>
 c<br>
 
 Kết quả đầu ra của chương trình là gì?
-{br}{code}cpp
+{br}{code}cpp 
 #include <stdio.h>
 int main()
 {
@@ -168,7 +168,7 @@ Vòng lặp vô hạn<br>
 c<br>
 
 Kết quả của chương trình sau là gì?
-{br}{code}cpp
+{br}{code}cpp 
 #include <stdio.h>
 void main()
 {
@@ -183,7 +183,7 @@ Vòng lặp vô hạn<br>
 c<br>
 
 Kết quả của chương trình sau là gì?
-{br}{code}cpp
+{br}{code}cpp 
 #include <stdio.h>
 void main()
 {
@@ -199,7 +199,7 @@ Kết quả khác<br>
 b<br>
 
 Cho một đoạn chương trình viết bằng ngôn ngữ lập trình C như sau. Phát biểu nào sau đây đúng về đoạn chương trình trên?:
-{br}{code}cpp  
+{br}{code}cpp   
   char ch;
   x=0;
   while(x<=255){
@@ -214,7 +214,7 @@ Cho một đoạn chương trình viết bằng ngôn ngữ lập trình C như 
 d<br>
 
 Kết quả đầu ra của chương trình này là gì?
-{br}{code}cpp
+{br}{code}cpp 
 #include <stdio.h>
 int main()
 {
@@ -234,7 +234,7 @@ int main()
 c<br>
 
 Kết quả đầu ra của chương trình này là gì?
-{br}{code}cpp
+{br}{code}cpp 
 #include <stdio.h>
 int main()
 {
@@ -252,7 +252,7 @@ garbage, 300, 200<br>
 a<br>
 
 Kết quả của chương trình sau là gì?
-{br}{code}cpp
+{br}{code}cpp 
 #include <stdio.h>
 void main()
 {
@@ -269,7 +269,7 @@ Kết quả khác<br>
 a<br>
 
 Kết quả đầu ra của chương trình này là gì?
-{br}{code}cpp
+{br}{code}cpp 
 #include <stdio.h>
 int main()
 {
@@ -287,7 +287,7 @@ Không có đầu ra<br>
 a<br>
 
 Kết quả đầu ra của chương trình này là gì?
-{br}{code}cpp
+{br}{code}cpp 
 #include <stdio.h>
 int main()
 {
@@ -306,7 +306,7 @@ Không có đầu ra<br>
 a<br>
 
 Kết quả của chương trình sau là gì?
-{br}{code}cpp
+{br}{code}cpp 
 #include <stdio.h>
 void main()
 {
@@ -321,7 +321,7 @@ Vòng lặp vô hạn<br>
 d<br>
 
 Giá trị cuối cùng của x là bao nhiêu khi đoạn mã sau chạy?
-{br}{code}cpp
+{br}{code}cpp 
 int x;
 for (x=0; x<10; x++) {}<br>
 1<br>
@@ -330,7 +330,7 @@ for (x=0; x<10; x++) {}<br>
 10<br>
 d<br>
 
-Cho hàm sau. Lệnh nào sau đây là hợp lệ để gọi hàm trên?{br}{code}cpp 
+Cho hàm sau. Lệnh nào sau đây là hợp lệ để gọi hàm trên?{br}{code}cpp  
 void print() 
 {Printf(“Hello SITDE”);} 
 <br>
@@ -361,7 +361,7 @@ Hàm chỉ trả về kiểu dữ liệu boolean<br>
 Kiểu trả về của hàm phải là kiểu void<br>
 b<br>
 
-Cho khai báo hàm. Câu lệnh nào nên được sử dụng để gọi hàm showValue () với tham số 5?:{br}{code}cpp 
+Cho khai báo hàm. Câu lệnh nào nên được sử dụng để gọi hàm showValue () với tham số 5?:{br}{code}cpp  
 void showValue(int quatity);
 <br>
 showValue(5);<br>
@@ -506,7 +506,7 @@ Không có đáp án đúng<br>
 c<br>
 
 Kết quả của đoạn chương trình sau là gì?
-{br}{code}cpp
+{br}{code}cpp 
 #include <stdio.h>
 void swap(int *a, int *b)
 {
@@ -533,7 +533,7 @@ Sau khi doi cho x = 10, y = 50<br>
 b<br>
 
 Kết quả của đoạn chương trình sau là gì?
-{br}{code}cpp
+{br}{code}cpp 
 #include <stdio.h>
 void swap(int a, int b)
 {
@@ -561,7 +561,7 @@ Sau khi doi cho x = 10, y = 50<br>
 b<br>
 
 Kết quả của đoạn chương trình sau là gì?
-{br}{code}cpp
+{br}{code}cpp 
 #include <stdio.h>
 void main()
 {

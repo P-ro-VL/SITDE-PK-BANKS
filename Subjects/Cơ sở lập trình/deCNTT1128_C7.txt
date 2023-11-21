@@ -142,7 +142,7 @@ printf("%c",*(str+1));<br>
 printf("%d",str[1]);<br>
 c<br>
 
-Hãy cho biết kết quả khi chạy chương trình:{br}{code}cpp
+Hãy cho biết kết quả khi chạy chương trình:{br}{code}cpp 
 #include <stdio.h>
 int main()
 {
@@ -159,7 +159,7 @@ int main()
 2<br>
 c<br>
 
-Hãy cho biết kết quả khi chạy chương trình:{br}{code}cpp
+Hãy cho biết kết quả khi chạy chương trình:{br}{code}cpp 
 #include <stdio.h>
 int main()
 {
@@ -174,7 +174,7 @@ Mango<br>
 ango<br>
 d<br>
 
-Hãy cho biết đầu ra của chương trình sau:{br}{code}cpp
+Hãy cho biết đầu ra của chương trình sau:{br}{code}cpp 
 #include <stdio.h>
 void fun(int *ptr)
 {
@@ -193,7 +193,7 @@ Lỗi biên dịch<br>
 Lỗi khi chạy chương trình<br>
 c<br>
 
-Giả sử int dùng 4 byte, char dùng 1 byte, float dùng 4 byte, con trỏ dùng 4 byte lưu trữ địa chỉ. Hãy cho biết kết quả in ra màn hình:{br}{code}cpp
+Giả sử int dùng 4 byte, char dùng 1 byte, float dùng 4 byte, con trỏ dùng 4 byte lưu trữ địa chỉ. Hãy cho biết kết quả in ra màn hình:{br}{code}cpp 
 #include <stdio.h>
 void main()
 {
@@ -208,7 +208,7 @@ void main()
 4 1 4<br>
 b<br>
 
-Hãy cho biết kết quả hiển thị ra màn hình:{br}{code}cpp
+Hãy cho biết kết quả hiển thị ra màn hình:{br}{code}cpp 
 #include <stdio.h>
 void main()
 {
@@ -223,7 +223,7 @@ void main()
 4<br>
 c<br>
 
-Hãy cho biết kết quả hiển thị ra màn hình:{br}{code}cpp
+Hãy cho biết kết quả hiển thị ra màn hình:{br}{code}cpp 
 #include <stdio.h>
 void main()
 {
@@ -238,7 +238,7 @@ Chương trình báo lỗi<br>
 Một giá trị địa chỉ<br>
 b<br>
 
-Hãy cho biết kết quả hiển thị ra màn hình:{br}{code}cpp
+Hãy cho biết kết quả hiển thị ra màn hình:{br}{code}cpp 
 #include <stdio.h>
 void main()
 {
@@ -251,7 +251,7 @@ NEU<br>
 to NEU<br>
 d<br>
 
-Hãy cho biết kết quả khi chạy chương trình:{br}{code}cpp
+Hãy cho biết kết quả khi chạy chương trình:{br}{code}cpp 
 #include <stdio.h>
 int main(){
     char *ptr = "GeeksQuiz";
@@ -264,7 +264,7 @@ Lỗi biên dịch<br>
 Giá trị địa chỉ<br>
 a<br>
 
-Hãy cho biết kết quả hiển thị ra màn hình:{br}{code}cpp
+Hãy cho biết kết quả hiển thị ra màn hình:{br}{code}cpp 
 #include <stdio.h>
 void f(int *p, int *q){
     p = q;
@@ -282,7 +282,7 @@ int main(){
 1 0<br>
 c<br>
 
-Hãy cho biết kết quả khi chạy chương trình:{br}{code}cpp
+Hãy cho biết kết quả khi chạy chương trình:{br}{code}cpp 
 #include <stdio.h>
 int main()
 {
@@ -297,7 +297,7 @@ Mango<br>
 ngo<br>
 d<br>
 
-Hãy cho biết kết quả khi chạy chương trình:{br}{code}cpp
+Hãy cho biết kết quả khi chạy chương trình:{br}{code}cpp 
 #include <stdio.h>
 void f(int *p, int *q){
     int temp;
@@ -317,7 +317,7 @@ int main(){
 0 0<br>
 b<br>
 
-Hãy cho biết kết quả hiển thị ra màn hình:{br}{code}cpp
+Hãy cho biết kết quả hiển thị ra màn hình:{br}{code}cpp 
 #include <stdio.h>
 void main()
 {
@@ -332,7 +332,7 @@ Chương trình báo lỗi<br>
 Địa chỉ của mảng a<br>
 d<br>
 
-Hãy cho biết kết quả khi chạy:{br}{code}cpp
+Hãy cho biết kết quả khi chạy:{br}{code}cpp 
 #include <stdio.h>
 void f(int *p, int *q){
     *p = *q;
@@ -350,7 +350,7 @@ int main(){
 0 1<br>
 a<br>
 
-Hãy cho biết kết quả hiển thị ra màn hình:{br}{code}cpp
+Hãy cho biết kết quả hiển thị ra màn hình:{br}{code}cpp 
 #include <stdio.h>
 void main()
 {
@@ -363,7 +363,7 @@ Một thông báo lỗi<br>
 Một địa chỉ<br>
 b<br>
 
-Hãy cho biết kết quả chương trình:{br}{code}cpp
+Hãy cho biết kết quả chương trình:{br}{code}cpp 
 #include <stdio.h>
 void f(int *p, int *q){
     p = q;
@@ -380,7 +380,7 @@ int main(){
 0 1<br>
 d<br>
 
-Hãy cho biết kết quả:{br}{code}cpp
+Hãy cho biết kết quả:{br}{code}cpp 
 #include <stdio.h>
 struct video {
     char name[50];
@@ -398,7 +398,7 @@ Lỗi biên dịch<br>
 53<br>
 c<br>
 
-Hãy cho biết kết quả:{br}{code}cpp
+Hãy cho biết kết quả:{br}{code}cpp 
 #include <stdio.h>
 struct video {
     char name[50];
@@ -416,7 +416,7 @@ Lỗi biên dịch<br>
 53<br>
 b<br>
 
-Hãy cho biết kết quả hiển thị ra màn hình:{br}{code}cpp
+Hãy cho biết kết quả hiển thị ra màn hình:{br}{code}cpp 
 #include <stdio.h>
 void printxy(int x, int y)
 {
@@ -438,7 +438,7 @@ int main()
 1,0<br>
 d<br>
 
-Hãy cho biết kết quả hiển thị ra màn hình:{br}{code}cpp
+Hãy cho biết kết quả hiển thị ra màn hình:{br}{code}cpp 
 #include <stdio.h>
 int arr[] = {1,2,3};
 main()
@@ -454,7 +454,7 @@ main()
 2,3<br>
 d<br>
 
-Giả sử mảng a có địa chỉ 2000. Hãy cho biết kết quả hiển thị ra màn hình:{br}{code}cpp
+Giả sử mảng a có địa chỉ 2000. Hãy cho biết kết quả hiển thị ra màn hình:{br}{code}cpp 
 #include <stdio.h>
 int main()
 {
