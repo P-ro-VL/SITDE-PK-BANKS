@@ -129,7 +129,7 @@ Câu này không có giải thích.<br>
 "%<br>
 b<br>
 Câu này không có giải thích.<br>
-Câu lệnh printf("[%*c]",5,'A’);  sẽ in gì ra màn hình?<br>
+Câu lệnh sau sẽ in gì ra màn hình?{br}{code}cpp printf("[%*c]",5,'A’);<br>
 [A     ] (5 dấu cách sau ký tự A)<br>
 [A    ] (4 dấu cách sau ký tự A)<br>
  [     A] (5 dấu cách trước ký tự A)<br>
@@ -234,7 +234,7 @@ Thêm dấu trừ (-) vào ngay sau dấu %.<br>
 Thêm "\l" vào đằng trước dấu %.<br>
 c<br>
 Câu này không có giải thích.<br>
-Câu lệnh sau cho kết quả hiển thị ra màn hình là gì: printf(“[%010d]\n”,555);<br>
+Câu lệnh sau cho kết quả hiển thị ra màn hình là gì:{br}{code}cpp printf(“[%010d]\n”,555);<br>
 [5550000000]<br>
 [0000000555]<br>
 [555       ] (7 dấu cách sau 555)<br>
@@ -375,7 +375,7 @@ Vô hạn<br>
 c<br>
 Câu này không có giải thích.<br>
 Trong ngôn ngữ lập trình C, sau khi đoạn chương trình sau được thực hiện thì 2 biến A và B có giá trị bao nhiêu?
-
+{br}{code}cpp 
      int A=0, B=1, C;
           if (A<B)     {
               C=B;
@@ -388,7 +388,7 @@ A=1 và B=1<br>
 A=0 và B=0<br>
 b<br>
 Câu này không có giải thích.<br>
-Kết quả của chương trình sau là gì?
+Kết quả của chương trình sau là gì?{br}{code}cpp 
      #include <stdio.h>
      void main()
      {
@@ -406,7 +406,7 @@ Kết quả của chương trình sau là gì?
 Kết quả khác<br>
 c<br>
 Câu này không có giải thích.<br>
-Kết quả của đoạn chương trình sau là gì?
+Kết quả của đoạn chương trình sau là gì?{br}{code}cpp 
 
 #include <stdio.h>
 #include <math.h>
@@ -421,7 +421,7 @@ Chương trình báo lỗi<br>
 b<br>
 Câu này không có giải thích.<br>
 Hãy cho biết kết quả khi chạy chương trình:
-
+{br}{code}cpp 
 #include <stdio.h>
 void main()
 {
@@ -437,7 +437,7 @@ Kết quả khác<br>
 c<br>
 Câu này không có giải thích.<br>
 Hãy cho biết kết quả khi chạy chương trình:
-
+{br}{code}cpp 
 #include <stdio.h>
 void main()
 {
@@ -456,7 +456,7 @@ b<br>
 3/ i=3, tmđk i<5 => k=3 và i=4
 4/ i=4, tmđk i<5 => k=4 và i=5
 5/ i=5, KHÔNG tmđk i<5 => Kết thúc vòng lặp và in ra giá trị của k - lúc này k=4.<br>
-Cho biết kết quả in ra màn hình:
+Cho biết kết quả in ra màn hình:{br}{code}cpp 
     char x, y, z;
     x = 'A';
     y = 'B';
@@ -467,7 +467,7 @@ A - B<br>
 Chương trình báo lỗi biên dịch<br>
 b<br>
 Ta đang thực hiện định dạng các biến ký tự x, y dưới dạng thập phân, mà trong C, dạng thập phân của ký tự hiển thị là mã ASCII của chúng. Ta có mã ASCII của ký tự 'A' là 65 và của ký tự 'B' là 66, như vậy y - x hiển thị dưới dạng %d là 1.<br>
-Dự đoán kết quả hiển thị ra màn hình:
+Dự đoán kết quả hiển thị ra màn hình:{br}{code}cpp 
     float c = 5.0;
     printf("%.2f", (9/5)*c + 32);<br>
 37.00<br>
@@ -477,7 +477,7 @@ Dự đoán kết quả hiển thị ra màn hình:
 a<br>
 Ta thực hiện phép toán trong lệnh in theo thứ tự ưu tiên (trong ngoặc trước, rồi đến nhân chia, và cuối cùng là cộng trừ): Thực hiện phép chia lấy phần nguyên (/) 9/5, ta được 1. Đem kết quả này nhân với giá trị của biến c, ta được 5.0. Cuối cùng ta thực hiện cộng 5.0 với 32, được 37.0. Vì ta đang định dạng kết quả hiển thị ra màn hình là số thập phân có 2 chữ số phần thập phân, nên kết quả cuối cùng là 37.00.<br>
 Kết quả của chương trình C sau là gì?
-
+{br}{code}cpp 
 #include <stdio.h>
 int main()
 {
@@ -493,7 +493,7 @@ Lỗi thực thi (runtime error)<br>
 c<br>
 Vì chúng ta đang lấy tên hàm printf để đặt làm tên biến, nên không thể gọi hàm printf trong chương trình này được nữa.<br>
 Trong ngôn ngữ lập trình C, cho biết kết quả hiển thị trên màn hình sau khi đoạn chương trình sau được thực hiện?
-
+{br}{code}cpp 
 #include <stdio.h>
 void main()
 {
@@ -515,7 +515,7 @@ c<br>
 5/ i=8, tmđk i<10 => Hiển thị i=10 ra màn hình.
 6/ i=10, KHÔNG tmđk i<10 => Kết thúc vòng lặp.<br>
 Hãy cho biết kết quả khi chạy chương trình:
-
+{br}{code}cpp 
 #include <stdio.h>
 void main()
 {
@@ -530,7 +530,7 @@ Kết quả khác<br>
 a<br>
 Câu này không có giải thích.<br>
 Trong ngôn ngữ lập trình C, sau khi đoạn chương trình sau được thực hiện thì biến A mang giá trị bao nhiêu?
-
+{br}{code}cpp 
 int i, A=0;
         for (i=0;i<10;i+=2){
             A=A+2;
@@ -542,7 +542,7 @@ A=20<br>
 b<br>
 Câu này không có giải thích.<br>
 Kết quả của đoạn chương trình sau là gì?
-
+{br}{code}cpp 
 #include <stdio.h>
 void main()
 {
@@ -564,7 +564,7 @@ Lỗi chương trình<br>
 c<br>
 Câu này không có giải thích.<br>
 Hãy cho biết kết quả khi chạy chương trình:
-
+{br}{code}cpp 
 int y = 128;
 const int x = 128;
 x = --y;
@@ -575,7 +575,7 @@ printf("%d\n", x);<br>
 Một thông báo lỗi<br>
 d<br>
 Biến x được khai báo là hằng số, nên không thể gán được giá trị khác cho x.<br>
-Hãy cho biết kết quả của đoạn lệnh sau:
+Hãy cho biết kết quả của đoạn lệnh sau:{br}{code}cpp 
 #include <stdio.h>
 void main()
 {
@@ -612,7 +612,7 @@ Với khai báo int toado[10][20] thì mảng toado có bao nhiêu phần tử?<
 c<br>
 Câu này không có giải thích.<br>
 Điền vào chỗ trống để hoàn thành chương trình tìm số lớn nhất giữa 2 số?
-
+{br}{code}cpp 
 #include <stdio.h>
 void main()
 {
@@ -631,7 +631,7 @@ a=b<br>
 a!=b<br>
 a<br>
 Câu này không có giải thích.<br>
-Cho biết kết quả in ra màn hình: printf("%d", 0.1 == 0.1f);<br>
+Cho biết kết quả in ra màn hình:{br}{code}cpp printf("%d", 0.1 == 0.1f);<br>
 0.1<br>
 1<br>
 0<br>
@@ -639,7 +639,7 @@ true<br>
 c<br>
 Câu này không có giải thích.<br>
 Kết quả in ra màn hình của chương trình sau:
-
+{br}{code}cpp 
 #include <stdio.h>
 void main()
 {
@@ -654,7 +654,7 @@ void main()
 d<br>
 Câu này không có giải thích.<br>
 Trong C, đoạn mã sau hiển thị gì trên màn hình?
-
+{br}{code}cpp 
 #include <stdio.h>
 void main()
 {
@@ -669,7 +669,7 @@ void main()
 d<br>
 Câu này không có giải thích.<br>
 Cho biết kết quả hiển thị trên màn hình?
-
+{br}{code}cpp 
    int a;
    for (a=1; a<=10; a++){
        printf("%i ",a);
@@ -683,7 +683,7 @@ Cho biết kết quả hiển thị trên màn hình?
 c<br>
 Câu này không có giải thích.<br>
 Hãy cho biết kết quả khi chạy chương trình: 
-
+{br}{code}cpp 
 #include <stdio.h>
 #define a 10
 int main()
@@ -700,7 +700,7 @@ Lỗi biên dịch<br>
 a<br>
 Câu này không có giải thích.<br>
 Tìm lỗi sai trong chương trình sau (in ra kết quả là tổng của 123 và 456):
-
+{br}{code}cpp 
 #include <stdio.h>
 void main()
 {
@@ -715,7 +715,7 @@ Cả 3 phương án trên<br>
 d<br>
 Câu này không có giải thích.<br>
 Kết quả chương trình C sau là gì?
-
+{br}{code}cpp 
 #include <stdio.h>
 int main()
 {
