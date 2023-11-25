@@ -512,3 +512,19 @@ TIHT1101:
   URL:
     Thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1f94aAcEz8RDQqdkGB81EqwI8_3WwEXwgKRuD17Kyc_rpGS102MVlN0QWN6Eo4GigaQU&usqp=CAU
     ReviewProposal: https://drive.google.com/file/d/1dC1C-JLQCGsKLP656BlgSRme1aEd5N3W/view
+TOKT1145:
+  Chapters:
+    1:
+      FileName: deTOKT1145_C1.txt
+      HasExplanation: true
+      NQuestions: 30
+      Name: Thống kê mô tả
+      Time: 3600
+      Title: Chương 1
+  Enable: true
+  Name: Lý thuyết xác suất và thống kê Toán
+  Type: Đại cương
+  NCredits: '3'
+  URL:
+    Thumbnail: https://online.stanford.edu/sites/default/files/styles/widescreen_tiny/public/2018-08/introduction-to-probability-and-statistics-for-epidemiology_HRP259.jpg?h=66807ab2&itok=2D9b35K3
+    ReviewProposal: https://drive.google.com/file/d/1dC1C-JLQCGsKLP656BlgSRme1aEd5N3W/view
