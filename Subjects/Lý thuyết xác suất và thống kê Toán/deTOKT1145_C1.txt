@@ -178,7 +178,7 @@ Một cửa hàng gấu bông thống kê được số lượng gấu bông đ�
 C<br>
 Dựa vào công thức tính tổng bình phương: SS = tổng các (xi - trung bình)^2<br>
 Người ta đo được giá của một loại cổ phiếu trong 7 ngày như sau (đơn vị: USD/cổ phiếu): 3, 4, 3.5, 3.25, 2.5, 5, 4. Tính độ biến động giá của loại cổ phiếu này?<br>
-0.63 USD^2/cổ phiếu<br>
+0.66 USD^2/cổ phiếu<br>
 0.54 USD^2/cổ phiếu<br>
 0.54 USD/cổ phiếu<br>
 3.6 USD/cổ phiếu<br>
