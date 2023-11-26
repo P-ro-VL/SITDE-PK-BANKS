@@ -521,6 +521,13 @@ TOKT1145:
       Name: Thống kê mô tả
       Time: 3600
       Title: Chương 1
+    8:
+      FileName: deTOKT1145_C8.txt
+      HasExplanation: true
+      NQuestions: 10
+      Name: Kiểm định phi tham số
+      Time: 3600
+      Title: Chương 8
     9:
       FileName: deTOKT1145_C9.txt
       HasExplanation: true
