@@ -535,3 +535,19 @@ TOKT1145:
   URL:
     Thumbnail: https://online.stanford.edu/sites/default/files/styles/widescreen_tiny/public/2018-08/introduction-to-probability-and-statistics-for-epidemiology_HRP259.jpg?h=66807ab2&itok=2D9b35K3
     ReviewProposal: https://drive.google.com/file/d/1DbbZUVU4DD-zizPwXEAO2EIrZyFf6HUC/view
+LLNL1106:
+  Chapters:
+    2:
+      FileName: deLLNL1106_C2.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Hàng hóa, thị trường và các chủ thể tham gia thị trường
+      Time: 3600
+      Title: Chương 2
+  Enable: true
+  Name: Kinh tế chính trị Mác Lênin
+  Type: Đại cương
+  NCredits: '3'
+  URL:
+    Thumbnail: https://img.vietnamfinance.vn/webp-jpg/700x0/upload/news/thanhhang/2018/7/27/vnf-kinh-te-chinh-tri.webp
+    ReviewProposal: https://drive.google.com/file/d/1DbbZUVU4DD-zizPwXEAO2EIrZyFf6HUC/view
