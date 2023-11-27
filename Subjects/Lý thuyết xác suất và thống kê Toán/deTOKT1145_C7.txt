@@ -1,0 +1,253 @@
+﻿Giả thuyết thống kê là gì?<br>
+Mệnh đề về một vấn đề thống kê nào đó về tổng thể<br>
+Kết luận tính đúng sai đối với tham số tổng thể dựa vào các bằng chứng thực nghiệm<br>
+Các bộ dữ liệu giả định để từ đó suy luận ra các tham số tổng thể<br>
+So sánh các tham số cho trước để đưa ra các kết luận về tổng thể<br>
+A<br>
+
+Thế nào là kiểm định tham số ?<br>
+Mệnh đề về một vấn đề thống kê nào đó về tổng thể<br>
+Kết luận tính đúng sai của một giả thuyết thống kê đối với tham số tổng thể dựa vào các bằng chứng thực nghiệm<br>
+Các bộ dữ liệu giả định để từ đó suy luận ra các tham số tổng thể<br>
+So sánh các tham số cho trước để đưa ra các kết luận về tổng thể<br>
+B<br>
+
+{img}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<br>
+Đáp án A<br>
+Đáp án B<br>
+Đáp án C<br>
+Đáp án D<br>
+D<br>
+
+Cho nhận định: Thu nhập trung bình của người lao động là trên 3000 USD/năm. Cặp giả thuyết phù hợp để kiểm định là?<br>
+H0: μ = 3000; H1: μ >= 3000;<br>
+H0: μ = 3000; H1: μ > 3000;<br>
+H0: μ = 3000; H1: μ <= 3000;<br>
+H0: μ = 3000; H1: μ < 3000;<br>
+B<br>
+
+Cho nhận định: Tỉ lệ khách quay lại mua hàng lần hai là 50%. Cặp giả thuyết phù hợp để kiểm định là?<br>
+H0: p = 0.5; H1: p > 0.5<br>
+H0: p = 0.5; H1: p < 0.5<br>
+H0: p = 0.5; H1: p ≠ 0.5<br>
+H0: p = 0.5; H1: p >= 0.5<br>
+C<br>
+
+Cho nhận định: Độ giao động của giá vàng trên thị trường chưa đến 30 USD. Cặp giả thuyết phù hợp để kiểm định là?<br>
+H0: σ^2 = 30; H1: σ^2 < 30<br>
+H0: σ^2 = 30; H1: σ^2 > 30<br>
+H0: σ^2 = 90; H1: σ^2 > 90<br>
+H0: σ^2 = 90; H1: σ^2 < 90<br>
+D<br>
+
+Việc bác bỏ một điều đúng là?<br>
+Sai lầm loại I<br>
+Sai lầm loại II<br>
+Sai lầm loại III<br>
+Sai lầm loại IV<br>
+A<br>
+
+Sai lầm loại 2 là?<br>
+Bác bỏ một điều đúng<br>
+Chấp nhận một điều đúng<br>
+Bác bỏ một điều sai<br>
+Chấp nhận một điều sai<br>
+D<br>
+
+Xác suất xảy ra sai lầm loại I là<br>
+alpha<br>
+beta<br>
+phi<br>
+z<br>
+A<br>
+
+Xác suất xảy ra sai lầm loại II là<br>
+alpha<br>
+beta<br>
+phi<br>
+z<br>
+B<br>
+
+Khi kiểm định giả thuyết thống kê thì (1 − β) được định nghĩa là:<br>
+Lực kiểm định<br>
+Xác suất mắc sai lầm loại I<br>
+Xác suất mắc sai lầm loại II<br>
+Độ tin cậy<br>
+A<br>
+
+Miền bác bỏ là<br>
+Miền sao cho nếu H0 đúng thì xác suất G thuộc miền đó là một mức α đủ nhỏ<br>
+Miền được xác định bởi các giá trị phân phối chuẩn<br>
+Xác định bởi mức ý nghĩa α<br>
+Thường là cố định với các bộ giá trị khác nhau<br>
+A<br>
+
+Gọi X là điểm GPA của sinh viên trường Đại học Kinh tế Quốc dân. Giả sử X phân phối chuẩn. Muốn kiểm định điểm GPA trung bình có lớn hơn 3.0 hay không thì cặp giả thuyết cần kiểm định là?<br>
+H0: ¯x = 3.0; H1: ¯x > 3.0<br>
+H0: μ = 3.0; H1: μ >= 3.0<br>
+H0: μ = 3.0; μ > 3.0<br>
+H0: μ = 3.0; H1: μ < 3.0<br>
+C<br>
+
+Biết kích thước sản phẩm là biến ngẫu nhiên phân phối chuẩn với phương sai là 36 mm^2. Đo ngẫu nhiên 50 sản phẩm tính được trung bình mẫu là 122mm. Với mức ý nghĩa 5%, khi kiểm định giả thuyết kích thước trung bình không nhỏ hơn 120mm thì nhận xét nào sau đây đúng?<br>
+H0: μ = 120; H1: μ > 120; nhận định sai<br>
+H0: μ = 120; H1: μ >= 120; nhận định đúng<br>
+H0: μ = 120; H1: μ < 120; nhận định đúng<br>
+H0: μ = 120; H1: μ < 120; nhận định sai<br>
+B<br>
+
+Cân ngẫu nhiên 25 sản phẩm khối lượng trung bình là 25.32g và phương sai là 5.28 g^2. Giả sử khối lượng phân phối chuẩn, với mức ý nghĩa 5%, miền bác bỏ hiệu quả nhất khi kiểm định giả thuyết khối lượng trung bình khác 26.5g là?<br>
+(1.711; +∞)<br>
+(-2.56; +∞)<br>
+(-1.711; 1.711)<br>
+(2.56; +∞)<br>
+C<br>
+
+Một nhà máy sản xuất thanh long khảo sát 1 lô hàng, trong đó kiểm tra ngẫu nhiên 100 quả thanh long có khối lượng trung bình là 36.5g và độ lệch chuẩn là 4.2g. Biết rằng, một lô hàng thanh long được coi là đạt chuẩn nếu khối lượng trung bình lớn hơn 35g. Với mức ý nghĩa 5% và giả sử khối lượng phân phối chuẩn, nhận xét nào sau đây đúng?<br>
+H0: μ >= 35; H1: μ < 35<br>
+Tqs = 1.645<br>
+Tqs ∈ Wα<br>
+Lô hàng thanh long không đạt chuẩn<br>
+C<br>
+
+Một công ty trò chơi hàng đầu châu Á  thu hút được một lượng người dùng. Khảo sát ngẫu nhiên 100 người thấy số thu nhập trung bình của họ là 1.2 triệu đồng, độ lệch chuẩn 4.5 triệu. Công ty trò chơi này được coi là có lời nếu thu nhập trung bình của tất cả người chơi không lớn hơn 1 triệu đồng. Giả sử thu nhập phân phối chuẩn, với mức ý nghĩa 5%, nhận xét nào sau đây đúng?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <br>
+Công ty này có lời<br>
+Tqs = 0.44<br>
+Giá trị tới hạn bằng 1.960<br>
+H0: μ = 1; H1: μ < 1<br>
+A<br>
+
+Trường Đại học Kinh tế Quốc dân đặt mua một lô thiết bị điện tử từ một công ty X. Khảo sát ngẫu nhiên 30 thiết bị thấy rằng hiệu suất trung bình của chúng bằng 25.3; phương sai bằng 7. Lô thiết bị được coi là đạt chuẩn nếu hiệu suất trung bình lớn hơn 25. Giả sử hiệu suất trung bình phân phối chuẩn, với mức ý nghĩa nằm trong khoảng nào thì lô thiết bị này được coi là đạt chuẩn?<br>
+< 1%<br>
+Từ 1% đến 2.5%<br>
+Từ 2.5% đến 5%<br>
+Trên 10%<br>
+D<br>
+
+Kiểm tra ngẫu nhiên 20 xe tải nhập khẩu hàng hóa thì thấy rằng khối lượng hàng hóa trung bình trên xe là 7.85 tấn. Việt Nam thực hiện một chính sách X, với quy định rằng xe tải nhập khẩu lượng hàng hóa trung bình không được vượt quá 7.5 tấn. Giả sử khối lượng hàng hóa phân phối chuẩn, với mức ý nghĩa 5%, phương sai khối lượng hàng hóa của 20 xe tải trên cần nằm trong khoảng nào để phù hợp với chính sách X?<br>
+s > 0.9<br>
+s < 0.9<br>
+s > 0.74<br>
+s < 0.74<br>
+A<br>
+
+Sở giao thông vận tải thành phố Hà Nội chọn ngẫu nhiên 7 ngày trong tháng để tiến hành khảo sát lưu lượng xe lưu thông qua một tuyến đường giữa trung tâm thành phố. Biết rằng phương sai của lưu lượng trong 7 ngày này là 128.75 xe^2/ngày. Sau khi khảo sát xong, Sở ra kết luận rằng, lưu lượng giao thông trung bình qua tuyến đường đó không vượt quá 1500 xe/ngày. Giả sử lưu lượng xe phân phối chuẩn và độ tin cậy bằng 95%, hãy cho biết giá trị nguyên lớn nhất của lưu lượng xe trung bình trong 7 ngày được khảo sát nói trên để kết luận của Sở là chính xác.<br>
+1619 xe/ngày<br>
+1594 xe/ngày<br>
+1405 xe / ngày<br>
+1380 xe / ngày<br>
+B<br>
+
+Một nhà máy sản xuất đồng hồ ở Edinburgh coi tiêu chuẩn của một chiếc đồng hồ con lắc là độ giao động của con lắc đúng bằng 5 lần/phút. Kiểm tra ngẫu nhiên 50 đồng hồ con lắc mà nhà máy này sản xuất thấy phương sai mẫu bằng 14 lần^2/phút. Với mức ý nghĩa 5%, nhận xét nào sau đây đúng?<br>
+H0: σ^2 = 25; H1: σ^2 > 25<br>
+χqs ∉ Wα<br>
+χqs = 1.0976<br>
+Những chiếc đồng hồ con lắc mà nhà máy này sản xuất không đạt tiêu chuẩn<br>
+D<br>
+
+Khảo sát một đồ thị hàm số tại 10 điểm bất kỳ thấy rằng độ phân tán mẫu bằng 8.46 đơn vị. Với mức ý nghĩa 10%, nhận xét nào sau đây đúng, biết rằng một đồ thị hàm số đạt chuẩn là đồ thị hàm số có độ phân tán tổng thể không quá 49.9 đơn vị^2.<br>
+H0: σ^2 = 49.9; H1: σ^2 < 49.9<br>
+Đồ thị hàm số đạt chuẩn<br>
+χqs ∉ Wα<br>
+χqs = 1.53<br>
+C<br>
+
+Có hai ngôi làng ở trên núi A và B. Độ phân tán dân cư của B là 8.6 người / km^2. Khảo sát ngẫu nhiên 100 người làng A và 100 người làng B thấy rằng độ phân tán dân cư đều bằng 7.75 người/km^2. Với mức ý nghĩa 10%, nhận xét nào sau đây sai?<br>
+α = 0.1<br>
+Dân cư làng A phân tán hơn dân cư làng B<br>
+Dân cư làng B phân tán hơn dân cư làng A<br>
+Giá trị tới hạn bằng 80.4<br>
+B<br>
+
+Một luồng sóng thần bắt đầu từ đảo Hawaii vượt Thái Bình Dương và tràn tới Nhật Bản. Các nhà khí tượng địa chất thu thập số liệu ngẫu nhiên 10 đợt của luồng sóng thần này. Họ nhận định rằng, Nhật Bản sẽ chịu ảnh hưởng bởi luồng sóng thần này nếu độ dao động của nó lớn hơn 43m^2/s. Với mức ý nghĩa 5%, độ dao động m/s của 10 đợt sóng thần được khảo sát cần nằm trong khoảng nào để Nhật Bản không phải chịu ảnh hưởng của luồng sóng thần?<br>
+(0; 9)<br>
+(9; +∞)<br>
+(0; 80.84)<br>
+(80.84; ++∞)<br>
+A<br>
+
+Người ta khảo sát ngẫu nhiên 100 bản ghi trong một bảng dữ liệu và nhận thấy rằng phương sai mẫu bằng 77.92 đơn vị^2. Để giảm thiểu tối đa việc mất mát thông tin, bảng dữ liệu cần có phương sai không vượt quá 12 đơn vị. Với mức ý nghĩa bằng bao nhiêu thì điều này là đúng?<br>
+< 2.5%<br>
+Từ 2.5% đến 10%<br>
+Từ 90% đến 97.5%<br>
+Mọi mức ý nghĩa<br>
+D<br>
+
+Trường Đại học H tổ chức thi cuối kỳ học phần Đại số cho sinh viên. Khảo sát ngẫu nhiên 400 sinh viên thì thấy có 345 sinh viên trượt môn này. Chất lượng kỳ thi được coi là đảm bảo nếu không có quá 90% sinh viên trượt môn. Với mức ý nghĩa 5%, nhận xét nào sau đây đúng?<br>
+Chất lượng kỳ thi này không đảm bảo<br>
+Zqs = -2.67<br>
+p0 = 0.86<br>
+H0: p = 0.9; H1: p < 0.9<br>
+B<br>
+
+Tuyến đường sắt Cát Linh - Hà Đông tổ chức đánh giá chất lượng định kỳ. Ban quản lý thu thập số liệu về 500 chuyến tàu và nhận thấy có 385 chuyến tàu về bến đúng giờ quy định. Nhà nước yêu cầu tỉ lệ chuyến tàu về bến đúng giờ phải đạt trên 70%. Với mức ý nghĩa 5%, nhận xét nào sau đây đúng?<br>
+Chưa đạt yêu cầu của Nhà nước<br>
+Zqs ∈ Wα<br>
+H0: p = 0.7; H1: p < 0.7<br>
+Giá trị tới hạn bằng 1.960<br>
+B<br>
+
+Trong số 400 người vào cửa hàng thì có 224 và 176 nam. Trong 224 nữ có 108 người mua hàng; trong 176 nam có 94 người mua hàng. Với mức ý nghãi 5%, nhận xét nào sau đây đúng?<br>
+Tỷ lệ nữ chiếm trên một nửa số người vào cửa hàng<br>
+Zqs = 1.64<br>
+Nam vào cửa hàng nhiều hơn nữ<br>
+Giá trị tới hạn bằng 1.960<br>
+A<br>
+
+Công ty A tiến hành nghiệm thu kết quả đấu thầu trong cả năm. Lấy ngẫu nhiên 100 dự án được thực hiện, hội đồng đưa ra được kết luận rằng trong năm nay, họ đã đạt được mục tiêu đề ra vì tỉ lệ trúng thầu của cả năm đã vượt qua 73%. Với mức ý nghĩa 5%, có ít nhất bao nhiêu dự án đã trúng thầu trong 100 dự án được điều tra ngẫu nhiên nói trên?<br>
+75<br>
+76<br>
+77<br>
+78<br>
+C<br>
+
+Một streamer thực hiện khảo sát người xem về mức độ yêu thích nội dung mà kênh Youtube của streamer đó đang xây dựng. Lấy ngẫu nhiên câu trả lời của 500 người thì thấy rằng có 340 người cảm thấy nội dung hiện tại hấp dẫn. Streamer mong muốn rằng ít nhất sẽ có 70% người xem của kênh cảm thấy hấp dẫn về nội dung anh ta thực hiện. Với mức ý nghĩa bao nhiêu phần trăm thì điều này đúng?<br>
+Từ 1% đến 2.5%<br>
+Từ 2.5% đến 5%<br>
+Từ 5% đến 10%<br>
+Trên 10%<br>
+D<br>
+
+Khảo sát ngẫu nhiên 40 khách hàng nam và 40 khách hàng nữ thấy khách nam chi trung bình là 230 nghìn và độ lệch chuẩn là 50 nghìn; khách nữ chi trung bình là 205 nghìn và độ lệch chuẩn là 60 nghìn. Với mức ý nghĩa 5%, kiểm định giả thuyết mức chi trung bình của nam nhiều hơn nữ?<br>
+Tqs = 2.02; giả thuyết đúng<br>
+Tqs = 2.02; giả thuyết sai<br>
+Tqs = 15.08; giả thuyết đúng<br>
+Tqs = 15.08; giả thuyết sai<br>
+A<br>
+
+Khảo sát ngẫu nhiên 100 sinh viên nhóm 1 thấy điểm đoàn trung bình là 68, phương sai là 20 và 100 sinh viên nhóm 2 thấy điểm đoàn trung bình là 59, độ lệch chuẩn là 8. Với mức ý nghĩa 5%, kiểm định giả thuyết điểm đoàn trung bình của sinh viên nhóm 1 cao hơn điểm đoàn trung bình của sinh viên nhóm 2?<br>
+Tqs = 9.82; nhận định sai<br>
+Tqs = 9.82; nhận định đúng<br>
+Tqs = 17; nhận định đúng<br>
+Tqs = 17; nhận định sai<br>
+B<br>
+
+Khảo sát một mẫu gồm 500 người nam và 500 người nữ, thấy tương ứng có trung bình 342 và 277 người đã từng quay lại với người yêu cũ; phương sai tương ứng lần lượt là 68 người^2 và 72 người^2. Với mức ý nghĩa 1%, kiểm định giả thuyết trung bình nhiều người nam quay lại với người yêu cũ hơn người nữ.<br>
+Tqs = 122.84; nhận định sai<br>
+Tqs = 355.33; nhận định sai<br>
+Tqs = 122.84; nhận định đúng<br>
+Tqs = 355.33; nhận định đúng<br>
+C<br>
+
+Show trình diễn Hanoi Rock City thu hút hai nhóm người tham gia chính: nhóm A có độ tuổi từ 17 - 28; nhóm B có độ tuổi từ 30 - 45. Khảo sát một mẫu gồm 100 người nhóm A và 100 người nhóm B, thấy độ lệch chuẩn mẫu lần lượt là 70 người và 62 người. Với mức ý nghĩa bằng bao nhiêu thì giả thuyết số người nhóm A tham gia HRC biến động hơn nhóm B?<br>
+< 2.5%<br>
+5.00%<br>
+10%<br>
+Trên 10%<br>
+D<br>
+
+Công ty A tiến hành khảo sát sản phẩm của 2 chuyền A và B. Lấy ngẫu nhiên từ mỗi chuyền 40 sản phẩm thì thấy rằng phương sai chất lượng lần lượt bằng 12 và 16. Với mức ý nghĩa 5%, nhận xét nào sau đây đúng?<br>
+Chất lượng các sản phẩm từ chuyền A biến động hơn chuyền B<br>
+Chất lượng các sản phẩm từ chuyền B biến động hơn chuyền A<br>
+Giá trị tới hạn bằng 1.891<br>
+Fqs = 0.75<br>
+B<br>
+
+Quan sát số khách hàng vào hai cửa hàng A và B, thấy rằng: Ở cửa hàng A, có 55 khách nam và 45 khách nữ; ở cửa hàng B, có 115 khách nam, 55 khách nữ. Với mức ý nghĩa 5%, kiểm định giả thuyết "tỉ lệ khách hàng nữ ở hai cửa hàng A và B là như nhau"?<br>
+Zqs = 0.57; Giả thuyết sai<br>
+Zqs = 0.57; Giả thuyết đúng<br>
+Zqs = 0.68; Giả thuyết sai<br>
+Zqs = 0.68; Giả thuyết đúng<br>
+A<br>
+
+
