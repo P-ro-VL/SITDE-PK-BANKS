@@ -565,6 +565,13 @@ LLNL1106:
       Name: Hàng hóa, thị trường và các chủ thể tham gia thị trường
       Time: 3600
       Title: Chương 2
+    6:
+      FileName: deLLNL1106_C6.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Công nghiệp hóa, hiện đại hóa và hội nhập kinh tế quốc tế của Việt Nam
+      Time: 3600
+      Title: Chương 2
   Enable: true
   Name: Kinh tế chính trị Mác Lênin
   Type: Đại cương
