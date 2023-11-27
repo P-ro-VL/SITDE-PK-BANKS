@@ -528,6 +528,13 @@ TOKT1145:
       Name: Biến cố và xác suất
       Time: 3600
       Title: Chương 2
+    6:
+      FileName: deTOKT1145_C6.txt
+      HasExplanation: false
+      NQuestions: 20
+      Name: Ước lượng tham số
+      Time: 3600
+      Title: Chương 6
     7:
       FileName: deTOKT1145_C7.txt
       HasExplanation: false
