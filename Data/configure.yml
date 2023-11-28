@@ -579,6 +579,13 @@ LLNL1106:
       Name: Giá trị thặng dư trong nền kinh tế thị trường
       Time: 3600
       Title: Chương 3
+    4:
+      FileName: deLLNL1106_C4.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Cạnh tranh và độc quyền trong nền kinh tế thị trường
+      Time: 3600
+      Title: Chương 4
     6:
       FileName: deLLNL1106_C6.txt
       HasExplanation: false
