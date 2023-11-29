@@ -59,7 +59,7 @@ Cho tập phụ thuộc hàm sau: F = {AB→C, C→A, BC→D, ACD→B, D→EG, B
 (BC)+ = ABCDEG<br>
 (BC)+ = ABC<br>
 (BC)+ = ABCD<br>
-C<br>
+B<br>
 
 Cho quan hệ R(SoHD, MaKH, TenKH, DiaChiKH, NgayDathang, {MaHang, TenHang, SoLuong, ThanhTien}). Giả thiết rằng đơn giá của mỗi mặt hàng không thay đổi. Hãy chuẩn hóa quan hệ R về dạng chuẩn 3NF.<br>
 Sau khi chuẩn hóa đến 3NF chúng ta có 4 quan hệ sau: R11 với U11 = {SoHD, MaKH, NgayDathang}; R12 với U12 = {MaKH, TenKH, DiaChiKH}; R21 với U21 = {SoHoadon, Mahang,SoLuong,DonGia} và R22 với U22 = {Mahang, Tenhang}<br>
