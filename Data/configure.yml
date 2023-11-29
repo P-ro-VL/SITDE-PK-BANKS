@@ -586,6 +586,13 @@ LLNL1106:
       Name: Cạnh tranh và độc quyền trong nền kinh tế thị trường
       Time: 3600
       Title: Chương 4
+    5:
+      FileName: deLLNL1106_C5.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Kinh tế thị trường định hướng xã hội chủ nghĩa và các quan hệ kinh tế trong nền kinh tế Việt Nam
+      Time: 3600
+      Title: Chương 5
     6:
       FileName: deLLNL1106_C6.txt
       HasExplanation: false
