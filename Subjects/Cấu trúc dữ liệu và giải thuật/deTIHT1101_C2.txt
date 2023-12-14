@@ -1,0 +1,249 @@
+﻿Cấu trúc dữ liệu mảng là?<br>
+Là tập hợp có thứ tự bao gồm một số lượng cố định các phần tử, được truy cập với cùng một tên<br>
+Là tập hợp không có thứ tự bao gồm một số lượng cố định các phần tử, được truy cập với cùng một tên<br>
+Là tập hợp có thứ tự bao gồm một số lượng các phần tử, được truy cập với cùng một tên<br>
+Là tập hợp không có thứ tự bao gồm một số lượng các phần tử, được truy cập với cùng một tên<br>
+A<br>
+Định nghĩa mảng<br>
+Mảng một chiều là?<br>
+Là mảng mà tại đó địa chỉ của mảng là địa chỉ của con trỏ L, địa chỉ của các phần tử tiếp theo là các ô nhớ liền kề, liên tiếp nhau.<br>
+Là mảng mà tại đó địa chỉ của mảng là địa chỉ của phần tử đầu tiên, địa chỉ của các phần tử tiếp theo là các ô nhớ không liên tiếp nhau<br>
+Là mảng mà tại đó địa chỉ của mảng là địa chỉ của phần tử đầu tiên, địa chỉ của các phần tử tiếp theo là các ô nhớ liền kề, liên tiếp nhau.<br>
+Là mảng mà tại đó địa chỉ của mảng là địa chỉ của con trỏ L, địa chỉ của các phần tử tiếp theo là các ô nhớ không liên tiếp nhau<br>
+C<br>
+Định nghĩa mảng một chiều<br>
+Phương pháp nào sau đây là phương pháp lưu trữ mảng một chiều?<br>
+Địa chỉ của mảng là địa chỉ của phần tử đầu tiên, ô nhớ liền kề bên phải là con trỏ trỏ đến địa chỉ của phần tử kế tiếp<br>
+Địa chỉ của mảng là địa chỉ của phần tử đầu tiên, các phần tử tiếp theo là các ô nhớ liền kề liên tiếp<br>
+Địa chỉ của mảng là địa chỉ của phần tử đầu tiên, ô nhớ liền kề bên trái là con trỏ trỏ đến địa chỉ của phần tử kế tiếp<br>
+Địa chỉ của mảng là địa chỉ của con trỏ L, các phần tử tiếp theo là các ô nhớ liền kề liên tiếp<br>
+B<br>
+Định nghĩa phương pháp lưu trữ mảng một chiều<br>
+Mảng hai chiều là?<br>
+Là các mảng một chiều liên kết với nhau bằng một con trỏ liên kết<br>
+Là mảng chứa các ô địa chỉ rời rạc trong hệ thống<br>
+Là các mảng gồm n phần tử có ô nhớ liền kề, liên tiếp nhau<br>
+Là các mảng một chiều đứng cạnh nhau<br>
+D<br>
+Định nghĩa mảng hai chiều<br>
+Phương pháp nào sau đây là phương pháp lưu trữ mảng hai chiều?<br>
+Lưu trữ theo dòng và lưu trữ theo cột<br>
+Lưu trữ con trỏ của phần tử đầu tiên và phần tử cuối cùng<br>
+Lưu trữ con trỏ của phần tử đầu tiên, phần tử cuối cùng và các con trỏ liên kết<br>
+Lưu trữ địa chỉ của từng mảng một chiều<br>
+A<br>
+Các phương pháp lưu trữ mảng 2 chiều. Giáo trình trang 105<br>
+Cho một mảng một chiều A có 10 phần tử. Biết địa chỉ cơ sở của mảng này là Base(A). Hiện tại mảng đã có 4 phần tử. Nếu thêm một phần tử nữa vào mảng thì phần tử này sẽ được lưu ở vị trí nào sau đây?<br>
+Base(A) + 16<br>
+Base(A) + 4<br>
+Base(A) + 5<br>
+Base(A) + 20<br>
+B<br>
+Địa chỉ cơ sở chính là địa chỉ của phần tử đầu tiên trong mảng. Do đó, phần tử đầu tiên có địa chỉ Base(A) + 0; thứ hai là Base(A) + 1; … ; vậy phần tử thứ 5 sẽ là Base(A) + 4<br>
+Cho một mảng một chiều có chứa các phần tử như sau A = {5, 8, 7, 9, 12, 3, 44, 72}. Phần tử được lưu ở vị trí thứ 6 tính từ địa chỉ cơ sở mang giá trị bao nhiêu?<br>
+3<br>
+7<br>
+44<br>
+8<br>
+C<br>
+Phần tử ở vị trí thứ 6 tính từ địa chỉ cơ sở => Base(A) + 6 => Là phần tử thứ 7 trong mảng = 44<br>
+Cho một mảng hai chiều B được lưu theo phương pháp lưu trữ dòng. Giả sử mảng này có kích thước 3x3 và địa chỉ cơ sở là Base(B) thì địa chỉ của phần tử nằm ở dòng 2 cột 3 là?<br>
+Base(B) + 2<br>
+2*Base(B)+2<br>
+2*Base(B)+3<br>
+Base(B) + 5<br>
+D<br>
+Theo phương pháp lưu trữ dòng, các phần tử của mảng hai chiều sẽ được lưu lần lượt theo dòng. Base(B) sẽ là phần tử ở vị trí dòng 1 cột 1, Base(B) + 1 sẽ là dòng 1 cột 2, Base(B) + 2 sẽ là dòng 1 cột 3, Base(B) + 3 là dòng 2 cột 1… Cứ như vậy, ta có vị trí của phần tử nằm ở dòng 2 cột 3 là Base(B) + 5<br>
+Cho một mảng hai chiều B được lưu theo phương pháp lưu trữ cột. Giả sử mảng này có kích thước 4x4 và địa chỉ cơ sở là Base(B) thì địa chỉ của phần tử nằm ở dòng 2 cột 3 là?<br>
+Base(B) + 9<br>
+Base(B) + 6<br>
+2*Base(B)+3<br>
+Base(B) + 5<br>
+A<br>
+Theo phương pháp lưu trữ cột, các phần tử của mảng hai chiều được lưu lần lượt theo cột. Base(B) là B[1,1], Base(B) + 1 là B[2,1] … Base(B) + 4 là B[1,2]. Cứ như vậy ta có vị trí của phần tử nằm ở dòng 2 cột 3 là Base(B) + 9<br>
+Cho một mảng hai chiều B có địa chỉ cơ sở là Base(B) và kích thước là 3x4. Biết rằng phần tử nằm ở dòng 3 cột 3 có địa chỉ là Base(B) + 10. Mảng hai chiều này được lưu trữ theo phương pháp nào?<br>
+Phương pháp lưu trữ cột<br>
+Phương pháp lưu trữ dòng<br>
+Phương pháp lưu trữ đường chéo chính<br>
+Phương pháp lưu trữ con trỏ<br>
+B<br>
+Xem lại phương pháp lưu trữ dòng. Giáo trình trang 105 - 106<br>
+Cho một mảng hai chiều B có địa chỉ cơ sở là Base(B) và kích thước là 3x4. Biết rằng phần tử nằm ở dòng 2 cột 4 có địa chỉ là Base(B) + 10. Mảng hai chiều này được lưu trữ theo phương pháp nào?<br>
+Phương pháp lưu trữ đường chéo chính<br>
+Phương pháp lưu trữ dòng<br>
+Phương pháp lưu trữ cột<br>
+Phương pháp lưu trữ con trỏ<br>
+C<br>
+Xem lại phương pháp lưu trữ dòng. Giáo trình trang 106<br>
+Khi liệt kê các phần tử của mảng hai chiều B theo thứ tự người ta thu được dãy 4, 6, 11, 12, 3, 0, 8, 33, 29. Gỉa sử mảng hai chiều này được lưu theo phương pháp lưu trữ dòng và kích thước là 3x3 thì phần tử mang giá trị 12 nằm ở?<br>
+Dòng 1 cột 4<br>
+Dòng 1 cột 2<br>
+Dòng 2 cột 3<br>
+Dòng 2 cột 1<br>
+D<br>
+Định nghĩa phương pháp lưu trữ dòng của mảng 2 chiều (Giáo trình tr. 105 - 106)<br>
+Khi liệt kê các phần tử của mảng hai chiều B theo thứ tự người ta thu được dãy 4, 6, 11, 12, 3, 0, 8, 33, 29. Gỉa sử mảng hai chiều này được lưu theo phương pháp lưu trữ cột và kích thước là 3x3 thì phần tử mang giá trị 12 nằm ở?<br>
+Dòng 1 cột 2<br>
+Dòng 1 cột 4<br>
+Dòng 2 cột 3<br>
+Dòng 2 cột 1<br>
+A<br>
+Định nghĩa phương pháp lưu trữ cột của mảng 2 chiều (Giáo trình tr. 106)<br>
+Cho một mảng một chiều A gồm 10 phần tử là các số nguyên. Cho biết giải thuật sau làm nhiệm vụ gì?{br}{code}pascal 
+For i:=1 to n do
+For j:=1 to n do
+if a[i] > a[j] then
+begin
+tg:=a[i]
+a[i]:=a[j]
+a[j]:=tg
+end;
+end;<br>
+Sắp xếp mảng A theo thứ tự giảm dần<br>
+Sắp xếp mảng A theo thứ tự tăng dần<br>
+Tìm phần tử lớn nhất trong A<br>
+Tìm phần tử nhỏ nhất trong A<br>
+B<br>
+Giáo trình trang 100<br>
+Cho một mảng một chiều A gồm 40 phần tử là các số nguyên. Cho biết giải thuật sau làm nhiệm vụ gì?{br}{code}pascal 
+For i:=1 to n do
+For j:=1 to n do
+if a[i] < a[j] then
+begin
+tg:=a[i]
+a[i]:=a[j]
+a[j]:=tg
+end;
+end;<br>
+Sắp xếp mảng A theo thứ tự giảm dần<br>
+Sắp xếp mảng A theo thứ tự tăng dần<br>
+Tìm phần tử lớn nhất trong A<br>
+Tìm phần tử nhỏ nhất trong A<br>
+A<br>
+Giáo trình trang 101<br>
+Cho giải thuật xử lý mảng một chiều A sau. Hãy cho biết giải thuật này đang thực hiện nhiệm vụ gì?{br}{code}pascal 
+For i:=1 to n do
+if a[i] = T then
+Found:=1
+else
+Found:=0
+end;<br>
+Tìm vị trí của phần tử mang giá trị T trong mảng A<br>
+Tìm phần tử T lớn nhất trong A<br>
+Kiểm tra xem mảng A có phần tử nào mang giá trị T không<br>
+Tìm phần tử T nhỏ nhất trong A<br>
+C<br>
+Ở đây ta thấy điều kiện: "Nếu phần tử ở vị trí i (a[i]) mà bằng T" thì "gán Found là 1", còn không thì "gán Found là 0". Như vậy, nếu trong mảng A có một phần tử a[i] nào đó bằng T thì Found sẽ bằng 1. Nghĩa là đang kiểm tra xem trong mảng A có phần tử mang giá trị T hay không.<br>
+Cho giải thuật xử lý mảng một chiều A sau. Hãy cho biết giải thuật này đang thực hiện nhiệm vụ gì?{br}{code}pascal 
+For i:=1 to n do
+begin
+if a[i] = T then
+Pos:=i
+end;<br>
+Tìm vị trí của phần tử mang giá trị T trong mảng A<br>
+Tìm phần tử T lớn nhất trong A<br>
+Kiểm tra xem mảng A có phần tử nào mang giá trị T không<br>
+Tìm phần tử T nhỏ nhất trong A<br>
+A<br>
+Ở đây ta thấy điều kiện: "Nếu phần tử ở vị trí i (a[i]) mà bằng T" thì "gán Pos là i". Vậy nếu tìm thấy phần tử a[i] bất kỳ có giá trị bằng T thì sẽ gán biến Pos bằng vị trí của phần tử đó (chính là i).<br>
+Cho giải thuật xử lý mảng một chiều A gồm n phần tử. Hãy cho biết giải thuật này đang thực hiện nhiệm vụ gì?{br}{code}pascal 
+S:=0
+For i:=1 to n do
+S:=S+a[i]
+T:=S/n<br>
+Tính phương sai các phần tử trong A<br>
+Đếm số lượng các phần tử trong A<br>
+Tính tổng các phần tử trong A<br>
+Tính giá trị trung bình các phần tử trong A<br>
+D<br>
+Ta thấy giải thuật đang cộng dồn tất cả các phần tử a[i] của A vào biến S. Sau đó gán T bằng S chia cho số phần tử n. Vậy đây là giải thuật tính giá trị trung bình.<br>
+Cho giải thuật xử lý mảng một chiều A gồm n phần tử. Hãy cho biết giải thuật này đang thực hiện nhiệm vụ gì?{br}{code}pascal 
+C:=0
+For i:=1 to n do
+begin
+if a[i]>100 then
+C:=C+1
+end;<br>
+Tính giá trị trung bình các phần tử trong A<br>
+Đếm số lượng các phần tử trong A<br>
+Đếm số lượng phần tử lớn hơn 100 trong A<br>
+Tính tổng các phần tử có giá trị lớn hơn 100 trong A<br>
+C<br>
+Ta thấy giải thuật đang kiểm tra điều kiện a[i] > 100. Nếu phần tử có giá trị lớn hơn 100 thì C tăng 1 đơn vị. Như vậy đây là giải thuật đếm số lượng phần tử có giá trị lớn hơn 100 trong A<br>
+Bạn Nam được giao nhiệm vụ tính điểm trung bình môn Cơ sở lập trình của những bạn trong lớp có điểm nằm trong khoảng từ 6.5 đến 8.5. Giả sử có danh sách điểm các bạn trong lớp là mảng A. Để hoàn thành điều trên thì Nam cần điền câu lệnh gì vào chỗ "…"?{br}{code}pascal 
+S:=0
+C:=0
+For i:=1 to n do
+begin
+if a[i] >= 6.5 and a[i] <= 8.5 do
+begin
+S:=S+a[i]
+...
+end;
+end;
+T:=S/C<br>
+S:=S+1<br>
+C:=C+a[i]<br>
+Writeln(S)<br>
+C:=C+1<br>
+D<br>
+Cần tăng giá trị của C lên 1 để đếm xem có bao nhiêu bạn đạt điểm từ 6.5 đến 8. Để cuối cùng lấy S chia C mới ra điểm TB như đề bài yêu cầu.<br>
+Cho mảng hai chiều A có kích thước nxm. Cho biết giải thuật sau làm nhiệm vụ gì?{br}{code}pascal 
+For i:=1 to n do
+For j:=1 to m do
+begin
+if a[i,j]=L then
+begin
+PosX := i;
+PosY := j;
+end;
+else
+Writeln('Không có');
+end;<br>
+Kiểm tra trong mảng A xem có phần tử nào có giá trị bằng L không<br>
+Tìm vị trí của phần tử mang giá trị L trong A<br>
+Tìm giá trị lớn nhất trong A<br>
+Tìm vị trí của giá trị lớn nhất trong A<br>
+B<br>
+Ta thấy nếu tìm thấy một phần tử a[i, j] bất kỳ bằng L thì sẽ gán PosX bằng i, PosY bằng j. Như vậy đây là giải thuật tìm vị trí của phần tử mang giá trị L trong A.<br>
+Cho mảng hai chiều A có kích thước nxm. Cho biết giải thuật sau làm nhiệm vụ gì?{br}{code}pascal 
+M:=0
+For i:=1 to n do
+For j:=1 to m do
+begin
+if a[i,j] > M then
+M:=a[i,j]
+end;<br>
+Tính tổng các phần tử lớn hơn M trong A<br>
+Tìm phần tử lớn nhất trong A<br>
+Tính giá trị trung bình các phần tử lớn hơn  M trong A<br>
+Tìm phần tử nhỏ nhất trong A<br>
+B<br>
+Ta thấy nếu có một phần tử a[i,j] nào đó lớn hơn M hiện tại thì gán M bằng phần tử đó. Do vậy, đây là giải thuật tìm giá trị lớn nhất trong mảng hai chiều.<br>
+Cho giải thuật sắp xếp mảng hai chiều theo thứ tự tăng dần mỗi dòng như dưới đây. Cho biết đoạn mã còn thiếu ở chỗ "…" là gì?{br}{code}pascal 
+for i:=1  to m do
+for j:=1 to n-1 do
+…
+if a[i,j] > a[i,k] then
+begin
+tg:=a[i,j];
+a[i,j]:=a[i,k];
+a[i,k]:=tg;
+end;<br>
+for k:=i+1 to n do<br>
+for k:=j+1 to n do<br>
+for k:= 1 to n do<br>
+for k:=j+1 to m do<br>
+B<br>
+Giáo trình trang 119<br>
+Cho hai mảng hai chiều A và B cùng kích thước 3x3 được lưu trữ theo phương pháp lưu trữ cột có các phần tử như sau: A = {3, 7, 6, 11, 12, 20, 0, 8, 7}; B = {33, 8, -1, 4, 6, 12, 18, 21, 47}. Cho biết sau khi thực hiện xong giải thuật sau, phần tử ở vị trí dòng 3 cột 2 của mảng A mang giá trị bao nhiêu?{br}{code}pascal 
+for i:= 1 to 3 do
+for j:=1 to 3 do
+a[i,j]:=a[i,j]+b[i,j];<br>
+12<br>
+20<br>
+32<br>
+29<br>
+C<br>
+Đây là giải thuật cộng các phần tử của B vào A. Do vậy sau khi thực hiện xong, phần tử dòng 3 cột 2 mang giá trị 20 + 12 =32<br>
+

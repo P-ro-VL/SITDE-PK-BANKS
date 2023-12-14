@@ -505,6 +505,13 @@ TIHT1101:
       Name: Một số khái niệm cơ bản
       Time: 3600
       Title: Chương 1
+    2:
+      FileName: deTIHT1101_C2.txt
+      HasExplanation: true
+      NQuestions: 20
+      Name: Cấu trúc dữ liệu kiểu mảng
+      Time: 3600
+      Title: Chương 2
   Enable: true
   Name: Cấu trúc dữ liệu và giải thuật
   Type: Cơ sở ngành
