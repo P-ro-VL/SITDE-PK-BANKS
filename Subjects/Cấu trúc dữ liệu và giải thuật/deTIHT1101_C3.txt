@@ -1,0 +1,397 @@
+﻿Cấu trúc dữ liệu kiểu danh sách là gì?<br>
+Là tập hợp gồm nhiều phần tử có tính chất cấu trúc thứ tự giữa các phần tử với nhau: nếu biết được phần tử i thì sẽ biết được vị trí của phần tử i+1<br>
+Là tập hợp gồm nhiều phần tử có tính chất thứ tự liên tiếp liền kề nhau<br>
+Là tập hợp có thứ tự bao gồm một số lượng cố định các phần tử, được truy cập với cùng một tên<br>
+Là tập hợp các phần tử có cấu trúc nằm rải rác trong bộ nhớ<br>
+A<br>
+Định nghĩa Giáo trình trang 129<br>
+Trong xử lý danh sách, thuật ngữ KEY muốn nhắc tới?<br>
+Kết quả của phép tìm kiếm<br>
+Thông tin để tìm kiếm<br>
+Vị trí của phần tử<br>
+Địa chỉ ô nhớ lưu trữ dữ liệu về phần tử<br>
+B<br>
+Thông tin để tìm kiếm gọi là khóa (KEY)<br>
+Kết quả của phép tìm kiếm trong danh sách là?<br>
+Thông tin để tìm kiếm<br>
+Giá trị phần tử cần tìm kiếm<br>
+Vị trí của phần tử<br>
+Địa chỉ ô nhớ lưu trữ dữ liệu về phần tử<br>
+C<br>
+Kết quả của phép tìm kiếm trong danh sách là vị trí của phần tử đó nếu tìm thấy<br>
+Danh sách kiểu ngăn xếp Stack là gì?<br>
+Là tập hợp gồm nhiều phần tử có tính chất cấu trúc thứ tự giữa các phần tử với nhau: nếu biết được phần tử i thì sẽ biết được vị trí của phần tử i+1<br>
+Là kiểu danh sách tuyến tính mà phép bổ sung một phần tử được thực hiện ở một đầu gọi là lối sau (Rear) còn phép loại bỏ một phần tử thực hiện ở đầu khác gọi là lối trước (Front)<br>
+Là kiểu danh sách mà mỗi phần tử được lưu trữ trong một nút. Mỗi nút bao gồm một số từ máy liên tiếp nhau, nhưng bản thân các nút thì có thể nằm rải rác trong bộ nhớ<br>
+Là một kiểu danh sách tuyến tính đặc biệt mà việc bổ sung hay loại một phần tử chỉ thực hiện ở một đầu gọi là đỉnh (top)<br>
+D<br>
+Định nghĩa Giáo trình trang 135<br>
+Tên gọi khác của Stack là?<br>
+Danh sách hạn chế<br>
+Danh sách hai đầu<br>
+Danh sách kiểu ly<br>
+Danh sách một đầu<br>
+A<br>
+Stack còn được gọi là danh sách hạn chế vì các phép thêm, bớt chỉ có thể được thực hiện ở một đầu. Giáo trình trang 135<br>
+Đặc trưng cơ bản của Stack là?<br>
+Nguyên tắc vào trước ra trước (FIFO)<br>
+Nguyên tắc vào sau ra trước (LIFO)<br>
+Nguyên tắc vào ra hai đầu (THIO)<br>
+Cả A và B đều đúng<br>
+B<br>
+Nguyên tắc vào sau ra trước là đặc trưng cơ bản của Stack. (Last In First Out)<br>
+Phương pháp nào sau đây là phương pháp lưu trữ Stack?<br>
+Gồm một mảng chứa các phần tử và hai biến Front, Rear để lưu trữ các phần tử ở trước và sau của ngăn xếp<br>
+Gồm một danh sách chứa các phần tử và một biến Top để lưu trữ các phần tử ở đỉnh của ngăn xếp<br>
+Gồm một mảng chứa các phần tử và một biến Top để lưu trữ các phần tử ở đỉnh của ngăn xếp<br>
+Gồm một danh sách chứa các phần tử và hai biến Front, Rear để lưu trữ các phần tử ở trước và sau của ngăn xếp<br>
+C<br>
+Phương pháp lưu trữ Stack. Giáo trình trang 137<br>
+Một Stack được xác định là rỗng khi nào?<br>
+Khi không thể chứa thêm phần tử nào nữa<br>
+Khi không xác định được con trỏ vị trí của phần tử đầu tiên trong Stack<br>
+Khi biến Top mang giá trị âm<br>
+Khi biến Top bằng 0<br>
+D<br>
+Khi biến Top bằng 0 thì Stack được coi là rỗng (Giáo trình trang 137)<br>
+Danh sách kiểu hàng đợi Queue là gì?<br>
+Là tập hợp gồm nhiều phần tử có tính chất cấu trúc thứ tự giữa các phần tử với nhau: nếu biết được phần tử i thì sẽ biết được vị trí của phần tử i+1<br>
+Là kiểu danh sách tuyến tính mà phép bổ sung một phần tử được thực hiện ở một đầu gọi là lối sau (Rear) còn phép loại bỏ một phần tử thực hiện ở đầu khác gọi là lối trước (Front)<br>
+Là kiểu danh sách mà mỗi phần tử được lưu trữ trong một nút. Mỗi nút bao gồm một số từ máy liên tiếp nhau, nhưng bản thân các nút thì có thể nằm rải rác trong bộ nhớ<br>
+Là một kiểu danh sách tuyến tính đặc biệt mà việc bổ sung hay loại một phần tử chỉ thực hiện ở một đầu gọi là đỉnh (top)<br>
+B<br>
+Định nghĩa Giáo trình trang 153<br>
+Để lưu trữ Queue, có những phương pháp nào?<br>
+Phương pháp lưu trữ tuần tự và nối vòng<br>
+Phương pháp lưu trữ tuyến tính và rời rạc<br>
+Phương pháp lưu trữ tuần tự và rời rạc<br>
+Phương pháp lưu trữ rời rạc và nối vòng<br>
+A<br>
+Giáo trình trang 153 - 154<br>
+Thế nào là lưu trữ Queue kiểu tuần tự?<br>
+Gồm 2 biến: Biến R trỏ vào lối sau của Queue, biến F trỏ vào lối trước của Queue. Khi thêm một phần tử thì R=R+1, khi xóa một phần tử thì F=F+1<br>
+Gồm một danh sách chứa các phần tử và một biến Top để lưu trữ các phần tử ở đỉnh của hàng đợi<br>
+Gồm 2 biến: Biến R trỏ vào lối sau của Queue, biến F trỏ vào lối trước của Queue. Khi thêm một phần tử thì R=(R+1)%MaxSize, khi xóa một phần tử thì F=(F+1)%MaxSize<br>
+Gồm một danh sách chứa các phần tử và một biến Rear để lưu trữ các phần tử ở cuối của hàng đợi<br>
+A<br>
+Giáo trình trang 153<br>
+Thế nào là lưu trữ Queue kiểu nối vòng?<br>
+Gồm 2 biến: Biến R trỏ vào lối sau của Queue, biến F trỏ vào lối trước của Queue. Khi thêm một phần tử thì R=R+1, khi xóa một phần tử thì F=F+1<br>
+Gồm một danh sách chứa các phần tử và một biến Top để lưu trữ các phần tử ở đỉnh của hàng đợi<br>
+Gồm 2 biến: Biến R trỏ vào lối sau của Queue, biến F trỏ vào lối trước của Queue. Khi thêm một phần tử thì R=(R+1)%MaxSize, khi xóa một phần tử thì F=(F+1)%MaxSize<br>
+Gồm một danh sách chứa các phần tử và một biến Rear để lưu trữ các phần tử ở cuối của hàng đợi<br>
+C<br>
+Giáo trình trang 155 - 156<br>
+Nhược điểm của lưu trữ Queue kiểu tuần tự là?<br>
+Không thể liên kết phần tử này với phần tử kia một cách nhanh chóng<br>
+Việc khai thác và xử lý Queue trở nên khó khăn hơn<br>
+Cần lượng bộ nhớ lớn để lưu trữ<br>
+Queue di chuyển khắp vùng không gian nhớ dù số lượng phần tử là cố định<br>
+D<br>
+Giáo trình trang 153<br>
+Thế nào là danh sách liên kết đơn (Linked List)?<br>
+Là tập hợp gồm nhiều phần tử có tính chất cấu trúc thứ tự giữa các phần tử với nhau: nếu biết được phần tử i thì sẽ biết được vị trí của phần tử i+1<br>
+Là kiểu danh sách tuyến tính mà phép bổ sung một phần tử được thực hiện ở một đầu gọi là lối sau (Rear) còn phép loại bỏ một phần tử thực hiện ở đầu khác gọi là lối trước (Front)<br>
+Là kiểu danh sách mà mỗi phần tử được lưu trữ trong một nút. Mỗi nút bao gồm một số từ máy liên tiếp nhau, nhưng bản thân các nút thì có thể nằm rải rác trong bộ nhớ<br>
+Là một kiểu danh sách tuyến tính đặc biệt mà việc bổ sung hay loại một phần tử chỉ thực hiện ở một đầu gọi là đỉnh (top)<br>
+C<br>
+Giáo trình trang 181<br>
+Nội dung nào sau đây mô tả việc cài đặt danh sách liên kết đơn trên cơ sở mảng?<br>
+Gồm một mảng chứa các nút (Node). Mỗi nút bao gồm một biến để lưu dữ liệu. Các phần tử được truy cập thông qua địa chỉ mảng. Con trỏ L trỏ tới nút đầu tiên.<br>
+Bao gồm các nút. Trong đó, mỗi nút bao gồm một biến để lưu dữ liệu, một biến con trỏ trỏ đến địa chỉ của nút tiếp theo. Con trỏ L trỏ tới địa chỉ của nút đầu tiên<br>
+Là một mảng lưu trữ các giá trị của hàng đợi. Con trỏ L trỏ tới phần tử đầu tiên trong mảng.<br>
+Không thể lưu danh sách liên kết đơn trên mảng<br>
+A<br>
+Giáo trình trang 138<br>
+Nội dung nào sau đây mô tả việc cài đặt danh sách liên kết đơn trên cơ sở biến con trỏ?<br>
+Gồm một mảng chứa các nút (Node). Mỗi nút bao gồm một biến để lưu dữ liệu. Các phần tử được truy cập thông qua địa chỉ mảng. Con trỏ L trỏ tới nút đầu tiên.<br>
+Bao gồm các nút. Trong đó, mỗi nút bao gồm một biến để lưu dữ liệu, một biến con trỏ trỏ đến địa chỉ của nút tiếp theo. Con trỏ L trỏ tới địa chỉ của nút đầu tiên<br>
+Là một mảng lưu trữ các giá trị của hàng đợi. Con trỏ L trỏ tới phần tử đầu tiên trong mảng.<br>
+Không thể lưu danh sách liên kết đơn trên mảng<br>
+B<br>
+Giáo trình trang 198<br>
+Danh sách liên kết đối xứng (hay danh sách liên kết đôi, Double Linked List) là gì?<br>
+Là một danh sách mà đầu cuối đều là các con trỏ liên kết<br>
+Là một danh sách mà các phần tử bao gồm một biến mang giá trị và một con trỏ trỏ đến phần tử trước và sau phần tử này trong danh sách<br>
+Là một danh sách mà các phần tử bao gồm một biến mang giá trị và con trỏ trỏ đến phần tử tiếp theo trong danh sách<br>
+Là một danh sách mà các phần tử của nó có hai vùng liên kết<br>
+D<br>
+Giáo trình trang 211<br>
+Con trỏ trỏ tới nút đứng trước của nút cực trái trong danh sách liên kết đối xứng là gì?<br>
+Con trỏ null<br>
+Con trỏ Nil<br>
+Con trỏ L<br>
+Con trỏ R<br>
+B<br>
+Giáo trình trang 212. Nút cực trái là nút đầu tiên trong danh sách liên kết<br>
+Con trỏ trỏ tới nút đứng trước của nút cực phải trong danh sách liên kết đối xứng là gì?<br>
+Con trỏ null<br>
+Con trỏ Nil<br>
+Con trỏ L<br>
+Con trỏ R<br>
+B<br>
+Giáo trình trang 212. Nút cực phải là nút cuối cùng trong danh sách liên kết<br>
+Nhận xét nào sau đây sai về danh sách liên kết đối xứng?<br>
+Các phần tử của danh sách liên kết đối xứng nằm rải rác trong bộ nhớ<br>
+Các phần tử được liên kết với nhau thông qua hai con trỏ ở hai đầu mỗi phần tử<br>
+Mỗi phần tử phải luôn có đầy đủ một biến lưu trữ dữ liệu và hai con trỏ ở hai đầu để liên kết đến các phần tử trước và sau nó<br>
+Số lượng phần tử của danh sách liên kết đối xứng là không giới hạn<br>
+C<br>
+Không nhất thiết phải có đầy đủ. Ví dụ nút đầu tiên và nút cuối cùng lần lượt chỉ có con trỏ phải và con trỏ trái. Con trỏ còn lại là Nil (không có) vì không có nút nào đứng trước và sau hai nút này nữa<br>
+Cấu trúc dữ liệu nào tương ứng với quy tắc LIFO?<br>
+Stack<br>
+Queue<br>
+Danh sách liên kết đơn<br>
+Danh sách liên kết đối xứng<br>
+A<br>
+Xem lại đặc trưng của Stack. Giáo trình trang 137<br>
+Cấu trúc dữ liệu nào tương ứng với quy tắc FIFO?<br>
+Stack<br>
+Queue<br>
+Danh sách liên kết đơn<br>
+Danh sách liên kết đối xứng<br>
+B<br>
+Xem lại đặc trưng của Queue.<br>
+Cho giải thuật sau đây. Cho biết giải thuật sau làm nhiệm vụ gì?{br}{code}pascal If Stack.Top=StackLimit then
+Halt
+Else
+With Stack do
+Begin
+Top:=Top+1;
+Element[Top]:=Item;
+End;
+End;<br>
+Xóa một phần tử khỏi Stack<br>
+Thêm một phần tử vào Stack<br>
+Duyệt từ đầu đến cuối Stack<br>
+Kiểm tra xem Stack có rỗng hay không<br>
+B<br>
+Giáo trình trang 139. Ở đây ta thấy nếu Top của Stack đã bằng StackLimit (Số phần tử có thể lưu tối đa) thì thuật toán sẽ không thực hiện (Halt). Còn nếu vẫn còn chỗ thì thực hiện tăng Top lên 1 và gắn phần tử ở top hiện tại bằng Item. Do vậy đây là thuật toán thêm Item vào Stack<br>
+Cho thuật toán loại bỏ một phần tử Item khỏi Stack như dưới đây. Câu lệnh thích hợp để điền vào "…" là?{br}{code}pascal If EmptyS(Stack) then
+Halt
+With Stack do 
+Begin
+Item:=Element[Top]
+…
+End;
+End;<br>
+Top:=0<br>
+Top:=MaxSize<br>
+Top:=Top+1<br>
+Top:=Top-1<br>
+D<br>
+Giáo trình trang 140. Ở đây ta thấy do đang loại bỏ phần tử ở đỉnh của Stack nên khi bỏ đi xong phải thực hiện trừ Top đi 1 để lần sau còn thêm Item mới vào Top mới.<br>
+Cho thuật toán chuyển đổi một số  nguyên N từ cơ số 10 sang cơ số 2 như hình dưới. Cho biết nếu số nhập vào là 374 thì các phần tử trong Stack theo thứ tự từ đáy lên đỉnh sau khi thuật toán chạy xong là bao nhiêu?{br}{code}pascal 
+While N <> 0 do
+Begin
+Remainder:=Number mod 2;
+Push(Stack, Remainder);
+N:=N div 2
+End;<br>
+1 0 1 1 1 0 1 1 0<br>
+1 1 0 1 0 1 1 0<br>
+0 1 1 0 1 0 1 1<br>
+0 1 1 0 1 1 1 0 1<br>
+D<br>
+Hãy thử thực hiện chia liên tục N cho 2 và lấy phần dư lần lượt theo thứ tự chia. Khi thực hiện in kết quả ra màn hình thì cần in từ đỉnh xuống đáy mới được hệ nhị phân thực sự của 374. Nhưng ở đây đề hỏi lưu trữ trong Stack từ đáy lên đỉnh nên thứ tự là ngược lại. Chi tiết: Giáo trình trang 143<br>
+Cho giải thuật tìm kiếm một phần tử trong Stack như dưới đây. Cho biết cần phải điền câu lệnh nào vào "…" để thuật toán cho ra kết quả đúng?{br}{code}pascal TG:=0
+While not EmptyS(S) do
+Begin
+…
+if TG = T then
+Writeln('Đã tìm thấy T');
+End;<br>
+Pop(Stack, TG)<br>
+Pop(Stack, T)<br>
+Push(Stack, TG)<br>
+Push(Stack, T)<br>
+A<br>
+Ta cần lấy phần tử ở đỉnh Stack ra và gán vào biến TG để kiểm tra xem phần tử đó có bằng giá trị T không (TG = T). Nếu có thì in ra thông báo tìm thấy.<br>
+Cho giải thuật sau đây. Biết rằng StackA đang chứa các phần tử là số nguyên có thứ tự tăng dần từ đáy lên đỉnh Stack. Cho biết giải thuật này đang thực hiện nhiệm vụ gì?{br}{code}pascal 
+TG:=0
+Flag:=0
+
+While Flag = 0 do
+begin
+Pop(StackA, TG);
+If TG > T then
+Push(StackB, TG);
+else
+Push(StackA, TG);
+Push(StackA, T);
+Flag:=1
+end;
+
+While not EmptyS(StackB) do
+begin
+Pop(StackB, TG);
+Push(StackA, TG);
+end;<br>
+Chuyển hết các phần tử StackA sang StackB, đồng thời chèn thêm phần tử mang giá trị T sao cho StackB có thứ tự tăng dần từ đáy lên đỉnh Stack<br>
+Chèn phần tử mang giá trị T vào StackA sao cho vẫn giữ nguyên thứ tự giảm dần từ đáy lên đỉnh StackA<br>
+Chèn phần tử mang giá trị T vào StackA sao cho vẫn giữ nguyên thứ tự tăng dần từ đáy lên đỉnh StackA<br>
+Chuyển hết các phần tử StackA sang StackB, đồng thời chèn thêm phần tử mang giá trị T sao cho StackB có thứ tự giảm dần từ đáy lên đỉnh Stack<br>
+C<br>
+Giải thích thuật toán: Đầu tiên, lấy phần tử ở đỉnh của StackA ra gán vào biến TG. Nếu TG > T thì tạm thời bỏ TG sang StackB. Lặp lại như vậy đến khi TG <= T. Khi đó, ta thêm lại TG vào StackA, sau đó thêm T vào StackA. Cuối cùng, thêm lại lần lượt toàn bộ các phần tử đã bỏ sang StackB về lại StackA. Như vậy, đây là giải thuật chèn phần tử mang giá trị T vào StackA sao cho vẫn giữ nguyên thứ tự tăng dần từ đáy Stack lên đỉnh.<br>
+Giải thuật sau được sử dụng để kiểm tra xem một Queue bất kỳ có đang rỗng hay không. Để giải thuật thực hiện thành công, câu lệnh cần điền vào "…" là?{br}{code}pascal 
+Function EmptyQ(Queue: QueueType): Boolean;
+Begin
+…
+End;<br>
+EmptyQueue:=(Queue.Front=Queue.Rear);<br>
+EmptyQueue:=(Queue.Front=0)<br>
+EmptyQueue:=(Queue.Rear=0)<br>
+EmptyQueue:=(Queue.Front > Queue.Rear)<br>
+A<br>
+Nếu con trỏ Front bằng con trỏ Rear thì Queue rỗng. Giáo trình trang 155<br>
+Cho giải thuật sau. Cho biết giải thuật này đang thực hiện nhiệm vụ gì?{br}{code}pascal With Queue do
+Begin
+NewRear:=(Rear+1) mod MaxSize;
+If NewRear=Front then
+Halt
+else
+Begin
+Element[Rear]:=Item;
+Rear:=NewRear;
+End;
+End;
+End;<br>
+Xóa một phần tử ở cuối Queue<br>
+Lấy ra phần tử ở đầu Queue<br>
+Thêm một phần tử vào cuối Queue<br>
+Chèn một phần tử vào Queue<br>
+C<br>
+Giáo trình trang 155 - 156<br>
+Cho giải thuật thực hiện nhiệm vụ lấy ra một phần tử ở đầu hàng đợi như sau. Cho biết câu lệnh cần điền vào "…" để giải thuật này hoạt động thành công là gì?{br}{code}pascal 
+If EmptyQ(Queue) then
+Halt
+else
+With Queue do
+begin
+item:=Element[Front];
+...
+end;
+end;<br>
+Rear:=(Rear+1) mod MaxSize<br>
+Front:=(Front+1) mod MaxSize<br>
+Rear:=Rear + 1<br>
+Front:= Front + 1<br>
+B<br>
+Giáo trình trang 156<br>
+Cho giải thuật sau. Cho biết giải thuật này đang thực hiện nhiệm vụ gì?{br}{code}pascal M:=0
+TG:=0
+RemoveQ(Queue, M);
+While not EmptyQ(Queue) do
+Begin
+RemoveQ(Queue, TG);
+if TG > M then
+M:=TG
+end;<br>
+Tìm phần tử có giá trị lớn nhất trong Queue<br>
+Tìm phần tử có giá trị nhỏ nhất trong Queue<br>
+Tìm phần tử có giá trị bằng M trong Queue<br>
+Lấy ra toàn bộ các phần tử có giá trị lớn hơn M trong Queue<br>
+A<br>
+Ta thấy chừng nào Queue chưa rỗng thì giải thuật liên tục lấy phần tử ở đầu Queue ra và so sánh với M hiện tại. Nếu lớn hơn thì gán M bằng giá trị của phần tử đó. Do vậy, đây là giải thuật tìm giá trị lớn nhất trong hàng đợi<br>
+Bộ phận chăm sóc khách hàng của Bamboo Airways cần tiếp nhận hàng nghìn cuộc gọi đến từ khách hàng. Nếu nhân viên chăm sóc khách hàng đang trong một cuộc điện thoại với một khách hàng bất kỳ thì các cuộc gọi đến sẽ cần chờ cho cuộc gọi đó kết thúc thì mới được nhân viên tiếp nhận. Trong trường hợp này, cần sử dụng cấu trúc dữ liệu nào để xử lý?<br>
+Stack<br>
+Queue<br>
+Mảng<br>
+Danh sách liên kết<br>
+B<br>
+Do Queue là hàng đợi, theo quy tắc vào trước ra trước như "xếp hàng" nên phù hợp nhất.<br>
+Cho giải thuật như sau. Cho biết giải thuật này đang thực hiện nhiệm vụ gì?{br}{code}pascal 
+CurrPtr:=L
+While CurrPtr <> 0 do
+Begin
+Write(Node[CurrPtr].Data);
+CurrPtr:=Node[CurrPtr].Next;
+End;
+End;<br>
+In ra các giá trị khác 0 trong danh sách liên kết<br>
+Làm trống danh sách liên kết<br>
+Duyệt và in ra tất cả các phần tử của danh sách liên kết<br>
+Duyệt và in ra tất cả các phần tử của danh sách liên kết trừ phần tử đầu tiên<br>
+C<br>
+Giáo trình trang 185 - 186<br>
+Điều kiện nào sau đây là điều kiện để kiểm tra xem một danh sách liên kết có rỗng hay không?<br>
+R = 0<br>
+L = R<br>
+L > R<br>
+L = 0<br>
+D<br>
+Giáo trình trang 187<br>
+Cho giải thuật chèn Item vào đầu danh sách liên kết lưu trữ bằng mảng như dưới đây. Cho biết cần điền câu lệnh gì vào chỗ "…" để giải thuật này hoạt động?{br}{code}pascal GetNode(TempPtr);
+Node[TempPtr].Data := item;
+…
+L:=TempPtr
+End;<br>
+L.Data:=Item<br>
+TempPtr:=L<br>
+Node[TempPtr].Prev:=L<br>
+Node[TempPtr].Next:=L;<br>
+D<br>
+Giáo trình trang 187<br>
+Cho giải thuật xóa một nút từ danh sách liên kết lưu trữ bằng mảng như sau. Cho biết ý nghĩa của của tham số PredPtr?{br}{code}pascal if EmptyL(L) Halt else if PredPtr=0 then
+Begin
+TempPtr:=L
+L:=Node[TempPtr].Next
+end
+else
+begin
+TempPtr:=Node[PredPtr].Next
+Node[PredPtr].Next := Node[TempPtr].Next
+end;
+ReleaseNode(TempPtr)<br>
+Là con trỏ chỉ vào nút cần xóa khỏi danh sách<br>
+Là con trỏ chỉ vào nút đầu tiên của danh sách<br>
+Là con trỏ chỉ vào nút đứng trước nút cần xóa<br>
+Là nút cần xóa<br>
+C<br>
+Giáo trình trang 190<br>
+Cú pháp nào sau đây để lấy dữ liệu từ một nút có địa chỉ CurrPtr trong danh sách liên kết lưu trữ bằng con trỏ?<br>
+CurrPtr^.Data<br>
+L[CurrPtr].Data<br>
+L[CurrPtr].Data<br>
+CurrPtr.Data<br>
+A<br>
+Nếu địa chỉ lưu trữ của phần tử là con trỏ P bất kỳ thì có thể truy cập nhanh đến giá trị của nó bằng cú pháp P^.Data<br>
+Cho giải thuật chèn một nút vào danh sách liên kết như sau. Cho biết ý nghĩa của biến M?{br}{code}pascal 
+New(Moi);
+Moi^.Data := X
+If L=Nil then
+Begin
+L:=Moi
+Moi^.Next:=Nil
+end
+else
+Begin
+Moi^.Next:=M^.Next
+M^.Next:=Moi
+end;<br>
+Nút đứng trước vị trí cần chèn<br>
+Vị trí cần chèn nút mới<br>
+Nút đứng sau vị trí cần chèn<br>
+Nút đầu tiên của danh sách<br>
+A<br>
+Giáo trình trang 202<br>
+Cho biết đoạn mã sau đang thực hiện nhiệm vụ gì?{br}{code}pascal Moi^.Lptr:=M^.Lptr;
+Moi^.Rptr:=M;
+M^.Lptr:=Moi;
+(Moi^.Lptr)^.Rptr:=Moi<br>
+Chèn một nút mới vào trước nút M trong một danh sách liên kết đơn<br>
+Chèn một nút mới vào trước nút M trong một danh sách liên kết đối xứng<br>
+Chèn một nút mới vào sau nút M trong một danh sách liên kết đối xứng<br>
+Chèn một nút mới vào sau nút M trong một danh sách liên kết đơn<br>
+B<br>
+Giáo trình trang 213<br>
+Cho đoạn mã thực hiện xóa bỏ một nút M khỏi danh sách liên kết đối xứng như sau. Cho biết cú pháp thích hợp điền vào dấu "…" để đoạn mã này hoạt động là gì?{br}{code}pascal (M^.Lptr)^Rptr := …;
+(M^.Rptr)^.Lptr := M^.Lptr;
+Dispose(M);<br>
+(M^.Rptr).Lptr<br>
+M^.Lptr<br>
+(M^.Rptr).Rptr<br>
+M^.Rptr<br>
+D<br>
+Giáo trình trang 216<br>
+

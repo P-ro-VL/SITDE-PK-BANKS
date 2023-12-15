@@ -512,6 +512,13 @@ TIHT1101:
       Name: Cấu trúc dữ liệu kiểu mảng
       Time: 3600
       Title: Chương 2
+    3:
+      FileName: deTIHT1101_C3.txt
+      HasExplanation: true
+      NQuestions: 30
+      Name: Ngăn xếp, hàng đợi và danh sách liên kết
+      Time: 3600
+      Title: Chương 3
   Enable: true
   Name: Cấu trúc dữ liệu và giải thuật
   Type: Cơ sở ngành
