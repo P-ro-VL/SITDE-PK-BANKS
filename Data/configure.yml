@@ -519,6 +519,13 @@ TIHT1101:
       Name: Ngăn xếp, hàng đợi và danh sách liên kết
       Time: 3600
       Title: Chương 3
+    4:
+      FileName: deTIHT1101_C4.txt
+      HasExplanation: true
+      NQuestions: 20
+      Name: Cấu trúc dữ liệu cây
+      Time: 3600
+      Title: Chương 4
   Enable: true
   Name: Cấu trúc dữ liệu và giải thuật
   Type: Cơ sở ngành
