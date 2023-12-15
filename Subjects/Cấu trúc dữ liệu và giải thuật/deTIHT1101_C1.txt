@@ -283,8 +283,8 @@ Tính tổng các số từ 1 đến n<br>
 Tính tổng các số chẵn từ 1 đến n<br>
 Tính n giai thừa<br>
 Tính (n-1) giai thừa<br>
-C<br>
-Đây là thuật toán tính n giai thừa<br>
+D<br>
+Đây là thuật toán tính n-1 giai thừa do i < n<br>
 Cho một dãy gồm n phần tử A[1], A[2], …, A[n] và thuật toán như sau:
 1. Gán M = A[1]
 2. Gán i = 2
