@@ -152,13 +152,13 @@ Cho cây nhị phân tìm kiếm được duyệt theo phương pháp tiền th�
 8<br>
 C<br>
 Vẽ hình và sẽ thấy có 7 mức.<br>
-Cho cây nhị phân tìm kiếm được duyệt theo phương pháp hậu thứ tự như sau: 1 15 3 11 6 5 16 10 7 4 2 18 20 19 17 9 8. Cho biết nút có giá trị 10 nằm ở mức thứ mấy?<br>
+Cho cây nhị phân tìm kiếm được duyệt theo phương pháp hậu thứ tự như sau: 2 4 7 5 6 3 1 8 9 10 11 17 19 20 18 16 15 8. Cho biết nút có giá trị 10 nằm ở mức thứ mấy?<br>
 2<br>
 3<br>
 4<br>
 5<br>
-B<br>
-Vẽ hình và sẽ thấy nút mang giá trị 10 nằm ở mức 3<br>
+C<br>
+Vẽ hình và sẽ thấy nút mang giá trị 10 nằm ở mức 4<br>
 Thế nào là cây nhị phân tìm kiếm?<br>
 Là cây nhị phân mà mỗi nút của nó đều thỏa mãn: Giá trị của nút con trái nhỏ hơn giá trị của chính nút đó; Giá trị của nút con phải lớn hơn giá trị của chính nút đó<br>
 Là cây nhị phân mà mỗi nút của nó đều thỏa mãn: Giá trị của nút con trái lớn hơn giá trị của chính nút đó; Giá trị của nút con phải nhỏ hơn giá trị của chính nút đó<br>
