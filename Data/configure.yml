@@ -474,7 +474,7 @@ TOCB1107:
       NQuestions: 40
       Name: Bài toán đếm
       Time: 3600
-      Title: Chương 1
+      Title: Chương 1 - 3
     2:
       FileName: deTOCB1107_C4.txt
       HasExplanation: false
@@ -533,6 +533,13 @@ TIHT1101:
       Name: Cấu trúc dữ liệu đồ thị
       Time: 3600
       Title: Chương 5
+    67:
+      FileName: deTIHT1101_C6_7.txt
+      HasExplanation: true
+      NQuestions: 20
+      Name: Sắp xếp và tìm kiếm
+      Time: 3600
+      Title: Chương 6 - 7
   Enable: true
   Name: Cấu trúc dữ liệu và giải thuật
   Type: Cơ sở ngành
