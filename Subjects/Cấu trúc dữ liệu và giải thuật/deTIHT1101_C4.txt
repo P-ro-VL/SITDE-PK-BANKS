@@ -201,10 +201,10 @@ Mọi cây cân đối AVL đều thỏa mãn điều kiện của một cây nh
 Không thể quét toàn bộ cây nhị phân cân đối<br>
 B<br>
 Cây nhị phân đầy đủ là một cây cân đối AVL, nhưng điều ngược lại chưa chắc đúng<br>
-Cho cây nhị phân tìm kiếm được duyệt theo phương pháp tiền thứ tự như sau: 28 17 9 22 15 10 32 29 52 33. Kết quả duyệt cây này theo phương pháp hậu thứ tự là?<br>
+Cho cây nhị phân tìm kiếm được duyệt theo phương pháp tiền thứ tự như sau: 28 17 9 15 10 22 32 29 52 33. Kết quả duyệt cây này theo phương pháp hậu thứ tự là?<br>
 9 17 10 15 22 28 29 32 33 52<br>
 9 17 10 15 22 29 32 33 52 28<br>
-9 10 15 22 17 29 33 52 32 28<br>
+10 15 9 22 17 29 33 52 32 28<br>
 10 15 22 9 17 33 52 29 32 28<br>
 C<br>
 Thực hiện chuyển dãy tiền thứ tự về dạng cây nhị phân và thực hiện duyệt hậu thứ tự<br>
