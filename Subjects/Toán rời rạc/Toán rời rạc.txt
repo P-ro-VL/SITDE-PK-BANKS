@@ -53,7 +53,7 @@ D<br>
 60<br>
 15<br>
 28<br>
-B<br>
+A<br>
 (C1-2) Cho tập vũ trụ U = {25, 36, 44, 59, 61, 82, 103, 319}. Tập A = {36, 59, 82, 103} được biểu diễn trong máy tính dựa trên tập U là:<br>
 11010100<br>
 11000110<br>
