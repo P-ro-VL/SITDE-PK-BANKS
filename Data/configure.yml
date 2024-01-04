@@ -642,3 +642,61 @@ LLNL1106:
   URL:
     Thumbnail: https://img.vietnamfinance.vn/webp-jpg/700x0/upload/news/thanhhang/2018/7/27/vnf-kinh-te-chinh-tri.webp
     ReviewProposal: https://drive.google.com/drive/folders/1ziLaZyq-MgYh1UVX6nWJOCNdvppI1Z3d?usp=sharing
+QLKT1101:
+  Chapters:
+    1:
+      FileName: deQLKT1101_C1.txt
+      HasExplanation: false
+      NQuestions: 30
+      Name: Tổng quan về quản lý
+      Time: 3600
+      Title: Chương 1
+    2:
+      FileName: deQLKT1101_C2.txt
+      HasExplanation: false
+      NQuestions: 30
+      Name: Môi trường quản lý
+      Time: 3600
+      Title: Chương 2
+    3:
+      FileName: deQLKT1101_C3.txt
+      HasExplanation: false
+      NQuestions: 30
+      Name: Quyết định quản lý
+      Time: 3600
+      Title: Chương 3
+    4:
+      FileName: deQLKT1101_C4.txt
+      HasExplanation: false
+      NQuestions: 30
+      Name: Chức năng lập kế hoạch
+      Time: 3600
+      Title: Chương 4
+    5:
+      FileName: deQLKT1101_C5.txt
+      HasExplanation: false
+      NQuestions: 30
+      Name: Chức năng tổ chức
+      Time: 3600
+      Title: Chương 5
+    6:
+      FileName: deQLKT1101_C6.txt
+      HasExplanation: false
+      NQuestions: 30
+      Name: Chức năng lãnh đạo
+      Time: 3600
+      Title: Chương 6
+    7:
+      FileName: deQLKT1101_C7.txt
+      HasExplanation: false
+      NQuestions: 30
+      Name: Chức năng kiểm soát
+      Time: 3600
+      Title: Chương 7
+  Enable: true
+  Name: Quản lý học
+  Type: Cơ sở ngành
+  NCredits: '3'
+  URL:
+    Thumbnail: https://davidsummertonconsulting.files.wordpress.com/2020/01/management-group.jpg
+    ReviewProposal: https://drive.google.com/file/d/1IBxgGzw2ORE8y-uhYRgZMtO6fmnTryXD/view

@@ -1,0 +1,211 @@
+﻿Với các nội dung và tác dụng khác nhau, các phương án quyết định có thể chia thành:<br>
+phương án tích cực, phương án tình thế<br>
+phương án hợp lý, phương án hiệu quả<br>
+phương án tình thế, phương án lâm thời<br>
+phương án tích cực, phương án tình thế, phương án lâm thời<br>
+C<br>
+
+Hình thức của quyết định quản lý:<br>
+được thể hiện bằng lời nói.<br>
+luôn được thể hiện dưới dạng văn bản.<br>
+không được thể hiện dưới dạng văn bản.<br>
+được thể hiện dưới dạng văn bản và phi văn bản.<br>
+D<br>
+
+Đánh giá và lựa chọn phương án tốt nhất:<br>
+Là bước không cần thiết trong quy trình ra quyết định<br>
+là một bước trong quy trình quyết định, được thực hiện sau khi xây dựng các phương án.<br>
+được thực hiện sau khi tổ chức thực hiện quyết định.<br>
+là bước đầu tiên của quy trình quyết định quản lý.<br>
+B<br>
+
+Chuẩn đoán nguyên nhân của vấn đề là một trong những bước của quá trình:<br>
+xác định các phương án quyết định<br>
+đánh giá và lựa chọn phương án<br>
+tổ chức thực thi quyết định<br>
+phân tích vấn đề và các định mục tiêu của quyết định<br>
+D<br>
+
+Quyết định quản lý:<br>
+chỉ bao gồm các quyết định trung hạn.<br>
+chỉ bao gồm các quyết định ngắn hạn vì quyết định quản lý chỉ được sử dụng để giải quyết các vấn đề mang tính tác nghiệp.<br>
+chỉ bao gồm các quyết định dài hạn vì quyết định quản lý luôn gắn với chiến lược của tổ chức.<br>
+bao gồm cả quyết định dài hạn, trung hạn và ngắn hạn.<br>
+D<br>
+
+Trong bước đánh giá và lựa chọn phương án, với những trường hợp các tiêu chí có tầm quan trọng khác nhau, người ta thường áp dụng phương pháp:<br>
+phương pháp hệ số<br>
+phương pháp cho điểm<br>
+phương pháp tư duy<br>
+phương pháp chuyên gia<br>
+A<br>
+
+Nguồn lực của tổ chức:<br>
+Không liên quan đến việc ra quyết định quản lý.<br>
+Là mục tiêu của quyết định quản lý.<br>
+Là một trong các căn cứ ra quyết định quản lý.<br>
+Là quá trình tổ chức thực hiện quyết định.<br>
+C<br>
+
+Phương pháp phân tích toán học:<br>
+thường ít được áp dụng trong quản lý vì nhà quản lý thường không biết phân tích toán học.<br>
+chỉ được áp dụng trong tính toán doanh thu, chi phí và lợi nhuận của doanh nghiệp.<br>
+có thể hỗ trợ cho các nhà quản lý trong việc xác định vấn đề và lựa chọn phương án trong quá trình quyết định.<br>
+không được áp dụng trong quản lý vì đây là công việc của các nhà toán học.<br>
+C<br>
+
+Hệ thống mục tiêu của tổ chức:<br>
+chỉ được quan tâm trong quá trình lập kế hoạch.<br>
+chỉ được quan tâm trong quá trình thực hiện kế hoạch.<br>
+là không liên quan đến quá trình ra quyết định.<br>
+là một trong các căn cứ để ra quyết định.<br>
+D<br>
+
+Quyết định quản lý:<br>
+không liên quan đến thu thập thông tin và đây là 2 quá trình độc lập.<br>
+là sản phẩm của hoạt động quản lý<br>
+được đưa ra trước khi thu thập thông tin.<br>
+chỉ cần thiết với chức năng lập kế hoạch<br>
+B<br>
+
+Một quyết định quản lý cần đáp ứng được các yêu cầu về:<br>
+phong cách quản lý.<br>
+văn hoá xã hội<br>
+kỹ năng quản lý.<br>
+tính hợp pháp, tính hệ thống, tính khoa học và tính tối ưu.<br>
+D<br>
+
+Tổ chức thực hiện quyết định:<br>
+được tiến hành trong cả quá trình ra quyết định quản lý<br>
+là bước đầu tiên của quy trình quyết định quản lý.<br>
+là bước cuối cùng trong quy trình quyết định quản lý<br>
+là không thực sự quan trọng vì ra quyết định chính xác mới là yếu tố quan trọng.<br>
+C<br>
+
+Tính hợp pháp của quyết định quản lý được thể hiện:<br>
+Là quyết định đó phù hợp với thực tiễn.<br>
+Là quyết định đó được người dân thực hiện.<br>
+Là quyết định đó được đưa ra trong thẩm quyền, nội dung không trái pháp luật và đúng thể thức văn bản.<br>
+Dựa trên cơ sở lý luận và thực tiễn<br>
+C<br>
+
+Xây dựng các phương án quyết định:<br>
+là bước đầu tiên của quy trình quyết định quản lý.<br>
+là một bước trong quy trình quyết định, được thực hiện sau khi phân tích vấn đề.<br>
+là không thực sự quan trọng vì chủ thể ra quyết định dễ dàng xác định được phương án tối ưu.<br>
+được thực hiện sau khi lựa chọn phương án tối ưu.<br>
+B<br>
+
+Phương pháp chuyên gia:<br>
+là một trong các phương pháp lãnh đạo con người.<br>
+là một trong các phương pháp quản lý nhà nước.<br>
+là không cần thiết trong quá trình quyết định bởi vì bản thân chủ thể ra quyết định là các chuyên gia.<br>
+là phương pháp dựa trên các ý kiến chuyên gia để thực hiện các bước của quá trình quyết định.<br>
+D<br>
+
+--------------------là tình huống xẩy ra khi môi trường tạo cho hệ thống khả năng đi xa hơn so với mục tiêu ban đầu<br>
+thách thức<br>
+cơ hội<br>
+mục tiêu<br>
+vấn đề<br>
+B<br>
+
+Đối với quản lý của các tổ chức kinh tế - xã hội, quyết định trung hạn là quyết định có hiệu lực:<br>
+từ 3 năm đến 7 năm<br>
+từ 1 năm đến 5 năm<br>
+từ 3 năm đến 5 năm<br>
+trên 5 năm<br>
+B<br>
+
+Tính tối ưu của quyết định quản lý được thể hiện:<br>
+Tính cô đọng, xúc tích, dễ hiểu, đơn nghĩa.<br>
+là quyết định đó được người dân thực hiện.<br>
+là quyết định đó phù hợp với thực tiễn.<br>
+phương án mà quyết định lựa chọn phải là phương án tối ưu.<br>
+D<br>
+
+Đối với quản lý nhà nước, các quyết định dài hạn là các quyết định có hiệu lực:<br>
+từ 3 năm đến 7 năm<br>
+từ 3 năm đến 5 năm<br>
+dưới 3 năm<br>
+trên 7 năm<br>
+D<br>
+
+Chính sách, quy chế, quy tắc, quy trình, thủ tục là các ví dụ về:<br>
+quyết định chuẩn tắc<br>
+quyết định bộ phận<br>
+quyết định không chuẩn tắc<br>
+quyết định toàn cục<br>
+A<br>
+
+Quyết định đầu tư xây dựng một nhà máy lọc dầu tại một địa điểm nhất định là ví dụ của:<br>
+quyết định tổng quát<br>
+quyết định chi tiết<br>
+quyết định không chuẩn tắc<br>
+quyết định chuẩn tắc<br>
+C<br>
+
+Phân tích vấn đề:<br>
+được thực hiện sau khi xây dựng các phương án của quyết định.<br>
+là bước cuối cùng của quy trình quyết định.<br>
+là bước quan trọng trong quy trình quyết định.<br>
+là không thực sự quan trọng vì quá trình thực hiện quyết định mới là yếu tố quan trọng.<br>
+C<br>
+
+Chủ thể ra quyết định quản lý là:<br>
+chỉ bao gồm các cơ quan nhà nước.<br>
+chỉ bao gồm các nhân viên trong tổ chức<br>
+chỉ bao gồm các giám đốc doanh nghiệp.<br>
+các cá nhân, tập thể được trao thẩm quyền hoặc uỷ quyền.<br>
+D<br>
+
+Hệ thống pháp luật và các thông lệ:<br>
+không liên quan đến quá trình ra quyết định.<br>
+là một trong các căn cứ để ra quyết định.<br>
+chỉ được quan tâm trong quá trình lập kế hoạch.<br>
+là yếu tố chỉ được quan tâm bởi các văn phòng luật sư<br>
+B<br>
+
+Phạm vi tác động của quyết định quản lý:<br>
+là các cơ quan nhà nước.<br>
+chỉ bao gồm chủ thể quản lý.<br>
+chỉ bao gồm nội bộ tổ chức<br>
+có thể là các cá nhân, các tổ chức và toàn xã hội.<br>
+D<br>
+
+Một trong những căn cứ ra quyết định quản lý:<br>
+Hệ thống mục tiêu<br>
+Tất cả các phương án trên<br>
+Mong muốn của nhà quản lý<br>
+Sự kì vọng của chủ đầu tư<br>
+A<br>
+
+So sánh các phương án của quyết định:<br>
+là một bước trong quy trình quyết định, được thực hiện ngay sau khi xác định được vấn đề quyết định.<br>
+là không thực sự quan trọng vì chủ thể ra quyết định dễ dàng biết được phương án tốt nhất.<br>
+là một nội dung của bước đánh giá và lựa chọn phương án tốt nhất.<br>
+là bước đầu tiên của quy trình quyết định quản lý.<br>
+C<br>
+
+Phân chia theo số người ra quyết định, quyết định quản lý bao gồm:<br>
+quyết định tập thể và quyết định cá nhân.<br>
+quyết định chuẩn tắc và quyết định không chuẩn tắc.<br>
+quyết định chiến lược, quyết định chiến thuật và quyêt định tác nghiệp.<br>
+các quyết định quản lý nhà nước và quyết định của các tổ chức.<br>
+A<br>
+
+Tính hệ thống của quyết định quản lý được thể hiện:<br>
+là quyết định đó được người dân thực hiện.<br>
+lợi ích mang lại cho hệ thống khi thực hiện quyết định<br>
+là quyết định đó được đưa ra trong thẩm quyền, nội dung không trái pháp luật và đúng thể thức văn bản.<br>
+các quyết định quản lý được đưa ra bởi các chủ thể khác nhau, được đưa ra ở các thời điểm khác nhau không được mâu thuẫn.<br>
+D<br>
+
+Quyết định quản lý là:<br>
+chức năng quản lý.<br>
+chủ thể quản lý<br>
+môi trường quản lý.<br>
+phương án hợp lý nhất để giải quyết 1 vấn đề.<br>
+D<br>
+
+
