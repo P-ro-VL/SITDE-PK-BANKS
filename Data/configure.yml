@@ -446,13 +446,20 @@ TIKT1130:
 TOCB1101:
   Chapters:
     1:
+      FileName: deTOCB1101_C1.txt
+      HasExplanation: true
+      NQuestions: 20
+      Name: Hệ phương trình tuyến tính
+      Time: 3600
+      Title: Chương 1
+    2:
       FileName: Đại số.txt
       HasExplanation: false
       NQuestions: 20
       Name: Ma trận, định thức, hệ phương trình tuyến tính
       Time: 3600
       Title: Chương 2
-    2:
+    3:
       FileName: deTOCB1101_C5.txt
       HasExplanation: true
       NQuestions: 20
