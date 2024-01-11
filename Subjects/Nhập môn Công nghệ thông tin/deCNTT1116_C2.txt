@@ -361,7 +361,7 @@ Trong máy tính các kí tự cũng cần được chuyển thành chuỗi bit 
 Trong máy tính các kí tự không cần chuyển thành chuỗi bit nhị phân mà chuyển thành mã của các kí tự đó<br>
 Trong máy tính các kí tự cũng cần được chuyển thành chuỗi bit thập phân gọi là mã của các kí tự đó<br>
 Cả ba í trên<br>
-d<br>
+a<br>
 
 Bộ mã ASCII dùng bao nhiêu bit để mã hoá cho 1 kí tự<br>
 8 bit<br>

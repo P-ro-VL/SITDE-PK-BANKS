@@ -27,7 +27,7 @@ Thông tin là tên sách<br>
 Vật mang tin là quyển sách<br>
 Thông tin là tác giả<br>
 Cả ba í trên<br>
-c<br>
+d<br>
 Data là gì<br>
 Dữ liệu<br>
 Thông tin<br>
@@ -273,7 +273,7 @@ Một tập hợp gồm nhiều máy tính hoặc thiết bị xử lí thông t
 Một tập hợp gồm nhiều máy tính hoặc thiết bị xử lí thông tin được kết nối với nhau qua các đường truyền phi vật lí<br>
 Một tập hợp gồm nhiều máy tính hoặc thiết bị xử lí thông tin được kết nối với nhau qua các đường truyền vật chất<br>
 Một tập hợp gồm nhiều máy tính hoặc thiết bị xử lí thông tin được kết nối với nhau qua các đường truyền vật lí<br>
-d<br>
+a<br>
 Mục đích của mạng máy tính<br>
 Trao đổi thông tin giữa các máy tính<br>
 Chia sẻ tài nguyên<br>
