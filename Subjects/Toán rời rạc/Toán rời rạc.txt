@@ -302,8 +302,7 @@ Giá trị của a + b + c nằm trong khoảng nào sau đây<br>
 [40, 60)<br>
 [65, 75)<br>
 [25, 30)<br>
-[35, 35)<br>
-C<br>
+[35, 35)<br>C<br>
 Nobita được Doraemon tặng cho 5 loại chong chóng tre trong ngày sinh nhật. Mỗi cái có một trọng lượng và giá trị khác nhau.
 - Loại bằng sắt : Giá trị bằng 3 nặng 3 kg
 - Loại bằng vàng : Giá trị bằng 4.5 nặng 3 kg
