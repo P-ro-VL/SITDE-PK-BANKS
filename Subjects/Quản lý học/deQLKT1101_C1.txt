@@ -10,7 +10,7 @@ nhà quản lý tổng hợp<br>
 nhà quản lý tham mưu<br>
 nhà quản lý cấp cơ sở<br>
 nhà quản lý cấp cao<br>
-C<br>
+B<br>
 
 Tầm quan trọng tương đối của các kỹ năng quản lý:<br>
 không thay đổi theo các cấp quản lý trong tổ chức.<br>
@@ -171,7 +171,7 @@ tổ chức.<br>
 kiểm soát.<br>
 lập kế hoạch.<br>
 lãnh đạo.<br>
-A<br>
+B<br>
 
 Theo giáo trình quản lý học, tổ chức được định nghĩa là:<br>
 là hệ thống xã hội tồn tại để cung cấp các sản phẩm, dịch vụ phục vụ cộng đồng<br>
