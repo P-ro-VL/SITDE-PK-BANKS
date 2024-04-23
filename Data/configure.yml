@@ -719,6 +719,7 @@ CNTT1112:
   Enable: true
   Name: Kiến trúc máy tính
   Type: Chuyên ngành
+  Format: Essay
   NCredits: "3"
   URL:
     Thumbnail: https://www.bu.edu/caadlab/img/Computer_Arch.d3c5a6a2.jpg
