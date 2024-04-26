@@ -369,6 +369,22 @@ LLNL1105:
   URL:
     Thumbnail: https://wp.thecollector.com/wp-content/uploads/2021/09/Epistemology-philosophy-knowledge.jpg
     ReviewProposal: https://docs.google.com/document/d/1W_VQKlTZ4NROW6Ka2cNB_QESkoSPQo8Qa_XdD0iZkV8/view
+LLNL1107:
+  Chapters:
+    2:
+      FileName: deLLNL1107_C2.txt
+      HasExplanation: false
+      NQuestions: 30
+      Name: Sứ mệnh lịch sử của giai cấp công nhân
+      Time: 3000
+      Title: Chương 2
+  Enable: true
+  Name: Chủ nghĩa xã hội khoa học
+  Type: Đại cương
+  NCredits: "2"
+  URL:
+    Thumbnail:
+    ReviewProposal:
 LUCS1129:
   Chapters:
     1:
