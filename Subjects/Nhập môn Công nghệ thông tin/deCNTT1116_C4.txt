@@ -1,0 +1,735 @@
+﻿Cho biểu thức A= (-3+4%5/2) Giá trị của biểu thức A là:<br>
+Kết quả khác<br>
+1<br>
+-3<br>
+-1<br>
+d<br>
+Câu này không có giải thích.<br>
+Cho biết giá trị của biểu thức 10 > 1 là gì<br>
+FALSE<br>
+1<br>
+0<br>
+TRUE<br>
+b<br>
+Câu này không có giải thích.<br>
+Trong các khai báo sau, khai báo nào là hợp lệ?<br>
+double so_thuc_1;<br>
+int 1_bien_nao_do;<br>
+const int MAX_SINH_VIEN 30;<br>
+const Float CHIEU_CAO;<br>
+a<br>
+b. Không hợp lệ vì tên biến bắt đầu bằng số
+c. Không hợp lệ vì thiếu dấu "=" để gán
+d. Không hợp lệ vì kiểu dữ liệu float không được viết hoa chữ cái đầu<br>
+Cho khai báo: char kt='A'; Biến kt trong khai báo trên chiếm bao nhiêu byte?<br>
+2<br>
+4<br>
+8<br>
+1<br>
+d<br>
+char = 1 byte
+int = 2 byte
+float = 4 byte
+double = 8 byte<br>
+Cho khai báo các biến: int m,n; float x,y; Lệnh nào sau đây KHÔNG đúng?<br>
+m = 4.5<br>
+x = 5.5<br>
+n = 5<br>
+y = 10<br>
+a<br>
+"int m,n" => Kiểu dữ liệu của m,n là số nguyên
+"float x,y" => Kiểu dữ liệu của m,n là số thập phân (tập số thập phân bao gồm cả số nguyên)<br>
+Đâu là kiểu dữ liệu cơ bản trong ngôn ngữ lập trình C?<br>
+Kiểu double<br>
+Kiểu con trỏ<br>
+Kiểu union<br>
+Kiểu struct<br>
+a<br>
+Ngôn ngữ lập trình C có 5 kiểu dữ liệu cơ bản: char, int, float, double, void.<br>
+Hãy cho biết kết quả của biểu thức logic sau: 2*3+4/2 > 3 && 3<5 || 10>= 9<br>
+0<br>
+1<br>
+TRUE<br>
+FALSE<br>
+b<br>
+Câu này không có giải thích.<br>
+Cho biết giá trị của biểu thức: 2+4>2 && 8<2<br>
+0<br>
+FALSE<br>
+TRUE<br>
+1<br>
+a<br>
+Câu này không có giải thích.<br>
+Độ ưu tiên đối với các toán tử logic là:<br>
+NOT, AND, OR<br>
+OR, NOT, AND<br>
+AND, NOT, OR<br>
+NOT, OR, AND<br>
+a<br>
+Câu này không có giải thích.<br>
+Giả sử x, y là hai số thực. Biểu thức nào dưới đây viết KHÔNG ĐÚNG theo cú pháp của ngôn ngữ lập trình C?<br>
+x*=y<br>
+x+=y<br>
+x&=y<br>
+x=y<br>
+c<br>
+Câu này không có giải thích.<br>
+Đâu là cách viết chú thích đúng trong C?<br>
+{ chú thích }<br>
+# chú thích<br>
+/* chú thích*/<br>
+*/ chú thích /*<br>
+c<br>
+Câu này không có giải thích.<br>
+Cho biết kết quả của p sau khi thực hiện đoạn chương trình sau: int p=4; p=10+ ++p;<br>
+16<br>
+15<br>
+14<br>
+Kết quả khác<br>
+b<br>
+Toán tử "++" trước tên biến là dạng tiền tố, nghĩa là phải tăng giá trị của biến thêm 1 đơn vị trước khi thực hiện tính toán. Ở đây, biến p ban đầu được gán giá trị = 4. Trong phép toán p = 10 + ++p, ta tăng p thêm 1 giá trị trước tiên, lúc này p = 5, rồi sau đó mới + 10 vào p để cập nhật giá trị mới cho biến này. Kết quả cuối cùng ta thu được là p =15 <br>
+Cho a, b là 2 biến thực. Biểu thức nào sau đây là SAI?<br>
+a *= b<br>
+a >>= b<br>
+a += b<br>
+a-=b<br>
+b<br>
+Câu này không có giải thích.<br>
+Hàm trong C mà tất cả các chương trình đều phải có là:<br>
+program()<br>
+system()<br>
+main()<br>
+start()<br>
+c<br>
+Một chương trình C có một hàm chính main bắt buộc và có thể có thêm nhiều hàm khác.<br>
+Cho a=5, b=10. Hãy tính giá trị của biểu thức ((a * 5 – 2) > ( b + 7))? (a++) : (b--)<br>
+5<br>
+10<br>
+6<br>
+9<br>
+a<br>
+* Biểu thức đề bài cho là biểu thức điều kiện.
+  - Cú pháp: <biểu_thức_1 ? biểu_thức_2 : biểu_thức_3>. 
+  - Giá trị của biểu thức điều kiện sẽ là:
+    + Giá trị của biểu_thức_2 nếu biểu_thức_1 có giá trị logic ĐÚNG.
+   + Giá trị của biểu_thức_3 nếu biểu_thức_1 có giá trị logic SAI.
+
+* Trong câu này, biểu thức 1 đúng nên sẽ có giá trị của biểu thức 2 (a++). Biểu thức 2 là toán tử ++ dạng hậu tố, nghĩa là ta trả về giá trị của a trước rồi mới tăng a thêm 1 đơn vị. Vậy nên giá trị của biểu thức sẽ là giá trị ban đầu của biến a, là 5.<br>
+Định dạng dữ liệu trong C bao gồm ký hiệu nào phía trước mã định dạng?<br>
+%<br>
+#<br>
++<br>
+/<br>
+a<br>
+Câu này không có giải thích.<br>
+Để in ra ký tự % trên màn hình, cần nhập vào bàn phím như thế nào?<br>
+%<br>
+%%<br>
+\%<br>
+"%<br>
+b<br>
+Câu này không có giải thích.<br>
+Câu lệnh sau sẽ in gì ra màn hình?{br}{code}cpp printf("[%*c]",5,'A’);<br>
+[A     ] (5 dấu cách sau ký tự A)<br>
+[A    ] (4 dấu cách sau ký tự A)<br>
+ [     A] (5 dấu cách trước ký tự A)<br>
+[    A] (4 dấu cách trước ký tự A)<br>
+d<br>
+Cú pháp để sử dụng bổ từ *:  printf("%*Định_dạng", Độ_rộng_trường, Giá_trị_muốn_in);<br>
+Hàm scanf() cần khai báo tệp tiêu đề nào sau đây?<br>
+studio.h<br>
+stdio.h<br>
+conio.h<br>
+conoi.h<br>
+b<br>
+Câu này không có giải thích.<br>
+Chọn khẳng định SAI trong các khẳng định dưới đây:<br>
+%i và %d đều là định dạng số nguyên 32 bit.<br>
+Với hàm printf(), %i và %d không có sự khác biệt.<br>
+Với hàm scanf(), nếu nhập 1 số hệ 8 hay hệ 16 vào thì %d vẫn nhận, còn %i thì không nhận.<br>
+Với hàm scanf(), nếu nhập 1 số hệ 8 hay hệ 16 vào thì %i vẫn nhận, còn %d thì không nhận.<br>
+c<br>
+Câu này không có giải thích.<br>
+Khi gặp dấu phân cách nào sau đây thì hàm scanf() sẽ KHÔNG hiểu là kết thúc nhập dữ liệu cho một số hoặc một sâu ký tự?<br>
+Dấu tab<br>
+Dấu chấm ('.')<br>
+Dấu xuống dòng (Enter)<br>
+Dấu cách (Space bar)<br>
+b<br>
+Câu này không có giải thích.<br>
+Chức năng của hàm gets() là gì?<br>
+Nhập vào một xâu kí tự (có chứa cả dấu cách).<br>
+Dùng để đọc dữ liệu nhập vào chỉ một ký tự tại một thời điểm từ bàn phím.<br>
+Dùng để chờ người dùng ấn một phím bất kì rồi sẽ kết thúc chương trình (kí tự nhập sẽ KHÔNG hiển thị lên màn hình).<br>
+Dùng để chờ người dùng ấn một phím bất kì rồi sẽ kết thúc chương trình (kí tự nhập sẽ hiển thị lên màn hình).<br>
+a<br>
+Câu này không có giải thích.<br>
+Chức năng của hàm getchar() là gì?<br>
+Nhập vào một xâu kí tự (có chứa cả dấu cách).<br>
+Dùng để đọc dữ liệu nhập vào chỉ một ký tự tại một thời điểm từ bàn phím.<br>
+Dùng để chờ người dùng ấn một phím bất kì rồi sẽ kết thúc chương trình (kí tự nhập sẽ KHÔNG hiển thị lên màn hình).<br>
+Dùng để chờ người dùng ấn một phím bất kì rồi sẽ kết thúc chương trình (kí tự nhập sẽ hiển thị lên màn hình).<br>
+b<br>
+Câu này không có giải thích.<br>
+Chức năng của hàm getch() là gì<br>
+Nhập vào một xâu kí tự (có chứa cả dấu cách).<br>
+Dùng để đọc dữ liệu nhập vào chỉ một ký tự tại một thời điểm từ bàn phím.<br>
+Dùng để chờ người dùng ấn một phím bất kì rồi sẽ kết thúc chương trình (kí tự nhập sẽ KHÔNG hiển thị lên màn hình).<br>
+Dùng để chờ người dùng ấn một phím bất kì rồi sẽ kết thúc chương trình (kí tự nhập sẽ hiển thị lên màn hình).<br>
+c<br>
+Câu này không có giải thích.<br>
+Chức năng của hàm getche() là gì<br>
+Nhập vào một xâu kí tự (có chứa cả dấu cách).<br>
+Dùng để đọc dữ liệu nhập vào chỉ một ký tự tại một thời điểm từ bàn phím.<br>
+Dùng để chờ người dùng ấn một phím bất kì rồi sẽ kết thúc chương trình (kí tự nhập sẽ KHÔNG hiển thị lên màn hình).<br>
+Dùng để chờ người dùng ấn một phím bất kì rồi sẽ kết thúc chương trình (kí tự nhập sẽ hiển thị lên màn hình).<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong các hàm dưới đây, đâu KHÔNG phải là hàm xuất dữ liệu ra màn hình?<br>
+printf()<br>
+puts()<br>
+putchar()<br>
+getche()<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong các hàm dưới đây, đâu là hàm xuất dữ liệu ra màn hình?<br>
+putchar()<br>
+gets()<br>
+getch()<br>
+scanf()<br>
+a<br>
+Câu này không có giải thích.<br>
+Đâu là các hàm nhập dữ liệu từ bàn phím?<br>
+scanf(), gets(), getchar(), putchar()<br>
+scanf(), gets(), getchar(), getch()<br>
+puts(), gets(), getchar(), getch()<br>
+printf(), puts(), putchar(),getche()<br>
+b<br>
+Câu này không có giải thích.<br>
+Chức năng của hàm puts() là gì<br>
+Hiển thị ra màn hình + xuống dòng.<br>
+Hiển thị ký tự ra màn hình.<br>
+Dùng để chờ người dùng ấn một phím bất kì rồi sẽ kết thúc chương trình (kí tự nhập sẽ KHÔNG hiển thị lên màn hình).<br>
+Dùng để chờ người dùng ấn một phím bất kì rồi sẽ kết thúc chương trình (kí tự nhập sẽ hiển thị lên màn hình).<br>
+a<br>
+Câu này không có giải thích.<br>
+Chức năng của hàm putchar() là gì<br>
+Hiển thị ra màn hình + xuống dòng.<br>
+Hiển thị ký tự ra màn hình.<br>
+Dùng để chờ người dùng ấn một phím bất kì rồi sẽ kết thúc chương trình (kí tự nhập sẽ KHÔNG hiển thị lên màn hình).<br>
+Dùng để chờ người dùng ấn một phím bất kì rồi sẽ kết thúc chương trình (kí tự nhập sẽ hiển thị lên màn hình).<br>
+b<br>
+Câu này không có giải thích.<br>
+Câu lệnh printf("\n%8.2f",12.345) có ý nghĩa gì?<br>
+Hiển thị số thực 12.345 với 8 vị trí để hiển thị số thực, trong đó dành 2 vị trí để hiển thị phần thập phân.<br>
+Hiển thị số thực 12.345 với 2 vị trí để hiển thị số thực, trong đó dành 8 vị trí để hiển thị phần thập phân.<br>
+Hiển thị số thực 8.2 với 12 vị trí để hiển thị số thực, trong đó dành 345 vị trí để hiển thị phần thập phân.<br>
+Hiển thị số thực 8.2 với 345 vị trí để hiển thị số thực, trong đó dành 12 vị trí để hiển thị phần thập phân.<br>
+a<br>
+Câu này không có giải thích.<br>
+Làm thế nào để căn lề trái khi hiển thị dữ liệu trong C?<br>
+Không cần thêm gì vì khi hiển thị dữ liệu, C mặc định căn lề trái.<br>
+Thêm dấu (-) vào đằng trước dấu %.<br>
+Thêm dấu trừ (-) vào ngay sau dấu %.<br>
+Thêm "\l" vào đằng trước dấu %.<br>
+c<br>
+Câu này không có giải thích.<br>
+Câu lệnh sau cho kết quả hiển thị ra màn hình là gì:{br}{code}cpp printf(“[%010d]\n”,555);<br>
+[5550000000]<br>
+[0000000555]<br>
+[555       ] (7 dấu cách sau 555)<br>
+[       555] (7 dấu cách trước 555)<br>
+b<br>
+Câu này không có giải thích.<br>
+Lệnh xóa màn hình cần khai báo tệp tiêu đề nào?<br>
+<windows.h><br>
+<conio.h><br>
+<stdio.h><br>
+Không cần khai báo<br>
+a<br>
+Câu này không có giải thích.<br>
+Đâu là lệnh dùng để xóa màn hình?<br>
+System("cls");<br>
+system("cls")<br>
+System("clear");<br>
+system("clear");<br>
+a<br>
+Câu này không có giải thích.<br>
+Câu lệnh thực hiện sự rẽ nhánh không điều kiện nào có thể dùng bất kỳ vị trí nào trong chương trình?<br>
+return và break<br>
+return và continue<br>
+break và continue<br>
+return và goto<br>
+d<br>
+Câu này không có giải thích.<br>
+Lệnh continue dùng để<br>
+Kết thúc ngang giữa vòng lặp.<br>
+Chuyển điều khiển đến một câu lệnh bất kỳ khác bên trong cùng một hàm trong một chương trình.<br>
+Bắt đầu thực hiện lần lặp kế tiếp của vòng lặp.<br>
+Trở về từ một hàm.<br>
+c<br>
+Câu này không có giải thích.<br>
+Các giá trị sau từ khóa case phải là.......<br>
+lời gọi hàm<br>
+mảng<br>
+biến số<br>
+biểu thức hằng<br>
+d<br>
+Câu này không có giải thích.<br>
+Cần phải làm gì để tránh rơi từ trường hợp này sang trường hợp khác?<br>
+; (dấu chấm phẩy)<br>
+stop;<br>
+end;<br>
+break;<br>
+d<br>
+Câu này không có giải thích.<br>
+Câu lệnh nào dưới đây kiểm tra xem biến kí tự ch có phải là kí tự chữ cái?<br>
+if((('A' <= ch) || (ch <= 'Z')) && (('a' <=ch) || (ch <= 'z')))<br>
+if((('A' <= ch) && (ch <= 'Z')) ||  (('a' <=ch) && (ch <= 'z')))<br>
+if(('A'<= ch) && (ch <= 'z'))<br>
+if((('A'<= ch) && (ch <= 'Z')) &&  (('a' <=ch) && (ch <= 'z')))<br>
+b<br>
+Câu này không có giải thích.<br>
+Câu nào trình bày đúng cú pháp của câu lệnh if?<br>
+if biểu_thức<br>
+if {biểu_thức}<br>
+if (biểu_thức)<br>
+biểu_thức if<br>
+c<br>
+Câu này không có giải thích.<br>
+Đâu không phải cấu trúc lặp?<br>
+do while<br>
+repeat until<br>
+for<br>
+while<br>
+b<br>
+Câu này không có giải thích.<br>
+Khi nào khối mã lệnh sau while (x<100) thực thi?<br>
+Khi x nhỏ hơn 100<br>
+Khi x lớn hơn 100<br>
+Khi x bằng 100<br>
+Tất cả các phương án trên đều sai<br>
+a<br>
+Câu này không có giải thích.<br>
+Lệnh nào trong các lệnh sau cho phép dừng câu lệnh điều khiển?<br>
+goto<br>
+continue<br>
+break  <br>
+Cả 3 phương án trên<br>
+d<br>
+Câu này không có giải thích.<br>
+Lệnh nào trong các lệnh sau cho phép đã chuyển tới một nơi nào đó đã được gán nhãn?<br>
+exit<br>
+goto<br>
+continue<br>
+break<br>
+b<br>
+Câu này không có giải thích.<br>
+Lệnh nào trong các lệnh sau cho phép nhảy ra khỏi vòng lặp đến vị trí bất kì mong muốn?<br>
+goto<br>
+break<br>
+continue<br>
+Không có phương án nào đúng<br>
+b<br>
+Câu này không có giải thích.<br>
+Mệnh đề nào dưới đây là đúng?<br>
+Lệnh while thực hiện vòng lặp trước rồi mới kiểm tra điều kiện vòng lặp<br>
+Cấu trúc while và do...while được dùng để thực hiện lặp đi lặp lại một công việc với số lần xác định<br>
+Lệnh while kiểm tra điều kiện vòng lặp trước rồi mới thực hiện lệnh<br>
+Lệnh do...while kiểm tra điều kiện vòng lặp trước rồi mới thực hiện lệnh<br>
+c<br>
+Câu này không có giải thích.<br>
+Phát biểu nào sau đây là SAI với cấu trúc if... else?<br>
+Các cấu trúc if...else có thể lồng nhau<br>
+Tất cả các câu lệnh sử dụng cấu trúc if ... else đều có thể thay thế bằng biểu thức điều kiện<br>
+Sau từ khoá else cho phép sử dụng khối lệnh<br>
+Sau biểu thức điều kiện đi cùng với từ khóa if cho phép sử dụng khối lệnh<br>
+b<br>
+Câu này không có giải thích.<br>
+Phát biểu nào sau đây SAI về vòng lặp for?<br>
+Các câu lệnh trong vòng lặp for có thể không được thực hiện lần nào<br>
+Mọi lệnh sử dụng vòng lặp for có thể thay thế bởi vòng lặp while và ngược lại<br>
+Vòng lặp for thực hiện nhanh hơn vòng lặp while<br>
+for ( ; ; ) là một vòng lặp vô tận<br>
+c<br>
+Câu này không có giải thích.<br>
+Sau từ khóa case và giá trị sẽ là gì?<br>
+;<br>
+-<br>
+:<br>
+{<br>
+c<br>
+Câu này không có giải thích.<br>
+Từ khóa nào bao hàm các khả năng chưa được xử lí?<br>
+other<br>
+contingency<br>
+all<br>
+default<br>
+d<br>
+Câu này không có giải thích.<br>
+Vòng lặp do...while được thực hiện ít nhất bao nhiêu lần?<br>
+Biến đổi<br>
+0<br>
+1<br>
+Vô hạn<br>
+c<br>
+Câu này không có giải thích.<br>
+Trong ngôn ngữ lập trình C, sau khi đoạn chương trình sau được thực hiện thì 2 biến A và B có giá trị bao nhiêu?
+{br}{code}cpp 
+     int A=0, B=1, C;
+          if (A<B)     {
+              C=B;
+              B=A;
+              A=C;
+         }<br>
+A=0 và B=1<br>
+A=1 và B=0<br>
+A=1 và B=1<br>
+A=0 và B=0<br>
+b<br>
+Câu này không có giải thích.<br>
+Kết quả của chương trình sau là gì?{br}{code}cpp 
+     #include <stdio.h>
+     void main()
+     {
+             int a=40, b=4;
+             while(a!=b)
+                       if (a>b)
+                             a=a-b;
+                       else
+                             b=b-a;
+             printf("%d",a);
+     }<br>
+2<br>
+16<br>
+4<br>
+Kết quả khác<br>
+c<br>
+Câu này không có giải thích.<br>
+Kết quả của đoạn chương trình sau là gì?{br}{code}cpp 
+
+#include <stdio.h>
+#include <math.h>
+void main()
+{
+    printf("%f",sqrt(36));
+}<br>
+6<br>
+6.000000<br>
+6.0<br>
+Chương trình báo lỗi<br>
+b<br>
+Câu này không có giải thích.<br>
+Hãy cho biết kết quả khi chạy chương trình:
+{br}{code}cpp 
+#include <stdio.h>
+void main()
+{
+    int i,k;
+    for(i=1; ; i++)
+        k=5;
+    printf("%d",i);
+}<br>
+0<br>
+5<br>
+Vòng lặp vô hạn<br>
+Kết quả khác<br>
+c<br>
+Câu này không có giải thích.<br>
+Hãy cho biết kết quả khi chạy chương trình:
+{br}{code}cpp 
+#include <stdio.h>
+void main()
+{
+    int i=1, k=0;
+    for(; i<5; i++)
+        k++;
+    printf("%d",k);
+}<br>
+0<br>
+4<br>
+5<br>
+Vòng lặp vô hạn<br>
+b<br>
+1/ i=1, tmđk I<5 => k=1 và i=2 (tăng k và i thêm 1 giá trị, các lần lặp sau tương tự)
+2/ i=2, tmđk i<5 => k=2 và i=3
+3/ i=3, tmđk i<5 => k=3 và i=4
+4/ i=4, tmđk i<5 => k=4 và i=5
+5/ i=5, KHÔNG tmđk i<5 => Kết thúc vòng lặp và in ra giá trị của k - lúc này k=4.<br>
+Cho biết kết quả in ra màn hình:{br}{code}cpp 
+    char x, y, z;
+    x = 'A';
+    y = 'B';
+    printf("%d", y - x);<br>
+66 - 65<br>
+1<br>
+A - B<br>
+Chương trình báo lỗi biên dịch<br>
+b<br>
+Ta đang thực hiện định dạng các biến ký tự x, y dưới dạng thập phân, mà trong C, dạng thập phân của ký tự hiển thị là mã ASCII của chúng. Ta có mã ASCII của ký tự 'A' là 65 và của ký tự 'B' là 66, như vậy y - x hiển thị dưới dạng %d là 1.<br>
+Dự đoán kết quả hiển thị ra màn hình:{br}{code}cpp 
+    float c = 5.0;
+    printf("%.2f", (9/5)*c + 32);<br>
+37.00<br>
+41.00<br>
+41<br>
+31.00<br>
+a<br>
+Ta thực hiện phép toán trong lệnh in theo thứ tự ưu tiên (trong ngoặc trước, rồi đến nhân chia, và cuối cùng là cộng trừ): Thực hiện phép chia lấy phần nguyên (/) 9/5, ta được 1. Đem kết quả này nhân với giá trị của biến c, ta được 5.0. Cuối cùng ta thực hiện cộng 5.0 với 32, được 37.0. Vì ta đang định dạng kết quả hiển thị ra màn hình là số thập phân có 2 chữ số phần thập phân, nên kết quả cuối cùng là 37.00.<br>
+Kết quả của chương trình C sau là gì?
+{br}{code}cpp 
+#include <stdio.h>
+int main()
+{
+    int printf = 13;
+    int c = 7 + printf;
+    printf("%d",c);
+    return 0;
+}<br>
+0<br>
+20<br>
+Lỗi biên dịch (compilation error)<br>
+Lỗi thực thi (runtime error)<br>
+c<br>
+Vì chúng ta đang lấy tên hàm printf để đặt làm tên biến, nên không thể gọi hàm printf trong chương trình này được nữa.<br>
+Trong ngôn ngữ lập trình C, cho biết kết quả hiển thị trên màn hình sau khi đoạn chương trình sau được thực hiện?
+{br}{code}cpp 
+#include <stdio.h>
+void main()
+{
+    int i = 0;
+    while (i<10){
+        i=i+2;
+        printf("%d ",i);
+    }
+}<br>
+2 4 6 8<br>
+0 2 4 6 8<br>
+2 4 6 8 10<br>
+0 2 4 6 8 10<br>
+c<br>
+1/ i=0, tmđk i<10 => i=2  (tăng giá trị của i thêm 2 và in ra màn hình i=2, các vòng lặp sau tương tự).
+2/ i=2, tmđk i<10 => Hiển thị i=4 ra màn hình.
+3/ i=4, tmđk i<10 => Hiển thị i=6 ra màn hình.
+4/ i=6, tmđk i<10 => Hiển thị i=8 ra màn hình.
+5/ i=8, tmđk i<10 => Hiển thị i=10 ra màn hình.
+6/ i=10, KHÔNG tmđk i<10 => Kết thúc vòng lặp.<br>
+Hãy cho biết kết quả khi chạy chương trình:
+{br}{code}cpp 
+#include <stdio.h>
+void main()
+{
+    int i;
+    for (i=2; ;i++)
+        printf("%3d",i);
+}<br>
+Vòng lặp vô hạn<br>
+2<br>
+1 2<br>
+Kết quả khác<br>
+a<br>
+Câu này không có giải thích.<br>
+Trong ngôn ngữ lập trình C, sau khi đoạn chương trình sau được thực hiện thì biến A mang giá trị bao nhiêu?
+{br}{code}cpp 
+int i, A=0;
+        for (i=0;i<10;i+=2){
+            A=A+2;
+        }<br>
+A=9<br>
+A=10<br>
+A=18<br>
+A=20<br>
+b<br>
+Câu này không có giải thích.<br>
+Kết quả của đoạn chương trình sau là gì?
+{br}{code}cpp 
+#include <stdio.h>
+void main()
+{
+   float n=1.67;
+   printf("%e",n);
+   printf("\n%g",n);
+   printf("\n%f",n);
+}<br>
+1.670000e+00
+1.670000
+1.67<br>
+1.670000e
+1.670000
+1.670000<br>
+1.670000e+00
+1.67
+1.670000<br>
+Lỗi chương trình<br>
+c<br>
+Câu này không có giải thích.<br>
+Hãy cho biết kết quả khi chạy chương trình:
+{br}{code}cpp 
+int y = 128;
+const int x = 128;
+x = --y;
+printf("%d\n", x);<br>
+128<br>
+127<br>
+-127<br>
+Một thông báo lỗi<br>
+d<br>
+Biến x được khai báo là hằng số, nên không thể gán được giá trị khác cho x.<br>
+Hãy cho biết kết quả của đoạn lệnh sau:{br}{code}cpp 
+#include <stdio.h>
+void main()
+{
+    int x = 10, y = 20, z = 5, i;
+    i = x < y < z;
+    printf("%d\n", i);
+}<br>
+0<br>
+1<br>
+true<br>
+false<br>
+b<br>
+Phép toán so sánh được thực hiện từ trái qua phải. Vậy nên, trong phép toán x < y < z, trước hết ta thực hiện so sánh x và y. Vì x = 10 và y = 20, nên phép toán x < y có giá trị đúng và trả về kết quả 1. Sau đó, ta so sánh x < y với z, hay nói cách khác, ta so sánh 1 với z = 5. Vì 1 < 5 là đúng nên phép toán trả về kết quả 1.<br>
+Chọn khẳng định ĐÚNG trong các khẳng định dưới đây:<br>
+Các phần tử (hay biến) trong mảng một chiều có cùng kiểu dữ liệu.<br>
+Các phần tử (hay biến) trong mảng một chiều có thể khác kiểu dữ liệu.<br>
+Vòng lặp while là lựa chọn lý tưởng để thao tác với các mảng.<br>
+Vòng lặp do…while là lựa chọn lý tưởng để thao tác với các mảng.<br>
+a<br>
+- Mảng (Array) một chiều là tập hợp các phần tử (hay biến) cùng kiểu dữ liệu, cùng tên và được cấp phát các vùng nhớ liên tiếp nhau trong bộ nhớ.
+- Vòng lặp for là lựa chọn lý tưởng để thao tác với các mảng.<br>
+Đâu là cách khai báo mảng đúng?<br>
+int a(10)<br>
+float b[50]<br>
+char ht{25}[23]<br>
+double c[12]{7}<br>
+b<br>
+Câu này không có giải thích.<br>
+Với khai báo int toado[10][20] thì mảng toado có bao nhiêu phần tử?<br>
+10<br>
+20<br>
+200<br>
+2<br>
+c<br>
+Câu này không có giải thích.<br>
+Điền vào chỗ trống để hoàn thành chương trình tìm số lớn nhất giữa 2 số?
+{br}{code}cpp 
+#include <stdio.h>
+void main()
+{
+    int a, b, max;
+    printf("Nhap gia tri cua a va b: ");
+    scanf("%d %d", &a, &b);
+    if (............)
+        max = a;
+    else
+        max = b;
+    printf("So lon nhat trong 2 so %d va %d la %d", a, b, max);
+}<br>
+a>b<br>
+a<b<br>
+a=b<br>
+a!=b<br>
+a<br>
+Câu này không có giải thích.<br>
+Cho biết kết quả in ra màn hình:{br}{code}cpp printf("%d", 0.1 == 0.1f);<br>
+0.1<br>
+1<br>
+0<br>
+true<br>
+c<br>
+Câu này không có giải thích.<br>
+Kết quả in ra màn hình của chương trình sau:
+{br}{code}cpp 
+#include <stdio.h>
+void main()
+{
+    int i=5, j=6;
+    i = i - --j;
+    printf("%d", i);
+}<br>
+6<br>
+5<br>
+1<br>
+0<br>
+d<br>
+Câu này không có giải thích.<br>
+Trong C, đoạn mã sau hiển thị gì trên màn hình?
+{br}{code}cpp 
+#include <stdio.h>
+void main()
+{
+    int i = 0;
+    while (++i+1<=5)
+        printf("%d", i);
+}<br>
+12345<br>
+01234<br>
+123456<br>
+1234<br>
+d<br>
+Câu này không có giải thích.<br>
+Cho biết kết quả hiển thị trên màn hình?
+{br}{code}cpp 
+   int a;
+   for (a=1; a<=10; a++){
+       printf("%i ",a);
+       if (a%3)
+        a = a + 2;
+   }<br>
+1 4 7<br>
+1 3 5 7 9<br>
+1 4 7 10<br>
+1 4 8<br>
+c<br>
+Câu này không có giải thích.<br>
+Hãy cho biết kết quả khi chạy chương trình: 
+{br}{code}cpp 
+#include <stdio.h>
+#define a 10
+int main()
+{
+    printf("%d ", a);
+    #define a 50
+    printf("%d ", a);
+    return 0;
+}<br>
+10 50<br>
+Lỗi biên dịch<br>
+10 10<br>
+50 50<br>
+a<br>
+Câu này không có giải thích.<br>
+Tìm lỗi sai trong chương trình sau (in ra kết quả là tổng của 123 và 456):
+{br}{code}cpp 
+#include <stdio.h>
+void main()
+{
+    int sum;
+    sum = 453 + 343
+    printf("\Ket qua la: ", sum);
+}<br>
+Thiếu dấu chấm phẩy<br>
+Thiếu dấu phẩy<br>
+Thiếu mã định dạng<br>
+Cả 3 phương án trên<br>
+d<br>
+Câu này không có giải thích.<br>
+Kết quả chương trình C sau là gì?
+{br}{code}cpp 
+#include <stdio.h>
+int main()
+{
+    int xyz = 20;
+    {
+        int xyz = 40;
+    }
+    printf("%d", xyz);
+    return 0;
+}<br>
+20<br>
+40<br>
+Lỗi biên dịch (compilation error)<br>
+Lỗi thực thi (runtime error)<br>
+a<br>
+Vì lệnh printf ở cùng khối lệnh với biến xyz toàn cục, nên kết quả hiển thị ra màn hình sẽ là giá trị của biến toàn cục xyz = 20, chứ không phải của biến cục bộ xyz = 40 (nằm ở khối lệnh bên trong cùng).<br>
+

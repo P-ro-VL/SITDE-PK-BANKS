@@ -1,0 +1,252 @@
+﻿Thế nào là thống kê mô tả?<br>
+Sắp xếp, tổng hợp, trình bày dữ liệu theo những cách hợp lý, thuận tiện nhất<br>
+Dự đoán, kiểm chứng, phân tích dữ liệu để có các kết luận tổng quát<br>
+Kết nối suy diễn và các kết quả kiểm chứng, phân tích dữ liệu<br>
+Khái quát hóa, phân tích, kiểm chứng các dữ liệu đầu vào để đưa ra kết luận<br>
+A<br>
+Dựa vào định nghĩa<br>
+Thế nào là thống kê suy diễn?<br>
+Sắp xếp, tổng hợp, trình bày dữ liệu theo những cách hợp lý, thuận tiện nhất<br>
+Dự đoán, kiểm chứng, phân tích dữ liệu để có các kết luận tổng quát<br>
+Kết nối suy diễn và các kết quả kiểm chứng, phân tích dữ liệu<br>
+Khái quát hóa, phân tích, kiểm chứng các dữ liệu đầu vào để đưa ra kết luận<br>
+B<br>
+Dựa vào định nghĩa<br>
+Tổng thể là?<br>
+Tất cả các phần tử cần quan tâm<br>
+Tập con rút ra từ tổng thể<br>
+Các đơn vị đo lường<br>
+Toàn bộ dữ liệu đầu vào<br>
+A<br>
+Dựa vào định nghĩa<br>
+Nhận xét nào sau đây đúng về tổng thể?<br>
+Kích thước tổng thể luôn là một số hữu hạn<br>
+Các giá trị tính từ tổng thể gọi là thống kê<br>
+Kí hiệu kích thước tổng thể là N<br>
+Có hai loại tổng thể là tổng thể định danh và tổng thể thứ bậc<br>
+C<br>
+• Kích thước tổng thể có thể hữu hạn hoặc vô hạn
+• Giá trị tính từ tổng thể gọi là tham số
+• Kí hiệu Kích thước tổng thể là N<br>
+Mẫu là?<br>
+Tất cả các phần tử cần quan tâm<br>
+Tập con rút ra từ tổng thể<br>
+Các đơn vị đo lường<br>
+Toàn bộ dữ liệu đầu vào<br>
+B<br>
+Dựa vào định nghĩa<br>
+Nhận xét nào sau đây đúng về mẫu?<br>
+Giá trị tính từ mẫu gọi là tham số<br>
+Có hai loại mẫu là mẫu định lượng và mẫu định tính<br>
+Kí hiệu kích thước mẫu là N<br>
+Kích thước mẫu luôn là một số hữu hạn<br>
+D<br>
+• Kích thước mẫu luôn là một số hữu hạn
+• Giá trị tính từ mẫu là thống kê
+• Kí hiệu kích thước mẫu là n<br>
+Có mấy loại biến? Là những loại nào?<br>
+Có 2 loại: Biến liên tục và biến rời rạc<br>
+Có 2 loại: Biến định tính và biến định lượng<br>
+Có 2 loại: Biến định danh và biến thứ bậc<br>
+Có 2 loại: Biến số và biến xếp hạng<br>
+B<br>
+Có 2 loại biến: Biến định tính (Gồm định danh và định lượng) và biến định lượng (rời rạc và liên tục)<br>
+Nhận xét nào sau đây sai về biến định tính?<br>
+Gồm 2 loại là định danh và thứ bậc<br>
+Không có đơn vị đo lường<br>
+Dùng để xác định biến định lượng<br>
+Có loại đặc biệt là biến nhị phân<br>
+C<br>
+Chỉ có biến định lượng dùng để xác định biến định lượng chứ không có chiều ngược lại<br>
+Nhận xét nào sau đây sai về biến định lượng?<br>
+Có đơn vị đo lường<br>
+Bao gồm 2 loại là rời rạc và liên tục<br>
+Có thể sử dụng để xác định biến định tính<br>
+Gồm loại đặc biệt là biến nhị phân<br>
+D<br>
+Biến nhị phân thuộc về biến định tính<br>
+Thông tin về công chức gồm: (1) quê quán, (2) tuổi, (3) bằng cấp cao nhất. Các biến trên, theo thứ tự từ nhỏ đến lớn, thuộc loại nào?<br>
+Định danh – thứ bậc – định lượng<br>
+Định danh – định lượng – thứ bậc<br>
+Thứ bậc – định lượng – định lượng<br>
+Định lượng – định danh – thứ bậc<br>
+B<br>
+Quê quán là biến định danh; tuổi là biến định lượng; bằng cấp là biến thứ bậc<br>
+Cho một điều tra gồm các thông tin sau: Họ và tên, Lớp, Độ tuổi, Giới tính, Có chứng chỉ ngoại ngữ. Trong các thông tin trên, có bao nhiêu thông tin là biến định tính?<br>
+1<br>
+2<br>
+3<br>
+4<br>
+D<br>
+Tất cả đều là biến định tính trừ độ tuổi (là biến định lượng)<br>
+Cho một mẫu gồm các phần tử như sau {1, 6, 9, 0, 2, 2, 7, 7, 1, 4}. Tìm giá trị trung bình của mẫu?<br>
+3.9<br>
+3<br>
+2<br>
+Mẫu này không có giá trị trung bình<br>
+A<br>
+Dựa trên công thức tính trung bình của mẫu.<br>
+Trong một cuộc điều tra lượng gạo sản xuất được trong quý I và II của năm 2023, người ta thu được bảng như sau. Lượng gạo trung bình sản xuất được mỗi tháng bằng bao nhiêu?{br}{img}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<br>
+4.1<br>
+3.5<br>
+3.8<br>
+3<br>
+C<br>
+Giá trị gạo sản xuất được trung bình bằng: (3 + 3.5 + 3.5 + 4.25+ 3.75 + 5)/6=3.8<br>
+Sàn giao dịch chứng khoán Hà Nội ghi lại thông tin về một mã giao dịch trong 04 tuần liên tiếp. Giá trị trung bình của một lượt giao dịch bằng bao nhiêu?{br}{img}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<br>
+4.8<br>
+12.6<br>
+13<br>
+5<br>
+B<br>
+Đây là bài toán tính trung bình có trọng số. Do đó, gái trị trung bình cần tìm bằng (3*10+10*12+5*14+2*16)/(3+10+5+2)=12.6<br>
+Trung vị là ?<br>
+Giá trị trung bình<br>
+Giá trị trung tâm<br>
+Giá trị trung tâm khi được sắp xếp từ nhỏ đến lớn<br>
+Giá trị xuất hiện thường xuyên nhất<br>
+C<br>
+Định nghĩa trung vị<br>
+Cho một bộ dữ liệu gồm các giá trị 5, 2, 7, 4, 2. Giá trị trung vị của bộ dữ liệu này bằng?<br>
+7<br>
+10<br>
+4<br>
+2<br>
+C<br>
+Bộ dữ liệu sau khi sắp xếp từ nhỏ đến lớn là 2, 2, 4, 5, 7 => Trung vị bằng 4<br>
+Cho bộ dữ liệu gồm các giá trị 0, 16, 3, 8, 12, 14. Giá trị trung vị của bộ dữ liệu này bằng?<br>
+5.5<br>
+26.5<br>
+10<br>
+Không có trung vị<br>
+C<br>
+Bộ dữ liệu sau khi sắp xếp từ nhỏ đến lớn bằng: 0, 3, 8, 12, 14, 16. Do có 2 giá trị đứng giữa nên trung vị bằng (8+12)/2 = 10<br>
+Mốt là ?<br>
+Giá trị trung bình<br>
+Giá trị trung tâm<br>
+Giá trị trung tâm khi được sắp xếp từ nhỏ đến lớn<br>
+Giá trị xuất hiện thường xuyên nhất<br>
+D<br>
+Định nghĩa mốt<br>
+Một dữ liệu của cửa hàng cho biết số lần thanh toán bằng thẻ của khách hàng như sau: 5, 2, 7, 4, 2, 1. Mốt của số lần thanh toán bằng thẻ là?<br>
+5.5<br>
+3.5<br>
+3<br>
+2<br>
+D<br>
+Ta thấy giá trị 2 xuất hiện hai lần và là giá trị xuất hiện thường xuyên nhất. Do đó mốt bằng 2<br>
+Trong quá trình quan sát sự ra quả của một giống cây mới lai tạo, người ta ghi được số quả trên mỗi cây lần lượt như sau: 4, 5, 1, 0, 6, 7, 9, 13. Mốt của bộ giá trị này là?<br>
+3<br>
+5.6<br>
+5.5<br>
+Không có mốt<br>
+D<br>
+Không có giá trị nào xuất hiện ít nhất 02 lần. Do đó, không có mốt.<br>
+Năm 2022, người ta thống kê được thu nhập của 10 lao động tham gia xuất khẩu lao động tại Hàn Quốc như sau: 12, 10, 5, 8, 7, 6, 14, 20, 9, 7. Khoảng biến thiên của thu nhập bằng?<br>
+15<br>
+20.4<br>
+4.5<br>
+46<br>
+A<br>
+Khoảng biến thiên = Giá trị lớn nhất - Giá trị nhỏ nhất<br>
+Khảo sát sinh viên trường Đại học Kinh tế Quốc dân, thu được một mẫu số liệu về chiều cao của 10 sinh viên (đơn vị: cm) như sau: {162, 172, 183, 165, 165, 170, 168, 185, 150, 163}. Chiều cao trung bình của nhóm sinh viên này bằng?<br>
+167.5<br>
+168.3<br>
+141.8<br>
+165<br>
+B<br>
+Ta lấy tất cả các giá trị cộng lại chia 10<br>
+Nam mua một bộ giáo trình căn bản của trường hết tổng cộng 1.2 triệu đồng. Biết rằng trung bình mỗi cuốn sách hết 200 ngàn đồng. Nam đã mua bao nhiêu cuốn sách?<br>
+3<br>
+4<br>
+5<br>
+6<br>
+D<br>
+Lấy tổng giá tiền chia cho số tiền trung bình một cuốn<br>
+Hoàng là sinh viên trường Đại học X. Biết rằng, mỗi kỳ Hoàng đều phải đăng ký các học phần với số liệu cho trong bảng. Trung bình mỗi tín chỉ Hoàng phải trả bao nhiêu tiền?{br}{img}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<br>
+450 nghìn đồng<br>
+388 nghìn đồng<br>
+451 nghìn đồng<br>
+794 nghìn đồng<br>
+B<br>
+Đây là bài toán tính trung bình có trọng số. Lấy giá tiền một tín chỉ nhân với số tín chỉ tương ứng của kỳ đó, sau đó chia cho tổng số tín chỉ từ kỳ 1 đến kỳ 5<br>
+Một cửa hàng gấu bông thống kê được số lượng gấu bông được bán trong 7 ngày qua như sau: 4, 4, 1, 2, 0, 3, 5. Tính tổng bình phương lượng gấu bông bán được?<br>
+361<br>
+7.3<br>
+19.42<br>
+71<br>
+C<br>
+Dựa vào công thức tính tổng bình phương: SS = tổng các (xi - trung bình)^2<br>
+Người ta đo được giá của một loại cổ phiếu trong 7 ngày như sau (đơn vị: USD/cổ phiếu): 3, 4, 3.5, 3.25, 2.5, 5, 4. Tính độ biến động giá của loại cổ phiếu này?<br>
+0.66 USD^2/cổ phiếu<br>
+0.54 USD^2/cổ phiếu<br>
+0.54 USD/cổ phiếu<br>
+3.6 USD/cổ phiếu<br>
+A<br>
+Bài toán tính phương sai của mẫu<br>
+Hợp tác xã M có năng suất sản xuất các sản phẩm trong 6 tháng qua lần lượt là 4.5, 7.2, 6.3, 8.6, 10.7, 9.8 (đơn vị: kg/ha). Nhận xét nào sau đây sai?<br>
+Năng suất trung bình là 7.85<br>
+Năng suất của 3 tháng sau ổn định hơn 3 tháng trước<br>
+Độ lệch chuẩn năng suất là 5.307 kg^2/ha<br>
+Bộ dữ liệu này không có mốt<br>
+C<br>
+5.307 kg^2/ha là phương sai, không phải độ lệch chuẩn.<br>
+SAMSUNG vừa cho ra mắt sản phẩm Galaxy Fold Z5. Để chắc chắn rằng sản phẩm hoạt động ổn định, họ đã kiểm tra 10 sản phẩm ngẫu nhiên và mô phỏng thao tác đóng mở của người dùng. Kết quả là, 10 sản phẩm này hỏng sau số lần đóng mở lần lượt là: 1200, 3400, 2750, 2400, 1200, 5000, 3250, 3250, 4000, 3400. Nhận xét nào sau đây sai?<br>
+Độ lệch chuẩn là 1171 lần<br>
+Trung vị của bộ số liệu trên là 3250<br>
+Trung bình cứ sau 2985 lần thì Galaxy Fold Z5 hỏng<br>
+Mốt của bộ số liệu trên là 1200<br>
+D<br>
+Mốt của bộ số liệu gồm 2 giá trị 1200 và 3250<br>
+Hai con lắc lò xo có đầu được gắn cố định trên hai chiếc đinh ở trên tường. Người ta cho hai con lắc này chuyển động và ghi lại số lần chuyển động của từng con lắc lần lượt như sau: A = {12, 27, 36}; B = {13, 27, 38}. Nhận xét nào sau đây đúng?<br>
+Hệ số biến thiên của con lắc thứ nhất là 50%<br>
+Con lắc thứ nhất dao động hơn con lắc thứ hai<br>
+Trung bình cả hai con lắc đều chuyển động 26 lần<br>
+Giá trị trung vị của cả hai con lắc là 27<br>
+D<br>
+• A sai vì hệ số biến thiên bằng 48%
+• B sai vì con lắc thứ hai dao động hơn con lắc thứ nhất
+• C sai vì con lắc thứ nhất trung bình chuyển động 25 lần<br>
+Cho tổng thể có số liệu như sau: 10, 12, 15, 10, 12, 13, 18, 19, 14, 15. Phương sai của tổng thể này bằng?<br>
+8.36<br>
+9.28<br>
+2.89<br>
+3.04<br>
+A<br>
+Phương sai của tổng thể được tính bởi công thức: sigma^2 = SS/N<br>
+Cho giá trị chuẩn hóa z. z có trung bình và phương sai lần lượt bằng ?<br>
+0 và 1<br>
+1 và 0<br>
+trung bình và độ lệch chuẩn<br>
+Không có trung bình và phương sai<br>
+A<br>
+Định nghĩa về giá trị chuẩn hóa<br>
+Một sinh viên thi môn Kinh tế vĩ mô được 8 điểm. Biết rằng điểm trung bình môn này của cả lớp bằng 7, độ lệch chuẩn của cả lớp bằng 0.5. Giá trị chuẩn hóa điểm Kinh tế vĩ mô của sinh viên đó bằng?<br>
+2<br>
+8<br>
+1<br>
+0.5<br>
+A<br>
+Công thức tính giá trị chuẩn hóa: z = (xi - Trung bình)/(Độ lệch chuẩn)<br>
+Một sinh viên thi môn Kinh tế vĩ mô được 9 điểm. Biết rằng điểm trung bình môn này của cả lớp bằng 7.5, phương sai của cả lớp bằng 2.25. Giá trị chuẩn hóa điểm Kinh tế vĩ mô của sinh viên đó bằng?<br>
+2<br>
+8<br>
+1<br>
+0.5<br>
+C<br>
+Công thức tính giá trị chuẩn hóa: z = (xi - Trung bình)/(Độ lệch chuẩn). Ở đây đề cho Phương sai, nên cần căn bậc hai Phương sai để lấy Độ lệch chuẩn<br>
+Người ta khảo sát điểm thi môn Xác suất thống kê của sinh viên nam và sinh viên nữ của một lớp học, thu được mẫu như sau: Nam = {2, 5, 8, 7, 9}; Nữ = {4, 5, 7, 8, 10}. Tính hiệp phương sai của mẫu này?<br>
+2.42<br>
+6.05<br>
+4.84<br>
+5.45<br>
+B<br>
+Áp dụng công thức tính hiệp phương sai của mẫu<br>
+Khảo sát điểm học phần Kinh tế lượng của một trường Đại học theo giới tính thu được mẫu như sau: Nam = {1, 2, 5, 8, 9.5, 4}; Nữ = {3, 0, 2, 7, 9, 10}. Nhận xét nào sau đây sai về mẫu này?<br>
+Mẫu này có hệ số tương quan dương<br>
+Trung bình các sinh viên thuộc mẫu này được 5 điểm Kinh tế lượng<br>
+Mẫu này có phương sai bằng 12.5<br>
+Mốt của toàn mẫu là 5<br>
+D<br>
+Mốt của toàn mẫu là 2<br>
+

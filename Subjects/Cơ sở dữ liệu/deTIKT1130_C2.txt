@@ -1,0 +1,845 @@
+﻿Mô hình thực thể - kết hợp là gì?<br>
+Là cố gắng biểu diễn các ngữ nghĩa của dữ liệu trong thế giới ảo mà không quan tâm đến hiệu quả hoặc vấn đề thiết kế CSDL vật lý<br>
+Được gọi là mô hình dữ liệu ngữ nghĩa - cố gắng biểu diễn các ngữ nghĩa của dữ liệu trong thế giới thực mà không quan tâm đến hiệu quả hoặc vấn đề thiết kế CSDL vật lý<br>
+Được gọi là mô hình dữ liệu ngữ nghĩa - cố gắng biểu diễn các ngữ nghĩa của dữ liệu trong thế giới thực và cần quan tâm đến hiệu quả<br>
+Được gọi là mô hình dữ liệu ngữ nghĩa - cố gắng biểu diễn các ngữ nghĩa của dữ liệu trong thế giới ảo và quan tâm đến hiệu quả hoặc vấn đề thiết kế CSDL vật lý<br>
+B<br>
+
+Các tập thực thể là gì?<br>
+Một thực thể là một đối tượng cụ thể hay trừu tượng trong thế giới thực mà nó tồn tại và có thể phân biệt được với các đối tượng khác<br>
+Một thực thể là một đối tượng cụ thể hay trừu tượng trong thế giới ảo mà không tồn tại và có thể phân biệt được với các đối tượng khác<br>
+Một thực thể là một đối tượng cụ thể hay trừu tượng trong thế giới thực mà nó tồn tại nhưng không thể phân biệt được với các đối tượng khác<br>
+Một thực thể là một đối tượng cụ thể hay trừu tượng trong thế giới ảo mà nó tồn tại và có thể phân biệt được với các đối tượng khác<br>
+A<br>
+
+Lược đồ thực thể kết hợp bao gồm:<br>
+Tập thực thể và thuộc tính<br>
+Thuộc tính và mối quan hệ<br>
+Tập thực thể và mối quan hệ<br>
+Tập thực thể, thuộc tính và mối quan hệ<br>
+D<br>
+
+Mô hình thực thể - kết hợp được sử dụng:<br>
+Dùng để thiết kế CSDL ở mức quan niệm và biểu diễn trừu tượng cấu trúc của CSDL<br>
+Dùng để thiết kế CSDL ở mức quan niệm<br>
+Dùng để biểu diễn trừu tượng cấu trúc của CSDL<br>
+Tất cả đều sai<br>
+A<br>
+
+Đâu là một thực thể?<br>
+Nobita<br>
+Doraemon<br>
+Suneo<br>
+1 Sinh viên<br>
+D<br>
+
+Thuộc tính là gì?<br>
+Là những đặc điểm giống nhau của thực thể<br>
+Là những đặc điểm riêng biệt của tập thực thể<br>
+Cả 2 đều đúng<br>
+Cả 2 đều sai<br>
+B<br>
+
+Mối quan hệ là gì?<br>
+Là sự liên kết của một thực thể với nhiều thực thể<br>
+Là sự liên kết<br>
+Là sự liên kết giữa 2 hay nhiều  tập thực thể<br>
+Là sự liên kết của một tập thực thể<br>
+C<br>
+
+Lược đồ E/R là gì?<br>
+Là đồ thị biểu diễn các tập thực thể và thuộc tính<br>
+Là đồ thị biểu diễn một thực thể, thuộc tính và mối quan hệ<br>
+Là đồ thị biểu diễn các tập thực thể, thuộc tính và mối quan hệ<br>
+Không có đáp án đúng<br>
+C<br>
+
+Trong sơ đồ thực thể liên kết, hình thoi nghĩa là gì?<br>
+Biểu diễn các thực thể. Chúng được nối đến các tập thực thể bằng các cạnh vô hướng hoặc có hướng<br>
+Biểu diễn các liên kết. Chúng được nối đến một số thực thể bằng các cạnh vô hướng hoặc có hướng<br>
+Biểu diễn các liên kết. Chúng được nối đến các tập thực thể bằng các cạnh vô hướng hoặc có hướng<br>
+Chúng được nối đến các tập thực thể <br>
+C<br>
+
+Sơ đồ thực thể liên kết có mấy khối hình?<br>
+1<br>
+2<br>
+3<br>
+4<br>
+C<br>
+
+Có mấy cách liên kết của sơ đồ thực thể liên kết?<br>
+1<br>
+2<br>
+3<br>
+4<br>
+C<br>
+
+Liên kết nhiều - một (N -1) là gì?<br>
+Là một thực thể trong tập thực thể E2 được kết hợp với không hay nhiều thực thể trong tập E1, nhưng mỗi thực thể trong tập E1 được kết hợp với nhiều nhất một thực thể trong tập thực thể E2<br>
+Một thực thể trong tập thực thể E2 được kết hợp với không hay nhiều thực thể trong tập E1 và ngược lại<br>
+Cả 2 đều đúng<br>
+Cả 2 đều sai<br>
+A<br>
+
+Thuộc tính trên mối quan hệ nghĩa là gì?<br>
+Mô tả tính chất cho mối quan hệ đó và không thể gắn liền với những thực thể tham gia vào mối quan hệ<br>
+Mô tả quan hệ cho mối quan hệ đó<br>
+Mô tả tính chất cho mối quan hệ đó và có thể gắn liền với những thực thể tham gia vào mối quan hệ<br>
+Tất cả đều sai<br>
+A<br>
+
+Chọn câu trả lời đúng:<br>
+Mỗi tập thực thể có thể có khóa hoặc không<br>
+Một khóa có thể có 1 hay nhiều thuộc tính<br>
+Không thể có nhiều khóa trong một tập thực thể<br>
+Tất cả đều đúng<br>
+B<br>
+
+Có bao nhiêu bước thiết kế lược đồ E/R<br>
+4<br>
+5<br>
+6<br>
+7<br>
+C<br>
+
+Chọn câu trả lời đúng:<br>
+Thuộc tính là đặc tính của một tập thực thể<br>
+Chỉ có 1 kiểu thuộc tính là thuộc tính nguyên tố<br>
+Khóa gồm nhiều thuộc tính thì gọi là khóa đơn<br>
+Tập thực thể là một tập hợp các thực thể không có thuộc tính giống nhau<br>
+A<br>
+
+Chọn số câu trả lời đúng:
+I. Một liên kết là một mối liên hệ có nghĩa giữa nhiều thực thể
+II. Hình thoi biểu diễn cho tên quan hệ
+III. Các thực thể trong tập thực thể không nhất thiết phải được phân biệt
+IV. Cạnh là đường nối giữa mối quan hệ và thuộc tính
+V. Mô hình được sử dụng để trao đổi giữa người thiết kế CSDl và người dùng trong giai đoạn phân tích thiết kế<br>
+2<br>
+3<br>
+4<br>
+5<br>
+B<br>
+
+Mô hình mức logic là:<br>
+Chuyển các mô hình quan niệm sang đặc tả cho môi trường kỹ thuật<br>
+Là xây dựng câu lệnh của ngôn ngữ SQL để tạo các đối tượng CSDL vật lý<br>
+Là các mô hình hình thức, trừu tượng của thông tin và các yêu cầu xử lý<br>
+Không có đáp án đúng<br>
+A<br>
+
+Chọn câu trả lời sai:<br>
+Thực thể yếu là thực thể mà khóa có được từ những thuộc tính của tập thực thể khác<br>
+Thực thể yếu phải tham gia vào mối quan hệ mà trong đó có một tập thực thể chính <br>
+Các thực thể trong tập thực thể cần phải được phân biệt<br>
+Không có đáp án đúng<br>
+D<br>
+
+Có mấy cách tiếp cận xây dựng mô hình dữ liệu?<br>
+1<br>
+2<br>
+3<br>
+4<br>
+B<br>
+
+Đâu là một bước của thiết kế CSDL?<br>
+Thiết kế nhu cầu có sẵn<br>
+Thiết kế bên trong<br>
+Thiết kế bên ngoài<br>
+Thiết kế quan niệm và phân tích chức năng<br>
+D<br>
+
+Chọn câu trả lời đúng:<br>
+Một thực thể không nhất thiết phải là một thực thể thực<br>
+Một hay một tập con các thuộc tính mà giá trị của nó xác định nhiều thực thể trong tập thực thể được gọi là khóa đối với tập thực thể<br>
+Thực thể mạnh là một lớp thực thể tồn tại độc lập <br>
+Mỗi thực thể có thể có nhiều khóa<br>
+C<br>
+
+Khóa là gì?<br>
+Là khi có dấu gạch chân ở một thuộc tính nào đó<br>
+Là một hay một tập thuộc tính mà giá trị của chúng có thể xác định duy nhất một thực thể trong tập thực thể<br>
+Khóa gồm 2 thuộc tính thì gọi là khóa phức<br>
+Là một giá trị có thể xác định của một thực thể trong tập thực thể<br>
+B<br>
+
+Chọn câu trả lời đúng:<br>
+Khóa chính có thể thay đổi mỗi khi cần thiết<br>
+Mỗi thực thể cần có một khóa chính <br>
+Có thể có nhiều khóa chính trong một thực thể<br>
+Khóa chính có thể có giá trị rỗng<br>
+B<br>
+
+Các thuộc tính khóa là :<br>
+Các thuộc tính không khóa.<br>
+Các thuộc tính khoá<br>
+Các phần tử của khóa.<br>
+Các thuộc tính không được chứa trong khóa<br>
+C<br>
+
+Câu nào sai trong các câu dưới đây?<br>
+Việc xác định khóa phụ thuộc vào quan hệ logic của các dữ liệu chứ không phụ thuộc vào giá trị các dữ liệu<br>
+Trong một bảng có thể có nhiều khóa chính<br>
+Mỗi bảng có ít nhất một khóa<br>
+Nên chọn khóa chính là khóa có ít thuộc tính nhất<br>
+A<br>
+
+Có mấy quy tắc thiết kế lược đồ E/R<br>
+2<br>
+3<br>
+4<br>
+5<br>
+D<br>
+
+Mô hình quan niệm là:<br>
+Cách nhìn dữ liệu ở mức ngoài.<br>
+Nội dung thông tin của một phần dữ liệu dưới cách nhìn của người sử dụng.<br>
+Nội dung thông tin của một phần dữ liệu.<br>
+Cách nhìn dữ liệu một cách tổng quát của người sử dụng.<br>
+D<br>
+
+Thứ tự đúng các mức trong mô hình kiến trúc cơ sở dữ liệu:<br>
+Mức ngoài, mức quan niệm và mức mô hình.<br>
+Mức ngoài, mức quan niệm và mức trong.<br>
+Mức trong, mức mô hình dữ liệu và mức ngoài.<br>
+Mức quan niệm, mức trong và mức ngoài.<br>
+B<br>
+
+Thực thể là?<br>
+Các mối liên kết giữa các đối tượng<br>
+Các quan hệ<br>
+Các đối tượng dữ liệu<br>
+Các đối tượng và mối liên kết giữa các đối tượng<br>
+C<br>
+
+Ràng buộc toàn vẹn là gì?<br>
+Là những quy tắc, điều kiện, ràng buộc cần được thỏa mãn cho mọi thể hiện của CSDL quan hệ<br>
+Là những quy tắc, điều kiện, ràng buộc không nhất thiết phải thỏa mãn cho mọi thể hiện của CSDL<br>
+Là những quy tắc, điều kiện, ràng buộc cần được thỏa mãn cho CSDL<br>
+Là những quy tắc, điều kiện, không cần được thỏa mãn cho mọi thể hiện của CSDL quan hệ<br>
+A<br>
+
+Các bước chính để tạo CSDL:<br>
+Tạo bảng; Chọn khóa chính cho bảng; Đặt tên bảng; Tạo liên kết bảng<br>
+Tạo bảng; Chọn khóa chính cho bảng; Lưu cấu trúc bảng; Tạo liên kết bảng; cập nhật và khai thác CSDL<br>
+Tạo bảng; Chọn khóa chính cho bảng; Đặt tên bảng và lưu cấu trúc bảng; Tạo liên kết bảng<br>
+Tạo bảng; Chọn khóa chính cho bảng; Đặt tên bảng và lưu cấu trúc bảng<br>
+C<br>
+
+Trường khóa chính là trường:<br>
+Primary Key<br>
+Single Key<br>
+First Key<br>
+Unique Key<br>
+A<br>
+
+Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Giá trị các thành phần của khoá ..., Trong dấu "..." là cụm từ nào?<br>
+Không thể nhận giá trị null hay các giá trị không xác định<br>
+Có thể nhận giá trị null hay các giá trị không xác định<br>
+Có thể nhận giá trị các giá trị không xác định<br>
+Không thể nhận giá trị null và chấp nhận các giá trị không xác định<br>
+A<br>
+
+Kết quả của các thao tác dữ liệu là:<br>
+Một File<br>
+Nhiều quan hệ.<br>
+Một quan hệ<br>
+Một biểu thức.<br>
+C<br>
+
+Mô hình ngoài là?<br>
+Nội dung thông tin của toàn bộ CSDL dưới cách nhìn của người sử dụng<br>
+Nội dung thông tin của toàn bộ CSDL<br>
+Nội dung thông tin của một phần dữ liệu dưới cách nhìn của người sử dụng<br>
+Nội dung thông tin của một phần cơ sở dữ liệu<br>
+C<br>
+
+Các phép toán trong tổ hợp SELECT- FROM – WHERE<br>
+Tich các quan hệ trong mệnh đề FROM, chọn theo biểu thức sau WHERE và chiếu trên các thuộc tính sau mệnh đề SELECT.<br>
+Tich các quan hệ trong mệnh đề FROM, chiếu trong WHERE và chọn trên các thuộc tính sau mệnh đề SELECT.<br>
+Kết nối các quan hệ sau mệnh đề FROM, chiếucác thuộc tính sau SELECT.<br>
+Kết nối tự nhiên các quan hệ sau mệnh đề SELECT, thoả mãn biểu thức logíc sau WHERE và chiếu trên các thuộc tính sau mệnh đề FROM<br>
+A<br>
+
+Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Quan hệ là.......... của một hoặc hữu hạn các miền. Các phần tử của quan hệ là các bộ bộ (a1,a2,a3....,an)n giá trị thành phần, hay được gọi n bộ.<br>
+Kết quả của phép hợp.<br>
+Kết quả của phép chiếu và chọn.<br>
+Kết quả của phép chiếu<br>
+Một tập con của tích Đề các<br>
+D<br>
+
+Liên kết giữa các bảng được dựa trên:<br>
+Thuộc tính khóa<br>
+Ý định của người quản trị hệ CSDL<br>
+Các thuộc tính trùng tên nhau giữa các bảng<br>
+Ý định ghép các bảng thành một bảng có nhiều thuộc tính hơn<br>
+A<br>
+
+Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Nếu trong câu lệnh SELECT có chứa GROUP BY, hệ thống sẽ ... và thực hiện các phép gộp nhóm. Trong dấu "..." là gi?<br>
+Thực hiện phép chọn sau mệnh đề WHERE<br>
+Thực hiện phép chiếu sau mệnh đề SELECT<br>
+Phân hoạch quan hệ thành nhiều nhóm tách biệt nhau<br>
+Thực hiện việc sắp xếp theo chỉ dẫn sau mệnh đề ORDER BY<br>
+C<br>
+
+Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Phép chiếu quan hệ, tức là từ quan hệ nguồn .........<br>
+Bỏ đi một số bộ<br>
+Bỏ đi một số thuộc tính<br>
+Bỏ đi một số bộ thoả mãn biểu thức logic<br>
+Bỏ đi một số bộ thoả mãn biểu thức logic<br>
+B<br>
+
+Trong SQL, ngôn ngữ thao tác dữ liệu DML bao gồm các chức năng::<br>
+Truy vấn thông tin, thêm, sửa, xoá dữ liệu<br>
+Tạo, sửa và xóa cấu trúc quan hệ.<br>
+Bảo mật và quyền truy nhập.<br>
+Tạo, sửa và xóa cấu trúc và đảm bảo bảo mật và quyền truy nhập.<br>
+A<br>
+
+Kết nối bằng nhau các quan hệ theo thuộc tính là:<br>
+Thực hiện phép chiếu và chia<br>
+Thực hiện tích Đề Các và phép chọn<br>
+Thực hiện tích Đề Các và phép chiếu<br>
+Thực hiện phép chiếu và phép chọn<br>
+B<br>
+
+Mô hình thực thể - liên kết cơ bản bao gồm các lớp đối tượng:<br>
+Thực thể, mối quan hệ và thuộc tính.<br>
+Thực thể và thuộc tính<br>
+Môi trường và ranh giới môi trường<br>
+Các mối quan hệ<br>
+A<br>
+
+Các bước thực hiện đúng trong câu lệnh SELECT:<br>
+Phép toán chọn, tích Đề các, theo nhóm, sắp xếp và phép chiếu<br>
+Tích Đề các, phép toán chọn, theo nhóm, phép chiếu và sắp xếp<br>
+Tích Đề các, phép toán chọn, theo nhóm, sắp xếp và phép chiếu<br>
+Phép toán chọn, tích Đề các, theo nhóm, phép chiếu và sắp xếp<br>
+C<br>
+
+Hãy chọn phương án đúng. Hai bảng trong một CSDL quan hệ liên kết với nhau thông qua:<br>
+Tên trường<br>
+Thuộc tính của các trường được chọn (không nhất thiết phải là khóa)<br>
+Thuộc tính khóa<br>
+Địa chỉ của các bảng<br>
+B<br>
+
+Phép toán tập hợp trong mệnh đề WHERE bao gồm?<br>
+Các phép so sánh<br>
+Các phép số học và các phép so sánh<br>
+Biểu thức đại số<br>
+Các phép đại số quan hệ<br>
+B<br>
+
+Chọn một khẳng định nào sau đây là đúng nhất :<br>
+CREATE TABLE mô tả các thuộc tính.<br>
+CREATE TABLE mô tả các phụ thuộc hàm.<br>
+CREATE TABLE mô tả quan hệ<br>
+CREATE TABLE mô tả quan hệ và các thuộc tính.<br>
+D<br>
+
+Các phép toán gộp nhóm được sử dụng sau mệnh đề?<br>
+SELECT<br>
+GROUP BY<br>
+WHERE<br>
+FROM<br>
+B<br>
+
+Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Cơ sở dữ liệu quan hệ được biểu diễn........., các cột là thuôc tính và các hàng là tập n giá trị của thực thể, đối tượng.<br>
+Dưới dạng các bảng<br>
+Cấu trúc hình mạng<br>
+Dưới dạng các File dữ liệu<br>
+Cấu trúc hình cây.<br>
+A<br>
+
+Phép chọn được thực hiện sau mệnh đề nào trong SELECT - FROM - WHERE?<br>
+SELECT<br>
+GROUP BY HAVING<br>
+FROM<br>
+WHERE<br>
+A<br>
+
+Phép kết nối JOIN là phép toán:<br>
+Tạo một quan hệ mới<br>
+Tạo một quan hệ mới, các thuộc tính là các thuộc tính quan hệ nguồn.<br>
+Tạo một quan hệ mới, thoả mãn một tân từ xác định.<br>
+Tạo một quan hệ mới, kêt nối nhiều quan hệ trên miền thuộc tính chung<br>
+D<br>
+
+Chọn một khẳng định nào sau đây là đúng nhất khi nói về phép giao:<br>
+Các bộ của quan hệ giao là giao các bộ của các quan hệ nguồn<br>
+Giao của các quan hệ là một quan hệ<br>
+Thuộc tính của quan hệ giao là giao các thuộc tính của các quan hệ nguồn<br>
+Giao của các quan hệ khả hợp là một quan hệ khả hợp<br>
+D<br>
+
+Thứ tự đúng trong câu lệnh SELECT là?<br>
+SELECT, FROM, GROUP BY HAVING, ORDER BY<br>
+SELECT, FROM, GROUP BY HAVING, ORDER BY<br>
+SELECT, FROM, WHERE, GROUP BY HAVING, ORDER BY<br>
+SELECT, FROM, GROUP BY HAVING, WHERE, ORDER BY<br>
+C<br>
+
+Phép toán tập hợp trong mệnh đề WHERE bao gồm:<br>
+Các phép số học và các phép so sánh<br>
+Các phép so sánh.<br>
+Biểu thức đại số<br>
+Các phép đại số quan hệ<br>
+A<br>
+
+Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Nếu trong câu lệnh SELECT có chứa GROUP BY, hệ thống sẽ ... và thực hiện các phép gộp nhóm. Trong dấu "..." là gi?<br>
+Thực hiện việc sắp xếp theo chỉ dẫn sau mệnh đề ORDER BY<br>
+Thực hiện phép chiếu sau mệnh đề SELECT<br>
+Phân hoạch quan hệ thành nhiều nhóm tách biệt nhau<br>
+Thực hiện phép chọn sau mệnh đề WHERE<br>
+C<br>
+
+Cho các lược đồ quan hệ sau: R=(A, B, C) và S = (D, E, F). Xét quan hệ r(R); s(S) cùng r1, r2 là hai quan hệ trên R. Câu lệnh SQL “select distinct A, F from r, s where C = D” thực hiện biểu thức đại số quan hệ nào:<br>
+ΠA,F(σC=D (r x s))<br>
+ΠA,F(σC=D (r + s))<br>
+ΠA,F(σC,D (r x s))<br>
+ΠC,D(σC=D (r x s))<br>
+A<br>
+
+Cho các lược đồ quan hệ sau: R=(A, B, C) và S = (D, E, F). Xét quan hệ r(R); s(S) cùng r1, r2 là hai quan hệ trên R. Câu lệnh SQL “select * from r where B = 17” thực hiện biểu thức đại số quan hệ nào:<br>
+σB=17(r)<br>
+ρB=17(r)<br>
+σA = 17(r)<br>
+ρA=17(r)<br>
+A<br>
+
+Khi thực hiện các phép toán trong một biểu thức quan hệ, thứ tự ưu tiên là:<br>
+Phép kết nối được ưu tiên hơn so với phép hợp, phép giao<br>
+Các phép toán một ngôi có thứ tự ưu tiên cao hơn so với phép toán hai ngôi.<br>
+Phụ thuộc vào vị trí của các phép toán<br>
+Phép kết nối được ưu tiên hơn so với phép chọn và chiếu<br>
+B<br>
+
+Phép chọn SELECT là phép toán:<br>
+Tạo một quan hệ mới, các bộ được rút ra một cách duy nhất từ quan hệ nguồn<br>
+Tạo một quan hệ mới, thoả mãn một tân từ xác định.<br>
+Tạo một quan hệ mới từ quan hệ nguồn.<br>
+Tạo một nhóm các phụ thuộc.<br>
+A<br>
+
+Tối ưu theo nghĩa biến đổi một biểu thức đại số quan hệ:<br>
+Cho cùng một kết quả với chi phí thời gian thực hiện và sử dụng bộ nhớ ít hơn.<br>
+Với chi phí thời gian ít hơn rất nhiều<br>
+Cho cùng một kết quả, không tổn thất thông tin.<br>
+Cho cùng một kết quả với chi phí bộ nhớ không nhiều<br>
+A<br>
+
+Phép chiếu PROJECT là phép toán:<br>
+Tạo một quan hệ mới, các thuộc tính là các thuộc tính quan hệ nguồn<br>
+Tạo một quan hệ mới, thoả mãn một tân từ xác định.<br>
+Tạo một quan hệ mới, các bộ của quan hệ nguồn bỏ đi những bộ trùng lặp<br>
+Tạo một quan hệ mới, các thuộc tính được biến đổi từ quan hệ nguồn.<br>
+A<br>
+
+Các toán hạng trong các phép toán là:<br>
+Các thuộc tính<br>
+Các bộ n_giá trị<br>
+Các biểu thức<br>
+Các quan hệ<br>
+D<br>
+
+Tối ưu hoá câu hỏi bằng cách<br>
+Thực hiện biến đổi không làm tổn thất thông tin.<br>
+Thực hiện các phép toán đại số quan hệ.<br>
+Thực hiện các phép chiếu và chọn, tiếp sau mới thực hiện phép kết nối.<br>
+Bỏ đi các phép kết nối hoặc tích Đề các có chi phí lớn<br>
+C<br>
+
+Cho các lược đồ quan hệ sau: R=(A, B, C) và S = (D, E, F). Xét quan hệ r(R); s(S) cùng r1, r2 là hai quan hệ trên R. Câu lệnh SQL “select * from r1 where (A, B, C) not in (select * from r2)” thực hiện biểu thức đại số quan hệ nào:<br>
+r1 Ո r2<br>
+r1 - r2<br>
+r1 * r2<br>
+r1 + r2<br>
+B<br>
+
+Phép sửa đổi là phép toán:<br>
+Sửa đổi giá trị của một bộ hay một nhóm các bộ.<br>
+Sửa đổi giá trị của một số thuộc tính.<br>
+Sửa đổi mô tả các thuộc tính.<br>
+Sửa đổi giá trị của một quan hệ hay một nhóm các quan hệ<br>
+B<br>
+
+Cho các lược đồ quan hệ sau: R=(A, B, C) và S = (D, E, F). Xét quan hệ r(R); s(S) cùng r1, r2 là hai quan hệ trên R. Câu lệnh SQL “select distinct A from r” thực hiện biểu thức đại số quan hệ nào:<br>
+σA(r)<br>
+ΠB(r)<br>
+ΠA(r)<br>
+σB(r)<br>
+C<br>
+
+Ngôn ngữ đinh nghĩa dữ liệu - DDL (Data Definition Language).<br>
+Được đặc tả bằng một ngôn ngữ dữ liệu<br>
+Được đặc tả bằng một ngôn ngữ, một phần của hệ quản trị cơ sở dữ liệu.<br>
+Được đặc tả bằng cách chương trùnh ứng dụng<br>
+Được đặc tả bằng một phần của hệ quản trị cơ sở dữ liệu.<br>
+B<br>
+
+Cách nhìn cơ sở dữ liệu của người sử dụng bằng:<br>
+Mô hình ngoài.<br>
+Mô hình ngoài và mô hình dữ liệu<br>
+Mô hình dữ liệu.<br>
+Mô hình trong.<br>
+A<br>
+
+Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Trong biểu thức quan hệ các toán hạng là .........<br>
+Các phụ thuộc hàm.<br>
+Các phần tử<br>
+Các thuộc tính.<br>
+Các quan hệ trong một CSDL<br>
+D<br>
+
+Xác định mức độ quan hệ giữa thực thể PHÒNG CÔNG TÁC và thực thể TRƯỞNG PHÒNG? Một PHÒNG CÔNG TÁC được lãnh đạo bởi một TRƯỞNG PHÒNG; ngược lại một người chỉ làm trưởng một PHÒNG CÔNG TÁC.<br>
+Là mối quan hệ Một – Nhiều<br>
+Là mối quan hệ Một – Một<br>
+Là mối quan hệ Nhiều – Một<br>
+Là mối quan hệ Nhiều – Nhiều<br>
+B<br>
+
+Cho 2 quan hệ giữa NHANVIEN và DONVI như sau: NHANVIEN(Mã NV, Họ tên, Ngày Sinh, Mã Đơn vị). DONVI(Mã đơn vị, Tên đơn vị). Mối quan hệ giữa NHANVIEN và DONVI là quan hệ nào sau đây?<br>
+Quan hệ N-M<br>
+Quan hệ 1-N<br>
+Quan hệ N-N<br>
+Quan hệ 1-1<br>
+B<br>
+
+Cho bài toán: Một công ty có nhiều cửa hàng. Các cửa hàng nhận hàng hóa trực tiếp từ nhà cung cấp, rồi bán trực tiếp cho khách hàng. Công ty có một số trung tâm bảo hàng; nhân viên bảo hành chịu trách nhiệm bảo hành cho một số lượng khách hàng. Nhóm nào sau đây liệt kê đầy đủ các thực thể của bài toán quản lý trên?<br>
+Cửa hàng; hàng hóa; bán hàng; trung tâm; trách nhiệm bảo hành.<br>
+Nhà cung cấp; khách hàng; hàng hóa; nhân viên.<br>
+Nhà cung cấp; khách hàng; nhân viên.<br>
+Cửa hàng; hàng hóa; nhà cung cấp; khách hàng; trung tâm bảo hành; nhân viên.<br>
+D<br>
+
+Mục tiêu của phép tách lược đồ quan hệ là:<br>
+Nhằm tối ưu hoá truy vấn<br>
+Nhằm thực hiện các phép lưu trữ dễ dàng<br>
+Nhằm loại bỏ các dị thường thông tin khi thực hiện các phép lưu trữ<br>
+Nhằm thực hiện các phép tìm kiếm<br>
+C<br>
+
+Quá trình tách không làm tổn thất thông tin theo nghĩa:<br>
+Quan hệ gốc được khôi phục từ các quan hệ chiếu bằng phép kết nối<br>
+Quan hệ gốc được khôi phục từ các quan hệ chiếu bằng phép chiếu và chọn<br>
+Quan hệ gốc được khôi phục chính xác từ các quan hệ chiếu<br>
+Quan hệ gốc được khôi phục từ các quan hệ chiếu bằng phép kết nối tự nhiên<br>
+D<br>
+
+Cho bài toán: Một công ty có nhiều cửa hàng. Các cửa hàng nhận hàng hóa trực tiếp từ nhà cung cấp, rồi bán trực tiếp cho khách hàng. Công ty có một số trung tâm bảo hàng; nhân viên bảo hành chịu trách nhiệm bảo hành cho một số lượng khách hàng. Có bao nhiêu thực thể trong bài toán quản lý trên?<br>
+4<br>
+5<br>
+6<br>
+7<br>
+C<br>
+
+Có quan hệ sau: NHANVIEN(Mã NV, Họ tên, Ngày Sinh, Mã Đơn vị). Mã NV đóng vai trò gì trong quan hệ NHANVIEN?<br>
+Khóa chính<br>
+Thực thể<br>
+Khóa ngoại<br>
+Bảng dữ liệu<br>
+A<br>
+
+Có 2 quan hệ sau: NHANVIEN(Mã NV, Họ tên, Ngày Sinh, Mã Đơn vị). DONVI(Mã đơn vị, Tên đơn vị). Mã Đơn vị đóng vai trò gì trong quan hệ NHANVIEN?<br>
+Kiểm tra dữ liệu nhập<br>
+Khóa ngoại<br>
+Kiểm tra dữ liệu xuất<br>
+Khóa chính<br>
+B<br>
+
+Dị thường thông tin là nguyên nhân:<br>
+Gây cản trở cho việc tách kết nối tổn thất thông tin<br>
+Gây cản trở cho việc thực hiện các phép lưu trữ<br>
+Gây cản trở cho việc tìm kiếm, hỏi đáp thông tin.<br>
+Gây cản trở cho việc cập nhật, bổ sung thông tin<br>
+C<br>
+
+Câu lệnh sau đây thực hiện nhiệm vụ gì? Select TENHANG From HANGHOA<br>
+Đưa ra HANGHOA và loại bỏ các tên bị trùng lặp từ bảng TENHANG<br>
+Đưa ra TENHANG và loại bỏ các tên bị trùng lặp từ bảng HANGHOA<br>
+Đưa ra HANGHOA từ bảng TENHANG<br>
+Đưa ra TENHANG từ bảng HANGHOA<br>
+D<br>
+
+Cho bảng SV (MaSV char(4), MaMon char(3), Diem Float, HocBong Float). Câu lệnh SQL sau đây thực hiện công việc gì? Update SV set HocBong = 5000000 Where Diem>=8;<br>
+Cập nhật trường HocBong bằng 5 triệu cho tất cả các sinh viên ở mọi nơi có Diem >= 8.<br>
+Cập nhật trường HocBong bằng 5 triệu cho tất cả các sinh viên trong bảng SV có Điểm từ 8 trở lên.<br>
+Cập nhật trường Diem >= 8 cho mọi sinh viên có HocBong = 5000000<br>
+Loại bỏ HocBong = 5000000 với điều kiện Diem>=8<br>
+B<br>
+
+Kết quả của câu lệnh SQL sau đây là gì? SELECT MASV, MAMON AS THILAI FROM DIEM WHERE DIEMTHI <5<br>
+Đưa ra Tên sinh viên (TENSV) và Mã môn học (MAMON) từ bảng điểm (DIEM), trong đó cột MAMON được đổi tên thành cột THILAI<br>
+Đưa ra Mã sinh viên (MASV) phải thi lại (có DIEMTHI nhỏ hơn 5) và Mã môn học (MAMON) từ bảng điểm (DIEM)<br>
+Đưa ra Mã sinh viên (MASV) phải thi lại (có DIEMTHI nhỏ hơn 5) và Mã môn học (MAMON) từ bảng điểm (DIEM), trong đó cột MAMON được đổi tên thành cột THILAI<br>
+Đưa ra Tên sinh viên (TENSV) phải thi lại (có DIEMTHI nhỏ hơn 5) và Mã môn học (MAMON) từ bảng điểm (DIEM)<br>
+C<br>
+
+Câu lệnh nào sau đây đưa ra tất cả các SOHD, MAHANG trong bảng HANGBAN của các mặt hàng có DONGIA từ 1000000 trở lên.<br>
+SELECT SOHD, MAHANG FROM HANGBAN where dongia >= 1000000<br>
+SELECT SOHD, MAHANG, DONGIA >= 1000000 FROM HANGBAN<br>
+SELECT FROM HANGBAN To SOHD, MAHANG, DONGIA >= 1000000<br>
+SELECT SOHD, MAHANG And DONGIA >= 1000000 FROM HANGBAN<br>
+A<br>
+
+Câu lệnh SQL nào sau đây có cú pháp đúng?<br>
+Việc xác định khóa phụ thuộc vào quan hệ logic của các dữ liệu chứ không phụ thuộc vào giá trị các dữ liệu<br>
+SELECT CustomerName, COUNT(CustomerName) FROM Orders GROUP BY CustomerName<br>
+SELECT CustomerName, COUNT(CustomerName) FROM Orders<br>
+SELECT CustomerName, COUNT(CustomerName) FROM Orders ORDER BY CustomerName<br>
+B<br>
+
+Giả sử có Table Sinhvien(Masv, Hosv, Tensv, Ngaysinh). Trong đó Ngaysinh (Short date). Câu lệnh SQL dưới đây thực hiện công việc gì? SELECT * FROM Sinhvien WHERE Year(Ngaysinh) BETWEEN 1996 AND 1999;<br>
+Hiện lên các trường dữ liệu Masv, Hosv, Tensv của các sinh viên từ bảng sinhvien có năm sinh từ 1996 đến 1999<br>
+Hiện lên tất cả các trường dữ liệu của các sinh viên từ bảng Sinhvien có năm sinh nhỏ hơn 1999<br>
+Hiện lên tất cả các trường dữ liệu của các sinh viên từ bảng Sinhvien có năm sinh từ 1996 đến 1999<br>
+Hiện lên tất cả các trường dữ liệu từ bảng Sinhvien gồm các sinh viên có năm sinh lớn hơn 1996<br>
+C<br>
+
+LIKE được sử dụng cùng với lệnh nào?<br>
+Mệnh đề WHERE<br>
+Mệnh đề ORDER BY<br>
+Mệnh đề GROUP BY<br>
+Mệnh đề JOIN<br>
+A<br>
+
+Cho bảng HANGBAN gồm các trường: SOHD, MAHANG, NGAYBAN, SOLUONG, DONGICâu lệnh nào sau đây KHÔNG thực hiện được nhiệm vụ đưa ra SoHD, MaHang, ThanhTien từ bảng HANGBAN<br>
+SELECT SOHD, MAHANG, SOLUONG*DONGIA AS THANHTIEN FROM HANGBAN;<br>
+SELECT SOHD, MAHANG, NGAYBAN, SOLUONG*DONGIA FROM HANGBAN<br>
+SELECT SOHD, MAHANG, SOLUONG*DONGIA FROM HANGBAN;<br>
+SELECT SOHD, MAHANG, THANHTIEN FROM HANGBAN;<br>
+D<br>
+
+Kết quả của câu lệnh SQL sau đây là gì? SELECT AVG(SOTIET) FROM MON WHERE NHOM=’Tự chọn’<br>
+Đưa ra số tiết (SOTIET) trung bình của các môn học nằm trong nhóm ‘Tự chọn’ từ bảng NHOM<br>
+Đưa ra tổng số tiết (SOTIET) của các môn học nằm trong nhóm ‘Tự chọn’ từ bảng MON<br>
+Đưa ra tổng số tiết (SOTIET) của các môn học nằm trong nhóm ‘Tự chọn’ từ bảng NHOM<br>
+Đưa ra số tiết (SOTIET) trung bình của các môn học nằm trong nhóm ‘Tự chọn’ từ bảng MON<br>
+D<br>
+
+Hàm ABS trong SQL được sử dụng để làm gì?<br>
+Trả về giá trị tối thiểu của biểu thức số.<br>
+Trả về giá trị trung bình của một biểu thức số.<br>
+Trả về giá trị tuyệt đối của biểu thức số.<br>
+Trả về giá trị tối đa của một biểu thức số.<br>
+C<br>
+
+SQL là viết tắt của:<br>
+Structured Query Language<br>
+Structured Quantity Language<br>
+Strike Quantity Language<br>
+Strike Query Language<br>
+A<br>
+
+Cho bảng MatHang gồm các trường MaHang (Varchar 3), TenHang (Varchar 25), DonVi (Varchar 5), LuongTon (Interger), MaHangCC (Varchar 2). Câu lệnh SQL dưới đây thực hiện công việc gì? SELECT * FROM MatHang WHERE Luongton NOT BETWEEN 30 AND 100<br>
+Hiện lên tất cả các trường dữ liệu của các mặt hàng có Luongton lớn hơn 30 trong bảng Mahang.<br>
+Hiện lên tất cả các trường dữ liệu các mặt hàng có Luongton không nằm trong khoảng từ 30 đến 100 trong bảng Mathang.<br>
+Hiện lên tất cả các trường dữ liệu các mặt hàng có Luongton nằm trong khoảng từ 30 đến 100<br>
+Hiện lên các trường dữ liệu Mahang, Tenhang, Donvi mặt hàng có Luongton không nằm trong khoảng từ 30 đến 100 trong bảng Mathang<br>
+B<br>
+
+Giả sử có Table Sinhvien(Masv, Hosv, Tensv, Ngaysinh, Phai). Trong đó Ngaysinh(Short date) và PHAI(Yes/no). Để hiển thị danh sách sinh viên gồm các cột : Masv; Hosv; Tensv; Namsinh; Tuoi (Tuoi = Năm hiện tại - năm sinh) từ bảng Sinhvien ta thực hiện câu truy vấn SQL sau:<br>
+Select Masv, Hosv, Tensv, Namsinh, Tuoi From Sinhvien Where Tuoi : Year(GetDate())-Year([Namsinh])<br>
+Select Masv, Hosv, Tensv, Namsinh, Tuoi From Sinhvien Where Tuoi<br>
+Select Masv, Hosv, Tensv, Namsinh, Tuoi As Year(GetDate())- Year([Namsinh]) AS From Sinhvien<br>
+Select Masv, Hosv, Tensv, year(ngaysinh) AS Namsinh, Year(GetDate())- Year(Ngaysinh) As Tuoi From Sinhvien<br>
+D<br>
+
+Để có kết quả sắp xếp và đưa ra theo thứ tự mã phòng ban (MaPB) tăng và mã cán bộ (Macb) giảm trong bảng Hoso gồm các trường Macb (Varchar 8), MaPB (Varchar 6), Hoten, Gioitinh (Yes/No) ta viết câu lệnh truy vấn nào?<br>
+Select * from Hoso Order by Macb DESC, MaPB ASC<br>
+Select * from Hoso Order by MaPB, Macb<br>
+Select * from Hoso Order by MaPB, Macb Desc<br>
+Select * from Hoso Order by: Macb, MaPB Desc<br>
+C<br>
+
+Select * From HANGHOA, HOADON<br>
+Đưa ra tất cả các cột của bảng HOADON<br>
+Đưa ra tất cả các cột giống nhau của hai bảng HANGHOA và bảng HOADON<br>
+Đưa ra tất cả các cột của bảng HANGHOA<br>
+Đưa ra tất cả các cột của bảng HANGHOA và bảng HOADON<br>
+D<br>
+
+Mệnh đề GROUP BY ... HAVING<br>
+Áp dụng các phép toán gộp nhóm.<br>
+Phân hoạch các bộ của một quan hệ thành các nhóm riêng biệt<br>
+Phân hoạch các bộ của một quan hệ thành các nhóm riêng biệt và áp dụng các phép toán gộp cho các nhóm.<br>
+Tách các quan hệ thành các quan hệ con, không tổn thất thông tin<br>
+C<br>
+
+Phép xoá là phép toán<br>
+Xoá một bộ hay xoá một nhóm các bộ.<br>
+Xoá một quan hệ hay xoá một nhóm các quan hệ<br>
+Xoá một hệ CSDL<br>
+Xoá một thuộc tính hay xoá một nhóm các thuộc tính.<br>
+A<br>
+
+Cho bảng MatHang gồm các trường MaHang (Varchar 3), TenHang (Varchar 25), DonVi (Varchar 5), LuongTon (Interger), MaHangCC (Varchar 2). Câu lệnh SQL dưới đây thực hiện chức năng gì? SELECT COUNT(Mahang) FROM MatHang WHERE Luongton >100<br>
+Hiển thị số các măt hàng có Luongton < 100 trong bảng Mathang<br>
+Hiển thị số các măt hàng có Luongton lớn hơn 100 trong bảng Mathang<br>
+Hiển thị tổng sô lượng tồn của các mặt hàng<br>
+Hiện lên tất cả các trường dữ liệu các mặt hàng có Luongton không nằm trong khoảng từ 30 đến 100 trong bảng Mahang<br>
+B<br>
+
+ALTER TABLE DSSV ALTER COLUMN NgaySinh DateTime<br>
+Thay đổi kiểu dữ liệu của trường NgaySinh thành dạng Date/Time<br>
+Thay đổi kiểu dữ liệu của trường NgaySinh thành dạng Date<br>
+Xóa trường NgaySinh có kiểu dữ liệu là Date<br>
+Xóa trường NgaySinh có kiểu dữ liệu là Date/Time<br>
+A<br>
+
+Lựa chọn phương án trả lời đúng: “Lệnh SQL được sử dụng để thêm và đưa dữ liệu vào bảng với các giá trị tương ứng với các cột là lệnh…”<br>
+INSERT<br>
+DELETE<br>
+SELECT<br>
+UPDATE<br>
+A<br>
+
+Các dòng trong một bảng của cơ sở dữ liệu<br>
+Phải được nạp theo thứ tự tăng dần của chỉ số do hệ quản trị cơ sở dữ liệu tự động tạo ra cho khóa chính<br>
+Có thể được nạp vào theo thứ tự tùy ý<br>
+Phải được nạp theo thứ tự tăng dần của khóa chính<br>
+Không được nạp vào khi chưa đặt khóa chính cho bảng<br>
+B<br>
+
+Cho bảng HANGBAN gồm các trường: SOHD, MAHANG, NGAYBAN, SOLUONG, DONGIA. Câu lệnh nào sau đây KHÔNG thực hiện được nhiệm vụ đưa ra tất cả các truờng từ bảng<br>
+Select SOHD, MAHANG, NGAYBAN, SOLUONG, DONGIA From HANGBAN<br>
+SELECT * FROM HANGBAN<br>
+Select Distinct SOHD, MAHANG, NGAYBAN, SOLUONG, DONGIA From HANGBAN<br>
+Select SOHD, MAHANG, NGAYBAN, SOLUONG AND DONGIA From HANGBAN<br>
+D<br>
+
+Hàm nào không dùng được trong câu lệnh SQL?<br>
+Max<br>
+Mean<br>
+Count<br>
+Min<br>
+B<br>
+
+Chọn phương án đúng điền vào chỗ trống “Mỗi "thuộc tính" của một thực thể được ghi nhận bởi một ......... của một bảng trong CSDL”<br>
+Dòng<br>
+Bản ghi<br>
+Cột<br>
+Khóa<br>
+C<br>
+
+Cho các lược đồ quan hệ sau: R=(A, B, C) và S = (D, E, F). Xét quan hệ r(R); s(S) cùng r1, r2 là hai quan hệ trên R. Câu lệnh SQL “select * from r1 where (A, B, C) not in (select * from r2)” thực hiện biểu thức đại số quan hệ nào:<br>
+r1 + r2<br>
+r1 u r2<br>
+r1 Ո r2<br>
+r1 - r2<br>
+D<br>
+
+Cho các lược đồ quan hệ sau: R=(A, B, C) và S = (D, E, F). Xét quan hệ r(R); s(S) cùng r1, r2 là hai quan hệ trên R. Câu lệnh SQL “select distinct * from r, s” thực hiện biểu thức đại số quan hệ nào:<br>
+r + s<br>
+r U s<br>
+r – s<br>
+r x s<br>
+D<br>
+
+Kết quả của câu lệnh SQL sau đây là gì? SELECT * FROM DSSV WHERE HoTen LIKE ‘T*’<br>
+Đưa ra danh sách tất cả các cột trong bảng SV thỏa mãn điều kiện Họ và tên sinh viên bắt đầu bởi chữ T<br>
+Đưa ra danh sách tất cả các cột trong bảng DSSV thỏa mãn điều kiện Họ và tên sinh viên kết thúc bởi chữ T<br>
+Đưa ra danh sách tất cả các cột trong bảng DSSV thỏa mãn điều kiện Họ và tên sinh viên có chứa chữ T<br>
+Đưa ra danh sách tất cả các cột trong bảng DSSV thỏa mãn điều kiện Họ và tên sinh viên bắt đầu bởi chữ T<br>
+D<br>
+
+Giả sử có Table Sinhvien(Masv, Hosv, Tensv, Ngaysinh, Phai). Trong đó Ngaysinh(Short date) và PHAI(Yes/no). Để hiển thị danh sách sinh viên gồm các cột : Masv; Hosv; Tensv; Namsinh; Tuoi (Tuoi = Năm hiện tại - năm sinh) từ bảng Sinhvien ta thực hiện câu truy vấn SQL sau:<br>
+Select Masv, Hosv, Tensv, Namsinh, Tuoi From Sinhvien Where Tuoi=Year(Date())-Year([Namsinh]);<br>
+Select Masv, Hosv, Tensv, Namsinh, Tuoi As Year(Date())- Year([Namsinh]) AS From Sinhvien;<br>
+Select Masv, Hosv, Tensv, Namsinh, Tuoi From Sinhvien Where Tuoi:Year(Date())-Year([Namsinh]);<br>
+Select Masv, Hosv, Tensv, year(ngaysinh) AS Namsinh, Year(Date())- Year(Ngaysinh) As Tuoi From Sinhvien;<br>
+D<br>
+
+Giả sử có 2 quan hệ như sau: S (S#, SNAME, STATUS, CITY): hãng cung ứng. SP(S#, P#, QTY): cung ứng sản phẩm. Trong đó: S# - mã hãng cung ứng, SNAME – tên hãng cung ứng, STATUS – trạng thái, CITY – thành phố, P# - Mã hàng, QTY-số lượng. Hãy cho biết kết quả của câu lệnh sau: SELECT SNAME FROM S WHERE S# IN (SELECT S# FROM SP WHERE P#=’P2’)<br>
+Đưa ra mã của sản phẩm ‘P2’<br>
+Đưa ra tên của các hãng cung ứng sản phẩm ‘P#’<br>
+Đưa ra tên của các hãng cung ứng sản phẩm ‘P2’<br>
+Đưa ra mã của các hãng cung ứng sản phẩm ‘P2’<br>
+C<br>
+
+Câu lệnh SQL sau đây thực hiện công việc gì? DELETE FROM MON WHERE SOTC>4<br>
+Sửa dữ liệu trong bảng MON các môn có số tín chỉ (SOTC) > 4<br>
+Xóa bảng MON trong cơ sở dữ liệu khi số tín chỉ (SOTC) > 4<br>
+Xóa khỏi bảng MON các môn học có số tín chỉ (SOTC) trên 4<br>
+Sửa bảng MON trong cơ sở dữ liệu khi số tín chỉ (SOTC) trên 4<br>
+C<br>
+
+Cho bảng SV (MaSV char(4), MaMon char(3), Diem Float, HocBong Float). Cho biết câu lệnh SQL thực hiện cập nhật trường HocBong = 5000000 cho tất cả các sinh viên trong bảng SV có Diem >=8.<br>
+Update HocBong = 5000000 Where Diem>=8;<br>
+Update From SV Where HocBong = 5000000 and Diem>=8;<br>
+Update SV set HocBong = 5000000 Where Diem>=8;<br>
+Update HocBong = 5000000 Where Diem>=8 From SV;<br>
+C<br>
+
+Cho bảng NHANVIEN(MANV char(4) primary key, HOTEN varchar(40), VITRI varchar(50), SODT varchar(20)). Câu lệnh SQL sau đây thực hiện công việc gì? Update NhanVien Set ViTri = ‘Phó Giám đốc’ Where Hoten = ‘Nguyễn Nam’ ;<br>
+Cập nhật lại trường HoTen là Nguyễn Nam cho người có ViTri Phó Giám đốc trong bảng NHANVIEN.<br>
+Cập nhật lại trường ViTri của người có tên là Nguyễn Nam trong bảng NhanVien thành Phó Giám đốc.<br>
+Xóa ViTri Phó Giám đốc của Nguyễn Nam để trở thành Nhân viên.<br>
+Tìm ViTri Phó Giám đốc của ông Nguyễn Nam.<br>
+B<br>
+
+Cho bảng SV (MaSV char(4), MaMon char(3), Diem Float, HocBong Float). Cho biết câu lệnh SQL nào sau đây thực hiện việc xóa trường HocBong?<br>
+Alter Table SV Delete Column HocBong ;<br>
+Drop Column HocBong From SV ;<br>
+Delete Column HocBong From SV ;<br>
+Alter Table SV Drop Column HocBong ;<br>
+D<br>
+
+Kết quả của câu lệnh SQL sau đây là gì? SELECT MaSV, DiemThi FROM Diem WHERE MaMon = ‘THUD’<br>
+Đưa ra danh sách gồm Mã sinh viên và điểm thi của các sinh viên học môn THUD từ bảng Diem.<br>
+Đưa ra danh sách gồm Tên sinh viên và điểm thi của các sinh viên học môn THUD từ bảng Diem.<br>
+Đưa ra danh sách gồm Họ tên sinh viên và điểm thi của các sinh viên học môn THUD từ bảng Diem<br>
+Đưa ra danh sách gồm Mã sinh viên và điểm thi của các sinh viên học môn THDC từ bảng Diem.<br>
+A<br>
+
+Để đưa ra một bảng có một cột Họ tên các sinh viên được trích ra từ bảng DSSV và loại bỏ các giá trị Họ tên bị trùng lặp thì dùng lệnh nào sau đây?<br>
+SELECT HoTen FROM DSSV<br>
+SELECT HoTen FROM SV<br>
+SELECT Ten FROM DSSV<br>
+SELECT DISTINCT HoTen FROM DSSV<br>
+D<br>
+
+Giả sử có 2 quan hệ Hãng cung ứng (S) và Cung ứng sản phẩm (SP) như sau: S (S#, SNAME, STATUS, CITY) và SP(S#, P#, QTY). Trong đó: S# là mã hãng cung ứng, SNAME là tên hãng cung ứng, STATUS là trạng thái, CITY là thành phố, P# là Mã hàng, QTY là số lượng. Hãy cho biết kết quả của câu lệnh sau: SELECT SNAME FROM S WHERE STATUS >= ALL(SELECT STATUS FROM S).<br>
+Đưa ra tên của tất cả các hãng cung ứng<br>
+Đưa ra mã của tất cả các hãng cung ứng<br>
+Đưa ra tên của hãng có trạng thái lớn nhất<br>
+Đưa ra mã của hãng có trạng thái lớn nhất<br>
+C<br>
+
+Kết quả của câu lệnh SQL sau đây là gì? SELECT MaSV, DiemHP FROM Diem WHERE DiemHP <5<br>
+Đưa ra danh sách từ bảng Diem bao gồm Mã sinh viên và Điểm học phần của các sinh viên có DiemHP nhỏ hơn 5.<br>
+Đưa ra danh sách từ bảng Diem bao gồm Mã sinh viên và điểm học phần của các sinh viên có DiemHP từ 5 trở lên.<br>
+Đưa ra danh sách từ bảng DiemHP bao gồm Mã sinh viên và điểm học phần của các sinh viên có Diem từ 5 trở lên.<br>
+Đưa ra danh sách từ bảng DiemHP bao gồm Mã sinh viên và điểm học phần của các sinh viên có Diem nhỏ hơn 5<br>
+A<br>
+
+Từ khóa SQL nào được sử dụng để chỉ truy xuất các giá trị duy nhất?<br>
+UNIQUE<br>
+DISTINCT<br>
+DIFFERENT<br>
+DISTINCTIVE<br>
+B<br>
+
+Cho quan hệ HangNhap(MaHang, NgayNhap, SLNhap). Câu lệnh SQL sau thực hiện nhiệm vụ gì? Select MaHang, Count(*) As SoLanNhap, Sum(SLNhap) As TongSoNhap From HangNhap Group By MaHang ;<br>
+Cho biết tổng số hàng nhập theo ngày nhập.<br>
+Cho biết tất cả các hàng nhập theo ngày nhập hàng.<br>
+Cho biết mỗi Mã hàng (MaHang) nhập bao nhiêu lần (SoLanNhap) và tổng số hàng đã nhập (TongSoNhap) của mỗi mã là bao nhiêu.<br>
+Cho biết tổng số hàng đã nhập trong năm.<br>
+C<br>
+
+Câu lệnh SQL sau đây thực hiện công việc gì? SELECT Khachhang, COUNT(Dondathang) FROM Sales GROUP BY Khachhang HAVING COUNT(Dondathang) >5<br>
+Chọn tất cả khách hàng từ bảng Sales.<br>
+Chọn tất cả những đơn hàng &gt; 5 từ bảng Khachhang.<br>
+Chọn tất cả khách hàng từ bảng Sales đã thực hiện hơn 5 đơn hàng.<br>
+Chọn tổng số đơn đặt hàng từ bảng Sales, nếu số này lớn hơn 5<br>
+C<br>
+
+C+94:120+115:120ho bảng customer(cat_id, customer_name). Câu lệnh nào sau đây sẽ thực thi thành công?<br>
+SELECT customer_name FROM customers WHERE cat_id = 12 ORDER BY cat_id;<br>
+SELECT customer FROM customer_name;<br>
+SELECT FROM customers customer name;<br>
+SELECT customer_name FROM customers ORDER BY zone WHERE cat_id = 12;<br>
+A<br>
+

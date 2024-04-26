@@ -1,0 +1,148 @@
+﻿Giá trị θ mũ được coi là ước lượng không chệch của θ nếu?<br>
+E(θ mũ) = θ<br>
+V(θ mũ) = θ<br>
+P(θ mũ) nhỏ hơn alpha<br>
+Không có đáp án đúng<br>
+A<br>
+
+Giá trị θ^ A được coi là hiệu quả hơn giá trị θ^ B nếu ?<br>
+E(θ^ A) > E(θ^ B)<br>
+E(θ^ A) < E(θ^ B)<br>
+V(θ^ A) < V(θ^ B)<br>
+V(θ^ A) > V(θ^ B)<br>
+D<br>
+
+Điều kiện tiên quyết để đánh giá được ước lượng θ^ bất kỳ có hiệu quả hay không là?<br>
+E(θ^) > 0<br>
+θ^ không chệch<br>
+V(θ^) > 0<br>
+θ^ là một biến cố<br>
+B<br>
+
+Cho các thống kê như hình. Những ước lượng nào là ước lượng không chệch?{br}{img}iVBORw0KGgoAAAANSUhEUgAAAi0AAACnCAYAAADdXWzlAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAACH6SURBVHhe7d3PixR3/sfx8nvfxNGcRJZFJ6ewJCwTc9FDAnFmsyCBJKi7HgIJq06WHBbiz5U9xPiLJAsi4w/Wy5LgSBJYghp1YXOYnKILBrLkYCaHJezJmHXyB/jt58d6a1lTVV396erqz6fn9YCya6rb7ur3pz6fftenPlW17G5HIiIiIhK4/0sfRURERIKmpEVERESioKRFREREoqCkRURERKKgpEVERESioKRFREREoqCkRURERKKgpEVERESioKRFREREoqCkRURERKKgpEVERESioKRFREREoqCkRURERKKgpEVERESioKSlix9++CE5duxYsmLFiuS7775Ll0oR4nP69OlkamrKxWvZsmVu4u/Z2dn0VdINcZyenk7Gx8fTJTJqVMZ+FDd/X3zxhWuLiV/U7kqhW7du3T169OjdsbGxu4RJoapGrCxOO3fuvDs3N+cm5m35vn370ldLkfn5+YfiNTk5mT4jo0Jl7Edx80c7TLwsdrTVMVNPS471rDz++OPJRx99lKxduzZ9Rqr885//dI+dCpHMzMwk69evdxPzncbGPXfo0CH1VhWwvUe2tdu3byedRDl9RkaFytiP4ubPelY2bdqULF++PF0aPyUtOd988437Af7000+Ta9euJX/5y1/SZ6QbGpTXXnst/euB3/72t+lckvz3v/9N58R8/PHH7rGzN+kOo+3Zs8f9LaNDZexHcfN34sSJ5Lnnnktu3rzpYjc5OZk+EzclLTn0Dly+fNk9Sn3EjD2hlStXpkukrl27drkeqTVr1qRLZNSojP0obv5IVIjfqLXJSlpk4BYWFtK5JFm1alU6JyIi0hslLTJwx48fd4+MbdEek4iI+FLSIgN16dKl5MqVK8nExETy9ttvp0tFRER6p6RFBuarr75Ktm3b5gbo/vWvf9V4FxER6YuSFhkITh1/6aWX3Pznn3+ePPnkk25eRETEl5IWaRwJC9cH4GwiJSwiItIUJS3SKEtYuK6CEhYREWmSkhZp1IEDB5Lr16+7i/MpYRERkSYpaZHGcLPEkydPJqdOnSq8ON+WLVvcLRJERER8KGnpAYc+pBj3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NZs2bXINMMkLE1djZOAXCYuuZlnszTffdI/EqWib2717t3te4qUybg47lub7779P56SObLyycYyJkpYcO8ulm5///OfpnIABy+xFrlu3Ljly5IhL7piuXr2a7Nu3z/XC6GqWi5HYEbs6dOuIOKmMm0OP1caNG9O/EnfWEDtG0h07k5zJaSYmJpLZ2dn0r3jo7CERERGJgnpaREREJApKWkRERCQKSlpEREQkCkpaREREJApKWkRERCQKSlpEREQkCkpaREREJApKWkRERCQKSlpEREQkCkpaREREJApKWkRERCQKSlpEREQkCkpaREREJApKWkRERCQKSlpEREQkCkpaREREJApKWkRERCQKSlpEREQkCkpaREREJApKWkRERCQKSlpEREQkCkpaREREJApKWkRERCQKSlpEREQkCkpaREREJApKWip89913yfT0dDI+Pp4ukToUN39ffPFFMjU15eIno091xY/i5m92dtbFjccYKWkpYBVi7dq1ycmTJ1UxalLc/FmysmHDhuTKlSvJL37xi/QZGUWqK34UN3+WrGzdujWZn59PVq9enT4TFyUtGdkKcfv27WRsbCx9Rqoobv4sWdm0aVOyfPnydKmMKtUVP4qbP0tW/vSnP41EkqekJePjjz92j2ShFPSePXvc31JNcfN34sSJ5Lnnnktu3rzpYjc5OZk+I6NIdcWP4ubnhx9+SN57773k4MGDybfffptcvnw5fSZeSloydu3alczMzCRr1qxJl0gdips/GmDit3LlynSJjDLVFT+Kmx/alWvXriVbtmxJl8RPSYuIiIhEQUmLiIiIREFJi4iIiERBSYuIiIhEQUmLiIiIREFJi4iIiERBSYuIiIhEQUmLiIiIREFJi4iIiERBSUsNXApZeqe4+btz5046J0uB6oofxc3fwsJCOhcXJS0lvvrqq+TMmTNu/vr168np06fdvFRT3PxdunTJ3eEZ3MGWmynK6FJd8aO4+SHBO3bsWPpXkvz5z392N6KMzbK7Hem8dCxbtiydKzc3N5esX78+/UuguPkhMdmwYUP6VzlV09GhuuJHcfNDorJ79+70r2LcqDWWmykqaREREZEo6PCQiIiIREFJi4iIiEShVtLCAB4GO01NTbnjijaNj48nW7ZsSWZnZ9NXShZxycaLaXp6On323niG/PPZgVJLleLmjzjlY5Ot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<br>
+Chỉ G1<br>
+G2, G1<br>
+G2, G3<br>
+G1, G4<br>
+C<br>
+
+Xác suất sinh viên đi làm thêm là p = 0.4. Biết rằng 1 là có đi làm, 0 là ngược lại. Khảo sát ngẫu nhiên 3 mẫu w1 = (0, 0, 1, 0, 1), w2 = (0, 1, 1, 1, 0), w3 = (1, 0, 0, 1, 1). Mẫu nào là hợp lý nhất?<br>
+w1<br>
+w2<br>
+w3<br>
+Cả w2 và w3<br>
+A<br>
+
+Cho mẫu (0, 1, 1, 0, 1) rút ra từ biến A(p) chưa biết p. Trong các ước lượng sau cho p, giá trị nào hợp lý nhất<br>
+0.5<br>
+0.6<br>
+0.7<br>
+0.8<br>
+B<br>
+
+Khi thực hiện ước lượng μ khi biết σ^2, sai số biên được tính bằng công thức?<br>
+ε=(σ.z(α/2))/(căn n)<br>
+ε=(2.σ.z(α/2))/(căn n)<br>
+ε=(σ^2.z^2(α/2))/n<br>
+ε=(4.σ^2.z^2(α/2))/n<br>
+A<br>
+
+Cân ngẫu nhiên 25 sản phẩm khối lượng trung bình là 25.32g và phương sai 5.28 g^2. Giả sử khối lượng phân phối chuẩn. Với độ tin cậy 95% ước lượng khối lượng trung bình của tất cả các sản phẩm bằng khoảng tin cậy đối xứng?<br>
+24.37 < μ < 26.27<br>
+24.53 < μ < 26.12<br>
+23.51 < μ < 27.13<br>
+23.14 < μ < 27.5<br>
+A<br>
+
+Một lô hàng mỹ phẩm nhập từ Trung Quốc được đưa về Việt Nam qua đường biên giới. Kiểm tra ngẫu nhiên 100 sản phẩm thấy khối lượng trung bình là 5.6g, phương sai 1.23 g^2. Với độ tin cậy 90%, ước lượng khối lượng trung bình của cả lô hàng bằng khoảng tin cậy tối đa?<br>
+(0; 5.76)<br>
+(0; 5.80)<br>
+(0; 5.74)<br>
+(0; 5.78)<br>
+C<br>
+
+Một công ty giải trí X phát hành album âm nhạc. Kiểm tra ngẫu nhiên 50 album thì thấy rằng trung bình mỗi album có kích thước trung bình 45cm^2, độ lệch chuẩn 12cm^2. Giả sử kích thước phân phối chuẩn. Với độ tin cậy 95% thì để sai số không quá 2cm^2, cần kiểm tra thêm ít nhất bao nhiêu album nữa?<br>
+27 sản phẩm<br>
+48 sản phẩm<br>
+Không cần kiểm tra thêm<br>
+89 sản phẩm<br>
+D<br>
+
+Một nhà máy thủy điện cho xả lũ . Kiểm tra ngẫu nhiên 7  ngày, người ta thấy rằng trung bình mỗi ngày nhà máy này xả ra ngoài 1275 khối nước, độ lệch chuẩn là 322 khối. Giả sử khối lượng nước phân phối chuẩn, với độ tin cậy bằng bao nhiêu thì lượng nước trung bình tối thiểu mỗi ngày nhà máy thủy điện này xả ra là 1038?<br>
+90%<br>
+5%<br>
+95%<br>
+2.50%<br>
+C<br>
+
+Một nhà máy điều chế H2SO4 nhập khẩu một lô quặng spirit sắt. Thử nghiệm với 60 quặng khác nhau thấy rằng độ lệch chuẩn lượng H2SO4 là 1.56l. Giả sử lượng H2SO4 phân phối chuẩn, với độ tin cậy 95%, hãy cho biết lượng H2SO4 trung bình của mẫu 60 quặng trên cần phải là bao nhiêu để lượng H2SO4 trung bình mà nhà máy thu được đạt giá trị tối đa bằng 22.4l?<br>
+21.78 lít<br>
+22.07 lít<br>
+21.88 lít<br>
+22.73 lít<br>
+B<br>
+
+Nhà máy sản xuất tơ sợi X khảo nghiệm 10 mẫu tơ mà họ đưa ra thị trường trong năm nay thì nhận thấy rằng trung bình điểm đánh giá nhận được từ người dùng là 8.25 điểm, phương sai 26.11 điểm^2. Giả sử điểm đánh giá phân phối chuẩn, với độ tin cậy 95%, cần phải tăng số lượng mẫu tơ khảo sát thêm bao nhiêu để độ dài khoảng tin cậy không vượt quá 3.5?<br>
+15.3 lần<br>
+10 lần<br>
+2.7 lần<br>
+4.4 lần<br>
+D<br>
+
+Khảo sát ngẫu nhiên 15 mẫu xe đua F1 thấy rằng tốc độ trung bình của là 23 m/s, độ lệch chuẩn 5 m/s. Giả sử tốc độ phân phối chuẩn và độ tin cậy là 95%, độ dao động của tốc độ đo bởi phương sai tối đa là bao nhiêu?<br>
+2.96 (m/s)^2<br>
+10.65 (m/s)^2<br>
+53.26 (m/s)^2<br>
+14.78 (m/s)^2<br>
+C<br>
+
+Hỏi ngẫu nhiên 100 sinh viên thu được dữ liệu điểm trung bình học phần Xác suất thống kê bằng 8.5, độ lệch chuẩn 1.25. Giả sử điểm phân phối chuẩn, với độ tin cậy 95%, khoảng tin cậy cho độ lệch chuẩn điểm Xác suất thống kê của sinh viên bằng?<br>
+(1.20; 2.11)<br>
+(0.96; 1.69)<br>
+(1.26; 2)<br>
+(1; 1.61)<br>
+A<br>
+
+Khảo sát ngẫu nhiên 10 mẫu đất tại đồng bằng sông Cửu Long, thấy độ mặn của đất trung bình bằng 5g/kg. Giả sử độ mặn phân phối chuẩn. Với độ tin cậy 95%, phương sai của 10 mẫu đất trên cần phải bằng bao nhiêu để độ dài khoảng tin cậy xấp xỉ bằng 5?<br>
+0.75<br>
+1.32<br>
+1.75<br>
+3.22<br>
+C<br>
+
+Thành phố Buenos Aires khảo sát số lượng cây xanh tại 50 địa điểm du lịch ngẫu nhiên trong thành phố. Với độ tin cậy 95%, hãy cho biết độ biến động lượng cây của 50 địa điểm trên phải bằng bao nhiêu để phương sai lượng cây xanh ở các địa điểm du lịch toàn thành phố nằm trong khoảng 300 - 668 cây^2?<br>
+450 cây^2<br>
+330 cây^2<br>
+21 cây<br>
+39 cây<br>
+C<br>
+
+Do nạn trộm nắp cống, Ủy ban nhân dân thành phố Hà Nội đặt làm một lô nắp cống bằng titanium từ Trung Quốc. Khảo sát ngẫu nhiên 30 chiếc, thu được phương sai khối lượng bằng 23.87 kg^2. Với độ tin cậy 90%, ước lượng phương sai của khối lượng lô hàng này sử dụng khoảng tin cậy tối thiểu?<br>
+σ^2 < 35.01<br>
+σ^2 < 16.26<br>
+16.26 < σ^2<br>
+17.7 < σ^2<br>
+D<br>
+
+Tập đoàn Huyndai cho nghiệm thu dây chuyền sản xuất dòng xe KIA mới. Kiểm tra ngẫu nhiên 100 xe thì thấy rằng có 44 xe có tỉ lệ bị rò điện. Ước lượng tỉ lệ rò điện của dây chuyền sản xuất, biết rằng độ tin cậy bằng 95%<br>
+0.26 < p < 0.39<br>
+0.28 < p < 0.45<br>
+0.36 < p < 0.52<br>
+0.32 < p < 0.54<br>
+D<br>
+
+Quan sát ngẫu nhiên 400 người vào cửa hàng thì có 144 người mua hàng. Với độ tin cậy 95% hãy cho biết muốn độ dài khoảng tin cậy giảm xuống còn một nửa thì cần quan sát tối thiểu bao nhiêu người?<br>
+1960<br>
+1600<br>
+5000<br>
+2750<br>
+B<br>
+
+Các thành viên Đội sinh viên tình nguyện trường Đại học X thực hiện bán đồ gây quỹ cho hoạt động thiện nguyện sắp tới. Biết rằng, cứ 500 người được mời mua hàng thì có 325 người mua hàng. Với độ tin cậy 90%, nếu cả đợt có 5000 người được mời vào gian hàng thì có tối đa bao nhiêu người mua hàng?<br>
+3450<br>
+3425<br>
+3440<br>
+3432<br>
+B<br>
+
+

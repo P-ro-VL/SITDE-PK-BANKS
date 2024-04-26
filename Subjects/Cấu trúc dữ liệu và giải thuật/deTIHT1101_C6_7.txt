@@ -1,0 +1,273 @@
+﻿Trong sắp xếp, khi nhắc tới "Khóa" là đang nhắc tới?<br>
+Một trường mà ta đang muốn sắp xếp theo trường đó<br>
+Là một trường cố định làm mốc, không thay đổi trong quá trình sắp xếp<br>
+Là một trường dữ liệu giúp xác định các trường còn lại cần sắp xếp<br>
+Là một trường dữ liệu giúp xác định một và chỉ một phần tử cần sắp xếp<br>
+A<br>
+Giáo trình trang 301<br>
+Thuật toán sắp xếp nào sau đây không thuộc nhóm phương pháp sắp xếp đổi chỗ?<br>
+Sắp xếp nổi bọt (Bubble Sort)<br>
+Sắp xếp trộn (Merge Sort)<br>
+Sắp xếp chèn (Insertion Sort)<br>
+Sắp xếp chọn (Selection Sort)<br>
+B<br>
+Nhóm phương pháp sắp xếp đổi chỗ bao gồm 03 thuật toán: nổi bọt, chèn và chọn<br>
+Nội dung nào sau đây mô tả cách hoạt động của thuật toán sắp xếp nổi bọt?<br>
+Duyệt từ đầu đến cuối mảng, nếu phần tử đứng trước lớn hơn phần tử đứng sau thì đổi chỗ<br>
+Ở bước thứ i ta lựa chọn phần tử nhỏ nhất trong dãy a[i] đến a[n] và đổi chỗ với phần tử a[i]<br>
+Tại bước thứ i, lần lượt so sánh a[i] với các phần tử đứng trước nó. Nếu có vị trí phù hợp với điều kiện đang xét thì chèn phần tử a[i] vào vị trí này<br>
+Sắp thứ tự các phần tử a[i] vào dãy có thứ tự s[i]. Mảng count có phần tử count[j] đếm số phần tử của mảng a có khóa j<br>
+A<br>
+Giáo trình trang 326<br>
+Nội dung nào sau đây mô tả cách hoạt động của thuật toán sắp xếp chèn?<br>
+Duyệt từ đầu đến cuối mảng, nếu phần tử đứng trước lớn hơn phần tử đứng sau thì đổi chỗ<br>
+Ở bước thứ i ta lựa chọn phần tử nhỏ nhất trong dãy a[i] đến a[n] và đổi chỗ với phần tử a[i]<br>
+Tại bước thứ i, lần lượt so sánh a[i] với các phần tử đứng trước nó. Nếu có vị trí phù hợp với điều kiện đang xét thì chèn phần tử a[i] vào vị trí này<br>
+Sắp thứ tự các phần tử a[i] vào dãy có thứ tự s[i]. Mảng count có phần tử count[j] đếm số phần tử của mảng a có khóa j<br>
+C<br>
+Giáo trình trang 307<br>
+Nội dung nào sau đây mô tả cách hoạt động của thuật toán sắp xếp chọn?<br>
+Duyệt từ đầu đến cuối mảng, nếu phần tử đứng trước lớn hơn phần tử đứng sau thì đổi chỗ<br>
+Ở bước thứ i ta lựa chọn phần tử nhỏ nhất trong dãy a[i] đến a[n] và đổi chỗ với phần tử a[i]<br>
+Tại bước thứ i, lần lượt so sánh a[i] với các phần tử đứng trước nó. Nếu có vị trí phù hợp với điều kiện đang xét thì chèn phần tử a[i] vào vị trí này<br>
+Sắp thứ tự các phần tử a[i] vào dãy có thứ tự s[i]. Mảng count có phần tử count[j] đếm số phần tử của mảng a có khóa j<br>
+B<br>
+Giáo trình trang 311<br>
+Thuật toán sắp xếp nào sau đây không thuộc nhóm phương pháp sắp xếp xen vào?<br>
+Sắp xếp chèn<br>
+Sắp xếp chèn nhị phân<br>
+Sắp xếp Shell (Sắp xếp giảm độ tăng)<br>
+Sắp xếp chọn<br>
+D<br>
+Nhóm phương pháp sắp xếp xen vào gồm 03 thuật toán: Chèn, chèn nhị phân và Shell<br>
+Nội dung nào sau đây mô tả cách hoạt động của thuật toán sắp xếp chèn nhị phân?<br>
+Tại bước thứ i, lần lượt so sánh a[i] với các phần tử đứng trước nó. Tìm kiếm vị trí thích hợp bằng thuật toán tìm kiếm nhị phân. Nếu có vị trí phù hợp với điều kiện đang xét thì chèn phần tử a[i] vào vị trí này<br>
+Chọn một khoảng cách khởi tạo (h) và chia danh sách thành các nhóm con. Sắp xếp từng nhóm con bằng cách sử dụng thuật toán sắp xếp chèn. Giảm khoảng cách h để tạo ra các nhóm con mới. Lặp lại quá trình cho đến khi khoảng cách h giảm xuống 1.<br>
+Tại bước thứ i, lần lượt so sánh a[i] với các phần tử đứng trước nó. Nếu có vị trí phù hợp với điều kiện đang xét thì chèn phần tử a[i] vào vị trí này<br>
+Ở bước thứ i ta lựa chọn phần tử nhỏ nhất trong dãy a[i] đến a[n] và đổi chỗ với phần tử a[i]<br>
+A<br>
+Giáo trình trang 309<br>
+Nội dung nào sau đây mô tả cách hoạt động của thuật toán sắp xếp Shell (sắp xếp giảm độ tăng)?<br>
+Tại bước thứ i, lần lượt so sánh a[i] với các phần tử đứng trước nó. Tìm kiếm vị trí thích hợp bằng thuật toán tìm kiếm nhị phân. Nếu có vị trí phù hợp với điều kiện đang xét thì chèn phần tử a[i] vào vị trí này<br>
+Chọn một khoảng cách khởi tạo (h) và chia danh sách thành các nhóm con. Sắp xếp từng nhóm con bằng cách sử dụng thuật toán sắp xếp chèn. Giảm khoảng cách h để tạo ra các nhóm con mới. Lặp lại quá trình cho đến khi khoảng cách h giảm xuống 1.<br>
+Tại bước thứ i, lần lượt so sánh a[i] với các phần tử đứng trước nó. Nếu có vị trí phù hợp với điều kiện đang xét thì chèn phần tử a[i] vào vị trí này<br>
+Ở bước thứ i ta lựa chọn phần tử nhỏ nhất trong dãy a[i] đến a[n] và đổi chỗ với phần tử a[i]<br>
+B<br>
+Giáo trình trang 331 - 332<br>
+Thuật toán sắp xếp nào sau đây không thuộc nhóm phương pháp sắp xếp lựa chọn?<br>
+Sắp xếp chọn<br>
+Sắp xếp nhanh (Quick Sort)<br>
+Sắp xếp chèn<br>
+Sắp xếp Heap<br>
+C<br>
+Nhóm phương pháp sắp xếp chọn bao gồm 03 thuật toán: chọn, nhanh và Heap<br>
+Nội dung nào sau đây mô tả cách hoạt động của thuật toán sắp xếp nhanh (Quick Sort)?<br>
+Chọn một khoảng cách khởi tạo (h) và chia danh sách thành các nhóm con. Sắp xếp từng nhóm con bằng cách sử dụng thuật toán sắp xếp chèn. Giảm khoảng cách h để tạo ra các nhóm con mới. Lặp lại quá trình cho đến khi khoảng cách h giảm xuống 1.<br>
+Tại bước thứ i, lần lượt so sánh a[i] với các phần tử đứng trước nó. Tìm kiếm vị trí thích hợp bằng thuật toán tìm kiếm nhị phân. Nếu có vị trí phù hợp với điều kiện đang xét thì chèn phần tử a[i] vào vị trí này<br>
+Ở bước thứ i ta lựa chọn phần tử nhỏ nhất trong dãy a[i] đến a[n] và đổi chỗ với phần tử a[i]<br>
+Chọn ngẫu nhiên một phần tử a[i] làm phần tử biên. Phân hoạch dãy cần sắp xếp thành ba dãy con liên tiếp sao cho: dãy thứ nhất gồm các phần tử nhỏ hơn a[i], dãy thứ hai gồm các phần tử bằng a[i], dãy thứ ba gồm các phần tử lớn hơn a[i]. Sau đó lặp lại phân hoạch cho dãy thứ nhất và thứ ba nếu có nhiều hơn một phần tử<br>
+D<br>
+Giáo trình trang 335<br>
+Độ phức tạp trung bình của nhóm sắp xếp đổi chỗ là?<br>
+O(n^2)<br>
+O(n)<br>
+O(logn)<br>
+O(n.logn)<br>
+A<br>
+<br>
+Độ phức tạp trung bình của thuật toán sắp xếp trộn (Merge Sort) là?<br>
+O(n^2)<br>
+O(n)<br>
+O(logn)<br>
+O(n.logn)<br>
+D<br>
+<br>
+Cho thuật toán sau đây. Cho biết thuật toán này là phương pháp sắp xếp gì?{br}{code}pascal for i:=1 to n do
+for j:=i+1 to n do
+if a[j] > a[i] then
+begin
+tg:=a[j];
+a[j]:=a[i];
+a[i]:=tg;
+end;<br>
+Sắp xếp nổi bọt (Bubble Sort)<br>
+Sắp xếp trộn (Merge Sort)<br>
+Sắp xếp chèn (Insertion Sort)<br>
+Sắp xếp chọn (Selection Sort)<br>
+A<br>
+Giáo trình trang 327<br>
+Cho thuật toán sau đây. Cho biết thuật toán này là phương pháp sắp xếp gì?{br}{code}pascal for i:=1 to n do
+  begin
+    M:=a[i]
+    k:=0
+    for j:=i+1 to n do
+      if a[j] < M then
+        begin
+          M:=a[j]
+          k:=j
+       end;
+    tg:=a[i]
+    a[i]:=a[k]
+    a[k]:=tg
+  end;<br>
+Sắp xếp nổi bọt (Bubble Sort)<br>
+Sắp xếp trộn (Merge Sort)<br>
+Sắp xếp chèn (Insertion Sort)<br>
+Sắp xếp chọn (Selection Sort)<br>
+D<br>
+Giáo trình trang 311<br>
+Cho thuật toán sau đây. Cho biết thuật toán này là phương pháp sắp xếp gì?{br}{code}pascal for i:=2 to n do
+begin
+x:=a[i];
+a[0]:=x;
+j:=i-1;
+while x < a[j] do
+begin
+a[j+1]:=a[j];
+j:=j+1;
+end;
+a[j+1]:=x
+end;<br>
+Sắp xếp nổi bọt (Bubble Sort)<br>
+Sắp xếp trộn (Merge Sort)<br>
+Sắp xếp chèn (Insertion Sort)<br>
+Sắp xếp chọn (Selection Sort)<br>
+C<br>
+Giáo trình trang 308<br>
+Bạn Nam muốn sử dụng thuật toán sắp xếp chọn để sắp xếp điểm thi môn Cấu trúc dữ liệu và giải thuật của lớp theo thứ tự từ cao xuống thấp. Để thực hiện được điều này, câu lệnh cần dùng ở dấu "…" là gì ?{br}{code}pascal for i:=1 to n do
+  begin
+    M:=a[i]
+    k:=0
+    for j:=i+1 to n do
+      ...
+        begin
+          M:=a[j]
+          k:=j
+       end;
+    tg:=a[i]
+    a[i]:=a[k]
+    a[k]:=tg
+  end;<br>
+if a[j] > M then<br>
+if a[j] < M then<br>
+if a[i] > M then<br>
+if a[i] < M then<br>
+A<br>
+Xem lại thuật toán sắp xếp chọn , giáo trình trang 311. Ở đây do muốn sắp xếp từ cao xuống thấp nên ta dùng điều kiện kiểm tra là a[j] > M<br>
+Cho mô tả giải thuật sắp xếp như sau. Cho biết với mảng đầu vào A={5, 3, 7, 9, 4, 8} thì sau khi sắp xếp tại giá trị i bằng 2 và j bằng 3, mảng này bằng?{br}{code}pascal for i:=1 to n do
+for j:=i+1 to n do
+if a[j] > a[i] then
+begin
+tg:=a[j];
+a[j]:=a[i];
+a[i]:=tg;
+end;<br>
+9 3 5 7 4 8<br>
+3 5 7 9 4 8<br>
+9 5 3 7 4 8<br>
+3 5 7 9 8 4<br>
+C<br>
+Thực hiện từng bước và sẽ ra kết quả<br>
+Cho dãy khoá 42,23,74,11,65,58. Dùng phương pháp sắp xếp kiểu chèn (Insertion sort), sau 3 bước dãy có dạng nào?<br>
+11,23,42,74,65,58<br>
+11,23,42,65,74,58<br>
+11,23,42,74,58,65<br>
+11,23,58,65,42,74<br>
+A<br>
+<br>
+Cho dẫy khoá 42,23,74,11,65,58,94,36. Sắp xếp dãy khoá theo kiểu nổi bọt (Bubble sort), sau mấy bước phần tử 36 về đúng vị trí của nó?<br>
+5<br>
+4<br>
+3<br>
+2<br>
+C<br>
+<br>
+Cho dẫy khoá 42,23,74,11,65,58,94,36,99,87 .Sắp xếp dãy khoá theo kiểu nổi bọt (Bubble sort), sau bước thứ 1, khoá 87 về vị trí thứ mấy<br>
+8<br>
+7<br>
+10<br>
+9<br>
+D<br>
+<br>
+Cho dẫy khoá 42,23,74,11,65,58,94,36,99,87. Sắp xếp dãy khoá theo kiểu nổi bọt (Bubble sort), sau bước thứ 1, ba vị trí cuối cùng là các khoá nào:<br>
+58,87,99<br>
+36,99,87<br>
+74,99,87<br>
+87,94,99<br>
+C<br>
+<br>
+Cho dẫy khoá 42,23,74,11,65,58,94,36,99,87. Sắp xếp dãy khoá theo kiểu phân đoạn (Quick Sort),sau bước thứ 1, ba vị trí đầu tiên là các khoá nào?<br>
+11 42 23<br>
+11 42 58<br>
+11 23 36<br>
+11 42 36<br>
+C<br>
+<br>
+Cho dẫy khoá 42,23,74,11,65,58,94,36,99,87 .Sắp xếp dãy khoá theo kiểu chèn (Insertion sort), sau 3 bước ba vị trí cuối cùng là các khoá nào:<br>
+87 94 99<br>
+65 94 99<br>
+36 99 87<br>
+58 94 99<br>
+C<br>
+<br>
+Cho 2 dãy đã sắp xếp: A:15,17,19,21,30,48 và B:7,9,16,22,47. Thực hiện sắp xếp 2 dãy này bằng phương pháp sắp xếp trộn thu được dãy C. Cho biết phần tử thứ 7 trong dãy C bằng?<br>
+19<br>
+16<br>
+22<br>
+21<br>
+D<br>
+<br>
+Khóa tìm kiếm là gì?<br>
+Là giá trị cần tìm kiếm<br>
+Là vị trí của phần tử cần tìm kiếm<br>
+Là mảng cần thực hiện tìm kiếm<br>
+Là một giá trị cố định mà sẽ sử dụng để đối chiếu tương quan với các phần tử của mảng cần tìm kiếm<br>
+A<br>
+Giáo trình trang 361<br>
+Mô tả nào sau đây là của thuật toán Tìm kiếm tuần tự (hay tìm kiếm tuyến tính)?<br>
+Chia đôi đoạn tìm kiếm hiện tại làm đôi. Nếu như khóa tìm kiếm lớn hơn giá trị chính giữa của đoạn thì bỏ toàn bộ phần bên trái, ngược lại bỏ toàn bộ phần bên phải. Lặp lại như vậy cho đến khi đoạn chỉ còn độ dài bằng 1<br>
+Bắt đầu từ phần tử thứ nhất, lần lượt só sánh khóa tìm kiếm với khóa tương ứng của các bản ghi trong bảng, cho tới khi tìm được bản ghi mong muốn hoặc đã hết bảng mà chưa thấy<br>
+Bằng một quy tắc nào đó, ta biến đổi giá trị của khóa thành một địa chỉ tương đối dùng để lưu trữ bản ghi tương ứng, đồng thời cũng để tìm kiếm bản ghi ấy<br>
+Vị trí của mỗi phần tử được xác định trực tiếp bằng một hàm của chính nó chứ không phải một dãy so sánh. Bằng một quy tắc nào đó, ta biến đổi giá trị của khóa thành một địa chỉ tương đối dùng để lưu trữ bản ghi tương ứng, đồng thời cũng để tìm kiếm bản ghi ấy<br>
+B<br>
+Giáo trình trang 362<br>
+Mô tả nào sau đây là của thuật toán Tìm kiếm nhị phân ?<br>
+Chia đôi đoạn tìm kiếm hiện tại làm đôi. Nếu như khóa tìm kiếm lớn hơn giá trị chính giữa của đoạn thì bỏ toàn bộ phần bên trái, ngược lại bỏ toàn bộ phần bên phải. Lặp lại như vậy cho đến khi đoạn chỉ còn độ dài bằng 1<br>
+Bắt đầu từ phần tử thứ nhất, lần lượt só sánh khóa tìm kiếm với khóa tương ứng của các bản ghi trong bảng, cho tới khi tìm được bản ghi mong muốn hoặc đã hết bảng mà chưa thấy<br>
+Bằng một quy tắc nào đó, ta biến đổi giá trị của khóa thành một địa chỉ tương đối dùng để lưu trữ bản ghi tương ứng, đồng thời cũng để tìm kiếm bản ghi ấy<br>
+Vị trí của mỗi phần tử được xác định trực tiếp bằng một hàm của chính nó chứ không phải một dãy so sánh. Bằng một quy tắc nào đó, ta biến đổi giá trị của khóa thành một địa chỉ tương đối dùng để lưu trữ bản ghi tương ứng, đồng thời cũng để tìm kiếm bản ghi ấy<br>
+A<br>
+Giáo trình trang 363<br>
+Mô tả nào sau đây là của thuật toán Tìm kiếm bằng khóa?<br>
+Chia đôi đoạn tìm kiếm hiện tại làm đôi. Nếu như khóa tìm kiếm lớn hơn giá trị chính giữa của đoạn thì bỏ toàn bộ phần bên trái, ngược lại bỏ toàn bộ phần bên phải. Lặp lại như vậy cho đến khi đoạn chỉ còn độ dài bằng 1<br>
+Bắt đầu từ phần tử thứ nhất, lần lượt só sánh khóa tìm kiếm với khóa tương ứng của các bản ghi trong bảng, cho tới khi tìm được bản ghi mong muốn hoặc đã hết bảng mà chưa thấy<br>
+Bằng một quy tắc nào đó, ta biến đổi giá trị của khóa thành một địa chỉ tương đối dùng để lưu trữ bản ghi tương ứng, đồng thời cũng để tìm kiếm bản ghi ấy<br>
+Vị trí của mỗi phần tử được xác định trực tiếp bằng một hàm của chính nó chứ không phải một dãy so sánh. Bằng một quy tắc nào đó, ta biến đổi giá trị của khóa thành một địa chỉ tương đối dùng để lưu trữ bản ghi tương ứng, đồng thời cũng để tìm kiếm bản ghi ấy<br>
+C<br>
+Giáo trình trang 367<br>
+Mô tả nào sau đây là của thuật toán Tìm kiếm bằng bảng băm?<br>
+Chia đôi đoạn tìm kiếm hiện tại làm đôi. Nếu như khóa tìm kiếm lớn hơn giá trị chính giữa của đoạn thì bỏ toàn bộ phần bên trái, ngược lại bỏ toàn bộ phần bên phải. Lặp lại như vậy cho đến khi đoạn chỉ còn độ dài bằng 1<br>
+Bắt đầu từ phần tử thứ nhất, lần lượt só sánh khóa tìm kiếm với khóa tương ứng của các bản ghi trong bảng, cho tới khi tìm được bản ghi mong muốn hoặc đã hết bảng mà chưa thấy<br>
+Bằng một quy tắc nào đó, ta biến đổi giá trị của khóa thành một địa chỉ tương đối dùng để lưu trữ bản ghi tương ứng, đồng thời cũng để tìm kiếm bản ghi ấy<br>
+Vị trí của mỗi phần tử được xác định trực tiếp bằng một hàm của chính nó chứ không phải một dãy so sánh. Bằng một quy tắc nào đó, ta biến đổi giá trị của khóa thành một địa chỉ tương đối dùng để lưu trữ bản ghi tương ứng, đồng thời cũng để tìm kiếm bản ghi ấy<br>
+D<br>
+Giáo trình trang 382<br>
+Cho thuật toán tìm kiếm nhị phân như sau. Cho biết với dãy 3, 8, 16, 27, 38, 47, 49, 57, 70, 75, 98, khi muốn tìm kiếm giá trị 57 thì khi j bằng 8, đoạn đang xét gồm các phần tử nào?{br}{code}pascal found:= false
+k:=1
+m:=11
+While (j <= m) and (not found) do
+begin
+j:=(k+m) div 2;
+if a[j] = x then found:=true
+else
+if a[j] < x then k:=j
+else
+m:=j-1
+end;<br>
+47 49 57 70 75 98<br>
+49 57 70 75 98<br>
+3 8 16 27 38 47<br>
+3 8 16 27 38<br>
+B<br>
+<br>
+

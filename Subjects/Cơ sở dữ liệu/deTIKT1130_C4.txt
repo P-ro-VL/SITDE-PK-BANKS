@@ -1,0 +1,281 @@
+﻿Quan hệ gồm các thuộc tính mã số, họ tên và địa chỉ ở dạng chuẩn nào?<br>
+Dạng chuẩn 1NF, không là 2NF<br>
+Dạng chuẩn 3NF<br>
+Dạng chuẩn 2NF, không là 3NF<br>
+Dạng chuẩn 2NF<br>
+B<br>
+
+Quá trình chuyển quan hệ 1NF về 3NF là quá trình:<br>
+Loại bỏ dị thường thông tin.<br>
+Loại bỏ dị thường thông tin và tổn thất thông tin.<br>
+Loại bỏ dị thường thông tin và không tổn thất thông tin.<br>
+Không tổn thất thông tin.<br>
+C<br>
+
+Một quan hệ dạng chuẩn 1NF có thể chuyển đổi về nhóm các quan hệ 3NF bằng cách<br>
+Loại bỏ các phụ thuộc đầy đủ vào khoá và bắc cầu vào khoá.<br>
+Loại bỏ các phụ thuộc không đầy đủ vào khoá.<br>
+Loại bỏ các phụ thuộc bắc cầu vào khoá.<br>
+Loại bỏ các phụ thuộc không đầy đủ vào khoá và bắc cầu vào khoá.<br>
+D<br>
+
+Cho tập PTH F={B→A,D→A,AB→D}. Tìm tập PTH tối tiểu của F?<br>
+G={D→A,BC→D} là tập PTH tối tiểu của F.<br>
+G={DC→A,BC→D} là tập PTH tối tiểu của F.<br>
+G={DC→A,B→D} là tập PTH tối tiểu của F.<br>
+G={D→A,B→D} là tập PTH tối tiểu của F.<br>
+D<br>
+
+Cho lược đồ quan hệ R(U, F); Với U = {A,B,C,D,E, G} và F = { A ->C, A -> EG, B -> D, G-> E}. Tìm (CDG)+<br>
+BCDEG<br>
+CDE<br>
+ACDEG<br>
+CDEG<br>
+D<br>
+
+Cho tập phụ thuộc hàm sau: F = {AB→C, C→A, BC→D, ACD→B, D→EG, BE→C, CG→BD, CE→AG} và đặt X=CD. Hãy tính (CD)+<br>
+(CD)+ = CD<br>
+(CD)+ = ABCDEG<br>
+(CD)+ = ACDG<br>
+(CD)+ = ACDEG<br>
+B<br>
+
+Cho tập phụ thuộc hàm sau: F = {AB→C, C→A, BC→D, ACD→B, D→EG, BE→C, CG→BD, CE→AG}. và đặt X=CG. Hãy tính (CG)+<br>
+(CG)+ = ABCDEG<br>
+(CG)+ = ACG<br>
+(CG)+ = ABCG<br>
+(CG)+ = CG<br>
+A<br>
+
+Cho lược đồ quan hệ R = (U, F) với U= {A,B,C,D,E,G,H} và F= {AB→C, D→EG, ACD→B, C→A, BE→C, CE→AG, BC→D, CG→BD, G→ H}. Tìm (BE)+<br>
+ABCDEG<br>
+ABCDEGH<br>
+BCDEGH<br>
+ABEGH<br>
+B<br>
+
+Cho tập phụ thuộc hàm sau: F = {AB→C, C→A, BC→D, ACD→B, D→EG, BE→C, CG→BD, CE→AG}. và đặt X=BC. Hãy tính (BC)+<br>
+(BC)+ = BC<br>
+(BC)+ = ABCDEG<br>
+(BC)+ = ABC<br>
+(BC)+ = ABCD<br>
+B<br>
+
+Cho quan hệ R(SoHD, MaKH, TenKH, DiaChiKH, NgayDathang, {MaHang, TenHang, SoLuong, ThanhTien}). Giả thiết rằng đơn giá của mỗi mặt hàng không thay đổi. Hãy chuẩn hóa quan hệ R về dạng chuẩn 3NF.<br>
+Sau khi chuẩn hóa đến 3NF chúng ta có 4 quan hệ sau: R11 với U11 = {SoHD, MaKH, NgayDathang}; R12 với U12 = {MaKH, TenKH, DiaChiKH}; R21 với U21 = {SoHoadon, Mahang,SoLuong,DonGia} và R22 với U22 = {Mahang, Tenhang}<br>
+Sau khi chuẩn hóa đến 3NF chúng ta có 4 quan hệ sau: R11 với U11 = {SoHD, NgayDathang}; R12 với U12 = {MaKH, TenKH, DiaChiKH}; R21 với U21 = {SoHoadon, Mahang,SoLuong} và R22 với U22 = {Mahang, Tenhang, DonGia}<br>
+Sau khi chuẩn hóa đến 3NF chúng ta có 4 quan hệ sau: R11 với U11 = {SoHD, MaKH, NgayDathang}; R12 với U12 = {MaKH, TenKH, DiaChiKH}; R21 với U21 = {SoHoadon, Mahang,SoLuong}; R22 với U22 = {Mahang, Tenhang, DonGia}<br>
+Sau khi chuẩn hóa đến 3NF chúng ta có 4 quan hệ sau: R11 với U11 = {SoHD, MaKH, NgayDathang}; R12 với U12 = {MaKH, TenKH, DiaChiKH}; R21 với U21 = {SoHoadon, Mahang,SoLuong} và R22 với U22 = {Tenhang, DonGia}<br>
+C<br>
+
+Cho tập phụ thuộc hàm sau: F = {AB→C, C→A, BC→D, ACD→B, D→EG, BE→C, CG→BD, CE→AG} và đặt X=BD. Hãy tính (BD)+<br>
+(BD)+ = ABCDE<br>
+(BD)+ = BDEG<br>
+(BD)+ = ABCDEG<br>
+(BD)+ = ABDEG<br>
+C<br>
+
+Cho lược đồ quan hệ R= <U,F> với U= {A,B,C,D,E,F,G,H,I,J} có khóa chính là {A,B} và F = {AB -> CDEFGHIJ, A-> EFGHIJ, F-> IJ}. Hãy chuẩn hóa quan hệ R về dạng chuẩn 3NF.<br>
+Kết quả chúng ta có có 3 quan hệ: R1 với U1= {ABCD}; R21 với U21= {AEFGHI} và R22 với U22= {FJ}<br>
+Kết quả chúng ta có có 2 quan hệ: R1 với U1= {ABCDE} và R21 với U21= {AFGIJH}<br>
+Kết quả chúng ta có có 3 quan hệ: R1 với U1= {ABCD}; R21 với U21= {AEFGH} và R22 với U22= {FIJ}<br>
+Kết quả chúng ta có có 2 quan hệ: R1 với U1= {ABCD} và R21 với U21= {AEFGHIJ}<br>
+C<br>
+
+Cho lược đồ quan hệ R = (U, F) với U= {A,B,C,D,E,G,H} và F= {AB→C, D→EG, ACD→B, C→A, BE→C, CE→AG, BC→D, CG→BD, G→ H}. Tìm (D)+<br>
+AEGH<br>
+DEGH<br>
+DAGH<br>
+DABE<br>
+B<br>
+
+Quan hệ 2NF không thể chấp nhận được trong quá trình tìm kiếm, vì:<br>
+Bao đóng phụ thuộc hàm quá lớn<br>
+Không đảm bảo tính toàn vẹn dữ liệu<br>
+Không thể thưc hiện được các phép cập nhật<br>
+Có thể không thể chèn thêm thông tin<br>
+D<br>
+
+Cho lược đồ quan hệ R = Q(ABCD) và tập phụ thuộc hàm F = {AB→CD, B→C, C→D}. Hãy cho biết tập phụ thuộc hàm nào sau đây là phủ tối thiểu của F?<br>
+ptt F = {B→C, C→D, B→D }<br>
+ptt F = {AB→CD, B→C, C→D}<br>
+ptt F = {AB→C, AB→D B→C, C→D}<br>
+ptt F = {B→C, C→D}<br>
+D<br>
+
+Cho lược đồ quan hệ R = (U, F) với U= {A,B,C,D,E,G,H} và F= {AB→C, D→EG, ACD→B, C→A, BE→C, CE→AG, BC→D, CG→BD, G→ H}. Tìm (DE)+<br>
+DEGH<br>
+CDEGH<br>
+ADEGH<br>
+CDEH<br>
+A<br>
+
+Cho lược đồ quan hệ R(U, F); Với U = {A,B,C,D,E, G} và F = { A ->C, A -> EG, B -> D, G-> E}. Tìm (AB)+<br>
+BCDEG<br>
+ABCD<br>
+ABCDEG<br>
+ABCDE<br>
+C<br>
+
+Quan hệ R được gọi là dạng chuẩn 1NF, khi và chỉ khi:<br>
+Một quan hệ có nhiều hàng<br>
+Một quan hệ có nhiều cột<br>
+Các thuộc tính chỉ chứa các giá trị nguyên tố<br>
+Một thuộc tính có nhiều giá trị khác nhau<br>
+C<br>
+
+Cho lược đồ quan hệ R = (U, F) với U= {A,B,C,D,E,G,H} và F= {AB→C, D→EG, ACD→B, C→A, BE→C, CE→AG, BC→D, CG→BD, G→ H}. Tìm (BE)+<br>
+ABCDEGH<br>
+ABEGH<br>
+BCDEGH<br>
+ABCDEG<br>
+A<br>
+
+Cho lược đồ quan hệ R với U= {ABCDE} và tập phụ thuộc hàm F = {AB->CE, E->AB, C-> D}. Hỏi dạng chuẩn cao nhất của quan hệ này là gì?<br>
+3NF<br>
+1NF<br>
+2NF<br>
+BCNF<br>
+C<br>
+
+Chọn cụm từ thích hợp điền vào chỗ trống: Một sơ đồ quan hệ R (bảng) được gọi là ở ………. nếu và chỉ nếu toàn bộ các miền giá trị của các thuộc tính trong R (các cột có mặt trong bảng) đều chỉ chứa các giá trị nguyên tố (atomic) tức là những giá trị không phân chia được nữa.<br>
+Dạng chuẩn ba (3NF)<br>
+Dạng chuẩn 1 (1NF)<br>
+Dạng chuẩn Boye-Codd (BCNF)<br>
+Dạng chuẩn 2(2NF)<br>
+B<br>
+
+Chọn cụm từ thích hợp điền vào chỗ trống: Một quan hệ ở ……… nếu quan hệ đó: Là 2NF và các thuộc tính không khoá phải phụ thuộc trực tiếp vào khoá chính (không phụ thuộc bắc cầu vào khóa chính).<br>
+Dạng chuẩn Boye-Codd (BCNF)<br>
+Dạng chuẩn ba (3NF)<br>
+Dạng chuẩn 1 (1NF)<br>
+Dạng chuẩn 2(2NF)<br>
+B<br>
+
+Trong quan hệ dạng chuẩn 3NF:<br>
+Tồn tại các thuộc tính không khoá phụ thuộc vào khoá.<br>
+Tồn tại các thuộc tính không khoá phụ thuộc vào khoá và sơ đồ bắc cầu.<br>
+Không tồn tại các thuộc tính không khoá phụ thuộc đầy đủ vào khoá và sơ đồ bắc cầu.<br>
+Không tồn tại các thuộc tính không khoá phụ thuộc vào khoá.<br>
+C<br>
+
+Cho lược đồ R = <U, F>, với U = {ABCDEGH} và F = {A→ BC, BE → G, E → D, D → G, A → B, AG → BC}. Tìm phụ thuộc hàm F tối thiểu (phủ tối thiểu)?<br>
+{A→B, A→C, E→D, D→G}<br>
+{A→B, A→C, A→D, D→G}<br>
+{A→B, A→C, B→D, D→G}<br>
+{A→B, A→C, E→D, A→G}<br>
+A<br>
+
+Chọn cụm từ thích hợp điền vào chỗ trống: Một quan hệ R được gọi là ở ………. nếu quan hệ đó: Là 1NF và mọi thuộc tính không khoá của R phải phụ thuộc hàm đầy đủ vào khoá chính.<br>
+Dạng chuẩn 1 (1NF)<br>
+Dạng chuẩn ba (3NF)<br>
+Dạng chuẩn 2(2NF)<br>
+Dạng chuẩn Boye-Codd (BCNF)<br>
+C<br>
+
+Cho lược đồ quan hệ R = (U, F) với U= {A,B,C,D,E,G,H} và F= {AB→C, D→EG, ACD→B, C→A, BE→C, CE→AG, BC→D, CG→BD, G→ H}. Tìm (DE)+<br>
+CDEGH<br>
+DEGH<br>
+CDEH<br>
+ADEGH<br>
+B<br>
+
+Chọn cụm từ thích hợp điền vào chỗ trống: Một lược đồ quan hệ R = <U,F> với tập thuộc tính U và tập phụ thuộc hàm F được gọi là ………. nếu uX X U, A X, X A F+ thì X chứa khoá của R (X là một siêu khoá).<br>
+Dạng chuẩn ba (3NF)<br>
+Dạng chuẩn 2(2NF)<br>
+Dạng chuẩn Boye-Codd (BCNF)<br>
+Dạng chuẩn 1 (1NF)<br>
+C<br>
+
+Quan hệ 1NF không thể chấp nhận được trong quá trình tìm kiếm, vì:<br>
+Có quá nhiều phụ thuộc hàm trong nó<br>
+Khi thao tác các phép lưu trữ thường xuất hiện dị thường thông tin<br>
+Cấu trúc biểu diễn dữ liệu phức tạp<br>
+Không đảm bảo tính toàn vẹn dữ liệU<br>
+B<br>
+
+Lược đồ quan hệ SINHVIEN dưới đây không phải ở dạng chuẩn 1NF, vì sao? SINHVIEN(MSSV, HTEN, QQUAN, SOTHICH)<br>
+Không có thuộc tính khóa ngoại<br>
+Không có thuộc tính khóa chính<br>
+Có chứa thuộc tính không phải thuộc tính đơn<br>
+Tất cả các thuộc tính đều là thuộc tính đơn<br>
+C<br>
+
+Cho lược đồ quan hệ R = <U,F> với U = {A, B, C, D, E, I} và F = {BC -> DE, BE -> C, BI -> A, CE -> I}. Chọn khẳng định đúng<br>
+BC -> A thuộc F+<br>
+BC -> AA thuộc F+<br>
+BC -> A không thuộc F+<br>
+BC -> AD không thuộc F+<br>
+A<br>
+
+Khóa ngoại là gì?<br>
+Một tập K được gọi là khóa ngoại của lược đồ quan hệ R nếu nó không phải là khóa chính của R nhưng nó lại là khóa chính của một lược đồ quan hệ khác.<br>
+Một tập K được gọi là khóa ngoại của lược đồ quan hệ R nếu nó là khóa chính của R và nó cũng là khóa chính của một lược đồ quan hệ khác.<br>
+Một tập K được gọi là khóa ngoại của lược đồ quan hệ R nếu nó không phải là khóa chính của Rvà không là khóa chính của một lược đồ quan hệ khác.<br>
+Một tập K được gọi là khóa ngoại của lược đồ quan hệ R nếu nó không phải là khóa phụ của R nhưng nó lại là khóa phụ của một lược đồ quan hệ khác.<br>
+A<br>
+
+Khi nào thì 2 phụ thuộc hàm tương đương?<br>
+Khi 2 phụ thuộc hàm đó lồng lẫn nhau<br>
+Khi 2 phụ thuộc hàm đó phủ lẫn nhau<br>
+Khi 2 phụ thuộc hàm đó phụ lẫn nhau<br>
+Khi 2 phụ thuộc hàm đó không phủ lẫn nhau<br>
+B<br>
+
+Cho lược đồ quan hệ R với U= {ABCDE} và tập phụ thuộc hàm F = {AB->CE, E->AB, C-> D}. Hỏi dạng chuẩn cao nhất của quan hệ này là gì?<br>
+1NF<br>
+2NF<br>
+3NF<br>
+BCNF<br>
+B<br>
+
+Chọn cụm từ thích hợp điền vào chỗ trống: Một sơ đồ quan hệ R (bảng) được gọi là ở ………. nếu và chỉ nếu toàn bộ các miền giá trị của các thuộc tính trong R (các cột có mặt trong bảng) đều chỉ chứa các giá trị nguyên tố (atomic) tức là những giá trị không phân chia được nữa.<br>
+dạng chuẩn 1 (1NF)<br>
+dạng chuẩn 2(2NF)<br>
+dạng chuẩn ba (3NF)<br>
+Dạng chuẩn Boye-Codd (BCNF)<br>
+A<br>
+
+Cho lược đồ quan hệ R = (U, F) với U= {A,B,C,D,E,G,H} và F= {AB→C, D→EG, ACD→B, C→A, BE→C, CE→AG, BC→D, CG→BD, G→ H}. Tìm (H)+<br>
+H<br>
+ABCD<br>
+ABCDEH<br>
+AEH<br>
+A<br>
+
+Cho lược đồ quan hệ R = (U, F) với U= {A,B,C,D,E,G,H} và F= {AB→C, D→EG, ACD→B, C→A, BE→C, CE→AG, BC→D, CG→BD, G→ H}. Tìm (BEG)+<br>
+ACD<br>
+ABCD<br>
+ABCDEGH<br>
+ABEGH<br>
+C<br>
+
+Cho lược đồ quan hệ R = (U, F) với U= {A,B,C,D,E,G,H} và F= {AB→C, D→EG, ACD→B, C→A, BE→C, CE→AG, BC→D, CG→BD, G→ H}. Tìm (BCE)+<br>
+ABCE<br>
+ABCD<br>
+ABCDEGH<br>
+BCD<br>
+C<br>
+
+Cho lược đồ quan hệ R = (U, F) với U= {A,B,C,D,E,G,H} và F= {AB→C, D→EG, ACD→B, C→A, BE→C, CE→AG, BC→D, CG→BD, G→ H}. Tìm (A)+<br>
+B<br>
+A<br>
+ABCDEGH<br>
+C<br>
+B<br>
+
+Cho lược đồ quan hệ R = (U, F) với U= {A,B,C,D,E,G,H} và F= {AB→C, D→EG, ACD→B, C→A, BE→C, CE→AG, BC→D, CG→BD, G→ H}. Tìm (E)+<br>
+E<br>
+AB<br>
+ABCDEGH<br>
+D<br>
+A<br>
+
+Cho lược đồ quan hệ R = (U, F) với U= {A,B,C,D,E,G,H} và F= {AB→C, D→EG, ACD→B, C→A, BE→C, CE→AG, BC→D, CG→BD, G→ H}. Tìm (EG)+<br>
+EGH<br>
+ABCD<br>
+ABCDEGH<br>
+ADH<br>
+A<br>
+
+
