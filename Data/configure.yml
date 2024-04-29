@@ -400,6 +400,20 @@ LLTT1101:
       Name: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh
       Time: 3000
       Title: Chương 2
+    3:
+      FileName: deLLTT1101_C3.txt
+      HasExplanation: false
+      NQuestions: 30
+      Name: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội
+      Time: 3000
+      Title: Chương 3
+    4:
+      FileName: deLLTT1101_C4.txt
+      HasExplanation: false
+      NQuestions: 30
+      Name: Tư tưởng Hồ Chí Minh về Đảng Cộng sản Việt Nam và nhà nước của nhân dân, do nhân dân, vì nhân dân
+      Time: 3000
+      Title: Chương 4
   Enable: true
   Name: Tư tưởng Hồ Chí Minh
   Type: Đại cương
