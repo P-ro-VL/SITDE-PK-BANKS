@@ -414,6 +414,20 @@ LLTT1101:
       Name: Tư tưởng Hồ Chí Minh về Đảng Cộng sản Việt Nam và nhà nước của nhân dân, do nhân dân, vì nhân dân
       Time: 3000
       Title: Chương 4
+    5:
+      FileName: deLLTT1101_C5.txt
+      HasExplanation: false
+      NQuestions: 30
+      Name: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế
+      Time: 3000
+      Title: Chương 5
+    6:
+      FileName: deLLTT1101_C6.txt
+      HasExplanation: false
+      NQuestions: 30
+      Name: Tư tưởng Hồ Chí Minh về văn hoá, đạo đức, con người
+      Time: 3000
+      Title: Chương 6
   Enable: true
   Name: Tư tưởng Hồ Chí Minh
   Type: Đại cương
