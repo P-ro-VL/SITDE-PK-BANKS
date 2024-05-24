@@ -233,8 +233,8 @@ void main()
     printf("%d",*(p+2));
 }<br>
 Chương trình báo lỗi<br>
-11<br>
-10<br>
+33<br>
+2<br>
 Một giá trị địa chỉ<br>
 b<br>
 
