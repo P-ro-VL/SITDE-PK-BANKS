@@ -773,20 +773,26 @@ QLKT1101:
   URL:
     Thumbnail: https://davidsummertonconsulting.files.wordpress.com/2020/01/management-group.jpg
     ReviewProposal: https://drive.google.com/file/d/1IBxgGzw2ORE8y-uhYRgZMtO6fmnTryXD/view
-CNTT1112:
+LLDL1102:
   Chapters:
-    1:
-      FileName: deCNTT1112_C1.txt
+    0:
+      FileName: deLLDL1102_C0.txt
       HasExplanation: false
       NQuestions: 30
-      Name: Giới thiệu chung
+      Name: Chương nhập môn
+      Time: 3600
+      Title: Chương 0
+    1:
+      FileName: deLLDL1102_C1.txt
+      HasExplanation: false
+      NQuestions: 30
+      Name: Đảng ra đời và lãnh đạo đấu tranh giành chính quyền
       Time: 3600
       Title: Chương 1
   Enable: true
-  Name: Kiến trúc máy tính
+  Name: Lịch sử Đảng Cộng sản Việt Nam
   Type: Chuyên ngành
-  Format: Essay
-  NCredits: '3'
+  NCredits: '2'
   URL:
-    Thumbnail: https://www.bu.edu/caadlab/img/Computer_Arch.d3c5a6a2.jpg
-    ReviewProposal: https://drive.google.com/file/d/1IBxgGzw2ORE8y-uhYRgZMtO6fmnTryXD/view
+    Thumbnail: https://huyenuygocongtay.vn/uploads/news/2024_01/thanh-lap-dang.jpg
+    ReviewProposal: https://drive.google.com/file/d/190WNzOug4uRsHrc6hF3LR3v6FjdQOcNA/view
