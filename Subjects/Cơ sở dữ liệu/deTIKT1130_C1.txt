@@ -277,3 +277,104 @@ Một số ràng buộc có thể được khai báo với HQT và HQT sẽ tự
 Cả 2 đều đúng<br>
 Cả 2 đều sai<br>
 C<br>
+
+Mô hình dữ liệu quan hệ được đề xuất bởi ai?<br>E. F. Codd<br>Charles Bachman<br>Edgar Frank<br>Peter Chen<br>A<br>
+Mô hình dữ liệu quan hệ được đề xuất bởi ai?<br>E. F. Codd<br>Charles Bachman<br>Edgar Frank<br>Peter Chen<br>A<br>
+Mô hình dữ liệu quan hệ được đề xuất bởi ai?<br>E. F. Codd<br>Charles Bachman<br>Edgar Frank<br>Peter Chen<br>A<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Trong mô hình dữ liệu quan hệ, hàng trong bảng gọi là gì?<br>Bộ<br>Thuộc tính<br>Miền<br>Khóa<br>A<br>
+Ngôn ngữ SQL thuộc loại ngôn ngữ nào?<br>DDL<br>DML<br>DCL<br>Ngôn ngữ truy vấn có cấu trúc<br>D<br>
+Trong mô hình dữ liệu quan hệ, hàng trong bảng gọi là gì?<br>Bộ<br>Thuộc tính<br>Miền<br>Khóa<br>A<br>
+Mô hình dữ liệu quan hệ được đề xuất bởi ai?<br>E. F. Codd<br>Charles Bachman<br>Edgar Frank<br>Peter Chen<br>A<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Trong mô hình dữ liệu quan hệ, hàng trong bảng gọi là gì?<br>Bộ<br>Thuộc tính<br>Miền<br>Khóa<br>A<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Mô hình dữ liệu quan hệ được đề xuất bởi ai?<br>E. F. Codd<br>Charles Bachman<br>Edgar Frank<br>Peter Chen<br>A<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Mô hình dữ liệu quan hệ được đề xuất bởi ai?<br>E. F. Codd<br>Charles Bachman<br>Edgar Frank<br>Peter Chen<br>A<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Mô hình dữ liệu quan hệ được đề xuất bởi ai?<br>E. F. Codd<br>Charles Bachman<br>Edgar Frank<br>Peter Chen<br>A<br>
+Trong mô hình dữ liệu quan hệ, hàng trong bảng gọi là gì?<br>Bộ<br>Thuộc tính<br>Miền<br>Khóa<br>A<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Trong mô hình dữ liệu quan hệ, hàng trong bảng gọi là gì?<br>Bộ<br>Thuộc tính<br>Miền<br>Khóa<br>A<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Mô hình dữ liệu quan hệ được đề xuất bởi ai?<br>E. F. Codd<br>Charles Bachman<br>Edgar Frank<br>Peter Chen<br>A<br>
+Mô hình dữ liệu quan hệ được đề xuất bởi ai?<br>E. F. Codd<br>Charles Bachman<br>Edgar Frank<br>Peter Chen<br>A<br>
+Trong mô hình dữ liệu quan hệ, hàng trong bảng gọi là gì?<br>Bộ<br>Thuộc tính<br>Miền<br>Khóa<br>A<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Ngôn ngữ SQL thuộc loại ngôn ngữ nào?<br>DDL<br>DML<br>DCL<br>Ngôn ngữ truy vấn có cấu trúc<br>D<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Ngôn ngữ SQL thuộc loại ngôn ngữ nào?<br>DDL<br>DML<br>DCL<br>Ngôn ngữ truy vấn có cấu trúc<br>D<br>
+Mô hình dữ liệu quan hệ được đề xuất bởi ai?<br>E. F. Codd<br>Charles Bachman<br>Edgar Frank<br>Peter Chen<br>A<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Mô hình dữ liệu quan hệ được đề xuất bởi ai?<br>E. F. Codd<br>Charles Bachman<br>Edgar Frank<br>Peter Chen<br>A<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Trong mô hình dữ liệu quan hệ, hàng trong bảng gọi là gì?<br>Bộ<br>Thuộc tính<br>Miền<br>Khóa<br>A<br>
+Trong mô hình dữ liệu quan hệ, hàng trong bảng gọi là gì?<br>Bộ<br>Thuộc tính<br>Miền<br>Khóa<br>A<br>
+Mô hình dữ liệu quan hệ được đề xuất bởi ai?<br>E. F. Codd<br>Charles Bachman<br>Edgar Frank<br>Peter Chen<br>A<br>
+Ngôn ngữ SQL thuộc loại ngôn ngữ nào?<br>DDL<br>DML<br>DCL<br>Ngôn ngữ truy vấn có cấu trúc<br>D<br>
+Trong mô hình dữ liệu quan hệ, hàng trong bảng gọi là gì?<br>Bộ<br>Thuộc tính<br>Miền<br>Khóa<br>A<br>
+Ngôn ngữ SQL thuộc loại ngôn ngữ nào?<br>DDL<br>DML<br>DCL<br>Ngôn ngữ truy vấn có cấu trúc<br>D<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Mô hình dữ liệu quan hệ được đề xuất bởi ai?<br>E. F. Codd<br>Charles Bachman<br>Edgar Frank<br>Peter Chen<br>A<br>
+Mô hình dữ liệu quan hệ được đề xuất bởi ai?<br>E. F. Codd<br>Charles Bachman<br>Edgar Frank<br>Peter Chen<br>A<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Trong mô hình dữ liệu quan hệ, hàng trong bảng gọi là gì?<br>Bộ<br>Thuộc tính<br>Miền<br>Khóa<br>A<br>
+Mô hình dữ liệu quan hệ được đề xuất bởi ai?<br>E. F. Codd<br>Charles Bachman<br>Edgar Frank<br>Peter Chen<br>A<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Ngôn ngữ SQL thuộc loại ngôn ngữ nào?<br>DDL<br>DML<br>DCL<br>Ngôn ngữ truy vấn có cấu trúc<br>D<br>
+Ngôn ngữ SQL thuộc loại ngôn ngữ nào?<br>DDL<br>DML<br>DCL<br>Ngôn ngữ truy vấn có cấu trúc<br>D<br>
+Mô hình dữ liệu quan hệ được đề xuất bởi ai?<br>E. F. Codd<br>Charles Bachman<br>Edgar Frank<br>Peter Chen<br>A<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Mô hình dữ liệu quan hệ được đề xuất bởi ai?<br>E. F. Codd<br>Charles Bachman<br>Edgar Frank<br>Peter Chen<br>A<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Mô hình dữ liệu quan hệ được đề xuất bởi ai?<br>E. F. Codd<br>Charles Bachman<br>Edgar Frank<br>Peter Chen<br>A<br>
+Trong mô hình dữ liệu quan hệ, hàng trong bảng gọi là gì?<br>Bộ<br>Thuộc tính<br>Miền<br>Khóa<br>A<br>
+Ngôn ngữ SQL thuộc loại ngôn ngữ nào?<br>DDL<br>DML<br>DCL<br>Ngôn ngữ truy vấn có cấu trúc<br>D<br>
+Mô hình dữ liệu quan hệ được đề xuất bởi ai?<br>E. F. Codd<br>Charles Bachman<br>Edgar Frank<br>Peter Chen<br>A<br>
+Ngôn ngữ SQL thuộc loại ngôn ngữ nào?<br>DDL<br>DML<br>DCL<br>Ngôn ngữ truy vấn có cấu trúc<br>D<br>
+Ngôn ngữ SQL thuộc loại ngôn ngữ nào?<br>DDL<br>DML<br>DCL<br>Ngôn ngữ truy vấn có cấu trúc<br>D<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Trong mô hình dữ liệu quan hệ, hàng trong bảng gọi là gì?<br>Bộ<br>Thuộc tính<br>Miền<br>Khóa<br>A<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Mô hình dữ liệu quan hệ được đề xuất bởi ai?<br>E. F. Codd<br>Charles Bachman<br>Edgar Frank<br>Peter Chen<br>A<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Ngôn ngữ SQL thuộc loại ngôn ngữ nào?<br>DDL<br>DML<br>DCL<br>Ngôn ngữ truy vấn có cấu trúc<br>D<br>
+Ngôn ngữ SQL thuộc loại ngôn ngữ nào?<br>DDL<br>DML<br>DCL<br>Ngôn ngữ truy vấn có cấu trúc<br>D<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Trong mô hình dữ liệu quan hệ, hàng trong bảng gọi là gì?<br>Bộ<br>Thuộc tính<br>Miền<br>Khóa<br>A<br>
+Trong mô hình dữ liệu quan hệ, hàng trong bảng gọi là gì?<br>Bộ<br>Thuộc tính<br>Miền<br>Khóa<br>A<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Ngôn ngữ SQL thuộc loại ngôn ngữ nào?<br>DDL<br>DML<br>DCL<br>Ngôn ngữ truy vấn có cấu trúc<br>D<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Trong mô hình dữ liệu quan hệ, hàng trong bảng gọi là gì?<br>Bộ<br>Thuộc tính<br>Miền<br>Khóa<br>A<br>
+Trong mô hình dữ liệu quan hệ, hàng trong bảng gọi là gì?<br>Bộ<br>Thuộc tính<br>Miền<br>Khóa<br>A<br>
+Mô hình dữ liệu quan hệ được đề xuất bởi ai?<br>E. F. Codd<br>Charles Bachman<br>Edgar Frank<br>Peter Chen<br>A<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Ngôn ngữ SQL thuộc loại ngôn ngữ nào?<br>DDL<br>DML<br>DCL<br>Ngôn ngữ truy vấn có cấu trúc<br>D<br>
+Trong mô hình dữ liệu quan hệ, hàng trong bảng gọi là gì?<br>Bộ<br>Thuộc tính<br>Miền<br>Khóa<br>A<br>
+Dữ liệu bán cấu trúc là ví dụ của loại dữ liệu nào sau đây?<br>Video<br>Email<br>Ảnh<br>Âm thanh<br>B<br>
+Trong mô hình dữ liệu quan hệ, hàng trong bảng gọi là gì?<br>Bộ<br>Thuộc tính<br>Miền<br>Khóa<br>A<br>
+Khóa ngoại là gì?<br>Thuộc tính duy nhất trong bảng<br>Thuộc tính kết hợp nhiều bảng<br>Thuộc tính liên kết với khóa của bảng khác<br>Thuộc tính tự tăng<br>C<br>
+Trong mô hình dữ liệu quan hệ, hàng trong bảng gọi là gì?<br>Bộ<br>Thuộc tính<br>Miền<br>Khóa<br>A
