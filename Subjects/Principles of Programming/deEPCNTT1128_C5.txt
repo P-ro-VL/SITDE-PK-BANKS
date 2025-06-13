@@ -1,0 +1,514 @@
+Which of the following commands allows jumping to a previously labeled location?<br>
+break<br>
+continue<br>
+exit<br>
+goto<br>
+d<br>
+
+What comes after the keyword case and the value?<br>
+-<br>
+{<br>
+:<br>
+;<br>
+c<br>
+
+Which of the following commands allows stopping the control statement?<br>
+break<br>
+continue<br>
+goto<br>
+All three options above<br>
+d<br>
+
+The values after the keyword case must be:<br>
+array<br>
+constant expression<br>
+function call<br>
+variable<br>
+b<br>
+
+Which of the following statements checks whether the character variable ch is a letter?<br>
+if((('A' <= ch) || (ch <= 'Z')) && (('a' <=ch) || (ch <= 'z')))<br>
+if(('A'<= ch) && (ch <= 'z'))<br>
+if((('A'<= ch) && (ch <= 'Z')) &&  (('a' <=ch) && (ch <= 'z')))<br>
+if((('A' <= ch) && (ch <= 'Z')) ||  (('a' <=ch) && (ch <= 'z')))<br>
+d<br>
+
+Which of the following statements is FALSE regarding the if… else structure?<br>
+All statements using the if...else structure can be replaced by a conditional expression<br>
+After the conditional expression with the if keyword, a block statement can be used<br>
+if...else structures can be nested<br>
+After the else keyword, a block statement can be used<br>
+a<br>
+
+Which statement is correct?<br>
+The while statement performs the loop before checking the loop condition<br>
+The do...while statement checks the loop condition before executing<br>
+The while and do...while structures are used to perform a repeated task with a fixed number of times<br>
+The while statement checks the loop condition before executing<br>
+d<br>
+
+When will the code block after while (x<100) execute?<br>
+When x equals 100<br>
+When x is less than 100<br>
+When x is greater than 100<br>
+All of the above options are incorrect<br>
+b<br>
+
+What needs to be done to avoid falling through from one case to another?<br>
+end;<br>
+break;<br>
+stop;<br>
+; (semicolon)<br>
+b<br>
+
+Which of the following commands allows jumping out of a loop to any desired position?<br>
+goto<br>
+continue<br>
+break<br>
+None of the options are correct<br>
+a<br>
+
+Which one is not a loop structure?<br>
+repeat until<br>
+while<br>
+for<br>
+do while<br>
+a<br>
+
+Which sentence correctly presents the syntax of the if statement?<br>
+if expression<br>
+if (expression)<br>
+if {expression}<br>
+expression if<br>
+b<br>
+
+Which keyword includes unhandled possibilities?<br>
+contingency<br>
+all<br>
+default<br>
+other<br>
+c<br>
+
+The do...while loop is executed at least how many times?<br>
+Infinite<br>
+1<br>
+0<br>
+Variable<br>
+b<br>
+
+Which of the following statements is false about the for loop?<br>
+The for loop executes faster than the while loop<br>
+Any statement using a for loop can be replaced by a while loop and vice versa<br>
+for ( ; ; ) is an infinite loop<br>
+The statements inside the for loop may not be executed at all<br>
+a<br>
+
+Given the following program. Identify the syntax error in the above code if any:{br}{code}cpp
+int a = 5;
+switch(a): {
+case 1: printf("Hello");
+case 2: printf("Hi");
+case 3+2: printf("How are you?");
+case 5: printf("Good bye"); break;
+}
+<br>
+No break statement at the end of each case label<br>
+Case label must not use expression 3+2<br>
+Two case labels have the same value of 5<br>
+The above program has no syntax error<br>
+c<br>
+
+After the following program is executed, what is the value of variable c?{br}{code}cpp
+int a = 10, b = 20, c = 1;
+switch (a>b) {
+case 0: c=a; break;
+case 1: c=b; break;
+}<br>
+0<br>
+20<br>
+1<br>
+10<br>
+d<br>
+
+What is the output of the following program?{br}{code}cpp
+int a = 10;
+a = a/2;
+switch (a) {
+case 3: a+=2;
+case 4: a++; break;
+default: a--;
+printf("%d",a);
+}<br>
+5<br>
+4<br>
+6<br>
+7<br>
+b<br>
+
+After the following program is executed, what is the value of variable a?{br}{code}cpp
+int i, a = 0;
+for (i=0; i<10; i+=2)
+a=a+2;<br>
+9<br>
+10<br>
+18<br>
+20<br>
+b<br>
+
+What is the value of variable S after executing the following program? {br}{code}cpp
+int S, i;
+for (i=0; i<10; i++) S+=i;<br>
+0<br>
+45<br>
+55<br>
+Undefined<br>
+b<br>
+
+What is the output of the following program?{br}{code}cpp
+int a;
+for (a=65; a<69; a++)
+printf("%c ", a);<br>
+65 66 67 68<br>
+A B C D<br>
+a a a a<br>
+a b c d<br>
+b<br>
+
+What does the following code display on screen?{br}{code}cpp
+int i = 0;
+while (++i+1<=5) printf("%d",i);<br>
+12345<br>
+01234<br>
+123456<br>
+1234<br>
+d<br>
+
+What is the output of the following program?{br}{code}cpp
+int i = 0;
+while (++i<=5)
+printf("%d, ",i);<br>
+0, 1, 2, 3, 4, 5,<br>
+1, 2, 3, 4, 5,<br>
+1, 2, 3, 4, 5<br>
+1, 2, 3, 4, 5, 6<br>
+b<br>
+
+What is the result of the following program?{br}{code}cpp
+int S = 0, d = 0;
+while (d<10) {
+S+=d;
+d+=2;
+}
+printf("%d",S);<br>
+0<br>
+10<br>
+20<br>
+45<br>
+c<br>
+
+The program asks the user to enter a number n (0 <= n <= 100). If the input is invalid, prompt again until a valid number is entered. What should be filled in the blank (........) for the program to work properly?{br}{code}cpp
+int n;
+do {
+printf("Enter value of n such that 0 <= n <= 100: ");
+scanf("%d", &n);
+}
+….....................
+<br>
+if (n<0 || n>100);<br>
+while ((n<0)&&(n>100));<br>
+while (n>=0 || n<=100);<br>
+while (n<0 || n>100);<br>
+d<br>
+
+After executing the following program, what is the value of variable A?{br}{code}cpp
+int i, A = 0;
+for (i=0; i<100; i+=13) {
+A = A + 100;
+break;
+}<br>
+0<br>
+100<br>
+760<br>
+10000<br>
+b<br>
+
+What is the output of the following program?{br}{code}cpp
+int i = 'a';
+while (i<='z')
+{
+if (i=='a') continue;
+printf("%c",i);
+i+=1;
+}<br>
+Infinite loop<br>
+Display characters from a to z<br>
+Display characters from b to z<br>
+All other options are incorrect<br>
+d<br>
+
+What is the output of the following program?{br}{code}cpp
+int i = 0;
+while (i<10)
+{
+i=i+2;
+continue;
+printf("%d",i);
+}<br>
+%d %d %d %d %d<br>
+i i i i i<br>
+0 2 4 6 8<br>
+No output is shown on screen<br>
+d<br>
+
+What is the output of the following program?{br}{code}cpp
+int i = 0;
+while (i<10)
+{
+i++;
+if (i%2==0) break;
+printf("%d ",i);
+}<br>
+0 1 2 3 4 5 6 7 8 9 <br>
+0 2 4 6 8<br>
+1 3 5 7 9<br>
+1<br>
+d<br>
+
+What is the output of the following program?{br}{code}cpp
+int i;
+for (i=10; i>1; --i) {
+if (i%2) continue;
+printf("%3d",i);
+if (i==0) break;
+}<br>
+10 8 6 4 25<br>
+2 6 10 16 24<br>
+10 8 6 4 2<br>
+16 6 8 10 25<br>
+c<br>
+
+Given the following program:{br}{code}cpp
+char ch;
+x = 0;
+while (x<=255) {
+printf("ASCII code of character %c is %d\n", x,x);
+x++;
+}
+Which of the following statements is correct about the above program?<br>
+The above program loops infinitely<br>
+The above program prints characters and their ASCII codes<br>
+The above program has a syntax error: variable x not declared<br>
+The above program has a syntax error in using the while structure<br>
+c<br>
+
+What is the output of the following program?{br}{code}cpp
+#include <stdio.h>
+void main()
+{
+int i;
+for (i=2; i<=4; i+=2)
+printf("%3d",i);
+}<br>
+1 2 3 4<br>
+2 3 4<br>
+2 4<br>
+Program will not run<br>
+c<br>
+
+What is the output of the following program?{br}{code}cpp
+#include <stdio.h>
+void main()
+{
+int i;
+for (i=2; ; i++)
+printf("%3d",i);
+}<br>
+Infinite loop<br>
+2<br>
+1 2<br>
+Other result<br>
+a<br>
+
+What is the result of the following program?{br}{code}cpp
+#include <stdio.h>
+void main()
+{
+int i,j;
+for (i=1;i<4; i++)
+j=i;
+printf("%3d",j);
+}<br>
+1 2 3 4<br>
+4<br>
+3<br>
+Other result<br>
+c<br>
+
+Given the following program:{br}{code}cpp
+int n = 0;
+for (int i = 0; i<10; i+=4) n+=i;
+What is the value of variable n?<br>
+8<br>
+12<br>
+16<br>
+20<br>
+b<br>
+
+Which of the following statements is correct about the following program?{br}{code}cpp
+#include <stdio.h>
+int main()
+{
+int i=10, j=20;
+if (i=5) && if (j=10)
+printf("Have a nice day");
+return 0;
+}<br>
+Display: Have a nice day<br>
+No output<br>
+Syntax error in expression<br>
+Undeclared error<br>
+c<br>
+
+Below is a program that prints odd natural numbers less than 100, displaying 10 numbers per line. What statement should be placed in the blank (........) for the program to meet the requirement?{br}{code}cpp
+#include <stdio.h>
+void main()
+{
+int i;
+for (i=1; i<100; i++)
+{
+if (i%2 == 0)
+....................
+printf("%5d",i);
+if ((i+1)%20 == 0)
+printf("\n");
+<br>
+continue;<br>
+break;<br>
+return;<br>
+goto;<br>
+a<br>
+
+Below is a program that prints odd natural numbers less than 100, displaying 10 numbers per line. What number should be filled in the blank (........) for the program to meet the requirement?{br}{code}cpp
+#include <stdio.h>
+void main()
+{
+int i;
+for (i=1; i<100; i++)
+{
+if (i%2 == 0)
+continue;
+printf("%5d",i);
+if ((i+1)%...... == 0)
+printf("\n");
+<br>
+20<br>
+21<br>
+19<br>
+10<br>
+a<br>
+
+What is the result of the following program?{br}{code}cpp
+#include <stdio.h>
+void main()
+{
+int a = 40, b = 4;
+while (a!=b)
+{
+if (a>b) a = a - b;
+else b = b - a;
+}
+printf("%d",a);
+}<br>
+2<br>
+16<br>
+4<br>
+Other result<br>
+c<br>
+
+What is the result of the following program?{br}{code}cpp
+#include <stdio.h>
+void main()
+{
+int a = 40, b = 64;
+while (a!=b)
+{
+if (a>b) a = a - b;
+else b = b - a;
+}
+printf("%d",a);
+}<br>
+8<br>
+10<br>
+12<br>
+Other result<br>
+a<br>
+
+Which is the loop structure with a defined number of iterations?<br>
+if<br>
+for<br>
+while<br>
+do while<br>
+b<br>
+
+Among the following structure-changing commands, which one violates the rules of structured programming and reduces program reliability, making it difficult to maintain?<br>
+break<br>
+goto<br>
+return<br>
+continue<br>
+b<br>
+
+Which structure-changing commands can be used anywhere in the program?<br>
+return and continue<br>
+break and continue<br>
+return and goto<br>
+goto and break<br>
+c<br>
+
+Which structure-changing commands are used in conjunction with loop statements?<br>
+return and continue<br>
+break and continue<br>
+return and goto<br>
+goto and break<br>
+b<br>
+
+Which of the following statements is TRUE about the return command?<br>
+An expression is mandatory after the return command<br>
+The function will return only when it reaches the last return command<br>
+The return command can have multiple values with it<br>
+The return command can have a single value with it<br>
+d<br>
+
+The break statement is NOT used to:<br>
+End a case clause in a switch statement<br>
+Exit prematurely from a loop<br>
+Skip the execution of the statements following it in the loop body and start the next iteration of the loop<br>
+Immediately exit the loop and transfer control to the next statement outside the loop<br>
+c<br>
+
+The continue statement is used to:<br>
+End a case clause in a switch statement<br>
+Exit prematurely from a loop<br>
+Skip the execution of the statements following it in the loop body and start the next iteration of the loop<br>
+Immediately exit the loop and transfer control to the next statement outside the loop<br>
+c<br>
+
+Below is a program that inputs an integer n and prints n lines with stars (*) corresponding to the line number (Example: line 1 has 1 star, line 2 has 2 stars,... line n has n stars):
+Where should the printf("\n") statement be placed among the four positions (1), (2), (3), (4) for the program to work as required?
+{br}{code}cpp
+#include <stdio.h>  
+void main()  
+{  
+    int i, j, k;  
+    i = 0;  
+    printf("Cho biet so dong: "); scanf("%d", &i);  
+    (1);  
+    for (j = 0; j < i; j++)  
+    {  
+        for (k = 0; k <= j; k++)  
+            printf("*");  
+        (2)  
+    }  
+    (3)  
+}  
+(4)
+<br> (1)<br> (2)<br> (3)<br> (4)<br> b<br>

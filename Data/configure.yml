@@ -4,14 +4,14 @@ CNTT1116:
       FileName: deCNTT1116_C1.txt
       HasExplanation: false
       NQuestions: 50
-      Name: 'Tổng quan về Công nghệ thông tin '
+      Name: "Tổng quan về Công nghệ thông tin "
       Time: 3600
       Title: Chương 1
     2:
       FileName: deCNTT1116_C2.txt
       HasExplanation: false
       NQuestions: 50
-      Name: 'Biểu diễn dữ liệu và tổ chức của hệ thống máy tính '
+      Name: "Biểu diễn dữ liệu và tổ chức của hệ thống máy tính "
       Time: 3600
       Title: Chương 2
     3:
@@ -31,7 +31,7 @@ CNTT1116:
   Enable: true
   Name: Nhập môn Công nghệ thông tin
   Type: Đại cương
-  NCredits: '3'
+  NCredits: "3"
   URL:
     Thumbnail: https://erikseanblog.files.wordpress.com/2017/08/a-hologram-on-the-hand-of-a-businessman.jpg
     ReviewProposal: https://drive.google.com/file/d/1UgZe1yPhnlv1rqnCCP988SCGM3OZIHu7/view
@@ -89,7 +89,65 @@ CNTT1128:
   Enable: true
   Name: Cơ sở lập trình
   Type: Cơ sở ngành
-  NCredits: '3'
+  NCredits: "3"
+  URL:
+    Thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2t3Vr43_ZtB4ZvLXPFX6EQT0XFI8P0MXNTB80R2w9qf6e1G_4eFnp_7sePJ_lUMbnJm0&usqp=CAU
+    ReviewProposal: https://drive.google.com/file/d/1Ij8Oj5Il08eLglzuomU5PP9i_s7HUute/view
+CNTT1128:
+  Chapters:
+    1:
+      FileName: deEPCNTT1128_C1_3.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Lập trình C cơ bản
+      Time: 3600
+      Title: Chương 1
+    2:
+      FileName: deEPCNTT1128_C4.txt
+      HasExplanation: true
+      NQuestions: 40
+      Name: Input-Output in C
+      Time: 3600
+      Title: Chapter 4
+    3:
+      FileName: deEPCNTT1128_C5.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Programming Structures in C
+      Time: 3600
+      Title: Chapter 5
+    4:
+      FileName: deEPCNTT1128_C6.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Functions in C
+      Time: 3600
+      Title: Chapter 6
+    5:
+      FileName: deEPCNTT1128_C7.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Pointers in C
+      Time: 3600
+      Title: Chapter 7
+    6:
+      FileName: deEPCNTT1128_C8.txt
+      HasExplanation: false
+      NQuestions: 40
+      Name: Cấu trúc trong C
+      Time: 3600
+      Title: Chương 8
+    7:
+      FileName: deEPCNTT1128_C9.txt
+      HasExplanation: false
+      NQuestions: 30
+      Name: Thao tác trên tệp tin
+      Time: 3600
+      Title: Chương 9
+  Enable: true
+  Name: Principles of Programming
+  Type: Cơ sở ngành
+  NCredits: "3"
   URL:
     Thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2t3Vr43_ZtB4ZvLXPFX6EQT0XFI8P0MXNTB80R2w9qf6e1G_4eFnp_7sePJ_lUMbnJm0&usqp=CAU
     ReviewProposal: https://drive.google.com/file/d/1Ij8Oj5Il08eLglzuomU5PP9i_s7HUute/view
@@ -147,7 +205,7 @@ CNTT1182:
   Enable: true
   Name: Phương pháp tính
   Type: Cơ sở ngành
-  NCredits: '3'
+  NCredits: "3"
   URL:
     Thumbnail: https://pll.harvard.edu/sites/default/files/styles/16_9_medium/public/course/asset-v1_HarvardX%2BCalcAPL1x%2B2T2017%2Btype%40asset%2Bblock%40TITLE-Calculus-Applied-2120x1192-NO-SPOTLIGHT%202.png
     ReviewProposal: https://drive.google.com/file/d/1bZwdUxvSajfNsZPE3vb7aGjC2asf3Z1W/view
@@ -212,7 +270,7 @@ CNTT1191:
   Enable: true
   Name: Vật lý đại cương
   Type: Đại cương
-  NCredits: '3'
+  NCredits: "3"
   URL:
     Thumbnail: https://t4.ftcdn.net/jpg/02/14/56/75/360_F_214567514_hGbTMUq06pJIGKiXA248l43E3hU9Q08x.jpg
     ReviewProposal: https://docs.google.com/document/d/1-ebSFs2OucLue6q_fhQ5wlmaK0d0eRtX/
@@ -291,7 +349,7 @@ KHMA1101:
   Enable: true
   Name: Kinh tế vĩ mô
   Type: Đại cương
-  NCredits: '3'
+  NCredits: "3"
   URL:
     Thumbnail: https://www.domenzavrl.com/wp-content/uploads/2020/06/Macroeconomics.jpg
     ReviewProposal: https://drive.google.com/file/d/1AqncJPdtrdj45bNKrgT-pnXnVABZs58a/view
@@ -301,7 +359,7 @@ KHMI1101:
       FileName: deKHMI1101_C1_4.txt
       HasExplanation: false
       NQuestions: 40
-      Name: 'Mô hình cung cầu'
+      Name: "Mô hình cung cầu"
       Time: 3600
       Title: Chương 1-4
     2:
@@ -342,7 +400,7 @@ KHMI1101:
   Enable: true
   Name: Kinh tế vi mô
   Type: Đại cương
-  NCredits: '3'
+  NCredits: "3"
   URL:
     Thumbnail: https://cdn.corporatefinanceinstitute.com/assets/microeconomics2-1-1024x673.png
     ReviewProposal: https://drive.google.com/file/d/19Or3aD1nxTZjRB5ioQpKOFqJOOANiIsD/view
@@ -365,7 +423,7 @@ LLNL1105:
   Enable: true
   Name: Triết học Mác Lênin
   Type: Đại cương
-  NCredits: '3'
+  NCredits: "3"
   URL:
     Thumbnail: https://wp.thecollector.com/wp-content/uploads/2021/09/Epistemology-philosophy-knowledge.jpg
     ReviewProposal: https://docs.google.com/document/d/1W_VQKlTZ4NROW6Ka2cNB_QESkoSPQo8Qa_XdD0iZkV8/view
@@ -381,7 +439,7 @@ LLNL1107:
   Enable: true
   Name: Chủ nghĩa xã hội khoa học
   Type: Đại cương
-  NCredits: '2'
+  NCredits: "2"
   URL:
     Thumbnail: https://cdn.midjourney.com/cfce66d6-c958-44d2-af01-a06463f33103/0_3.webp
 LLTT1101:
@@ -431,7 +489,7 @@ LLTT1101:
   Enable: true
   Name: Tư tưởng Hồ Chí Minh
   Type: Đại cương
-  NCredits: '2'
+  NCredits: "2"
   URL:
     Thumbnail: https://namtuliem.hanoi.gov.vn/documents/3482731/6596754/1.jpg
     ReviewProposal: https://drive.google.com/file/d/1nII25o7h7l6J8bik-JUq-78-PoRYxGqM/view
@@ -468,7 +526,7 @@ LUCS1129:
   Enable: true
   Name: Pháp luật đại cương
   Type: Đại cương
-  NCredits: '3'
+  NCredits: "3"
   URL:
     Thumbnail: https://1.bp.blogspot.com/-ArD83QtnJzk/Xl4WaIeDb4I/AAAAAAAAAlc/vpsTs7v-q-MkhzuDoUOCRUSMorOrvaviACLcBGAsYHQ/s1600/khang%2Bcao%2Bkhang%2Ban%2B%25282%2529.jpg
     ReviewProposal: https://drive.google.com/file/d/1WDntw9Z61JRp3c1RbG2vN6-IKQCCfNl1/view?fbclid=IwAR2o94rVWBga1n7RU-9m3MFG-qWfg9TK4QfgxOFdY879z2FTsQru9UW3LGg
@@ -505,7 +563,7 @@ TIKT1130:
   Enable: true
   Name: Cơ sở dữ liệu
   Type: Cơ sở ngành
-  NCredits: '3'
+  NCredits: "3"
   URL:
     Thumbnail: https://dangerousactsfilm.com/wp-content/uploads/2023/03/co-so-du-lieu.jpg
     ReviewProposal: https://drive.google.com/file/d/1t-g7Pfywo9fRW8UeAsjBcsklR1EeJg3t/view
@@ -535,7 +593,7 @@ TOCB1101:
   Enable: true
   Name: Đại số
   Type: Đại cương
-  NCredits: '3'
+  NCredits: "3"
   URL:
     Thumbnail: https://media.istockphoto.com/id/1277395341/photo/matrix-and-a-felt-pen.jpg?s=612x612&w=0&k=20&c=zLUhNlazwj7mpw4-H3KbDtaYidssU6l0oQiAi2ctTzU=
     ReviewProposal: https://drive.google.com/file/d/1IW62cGnyXJTYG0IXChq46t6rAUpaXfwE/view
@@ -565,7 +623,7 @@ TOCB1107:
   Enable: true
   Name: Toán rời rạc
   Type: Cơ sở ngành
-  NCredits: '3'
+  NCredits: "3"
   URL:
     Thumbnail: https://img-b.udemycdn.com/course/480x270/614832_e3b0_4.jpg
     ReviewProposal: https://drive.google.com/file/d/1dC1C-JLQCGsKLP656BlgSRme1aEd5N3W/view
@@ -616,7 +674,7 @@ TIHT1101:
   Enable: true
   Name: Cấu trúc dữ liệu và giải thuật
   Type: Cơ sở ngành
-  NCredits: '3'
+  NCredits: "3"
   URL:
     Thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1f94aAcEz8RDQqdkGB81EqwI8_3WwEXwgKRuD17Kyc_rpGS102MVlN0QWN6Eo4GigaQU&usqp=CAU
     ReviewProposal: https://drive.google.com/file/d/1SzdIWFZgF4z7j-0ptHWscOAQ_XzW3Jal/view
@@ -667,7 +725,58 @@ TOKT1145:
   Enable: true
   Name: Lý thuyết xác suất và thống kê Toán
   Type: Đại cương
-  NCredits: '3'
+  NCredits: "3"
+  URL:
+    Thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHl_HPgfAu8CZg-GouuD_m4iQEUAsztTsOwJDCzuYdxl-Q-52VeA5dsefUQDlFNtmE_SU&usqp=CAU
+    ReviewProposal: https://drive.google.com/file/d/1DbbZUVU4DD-zizPwXEAO2EIrZyFf6HUC/view
+EPTOKT1145:
+  Chapters:
+    1:
+      FileName: deTOKT1145_C1.txt
+      HasExplanation: true
+      NQuestions: 30
+      Name: Descriptive statistics
+      Time: 3600
+      Title: Chương 1
+    2:
+      FileName: deTOKT1145_C2.txt
+      HasExplanation: false
+      NQuestions: 30
+      Name: Events and probabilities
+      Time: 3600
+      Title: Chương 2
+    6:
+      FileName: deTOKT1145_C6.txt
+      HasExplanation: false
+      NQuestions: 20
+      Name: Estimation of parameters
+      Time: 3600
+      Title: Chương 6
+    7:
+      FileName: deTOKT1145_C7.txt
+      HasExplanation: false
+      NQuestions: 30
+      Name: Hypothesis testing
+      Time: 3600
+      Title: Chương 7
+    8:
+      FileName: deTOKT1145_C8.txt
+      HasExplanation: true
+      NQuestions: 10
+      Name: Non-parametric tests
+      Time: 3600
+      Title: Chương 8
+    9:
+      FileName: deTOKT1145_C9.txt
+      HasExplanation: true
+      NQuestions: 30
+      Name: Analysis of variance
+      Time: 3600
+      Title: Chương 9
+  Enable: true
+  Name: EP. Probability and Statistics
+  Type: Đại cương
+  NCredits: "3"
   URL:
     Thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHl_HPgfAu8CZg-GouuD_m4iQEUAsztTsOwJDCzuYdxl-Q-52VeA5dsefUQDlFNtmE_SU&usqp=CAU
     ReviewProposal: https://drive.google.com/file/d/1DbbZUVU4DD-zizPwXEAO2EIrZyFf6HUC/view
@@ -711,7 +820,7 @@ LLNL1106:
   Enable: true
   Name: Kinh tế chính trị Mác Lênin
   Type: Đại cương
-  NCredits: '3'
+  NCredits: "3"
   URL:
     Thumbnail: https://img.vietnamfinance.vn/webp-jpg/700x0/upload/news/thanhhang/2018/7/27/vnf-kinh-te-chinh-tri.webp
     ReviewProposal: https://drive.google.com/drive/folders/1ziLaZyq-MgYh1UVX6nWJOCNdvppI1Z3d?usp=sharing
@@ -769,7 +878,7 @@ QLKT1101:
   Enable: true
   Name: Quản lý học
   Type: Cơ sở ngành
-  NCredits: '3'
+  NCredits: "3"
   URL:
     Thumbnail: https://davidsummertonconsulting.files.wordpress.com/2020/01/management-group.jpg
     ReviewProposal: https://drive.google.com/file/d/1IBxgGzw2ORE8y-uhYRgZMtO6fmnTryXD/view
@@ -792,7 +901,7 @@ LLDL1102:
   Enable: true
   Name: Lịch sử Đảng Cộng sản Việt Nam
   Type: Đại cương
-  NCredits: '2'
+  NCredits: "2"
   URL:
     Thumbnail: https://huyenuygocongtay.vn/uploads/news/2024_01/thanh-lap-dang.jpg
     ReviewProposal: https://drive.google.com/file/d/190WNzOug4uRsHrc6hF3LR3v6FjdQOcNA/view

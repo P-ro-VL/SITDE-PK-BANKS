@@ -1,0 +1,613 @@
+What is the output of the following program?
+{br}{code}cpp
+#include <stdio.h>
+#include <conio.h>
+void main()
+{
+clrscr();
+int i;
+for (i=1; i<=24; i++);
+printf(“\n%d”,i);
+getch();
+return;
+}<br>
+Print the numbers from 1 to 24 on the screen, one per line<br>
+Error while building the program<br>
+Other results<br>
+Print the numbers from 1 to 24 on the screen<br>
+c<br>
+
+What is the output of this program?
+{br}{code}cpp
+#include <stdio.h>
+int main()
+{
+int a=500, b=100, c;
+if (!a>=400)
+b=300;
+c=200;
+printf(“b=%d c=%d”, b, c);
+return 0;
+}<br>
+b=300 c=garbage<br>
+b=100 c=200<br>
+b=300 c=200<br>
+b=100 c=garbage<br>
+b<br>
+
+How many times does the following program loop output?
+{br}{code}cpp
+#include <stdio.h>
+int main()
+{
+int i=0;
+for(;i<=5;i++)
+{
+printf(“%d”,i);
+}
+printf(“ This is a C program.”);
+return 0;
+}<br>
+5<br>
+6<br>
+4<br>
+3<br>
+b<br>
+
+What will the following program print to the screen?
+{br}{code}cpp
+int i=0; char c=’c’;
+for (i=0; i<6; i=i+2) {
+c=c+i; printf (“%c ”,c);
+}<br>
+c e i o<br>
+c e i<br>
+e i o<br>
+All of the above answers are incorrect<br>
+b<br>
+
+What will the following program print to the screen?
+{br}{code}cpp
+void main (){
+int a=1, n=0;
+while (n<10) {a++;}
+printf (“a=%d”,a);
+}<br>
+a=10<br>
+The program loops infinitely and does not stop<br>
+a=a<br>
+a=1<br>
+b<br>
+
+How many times is the phrase “Bo mon ICT” printed in the following program:
+{br}{code}cpp
+#include <stdio.h>
+int main()
+{
+int x;
+for (x=-1; x<=10; x++)
+{
+if (x<5) continue;
+else
+break;
+printf(“Bo mon ICT”);
+}
+return 0;
+}<br>
+11 times<br>
+Unspecified<br>
+0 times<br>
+10 times<br>
+c<br>
+
+Given a program written in the C programming language below. Point out the syntax error of the program if any?:
+{br}{code}cpp
+int P=10;
+switch (P) {
+case 10: printf(“Case 1”);
+case 20: printf(“Case 2”); break;
+case P: printf(“Case 2”); break;
+}
+
+<br>
+No default label<br>
+The case label P uses a value that is not a constant<br>
+The above program has no syntax errors<br>
+No break statement at the end of each case label<br>
+b<br>
+
+Fill in the blanks to complete the following program:
+{br}{code}cpp
+#include <stdio.h>
+void main()
+{
+int a, b, max;
+printf (“Enter the values ​​of a and b: ”);
+scanf(“%d %d”, &a, &b);
+if (.....) max=a;
+else max=b;
+printf(“The largest number in the two numbers %d and %d is %d”, a, b, max);
+}<br>
+a<b<br>
+a>b<br>
+a!=b<br>
+a=b<br>
+b<br>
+
+What will be the output of the program?
+{br}{code}cpp
+#include <stdio.h>
+int main()
+{
+short int i=0;
+for(i<=5 && i>=-1;++i;i>0)
+printf(“%u”,i);
+return 0;
+}<br>
+0, 1, 2, 3, 4, 5<br>
+No output<br>
+Infinite loop<br>
+Expression syntax error<br>
+c<br>
+
+What will be the output of the program?
+{br}{code}cpp
+#include <stdio.h>
+int main()
+{
+unsigned int i=65535;
+while (i++ != 0)
+printf(“%d”,++i);
+printf(“”);
+return 0;
+}<br>
+No output<br>
+0 1 2 … 32767 -32766 -32765 … -1 0<br>
+Infinite loop<br>
+0 1 2 …. 65535<br>
+c<br>
+
+What is the output of the following program?
+{br}{code}cpp
+#include <stdio.h>
+void main()
+{
+int i=1, k=0;
+for (; i<5; i++) k++;
+printf(“%d”,k);
+}<br>
+Infinite loop<br>
+5<br>
+4<br>
+0<br>
+c<br>
+
+What is the result of the following program?
+{br}{code}cpp
+#include <stdio.h>
+void main()
+{
+int i,j;
+for (i=1; i<4; i++)
+j=i;
+printf(“%3d”,j);
+}<br>
+1 2 3 4<br>
+3<br>
+Other results<br>
+4<br>
+b<br>
+
+Given a program written in the C programming language as follows. Which of the following statements is correct about the above program?:
+{br}{code}cpp
+char ch;
+x=0;
+while(x<=255){
+printf(“The ASCII code of character %c is %d\n”, x, x);
+x++;
+}
+<br>
+The above program prints the characters and their ASCII codes<br>
+The above program has a syntax error using the while construct<br>
+The above program loops infinitely<br>
+The above program has a syntax error not declaring x<br>
+d<br>
+
+What is the output of this program?
+{br}{code}cpp
+#include <stdio.h>
+int main()
+{
+char j=1;
+while (j<5)
+{
+printf(“%d,”,j);
+j=j+1;
+}
+printf(“ “);
+return 0;
+}<br>
+1 2 3 … 127 128 0 1 2 3 …. infinite times<br>
+1 2 3 … 127<br>
+1,2,3,4,<br>
+1 2 3 … 255<br>
+c<br>
+
+What is the output of this program?
+{br}{code}cpp
+#include <stdio.h>
+int main()
+{
+int a=300, b, c;
+if (a>=400)
+b=300;
+c=200;
+printf(“%d, %d, %d”,a, b, c);
+return 0;
+}<br>
+300, garbage, 200<br>
+300, 300, garbage<br>
+garbage, 300, 200<br>
+300, 300, 200<br>
+a<br>
+
+What is the output of the following program?
+{br}{code}cpp
+#include <stdio.h>
+void main()
+{
+int a=40, b=4;
+while(a!=b)
+if (a>b) a=a-b;
+else b=b-a;
+printf(“%d”,a);
+}<br>
+4<br>
+Other results<br>
+16<br>
+2<br>
+a<br>
+
+What is the output of this program?
+{br}{code}cpp
+#include <stdio.h>
+int main()
+{
+char ch;
+if(ch=printf(“”))
+printf(“Important”);
+else
+printf(“Not successful”);
+return 0;
+}<br>
+Not successful<br>
+Important<br>
+No output<br>
+a<br>
+
+What is the output of this program?
+{br}{code}cpp
+#include <stdio.h>
+int main()
+{
+int x=3;
+float y=3.0;
+if (x==y)
+printf(“x and y are equal”);
+else
+printf(“x and y are not equal”);
+return 0;
+}<br>
+x and y are equal<br>
+x and y are not equal<br>
+Unpredictable<br>
+No output<br>
+a<br>
+
+What is the output of the following program?
+{br}{code}cpp
+#include <stdio.h>
+void main()
+{
+int i,k;
+for(i=1; ; i++) k=5;
+printf(“%d”,i);
+}<br>
+Other results<br>
+5<br>
+0<br>
+Infinite loop<br>
+d<br>
+
+What is the final value of x when the following code is run?
+{br}{code}cpp
+int x;
+for (x=0; x<10; x++) {}<br>
+1<br>
+9<br>
+0<br>
+10<br>
+d<br>
+
+Given the following function. Which of the following is a valid function call (assuming the function exists)?<br>
+funct x, y;<br>
+int funct();<br>
+funct;<br>
+funct();<br>
+d<br>
+
+Which is NOT a valid prototype?<br>
+double funct(char x)<br>
+void funct();<br>
+char x();<br>
+int funct(char x, char y);<br>
+a<br>
+
+If a function is called before it is defined, what is the condition:<br>
+The input type of the function must be of type void<br>
+Before calling the function it must be declared<br>
+The function returns only boolean data type<br>
+The return type of the function must be void<br>
+b<br>
+
+Given the function declaration. Which statement should be used to call the showValue() function with parameter 5?:{br}{code}cpp
+void showValue(int quatity);
+<br>
+showValue(5);<br>
+showValue(int 5);<br>
+quantity = showValue(int 5);<br>
+quantity = showValue(5);<br>
+a<br>
+
+Declare a function to sum the elements in an array of integers (int) below, which declaration is correct?<br>
+void Sum(int a[]);<br>
+long Sum (int *a);<br>
+void Sum(int a[], int n);<br>
+All 3 options are incorrect<br>
+d<br>
+
+Choose one FALSE statement when talking about functions?<br>
+A function has at most one return value<br>
+The pair of parentheses () is required after the function name, regardless of whether the function has arguments or not<br>
+There must be a semicolon after the function definition<br>
+A program can have more than one function<br>
+c<br>
+
+Parameters used in the statement What is a function declaration called?<br>
+Formal parameters<br>
+Formal parameters and actual parameters<br>
+Existing parameters<br>
+Formal parameters or actual parameters<br>
+a<br>
+
+Return type of function with prototype: int func (char x, float v, double t); What is it?<br>
+int<br>
+float<br>
+double<br>
+char<br>
+a<br>
+
+If a function has multiple parameters, what should be used to separate them?<br>
+Space<br>
+Colon (:)<br>
+Semicolon (;)<br>
+Comma (,)<br>
+d<br>
+
+Declare a function to find the largest value in an array of real numbers (long) below, which declaration is correct?<br>
+void Max(long a[], int n);<br>
+long Max(long *a, int n);<br>
+void Max(long *a);<br>
+long Max(long *a[]);<br>
+b<br>
+
+When the return data type of the function is not declared, the C compiler will implicitly understand what the return data type of the function is?<br>
+Type void<br>
+Type double<br>
+Type int<br>
+Type long<br>
+c<br>
+
+Choose a TRUE statement about functions?<br>
+A function has only one return value<br>
+A function has at least one return value<br>
+A function has at most one return value<br>
+A function can have many return values<br>
+c<br>
+
+Choose a FALSE statement?<br>
+A function can have one, more, or no parameters<br>
+A function can have many parameters<br>
+A function can have no parameters<br>
+A function must have at least one parameter<br>
+d<br>
+
+What are the parameters provided to a function during execution called?<br>
+Formal parameters and actual parameters<br>
+Formal parameters and actual parameters<br>
+Parameters real<br>
+Formal parameter or actual parameter<br>
+c<br>
+
+Which of the following is a full function?<br>
+void funct(int) {printf( "Hello");<br>
+void funct(x) {printf( "Hello" );};<br>
+int funct();<br>
+void funct() {printf("Hello");};<br>
+d<br>
+
+What is a variable declared inside a function called?<br>
+Formal parameter<br>
+Global variable<br>
+Exact parameter<br>
+Local variable<br>
+d<br>
+
+What is a variable declared outside all functions called?<br>
+Global variable<br>
+Local variable<br>
+Exact parameter<br>
+Formal parameter <br>
+a<br>
+
+Which is an INVALID function name? rule?<br>
+_giai_thua<br>
+giai_thua<br>
+giai_thua<br>
+giaithua<br>
+b<br>
+
+To declare a function to check whether an array is increasing or not, which declaration do we use below?<br>
+long CheckAsc(int *S);<br>
+int CheckAsc(int *a, int n);<br>
+double CheckAsc(int S[], int n);<br>
+void CheckAsc(int a[], int n);<br>
+b<br>
+
+Choose the correct option to fill in the following statement: A function is a block of code….....<br>
+only runs when it is called<br>
+always runs regardless of whether it is called or not<br>
+can run without being called<br>
+does not run if called inside another function<br>
+a<br>
+
+void func(int a)
+The value that the above function returns is <br>
+An integer<br>
+A real number<br>
+A character<br>
+The function does not return any value<br>
+d<br>
+
+Choose the most correct option to fill in the sentence:
+In C, the return data type of the function….. <br>
+can be any data type, except array data type<br>
+can be any data type<br>
+must be a built-in data type<br>
+can be a built-in data type or a user-defined data type<br>
+a<br>
+
+The parameter of the function….....<br>
+Contains the input data provided to the function<br>
+Contains the output data that the function calculates<br>
+Both A and B are correct<br>
+There is no correct answer<br>
+c<br>
+
+What is the result of the following program?
+{br}{code}cpp
+#include <stdio.h>
+void swap(int *a, int *b)
+{ 
+int temp; 
+temp = *a; 
+*a = *b; 
+*b = temp;
+}
+void main()
+{ 
+int x,y; 
+x=10; y=50; 
+printf("Before changing x = %d, y = %d\n, x,y);
+printf("After changing x = %d, y = %d", y,x);
+}<br>
+Before changing x = 10, y = 50
+After changing x = 50, y = 10<br>
+Before changing x = 10, y = 50
+After changing x = 10, y = 50<br>
+Before changing x = 50, y = 10
+After changing x = 50, y = 10<br>
+Before changing x = 50, y = 10
+After changing x = 10, y = 50<br>
+b<br>
+
+What is the result of the following program?
+{br}{code}cpp
+#include <stdio.h>
+void swap(int a, int b)
+{ 
+int temp; 
+temp = a; 
+a = b; 
+b = temp;
+}
+void main()
+{ 
+int x,y; 
+x=10; y=50; 
+printf("Before waiting for x = %d, y = %d\n, x,y); 
+swap(x, y); 
+printf("After calculating x = %d, y = %d", x,y);
+}<br>
+Before changing x = 10, y = 50
+After changing x = 50, y = 10<br>
+Before changing x = 10, y = 50
+After changing x = 10, y = 50<br>
+Before changing x = 50, y = 10
+After changing x = 50, y = 10<br>
+Before changing x = 50, y = 10
+After changing x = 10, y = 50<br>
+b<br>
+
+What is the result of the following program?
+{br}{code}cpp
+#include <stdio.h>
+void main()
+{
+{
+int a = 1;
+printf("a = %d", a);
+{
+int a = 2;
+printf("\na = %d", a); 
+} 
+printf("\na = %d", a); 
+} 
+{ 
+int a = 3; 
+printf("\na = %d", a); 
+}
+}<br>
+a = 1
+a = 2
+a = 1
+a = 3<br>
+a = 1
+a = 1
+a = 1
+a = 1
+a = 1<br>
+The program has an error due to multiple variables with the same name<br>
+a = 1
+a = 1
+a = 1
+a = 3<br>
+a<br>
+
+If a function is called n times, how many times will it exit?<br>
+n - 1<br>
+n + 1<br>
+n<br>
+n!<br>
+c<br>
+
+When using the recursive method, if the problem is easily solved in some special cases corresponding to special values ​​of the parameters, then we call it:<br>
+Special case<br>
+Degenerate case<br>
+General case<br>
+Special parameter<br>
+b<br>
+
+If the problem can be reduced to a problem of the same form but the parameter value is changed, and after a finite number of recursive steps leads to a degenerate case, then it is called:<br>
+Special case<br>
+Degenerate case<br>
+General case<br>
+Variable parameter<br>
+c<br>
+
+In the Tower of Hanoi problem, with the number of disks n, the problem can be solved in the minimum number of steps?<br>
+2^n<br>
+2^(n + 1)<br>
+n!<br>
+2^(n - 1)<br>
+d<br>

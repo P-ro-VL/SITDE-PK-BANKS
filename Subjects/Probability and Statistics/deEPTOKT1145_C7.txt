@@ -1,0 +1,153 @@
+What is a statistical hypothesis?<br>
+A proposition concerning a statistical problem about a population<br>
+A conclusion on the truth or falsity regarding population parameters based on empirical evidence<br>
+Assumed datasets from which to infer population parameters<br>
+Comparison of given parameters to draw conclusions about the population<br>
+A<br>
+
+What is parameter testing?<br>
+A proposition concerning a statistical problem about a population<br>
+A conclusion on the truth or falsity of a statistical hypothesis regarding population parameters based on empirical evidence<br>
+Assumed datasets from which to infer population parameters<br>
+Comparison of given parameters to draw conclusions about the population<br>
+B<br>
+
+Given the statement: The average income of workers is over 3000 USD/year. Which pair of hypotheses is appropriate for testing?<br>
+H0: μ = 3000; H1: μ >= 3000;<br>
+H0: μ = 3000; H1: μ > 3000;<br>
+H0: μ = 3000; H1: μ <= 3000;<br>
+H0: μ = 3000; H1: μ < 3000;<br>
+B<br>
+
+Given the statement: The rate of repeat customers is 50%. Which pair of hypotheses is appropriate for testing?<br>
+H0: p = 0.5; H1: p > 0.5<br>
+H0: p = 0.5; H1: p < 0.5<br>
+H0: p = 0.5; H1: p ≠ 0.5<br>
+H0: p = 0.5; H1: p >= 0.5<br>
+C<br>
+
+Given the statement: The fluctuation of gold prices in the market is less than 30 USD. Which pair of hypotheses is appropriate for testing?<br>
+H0: σ^2 = 30; H1: σ^2 < 30<br>
+H0: σ^2 = 30; H1: σ^2 > 30<br>
+H0: σ^2 = 90; H1: σ^2 > 90<br>
+H0: σ^2 = 90; H1: σ^2 < 90<br>
+D<br>
+
+Rejecting a true statement is?<br>
+Type I error<br>
+Type II error<br>
+Type III error<br>
+Type IV error<br>
+A<br>
+
+What is a type II error?<br>
+Rejecting a true statement<br>
+Accepting a true statement<br>
+Rejecting a false statement<br>
+Accepting a false statement<br>
+D<br>
+
+The probability of a type I error is<br>
+alpha<br>
+beta<br>
+phi<br>
+z<br>
+A<br>
+
+The probability of a type II error is<br>
+alpha<br>
+beta<br>
+phi<br>
+z<br>
+B<br>
+
+When testing a statistical hypothesis, (1 − β) is defined as:<br>
+Power of the test<br>
+Probability of type I error<br>
+Probability of type II error<br>
+Confidence level<br>
+A<br>
+
+The rejection region is<br>
+A region such that if H0 is true, the probability that G falls into that region is a sufficiently small level α<br>
+A region determined by the values of the standard normal distribution<br>
+Defined by the significance level α<br>
+Usually fixed with different value sets<br>
+A<br>
+
+Let X be the GPA score of students at the National Economics University. Assume X follows a normal distribution. To test whether the average GPA is greater than 3.0, which pair of hypotheses should be tested?<br>
+H0: ¯x = 3.0; H1: ¯x > 3.0<br>
+H0: μ = 3.0; H1: μ >= 3.0<br>
+H0: μ = 3.0; μ > 3.0<br>
+H0: μ = 3.0; H1: μ < 3.0<br>
+C<br>
+
+Given that the product size is a normally distributed random variable with variance of 36 mm^2. Randomly measuring 50 products results in a sample mean of 122mm. At a 5% significance level, when testing the hypothesis that the mean size is not less than 120mm, which of the following statements is correct?<br>
+H0: μ = 120; H1: μ > 120; incorrect conclusion<br>
+H0: μ = 120; H1: μ >= 120; correct conclusion<br>
+H0: μ = 120; H1: μ < 120; correct conclusion<br>
+H0: μ = 120; H1: μ < 120; incorrect conclusion<br>
+B<br>
+
+Randomly weighing 25 products shows an average weight of 25.32g and variance of 5.28 g^2. Assume the weight follows a normal distribution. At a 5% significance level, the most effective rejection region for testing the hypothesis that the average weight differs from 26.5g is?<br>
+(1.711; +∞)<br>
+(-2.56; +∞)<br>
+(-1.711; 1.711)<br>
+(2.56; +∞)<br>
+C<br>
+
+Randomly survey 100 students in Group 1 and find that the average conduct score is 68, the variance is 20; and 100 students in Group 2 with an average conduct score of 59, standard deviation is 8. At a significance level of 5%, test the hypothesis that the average conduct score of Group 1 students is higher than that of Group 2 students?<br>
+Tqs = 9.82; the conclusion is incorrect<br>
+Tqs = 9.82; the conclusion is correct<br>
+Tqs = 17.89; the conclusion is incorrect<br>
+Tqs = 17.89; the conclusion is correct<br>
+B<br>
+
+A university surveyed two groups of students and measured their weekly study hours. The sample size of each group is 60. Group 1 has a standard deviation of 2.4 hours, and Group 2 has a standard deviation of 3.1 hours. At a 5% significance level, determine whether the study time variation in Group 1 is significantly different from Group 2?<br>
+Fqs = 1.67<br>
+H0: σ₁² = σ₂²; H1: σ₁² ≠ σ₂²<br>
+Critical value = 1.79<br>
+Fail to reject H0<br>
+D<br>
+
+A company claims that the average time to respond to customer inquiries is under 15 minutes. To verify this, a sample of 36 inquiries is selected, with a sample mean of 14.2 minutes and a known population standard deviation of 2.4 minutes. At a 1% significance level, what can be concluded?<br>
+H0: μ = 15; H1: μ < 15<br>
+Zqs = -2.0<br>
+Critical value = -2.33<br>
+Reject H0<br>
+D<br>
+
+In testing a new drug, a pharmaceutical company wants to know whether the new drug has a higher cure rate than the current drug. A random sample of 200 patients taking the new drug showed a cure rate of 78%, while 220 patients using the current drug had a cure rate of 72%. At a 5% significance level, which statement is correct?<br>
+Zqs = 1.37<br>
+H0: p₁ = p₂; H1: p₁ > p₂<br>
+Critical value = 1.645<br>
+Fail to reject H0<br>
+D<br>
+
+A clothing store claims that 80% of customers are satisfied with their service. A random survey of 120 customers found that 90 were satisfied. At a significance level of 5%, is there sufficient evidence to reject the store’s claim?<br>
+H0: p = 0.8; H1: p < 0.8<br>
+Zqs = -2.19<br>
+Critical value = -1.645<br>
+Reject H0<br>
+D<br>
+
+A food manufacturer claims that the average weight of their canned products is exactly 500 grams. A random sample of 40 cans has an average weight of 495 grams with a standard deviation of 10 grams. At a 1% significance level, test the manufacturer's claim.<br>
+H0: μ = 500; H1: μ ≠ 500<br>
+Tqs = -3.16<br>
+Critical value = ±2.704<br>
+Reject H0<br>
+D<br>
+
+A market research team wants to compare the average daily sales of two stores. From a random sample of 30 days, Store A has an average daily sale of $1500 with a standard deviation of $200, and Store B has $1400 with a standard deviation of $220. Assume equal variances and a 5% significance level. Which is correct?<br>
+Tqs = 2.02<br>
+H0: μ₁ = μ₂; H1: μ₁ > μ₂<br>
+Critical value = 1.699<br>
+Reject H0<br>
+D<br>
+
+{img}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<br>
+Answer A<br>
+Answer B<br>
+Answer C<br>
+Answer D<br>
+D<br>

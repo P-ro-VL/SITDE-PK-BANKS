@@ -1,0 +1,420 @@
+Which of the following format specifiers in the "printf" function is used to print a string?<br>
+"%c"<br>
+"%f"<br>
+"%x"<br>
+"%s"<br>
+d<br>
+<br>
+What is the result of the following program segment?
+{br}{code}cpp
+#include <stdio.h>
+void main()
+{
+printf("%d",2<8 && 9>5);
+}<br>
+TRUE<br>
+FALSE<br>
+0<br>
+1<br>
+d<br>
+This question has no explanation.<br>
+Which of the following functions prints a character to the screen without needing a format specifier?<br>
+putchar()<br>
+pust()<br>
+printf()<br>
+All 3 options<br>
+a<br>
+This question has no explanation.<br>
+Which of the following format specifiers can be used in the "printf" function to print an unsigned integer?<br>
+%i<br>
+%d<br>
+%u<br>
+%unsigned<br>
+c<br>
+This question has no explanation.<br>
+Which of the following format specifiers is used in the "printf" function to print a character?<br>
+"%x"<br>
+"%f"<br>
+"%c"<br>
+"%s"<br>
+c<br>
+This question has no explanation.<br>
+Which statement prints the \n symbol to the screen?<br>
+printf("\n");<br>
+printf("n");<br>
+printf("\n");<br>
+printf("n");<br>
+a<br>
+This question has no explanation.<br>
+Among the following functions, which one is used to input a character from the keyboard immediately after typing, without waiting for Enter and without displaying it on the screen:<br>
+getche();<br>
+scanf();<br>
+getchar();<br>
+getch();<br>
+d<br>
+This question has no explanation.<br>
+Which of the following ways to input an integer N (from the keyboard) is correct?<br>
+scanf("%d", N);<br>
+scanf("%d", &amp;N);<br>
+scanf("%c", &amp;N);<br>
+scanf("%c", &amp;N);<br>
+b<br>
+This question has no explanation.<br>
+The general form of the printf() function is: printf("format string", expression list); In which, the format string will be:<br>
+A series of data display format codes<br>
+Pointer to a string<br>
+Informative strings<br>
+All 3 options<br>
+a<br>
+This question has no explanation.<br>
+Which of the following format specifiers in the "printf" function is used to print a floating-point number with single precision?<br>
+"%f"<br>
+"%u"<br>
+"%e"<br>
+"%o"<br>
+a<br>
+This question has no explanation.<br>
+The getch() function is in which library?<br>
+math.h<br>
+conio.h<br>
+string.h<br>
+stdio.h<br>
+b<br>
+This question has no explanation.<br>
+Which of the following format specifiers is used in the "printf" function to print a long int number?<br>
+"%d"<br>
+"%u"<br>
+"%f"<br>
+"%ld"<br>
+d<br>
+This question has no explanation.<br>
+Which function reads a character from the keyboard immediately after typing, without waiting for Enter. The characters are displayed on the screen:<br>
+getch();<br>
+scanf();<br>
+getche();<br>
+getchar();<br>
+c<br>
+This question has no explanation.<br>
+What is the result of the following program segment?
+{br}{code}cpp
+#include <stdio.h>
+void main()
+{
+int i, ch;
+for (i=0, ch='A'; i<3; i++, ch++)
+putchar(ch);
+}<br>
+abc<br>
+656667<br>
+ABC<br>
+All results are wrong<br>
+c<br>
+This question has no explanation.<br>
+Which of the following format specifiers in the "printf" function is used to print an integer?<br>
+"%d"<br>
+"%u"<br>
+"%p"<br>
+"%e"<br>
+a<br>
+This question has no explanation.<br>
+What is the result of the following program segment:
+{br}{code}cpp
+#include <stdio.h>
+void main()
+{
+int x;
+float y;
+y=x=7.5;
+printf("x=%d y=%f",x,y);
+}<br>
+Different result<br>
+x=7; y=7.000000<br>
+x=7; y=7.500000<br>
+x=5; y=7.500000<br>
+b<br>
+This question has no explanation.<br>
+Which of the following format specifiers in the "printf" function is used to print a floating-point number in exponential form?<br>
+"%e"<br>
+"%u"<br>
+"%f"<br>
+"%o"<br>
+a<br>
+This question has no explanation.<br>
+Which of the following format specifiers in the "printf" function is used to print an unsigned integer in base 8?<br>
+"%e"<br>
+"%u"<br>
+"%f"<br>
+"%o"<br>
+d<br>
+This question has no explanation.<br>
+Which of the following format specifiers in the "printf" function is used to print a floating-point number in the shorter of the two forms, fixed-point and floating-point?<br>
+"%f"<br>
+"%g"<br>
+"%e"<br>
+"%s"<br>
+b<br>
+This question has no explanation.<br>
+Which of the following format specifiers in the "printf" function is used to print a signed decimal integer?<br>
+"%c"<br>
+"%g"<br>
+"%s"<br>
+"%i"<br>
+d<br>
+This question has no explanation.<br>
+What is the meaning of the control character \a<br>
+BEL<br>
+Produces a bell sound<br>
+Carriage return<br>
+Form feed<br>
+b<br>
+This question has no explanation.<br>
+What is the meaning of the control character \b<br>
+Backspace<br>
+BS<br>
+New line<br>
+Move cursor one character to the left<br>
+a<br>
+This question has no explanation.<br>
+What is the meaning of the control character \f<br>
+Form feed<br>
+Cast to float<br>
+Clear buffer data<br>
+FF<br>
+a<br>
+This question has no explanation.<br>
+What is the meaning of the control character \r<br>
+CR<br>
+Carriage return<br>
+Form feed<br>
+Go back<br>
+b<br>
+This question has no explanation.<br>
+To print the percent symbol (%) to the screen, what should be entered in the printf() function?<br>
+/%<br>
+%<br>
+%%<br>
+%<br>
+c<br>
+This question has no explanation.<br>
+What is the displayed result of the following program segment:
+{br}{code}cpp
+#include <conio.h>
+#include <stdio.h>
+void main()
+{
+int a = 5;
+float x = 1.234;
+printf("\nHien thi so nguyen %d va so thuc %f",a,x);
+getch();
+}<br>
+Hien thi so nguyen 5 va so thuc 1.234000<br>
+5
+1.234<br>
+Hien thi so nguyen 5 va so thuc 1.234<br>
+5
+1.234000<br>
+a<br>
+This question has no explanation.<br>
+How will the following program be displayed?
+{br}{code}cpp
+#include <stdio.h>
+void main()
+{
+float b = 24.67892345;
+printf("%f",b);
+}<br>
+24.678923<br>
+24.6789235<br>
+24<br>
+24.000000<br>
+a<br>
+This question has no explanation.<br>
+What is the output of the following statement on the screen?{br}{code}cpp
+printf("[%-010d]\n",555);<br>
+[555]<br>
+[555        ]<br>
+[       555]<br>
+[5550000000]<br>
+b<br>
+This question has no explanation.<br>
+What is the output of the following statement on the screen?{br}{code}cpp
+printf("[%010.3f]\n",555.55);<br>
+[555.550000]<br>
+[0000555.55]<br>
+[000555.550]<br>
+[555.55    ]<br>
+c<br>
+This question has no explanation.<br>
+When scanf() encounters which of the following signs, it still considers it to be inputting data for a number?<br>
+Period (.)<br>
+Tab<br>
+Newline (Enter)<br>
+Space bar<br>
+a<br>
+This question has no explanation.<br>
+What is the displayed result of the following program segment (with input from the keyboard being 2 numbers 1223 and 3.142325):
+{br}{code}cpp
+#include <stdio.h>
+void main()
+{
+int n;
+float x;
+printf("Nhap vao so nguyen va so thuc: ");
+scanf("%2d%5f", &amp;n, &amp;x);
+printf("\nSo nguyen vua nhap: %d",n);
+printf("\nSo thuc vua nhap: %f",x);
+}<br>
+Nhap vao so nguyen va so thuc: 1223 3.142325
+So nguyen vua nhap: 12
+So thuc vua nhap: 23.000000<br>
+Nhap vao so nguyen va so thuc: 1223 3.142325
+So nguyen vua nhap: 1223
+So thuc vua nhap: 3.142325<br>
+Nhap vao so nguyen va so thuc: 1223 3.142325
+So nguyen vua nhap: 12
+So thuc vua nhap: 3.1423<br>
+Nhap vao so nguyen va so thuc: 1223 3.142325
+So nguyen vua nhap: 1223
+So thuc vua nhap: 3.1423<br>
+a<br>
+This question has no explanation.<br>
+What is the displayed result of the following program segment (with input from the keyboard being 2 numbers 1234 and 3.12345):
+{br}{code}cpp
+#include <stdio.h>
+void main()
+{
+int n;
+float x;
+printf("Nhap vao so nguyen va so thuc: ");
+scanf("%2d%5f", &amp;n, &amp;x);
+printf("\nSo nguyen vua nhap: %d",n);
+printf("\nSo thuc vua nhap: %f",x);
+}<br>
+Nhap vao so nguyen va so thuc: 1224 3.12345
+So nguyen vua nhap: 12
+So thuc vua nhap: 24.00000<br>
+Nhap vao so nguyen va so thuc: 1224 3.12345
+So nguyen vua nhap: 1224
+So thuc vua nhap: 3.12345<br>
+Nhap vao so nguyen va so thuc: 1224 3.12345
+So nguyen vua nhap: 12
+So thuc vua nhap: 3.1234<br>
+Nhap vao so nguyen va so thuc: 1224 3.12345
+So nguyen vua nhap: 1224
+So thuc vua nhap: 3.1234<br>
+a<br>
+This question has no explanation.<br>
+The precision specifier in printf() is NOT used with which data type?<br>
+float<br>
+double<br>
+int<br>
+string<br>
+c<br>
+This question has no explanation.<br>
+What is the output of the following statement on the screen?{br}{code}cpp
+printf("[%-d]",555);<br>
+[555]<br>
+[   555] (3 spaces)<br>
+[555   ] (3 spaces)<br>
+[-555]<br>
+a<br>
+This question has no explanation.<br>
+What is the output of the following statement on the screen?{br}{code}cpp
+printf([%-d],555);<br>
+[-555]<br>
+[555]<br>
+[555   ]<br>
+Program reports error<br>
+d<br>
+This question has no explanation.<br>
+Which is the correct way to use the '-' (left-justification) specifier in the printf() function?<br>
+printf("-%5d", 5);<br>
+printf("%-10d", a);<br>
+printf("d-", n);<br>
+printf(%-d, 11);<br>
+b<br>
+This question has no explanation.<br>
+What is the meaning of the '-' specifier in the printf() function?<br>
+Takes the opposite value of the numeric data element passed into the function<br>
+Right-justifies the data element passed into the function<br>
+Left-justifies the data element passed into the function<br>
+Decrements the value of the data element passed into the function<br>
+c<br>
+This question has no explanation.<br>
+What is the output of the following statement on the screen?{br}{code}cpp
+printf("[%0d]",555);<br>
+[   555] (3 spaces)<br>
+[555   ] (3 spaces)<br>
+[000555]<br>
+[555]<br>
+d<br>
+This question has no explanation.<br>
+What is the output of the following statement on the screen?{br}{code}cpp
+printf("[%010d]",555);<br>
+[0000000555]<br>
+[       555] (7 spaces)<br>
+[5550000000]<br>
+[555       ] (7 spaces)<br>
+a<br>
+This question has no explanation.<br>
+What is the output of the following statement on the screen?{br}{code}cpp
+printf("[%-010d]",555);<br>
+[0000000555]<br>
+[       555] (7 spaces)<br>
+[5550000000]<br>
+[555       ] (7 spaces)<br>
+d<br>
+Here, in the printf() function, there is a left-justification specifier ("-"). If '0' is added, it can only be added to the right of 555, but doing so would change the value of 555 to 5550000000. Therefore, the "0" specifier in this function only adds spaces to the output field, not zeros to that field.<br>
+What is the output of the following statement on the screen?{br}{code}cpp
+printf("[%4s]", "Good day my dear friend.");<br>
+Good<br>
+Good day my dear friend.<br>
+[Good]<br>
+[Good day my dear friend.]<br>
+d<br>
+This question has no explanation.<br>
+What is the output of the following statement on the screen?{br}{code}cpp
+printf("[%30s]", "Good day my dear friend.");<br>
+[       Good day my dear friend.]<br>
+[Good day my dear friend.       ]<br>
+Program reports error<br>
+[Good                                ] (26 spaces)<br>
+a<br>
+This question has no explanation.<br>
+What is the output of the following statement on the screen?{br}{code}cpp
+printf("[%30.4s]", "Good day my dear friend.");<br>
+[       Good day my dear friend.]<br>
+[Good day my dear friend.       ]<br>
+Program reports error<br>
+[                              Good] (26 spaces)<br>
+d<br>
+This question has no explanation.<br>
+What is the output of the following statement on the screen?{br}{code}cpp
+printf("[%-30.4s]", "Good day my dear friend.");<br>
+[       Good day my dear friend.]<br>
+[Good day my dear friend.       ]<br>
+Program reports error<br>
+[Good                                ] (26 spaces)<br>
+d<br>
+This question has no explanation.<br>
+The argument of a putchar() function is NOT:<br>
+A single character constant<br>
+A format specifier<br>
+A string<br>
+A character variable<br>
+c<br>
+This question has no explanation.<br>
+Choose the INCORRECT statement when talking about the scanf() function:<br>
+The format string must be enclosed in double quotes ("").<br>
+Variables (variable addresses) must be separated by semicolons (;).<br>
+There must be as many format specifiers as there are variables.<br>
+The order of format specifiers must match the order of variables.<br>
+b<br>
+This question has no explanation.<br>
+Choose the most correct statement about the function of the gets() function:<br>
+The gets function is used to input a character<br>
+The gets function is used to input a string<br>
+The gets function is used to input a string that includes spaces<br>
+The gets function is used to input an array of floating-point numbers<br>
+c<br>
+This question has no explanation.<br>

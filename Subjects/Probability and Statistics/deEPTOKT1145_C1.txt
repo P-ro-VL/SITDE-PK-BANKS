@@ -1,0 +1,251 @@
+What is descriptive statistics?<br>
+Organizing, summarizing, and presenting data in the most reasonable and convenient ways<br>
+Predicting, testing, and analyzing data to draw general conclusions<br>
+Connecting inference with the results of data testing and analysis<br>
+Generalizing, analyzing, and testing input data to draw conclusions<br>
+A<br>
+Based on the definition<br>
+What is inferential statistics?<br>
+Organizing, summarizing, and presenting data in the most reasonable and convenient ways<br>
+Predicting, testing, and analyzing data to draw general conclusions<br>
+Connecting inference with the results of data testing and analysis<br>
+Generalizing, analyzing, and testing input data to draw conclusions<br>
+B<br>
+Based on the definition<br>
+What is a population?<br>
+All elements of interest<br>
+A subset drawn from the population<br>
+Measurement units<br>
+All input data<br>
+A<br>
+Based on the definition<br>
+Which of the following statements about a population is correct?<br>
+The size of a population is always finite<br>
+Values calculated from a population are called statistics<br>
+The symbol for population size is N<br>
+There are two types of populations: nominal and ordinal<br>
+C<br>
+• Population size can be finite or infinite
+• Values calculated from a population are called parameters
+• Population size is denoted as N<br>
+What is a sample?<br>
+All elements of interest<br>
+A subset drawn from the population<br>
+Measurement units<br>
+All input data<br>
+B<br>
+Based on the definition<br>
+Which of the following statements about a sample is correct?<br>
+Values calculated from a sample are called parameters<br>
+There are two types of samples: quantitative and qualitative<br>
+Sample size is denoted as N<br>
+Sample size is always finite<br>
+D<br>
+• Sample size is always finite
+• Values calculated from a sample are statistics
+• Sample size is denoted as n<br>
+How many types of variables are there? What are they?<br>
+There are 2 types: Continuous and discrete variables<br>
+There are 2 types: Qualitative and quantitative variables<br>
+There are 2 types: Nominal and ordinal variables<br>
+There are 2 types: Numeric and ranking variables<br>
+B<br>
+There are 2 types of variables: Qualitative (including nominal and ordinal) and Quantitative (discrete and continuous)<br>
+Which of the following statements about qualitative variables is incorrect?<br>
+Includes 2 types: nominal and ordinal<br>
+Has no measurement units<br>
+Used to define quantitative variables<br>
+A special type is the binary variable<br>
+C<br>
+Only quantitative variables are used to define quantitative variables, not vice versa<br>
+Which of the following statements about quantitative variables is incorrect?<br>
+Has measurement units<br>
+Includes 2 types: discrete and continuous<br>
+Can be used to define qualitative variables<br>
+Includes a special type: binary variable<br>
+D<br>
+Binary variables belong to qualitative variables<br>
+Information about civil servants includes: (1) hometown, (2) age, (3) highest education level. What type are the variables in order?<br>
+Nominal – ordinal – quantitative<br>
+Nominal – quantitative – ordinal<br>
+Ordinal – quantitative – quantitative<br>
+Quantitative – nominal – ordinal<br>
+B<br>
+Hometown is a nominal variable; age is a quantitative variable; education level is an ordinal variable<br>
+Given a survey with the following information: Full name, Class, Age, Gender, Has foreign language certificate. How many of the above are qualitative variables?<br>
+1<br>
+2<br>
+3<br>
+4<br>
+D<br>
+All are qualitative variables except age (which is a quantitative variable)<br>
+Given a sample with elements {1, 6, 9, 0, 2, 2, 7, 7, 1, 4}. Find the sample mean?<br>
+3.9<br>
+3<br>
+2<br>
+This sample has no mean<br>
+A<br>
+Based on the formula for calculating the sample mean<br>
+What is the median?<br>
+The average value<br>
+The central value<br>
+The central value when data is sorted from smallest to largest<br>
+The most frequent value<br>
+C<br>
+Definition of median<br>
+Given a dataset with values 5, 2, 7, 4, 2. What is the median?<br>
+7<br>
+10<br>
+4<br>
+2<br>
+C<br>
+The dataset sorted: 2, 2, 4, 5, 7 → Median is 4<br>
+Given the dataset: 0, 16, 3, 8, 12, 14. What is the median?<br>
+5.5<br>
+26.5<br>
+10<br>
+No median<br>
+C<br>
+Sorted data: 0, 3, 8, 12, 14, 16 → Median = (8+12)/2 = 10<br>
+What is the mode?<br>
+The average value<br>
+The central value<br>
+The central value when data is sorted from smallest to largest<br>
+The most frequent value<br>
+D<br>
+Definition of mode<br>
+A store’s data on number of credit card payments by customers: 5, 2, 7, 4, 2, 1. What is the mode?<br>
+5.5<br>
+3.5<br>
+3<br>
+2<br>
+D<br>
+Value 2 appears twice and is the most frequent → mode = 2<br>
+Observation of fruit yield of a new hybrid plant, with number of fruits per tree: 4, 5, 1, 0, 6, 7, 9, 13. What is the mode?<br>
+3<br>
+5.6<br>
+5.5<br>
+No mode<br>
+D<br>
+No value appears at least twice → no mode<br>
+In 2022, income data of 10 overseas laborers in Korea: 12, 10, 5, 8, 7, 6, 14, 20, 9, 7. What is the range of income?<br>
+15<br>
+20.4<br>
+4.5<br>
+46<br>
+A<br>
+Range = Max value - Min value<br>
+A sample of 10 NEU students’ height (cm): {162, 172, 183, 165, 165, 170, 168, 185, 150, 163}. What is the average height?<br>
+167.5<br>
+168.3<br>
+141.8<br>
+165<br>
+B<br>
+Sum all values and divide by 10<br>
+Nam buys a basic textbook set for 1.2 million VND. Average price per book is 200,000 VND. How many books did he buy?<br>
+3<br>
+4<br>
+5<br>
+6<br>
+D<br>
+Divide total cost by average price per book<br>
+A teddy bear shop records weekly sales: 4, 4, 1, 2, 0, 3, 5. What is the sum of squares of teddy bears sold?<br>
+361<br>
+7.3<br>
+19.42<br>
+71<br>
+C<br>
+Using sum of squares formula: SS = Σ(xi - mean)^2<br>
+Stock price over 7 days (USD/share): 3, 4, 3.5, 3.25, 2.5, 5, 4. What is the price variance?<br>
+0.66 USD²/share<br>
+0.54 USD²/share<br>
+0.54 USD/share<br>
+3.6 USD/share<br>
+A<br>
+Sample variance problem<br>
+Cooperative M’s yield over 6 months: 4.5, 7.2, 6.3, 8.6, 10.7, 9.8 (kg/ha). Which statement is incorrect?<br>
+Average yield is 7.85<br>
+Last 3 months are more stable than first 3 months<br>
+Standard deviation = 5.307 kg²/ha<br>
+This dataset has no mode<br>
+C<br>
+5.307 kg²/ha is the variance, not standard deviation<br>
+Samsung launches Galaxy Fold Z5. 10 random products were tested for number of folds before failing: 1200, 3400, 2750, 2400, 1200, 5000, 3250, 3250, 4000, 3400. Which statement is incorrect?<br>
+Standard deviation = 1171 times<br>
+Median = 3250<br>
+Average = 2985 folds<br>
+Mode = 1200<br>
+D<br>
+Mode includes two values: 1200 and 3250<br>
+Two spring pendulums have movement counts: A = {12, 27, 36}; B = {13, 27, 38}. Which statement is correct?<br>
+Coefficient of variation for A is 50%<br>
+Pendulum A oscillates more than B<br>
+Both have an average of 26 movements<br>
+Median of both is 27<br>
+D<br>
+• A is wrong: coefficient of variation = 48%
+• B is wrong: Pendulum B oscillates more
+• C is wrong: A has average 25 movements<br>
+Population data: 10, 12, 15, 10, 12, 13, 18, 19, 14, 15. What is the variance?<br>
+8.36<br>
+9.28<br>
+2.89<br>
+3.04<br>
+A<br>
+Population variance: σ² = SS/N<br>
+Given a standardized value z, what are its mean and variance?<br>
+0 and 1<br>
+1 and 0<br>
+Mean and standard deviation<br>
+No mean and variance<br>
+A<br>
+Definition of standardized value<br>
+A student scores 8 in Macroeconomics. Class mean = 7, standard deviation = 0.5. What is the standardized score?<br>
+2<br>
+8<br>
+1<br>
+0.5<br>
+A<br>
+z = (xi - Mean) / Standard deviation<br>
+A student scores 9, class mean = 7.5, variance = 2.25. What is the standardized score?<br>
+2<br>
+8<br>
+1<br>
+0.5<br>
+C<br>
+z = (xi - Mean) / Standard deviation; SD = √variance<br>
+Exam scores in Statistics: Male = {2, 5, 8, 7, 9}; Female = {4, 5, 7, 8, 10}. What is the covariance?<br>
+2.42<br>
+6.05<br>
+4.84<br>
+5.45<br>
+B<br>
+Use sample covariance formula<br>
+Econometrics exam by gender: Male = {1, 2, 5, 8, 9.5, 4}; Female = {3, 0, 2, 7, 9, 10}. Which statement is incorrect?<br>
+Sample has positive correlation<br>
+Average score is 5<br>
+Sample variance = 12.5<br>
+Mode of entire sample is 5<br>
+D<br>
+Mode of entire sample is 2<br>
+Hoang is a student at University X. Knowing that, each semester Hoang has to register for credits with the data given in the table. On average, how much does Hoang have to pay per credit?{br}{img}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<br>
+450 thousand dong<br>
+388 thousand dong<br>
+451 thousand dong<br>
+794 thousand dong<br>
+B<br>
+This is a weighted average problem. Take the price of a credit and multiply it by the number of credits for that period, then divide it by the total number of credits from period 1 to period 5.<br>
+In an investigation of the amount of rice produced in the first and second quarters of 2023, the following table was obtained. What is the average amount of rice produced per month?{br}{img}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<br>
+4.1<br>
+3.5<br>
+3.8<br>
+3<br>
+C<br>
+The average value of rice produced is equal to: (3 + 3.5 + 3.5 + 4.25+ 3.75 + 5)/6=3.8<br>
+Hanoi Stock Exchange records information about a transaction code for 04 consecutive weeks. What is the average value of a transaction?{br}{img}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<br>
+4.8<br>
+12.6<br>
+13<br>
+5<br>
+B<br>
+This is a weighted average problem. Therefore, the required average value is equal to (3*10+10*12+5*14+2*16)/(3+10+5+2)=12.6<br>
